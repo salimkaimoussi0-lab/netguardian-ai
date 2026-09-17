@@ -1,0 +1,6 @@
+telemetry/data/
+telemetry/pcap/
+*.pcap
+__pycache__/
+*.pyc
+*.pyo
