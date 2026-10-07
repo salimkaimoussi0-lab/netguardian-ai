@@ -1,0 +1,869 @@
+import { useEffect, useRef, useState } from "react";
+import * as maplibregl from "maplibre-gl";
+import "maplibre-gl/dist/maplibre-gl.css";
+
+const PARIS_CENTER = [2.3522, 48.8566];
+
+function safe(value, fallback = "Non disponible") {
+  if (value === null || value === undefined || value === "") {
+    return fallback;
+  }
+
+  return String(value);
+}
+
+function arrayText(value) {
+  if (Array.isArray(value)) {
+    return value.length
+      ? value.join(", ")
+      : "Non disponible";
+  }
+
+  if (typeof value === "string") {
+    try {
+      const parsed = JSON.parse(value);
+
+      if (Array.isArray(parsed)) {
+        return parsed.length
+          ? parsed.join(", ")
+          : "Non disponible";
+      }
+    } catch {
+      return value;
+    }
+
+    return value;
+  }
+
+  return "Non disponible";
+}
+
+function App() {
+  const mapContainer = useRef(null);
+  const mapRef = useRef(null);
+
+  const wifiMarkersRef = useRef([]);
+  const anfrMarkersRef = useRef([]);
+
+  const [wifiCount, setWifiCount] = useState(0);
+  const [anfrCount, setAnfrCount] = useState(0);
+
+  const [wifiVisible, setWifiVisible] = useState(true);
+  const [anfrVisible, setAnfrVisible] = useState(true);
+
+  /*
+   * all
+   * wifi
+   * anfr-legacy
+   * anfr-5g
+   */
+  const [objectFilter, setObjectFilter] = useState("all");
+
+  const [objectsOpen, setObjectsOpen] = useState(false);
+
+  const [status, setStatus] = useState("Chargement...");
+
+  useEffect(() => {
+    if (mapRef.current) {
+      return;
+    }
+
+    const map = new maplibregl.Map({
+      container: mapContainer.current,
+
+      center: PARIS_CENTER,
+
+      zoom: 11,
+
+      style: {
+        version: 8,
+
+        sources: {
+          osm: {
+            type: "raster",
+
+            tiles: [
+              "https://tile.openstreetmap.org/{z}/{x}/{y}.png"
+            ],
+
+            tileSize: 256,
+
+            attribution: "© OpenStreetMap contributors"
+          }
+        },
+
+        layers: [
+          {
+            id: "osm",
+            type: "raster",
+            source: "osm"
+          }
+        ]
+      }
+    });
+
+    mapRef.current = map;
+
+    map.addControl(
+      new maplibregl.NavigationControl(),
+      "top-right"
+    );
+
+    map.addControl(
+      new maplibregl.ScaleControl({
+        maxWidth: 120,
+        unit: "metric"
+      }),
+      "bottom-right"
+    );
+
+    map.on("load", async () => {
+      try {
+        const bounds =
+          new maplibregl.LngLatBounds();
+
+        /*
+         * ==========================================
+         * PARIS WI-FI
+         * ==========================================
+         */
+
+        const wifiResponse = await fetch(
+          "/data/paris_wifi_sites.geojson"
+        );
+
+        if (!wifiResponse.ok) {
+          throw new Error(
+            `Wi-Fi HTTP ${wifiResponse.status}`
+          );
+        }
+
+        const wifiData =
+          await wifiResponse.json();
+
+        const wifiFeatures =
+          Array.isArray(wifiData.features)
+            ? wifiData.features
+            : [];
+
+        let validWifi = 0;
+
+        for (const feature of wifiFeatures) {
+          if (
+            feature.geometry?.type !== "Point"
+          ) {
+            continue;
+          }
+
+          const coordinates =
+            feature.geometry.coordinates;
+
+          if (
+            !Array.isArray(coordinates) ||
+            coordinates.length < 2
+          ) {
+            continue;
+          }
+
+          const longitude =
+            Number(coordinates[0]);
+
+          const latitude =
+            Number(coordinates[1]);
+
+          if (
+            !Number.isFinite(longitude) ||
+            !Number.isFinite(latitude)
+          ) {
+            continue;
+          }
+
+          const p =
+            feature.properties ?? {};
+
+          const markerElement =
+            document.createElement("div");
+
+          markerElement.className =
+            "network-marker wifi-marker";
+
+          const popup =
+            new maplibregl.Popup({
+              offset: 18
+            }).setHTML(`
+              <div class="network-popup">
+
+                <div class="popup-badge wifi-badge">
+                  PARIS WI-FI
+                </div>
+
+                <h3>
+                  ${safe(p.name, "Site Wi-Fi")}
+                </h3>
+
+                <div class="popup-row">
+                  <strong>Adresse</strong>
+                  <span>
+                    ${safe(p.address)}
+                    ${safe(p.postal_code, "")}
+                  </span>
+                </div>
+
+                <div class="popup-row">
+                  <strong>État</strong>
+                  <span>
+                    ${safe(p.status)}
+                  </span>
+                </div>
+
+                <div class="popup-row">
+                  <strong>Bornes</strong>
+                  <span>
+                    ${safe(p.wifi_access_points)}
+                  </span>
+                </div>
+
+                <div class="popup-row">
+                  <strong>Source</strong>
+                  <span>
+                    ${safe(p.source, "Paris Open Data")}
+                  </span>
+                </div>
+
+                <div class="popup-row">
+                  <strong>Coordonnées</strong>
+                  <span>
+                    ${latitude.toFixed(5)},
+                    ${longitude.toFixed(5)}
+                  </span>
+                </div>
+
+              </div>
+            `);
+
+          const marker =
+            new maplibregl.Marker({
+              element: markerElement,
+              anchor: "center"
+            })
+              .setLngLat([
+                longitude,
+                latitude
+              ])
+              .setPopup(popup)
+              .addTo(map);
+
+          wifiMarkersRef.current.push({
+            marker,
+            element: markerElement,
+            category: "wifi"
+          });
+
+          bounds.extend([
+            longitude,
+            latitude
+          ]);
+
+          validWifi += 1;
+        }
+
+        setWifiCount(validWifi);
+
+        /*
+         * ==========================================
+         * ANFR
+         * ==========================================
+         */
+
+        const anfrResponse = await fetch(
+          "/data/anfr_paris_sites.geojson"
+        );
+
+        if (!anfrResponse.ok) {
+          throw new Error(
+            `ANFR HTTP ${anfrResponse.status}`
+          );
+        }
+
+        const anfrData =
+          await anfrResponse.json();
+
+        const anfrFeatures =
+          Array.isArray(anfrData.features)
+            ? anfrData.features
+            : [];
+
+        let validAnfr = 0;
+
+        for (const feature of anfrFeatures) {
+          if (
+            feature.geometry?.type !== "Point"
+          ) {
+            continue;
+          }
+
+          const coordinates =
+            feature.geometry.coordinates;
+
+          if (
+            !Array.isArray(coordinates) ||
+            coordinates.length < 2
+          ) {
+            continue;
+          }
+
+          const longitude =
+            Number(coordinates[0]);
+
+          const latitude =
+            Number(coordinates[1]);
+
+          if (
+            !Number.isFinite(longitude) ||
+            !Number.isFinite(latitude)
+          ) {
+            continue;
+          }
+
+          const p =
+            feature.properties ?? {};
+
+          const generations =
+            arrayText(p.generations);
+
+          const operators =
+            arrayText(p.operators);
+
+          const systems =
+            arrayText(p.systems);
+
+          const statuses =
+            arrayText(p.statuses);
+
+          const has5G =
+            generations
+              .toUpperCase()
+              .includes("5G");
+
+          const category =
+            has5G
+              ? "anfr-5g"
+              : "anfr-legacy";
+
+          const markerElement =
+            document.createElement("div");
+
+          markerElement.className =
+            "network-marker anfr-marker";
+
+          if (has5G) {
+            markerElement.classList.add(
+              "anfr-5g"
+            );
+          }
+
+          const popup =
+            new maplibregl.Popup({
+              offset: 18,
+              maxWidth: "380px"
+            }).setHTML(`
+              <div class="network-popup">
+
+                <div class="popup-badge anfr-badge">
+                  ${has5G ? "ANFR 5G SITE" : "ANFR MOBILE SITE"}
+                </div>
+
+                <h3>
+                  Support ${safe(p.sup_id)}
+                </h3>
+
+                <div class="popup-row">
+                  <strong>Opérateur(s)</strong>
+                  <span>
+                    ${operators}
+                  </span>
+                </div>
+
+                <div class="popup-row">
+                  <strong>Technologies</strong>
+                  <span>
+                    ${generations}
+                  </span>
+                </div>
+
+                <div class="popup-row">
+                  <strong>Systèmes</strong>
+                  <span>
+                    ${systems}
+                  </span>
+                </div>
+
+                <div class="popup-row">
+                  <strong>Statut</strong>
+                  <span>
+                    ${statuses}
+                  </span>
+                </div>
+
+                <div class="popup-row">
+                  <strong>Systèmes radio</strong>
+                  <span>
+                    ${safe(p.system_count)}
+                  </span>
+                </div>
+
+                <div class="popup-row">
+                  <strong>Hauteur support</strong>
+                  <span>
+                    ${safe(p.support_height_m)} m
+                  </span>
+                </div>
+
+                <div class="popup-row">
+                  <strong>Adresse</strong>
+                  <span>
+                    ${safe(p.address)}
+                    ${safe(p.postal_code, "")}
+                  </span>
+                </div>
+
+                <div class="popup-row">
+                  <strong>Source</strong>
+                  <span>
+                    ${safe(p.source, "ANFR Open Data")}
+                  </span>
+                </div>
+
+                <div class="popup-row">
+                  <strong>Coordonnées</strong>
+                  <span>
+                    ${latitude.toFixed(5)},
+                    ${longitude.toFixed(5)}
+                  </span>
+                </div>
+
+              </div>
+            `);
+
+          const marker =
+            new maplibregl.Marker({
+              element: markerElement,
+              anchor: "center"
+            })
+              .setLngLat([
+                longitude,
+                latitude
+              ])
+              .setPopup(popup)
+              .addTo(map);
+
+          anfrMarkersRef.current.push({
+            marker,
+            element: markerElement,
+            category
+          });
+
+          bounds.extend([
+            longitude,
+            latitude
+          ]);
+
+          validAnfr += 1;
+        }
+
+        setAnfrCount(validAnfr);
+
+        if (!bounds.isEmpty()) {
+          map.fitBounds(
+            bounds,
+            {
+              padding: 60,
+              maxZoom: 12.5,
+              duration: 1200
+            }
+          );
+        }
+
+        setStatus("Réseau Paris chargé");
+
+        console.log(
+          "[NetGuardian] Wi-Fi:",
+          validWifi
+        );
+
+        console.log(
+          "[NetGuardian] ANFR:",
+          validAnfr
+        );
+
+      } catch (error) {
+        console.error(
+          "[NetGuardian]",
+          error
+        );
+
+        setStatus(
+          "Erreur de chargement"
+        );
+      }
+    });
+
+    return () => {
+      map.remove();
+      mapRef.current = null;
+    };
+  }, []);
+
+  /*
+   * ==========================================
+   * FILTRAGE DES OBJETS RÉSEAU
+   * ==========================================
+   */
+
+  useEffect(() => {
+    for (
+      const item
+      of wifiMarkersRef.current
+    ) {
+      const filterAllows =
+        objectFilter === "all" ||
+        objectFilter === "wifi";
+
+      item.element.style.display =
+        wifiVisible && filterAllows
+          ? "block"
+          : "none";
+    }
+
+    for (
+      const item
+      of anfrMarkersRef.current
+    ) {
+      const filterAllows =
+        objectFilter === "all" ||
+        objectFilter === item.category;
+
+      item.element.style.display =
+        anfrVisible && filterAllows
+          ? "block"
+          : "none";
+    }
+  }, [
+    objectFilter,
+    wifiVisible,
+    anfrVisible,
+    wifiCount,
+    anfrCount
+  ]);
+
+  /*
+   * Quand on choisit un Network Object,
+   * on active automatiquement sa couche
+   * et on masque les autres.
+   */
+
+  function selectObjectFilter(filter) {
+    setObjectFilter(filter);
+
+    if (filter === "all") {
+      setWifiVisible(true);
+      setAnfrVisible(true);
+    }
+
+    if (filter === "wifi") {
+      setWifiVisible(true);
+      setAnfrVisible(false);
+    }
+
+    if (
+      filter === "anfr-legacy" ||
+      filter === "anfr-5g"
+    ) {
+      setWifiVisible(false);
+      setAnfrVisible(true);
+    }
+
+    setObjectsOpen(false);
+  }
+
+  function getFilterLabel() {
+    switch (objectFilter) {
+      case "wifi":
+        return "Paris Wi-Fi";
+
+      case "anfr-legacy":
+        return "ANFR 2G/3G/4G";
+
+      case "anfr-5g":
+        return "ANFR 5G";
+
+      default:
+        return "Tous";
+    }
+  }
+
+  return (
+    <div className="app">
+
+      <header className="topbar">
+
+        <div>
+          <div className="eyebrow">
+            NETWORK INTELLIGENCE
+          </div>
+
+          <h1>
+            NetGuardian Paris
+          </h1>
+        </div>
+
+        <div className="system-status">
+
+          <span className="green-dot" />
+
+          <div>
+            <strong>
+              {status}
+            </strong>
+
+            <small>
+              {wifiCount + anfrCount}
+              {" "}
+              network nodes
+            </small>
+          </div>
+
+        </div>
+
+      </header>
+
+      <main className="workspace">
+
+        <aside className="sidebar">
+
+          <h2>
+            Network Layers
+          </h2>
+
+          <button
+            className={
+              wifiVisible
+                ? "layer layer-button active"
+                : "layer layer-button"
+            }
+            onClick={() =>
+              setWifiVisible(
+                !wifiVisible
+              )
+            }
+          >
+            <span>
+              📶
+            </span>
+
+            <div>
+              <strong>
+                Paris Wi-Fi
+              </strong>
+
+              <small>
+                {wifiCount} sites
+              </small>
+            </div>
+
+            <span className="layer-state">
+              {wifiVisible ? "ON" : "OFF"}
+            </span>
+          </button>
+
+          <button
+            className={
+              anfrVisible
+                ? "layer layer-button anfr-active"
+                : "layer layer-button"
+            }
+            onClick={() =>
+              setAnfrVisible(
+                !anfrVisible
+              )
+            }
+          >
+            <span>
+              📡
+            </span>
+
+            <div>
+              <strong>
+                Antennes ANFR
+              </strong>
+
+              <small>
+                {anfrCount} sites
+              </small>
+            </div>
+
+            <span className="layer-state">
+              {anfrVisible ? "ON" : "OFF"}
+            </span>
+          </button>
+
+          <div className="layer future">
+            📱 ARCEP Mobile
+          </div>
+
+          <div className="layer future">
+            🌐 RIPE Atlas
+          </div>
+
+          <div className="layer future">
+            🏢 PeeringDB
+          </div>
+
+          <div className="layer future">
+            🔀 France-IX
+          </div>
+
+          <div className="layer future">
+            🧭 BGP / RIPEstat
+          </div>
+
+          {/*
+            ==========================================
+            NETWORK OBJECT FILTER
+            ==========================================
+          */}
+
+          <div className="network-object-section">
+
+            <button
+              className="network-object-header"
+              onClick={() =>
+                setObjectsOpen(
+                  !objectsOpen
+                )
+              }
+            >
+              <span>
+                NETWORK OBJECTS
+              </span>
+
+              <span className="network-object-current">
+                {getFilterLabel()}
+              </span>
+
+              <span className="network-object-arrow">
+                {objectsOpen ? "▲" : "▼"}
+              </span>
+            </button>
+
+            {objectsOpen && (
+              <div className="network-object-menu">
+
+                <button
+                  className={
+                    objectFilter === "all"
+                      ? "object-option selected"
+                      : "object-option"
+                  }
+                  onClick={() =>
+                    selectObjectFilter("all")
+                  }
+                >
+                  <span className="object-icon all-symbol" />
+
+                  <span>
+                    Tous les objets
+                  </span>
+                </button>
+
+                <button
+                  className={
+                    objectFilter === "wifi"
+                      ? "object-option selected"
+                      : "object-option"
+                  }
+                  onClick={() =>
+                    selectObjectFilter("wifi")
+                  }
+                >
+                  <span className="object-icon wifi-symbol" />
+
+                  <span>
+                    Paris Wi-Fi
+                  </span>
+                </button>
+
+                <button
+                  className={
+                    objectFilter === "anfr-legacy"
+                      ? "object-option selected"
+                      : "object-option"
+                  }
+                  onClick={() =>
+                    selectObjectFilter(
+                      "anfr-legacy"
+                    )
+                  }
+                >
+                  <span className="object-icon anfr-symbol" />
+
+                  <span>
+                    ANFR 2G / 3G / 4G
+                  </span>
+                </button>
+
+                <button
+                  className={
+                    objectFilter === "anfr-5g"
+                      ? "object-option selected"
+                      : "object-option"
+                  }
+                  onClick={() =>
+                    selectObjectFilter(
+                      "anfr-5g"
+                    )
+                  }
+                >
+                  <span className="object-icon anfr5-symbol" />
+
+                  <span>
+                    ANFR 5G
+                  </span>
+                </button>
+
+              </div>
+            )}
+
+          </div>
+
+          <div className="legend">
+
+            <h3>
+              Data provenance
+            </h3>
+
+            <p>🟢 Public declaration</p>
+            <p>🔵 Observed</p>
+            <p>🟠 Inferred</p>
+            <p>🟣 Simulated</p>
+
+          </div>
+
+        </aside>
+
+        <section className="map-area">
+
+          <div
+            ref={mapContainer}
+            className="map"
+          />
+
+        </section>
+
+      </main>
+
+    </div>
+  );
+}
+
+export default App;

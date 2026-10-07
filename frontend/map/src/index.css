@@ -641,3 +641,128 @@ body {
 .anfr5-symbol {
   background: #a855f7;
 }
+
+/* ==========================================================
+   RIPE Atlas
+   ========================================================== */
+
+.ripe-marker {
+  width: 15px;
+  height: 15px;
+
+  background: #06b6d4;
+
+  border: 3px solid #ffffff;
+
+  border-radius: 50%;
+
+  box-shadow:
+    0 0 0 2px rgba(6, 182, 212, 0.25),
+    0 3px 10px rgba(0, 0, 0, 0.5);
+}
+
+.ripe-marker.ripe-anchor {
+  width: 21px;
+  height: 21px;
+
+  background: #0891b2;
+
+  border: 4px solid #ffffff;
+
+  box-shadow:
+    0 0 0 4px rgba(6, 182, 212, 0.28),
+    0 4px 14px rgba(0, 0, 0, 0.55);
+}
+
+.layer-button.ripe-active {
+  background:
+    rgba(6, 182, 212, 0.15);
+
+  border:
+    1px solid rgba(34, 211, 238, 0.38);
+}
+
+.ripe-symbol {
+  background: #06b6d4;
+}
+
+.ripe-anchor-symbol {
+  background: #0891b2;
+
+  box-shadow:
+    0 0 0 2px rgba(6, 182, 212, 0.25);
+}
+
+.ripe-badge {
+  background: #cffafe;
+  color: #155e75;
+}
+
+/* ==========================================================
+   PeeringDB Facilities
+   ========================================================== */
+
+.peeringdb-marker {
+  min-width: 14px;
+  min-height: 14px;
+
+  background: #f59e0b;
+
+  border: 3px solid #ffffff;
+
+  border-radius: 5px;
+
+  cursor: pointer;
+
+  box-shadow:
+    0 0 0 2px rgba(245, 158, 11, 0.25),
+    0 4px 12px rgba(0, 0, 0, 0.50);
+
+  transition:
+    transform 0.15s ease,
+    box-shadow 0.15s ease;
+}
+
+.peeringdb-marker:hover {
+  transform: scale(1.35);
+
+  z-index: 10000;
+}
+
+.peeringdb-marker.peeringdb-has-ix {
+  background: #f97316;
+
+  box-shadow:
+    0 0 0 4px rgba(249, 115, 22, 0.25),
+    0 4px 14px rgba(0, 0, 0, 0.55);
+}
+
+.layer-button.peeringdb-active {
+  background:
+    rgba(245, 158, 11, 0.14);
+
+  border:
+    1px solid rgba(245, 158, 11, 0.40);
+}
+
+.peeringdb-symbol {
+  background: #f59e0b;
+}
+
+.legend-square {
+  display: inline-block;
+
+  width: 11px;
+  height: 11px;
+
+  margin-right: 7px;
+
+  border-radius: 2px;
+
+  vertical-align: middle;
+}
+
+.peeringdb-badge {
+  background: #fef3c7;
+  color: #92400e;
+}

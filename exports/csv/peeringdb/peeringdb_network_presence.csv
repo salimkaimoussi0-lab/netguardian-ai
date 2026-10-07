@@ -1,0 +1,1522 @@
+﻿id,name,city,country,net_id,fac_id,local_asn,created,updated,status
+137,Telehouse - Paris 2 (Voltaire - Léon Frot),Paris,FR,31,53,6762,2010-07-29T00:00:00Z,2016-03-14T21:55:44Z,ok
+176,Telehouse - Paris 2 (Voltaire - Léon Frot),Paris,FR,5,53,3303,2010-07-29T00:00:00Z,2016-03-14T21:08:29Z,ok
+182,Telehouse - Paris 2 (Voltaire - Léon Frot),Paris,FR,116,53,8426,2010-07-29T00:00:00Z,2016-03-14T20:49:56Z,ok
+220,Telehouse - Paris 2 (Voltaire - Léon Frot),Paris,FR,120,53,12322,2010-07-29T00:00:00Z,2016-03-14T21:24:37Z,ok
+345,Telehouse - Paris 2 (Voltaire - Léon Frot),Paris,FR,213,53,30972,2010-07-29T00:00:00Z,2016-03-14T20:44:17Z,ok
+347,Telehouse - Paris 2 (Voltaire - Léon Frot),Paris,FR,200,53,30889,2010-07-29T00:00:00Z,2016-03-14T20:44:17Z,ok
+537,Telehouse - Paris 2 (Voltaire - Léon Frot),Paris,FR,316,53,8839,2010-07-29T00:00:00Z,2016-03-14T20:24:06Z,ok
+538,Telehouse - Paris 2 (Voltaire - Léon Frot),Paris,FR,320,53,8554,2010-07-29T00:00:00Z,2016-03-14T20:24:06Z,ok
+754,Telehouse - Paris 2 (Voltaire - Léon Frot),Paris,FR,29,53,5410,2010-07-29T00:00:00Z,2016-03-14T21:39:48Z,ok
+886,Telehouse - Paris 2 (Voltaire - Léon Frot),Paris,FR,499,53,34019,2010-07-29T00:00:00Z,2016-03-14T20:51:05Z,ok
+1036,Telehouse - Paris 2 (Voltaire - Léon Frot),Paris,FR,450,53,15557,2010-07-29T00:00:00Z,2016-03-14T21:36:04Z,ok
+1378,Telehouse - Paris 2 (Voltaire - Léon Frot),Paris,FR,731,53,30781,2010-07-29T00:00:00Z,2016-03-14T21:40:24Z,ok
+1445,Telehouse - Paris 2 (Voltaire - Léon Frot),Paris,FR,433,53,15169,2010-07-29T00:00:00Z,2016-03-14T21:56:46Z,ok
+1455,Telehouse - Paris 2 (Voltaire - Léon Frot),Paris,FR,780,53,29215,2010-07-29T00:00:00Z,2016-03-14T20:37:36Z,ok
+1578,Telehouse - Paris 2 (Voltaire - Léon Frot),Paris,FR,267,53,174,2010-07-29T00:00:00Z,2017-12-06T20:48:08Z,ok
+1725,Telehouse - Paris 2 (Voltaire - Léon Frot),Paris,FR,437,53,6453,2010-07-29T00:00:00Z,2016-03-14T21:56:37Z,ok
+1894,Telehouse - Paris 2 (Voltaire - Léon Frot),Paris,FR,942,53,250,2010-07-29T00:00:00Z,2016-03-14T21:33:56Z,ok
+1903,Telehouse - Paris 2 (Voltaire - Léon Frot),Paris,FR,971,53,20917,2010-07-29T00:00:00Z,2016-03-11T07:23:00Z,ok
+2106,Telehouse - Paris 2 (Voltaire - Léon Frot),Paris,FR,4,53,22822,2010-07-29T00:00:00Z,2016-03-14T21:37:16Z,ok
+2199,Telehouse - Paris 2 (Voltaire - Léon Frot),Paris,FR,1080,53,41157,2010-07-29T00:00:00Z,2016-03-14T20:39:26Z,ok
+2223,Telehouse - Paris 2 (Voltaire - Léon Frot),Paris,FR,1086,53,41690,2010-07-29T00:00:00Z,2016-03-14T21:41:38Z,ok
+2435,Telehouse - Paris 2 (Voltaire - Léon Frot),Paris,FR,196,53,3320,2010-07-29T00:00:00Z,2016-03-14T21:17:05Z,ok
+2625,Telehouse - Paris 2 (Voltaire - Léon Frot),Paris,FR,833,53,35217,2010-07-29T00:00:00Z,2016-03-14T21:50:52Z,ok
+2666,Telehouse - Paris 2 (Voltaire - Léon Frot),Paris,FR,1255,53,8399,2010-07-29T00:00:00Z,2016-03-14T21:02:17Z,ok
+2694,Telehouse - Paris 2 (Voltaire - Léon Frot),Paris,FR,1264,53,16276,2010-07-29T00:00:00Z,2016-03-14T21:42:50Z,ok
+2926,Telehouse - Paris 2 (Voltaire - Léon Frot),Paris,FR,1329,53,35070,2010-07-29T00:00:00Z,2016-03-14T21:45:20Z,ok
+3009,Telehouse - Paris 2 (Voltaire - Léon Frot),Paris,FR,346,53,6830,2010-07-29T00:00:00Z,2016-03-14T20:44:39Z,ok
+3406,Telehouse - Paris 2 (Voltaire - Léon Frot),Paris,FR,1479,53,8218,2010-07-29T00:00:00Z,2016-03-14T20:52:33Z,ok
+3481,Telehouse - Paris 2 (Voltaire - Léon Frot),Paris,FR,1492,53,35393,2010-07-29T00:00:00Z,2016-03-14T20:55:56Z,ok
+3532,Telehouse - Paris 2 (Voltaire - Léon Frot),Paris,FR,187,53,8565,2010-07-29T00:00:00Z,2016-03-14T20:58:41Z,ok
+3644,Telehouse - Paris 2 (Voltaire - Léon Frot),Paris,FR,495,53,5511,2010-07-29T00:00:00Z,2016-03-14T20:53:24Z,ok
+3900,Telehouse - Paris 2 (Voltaire - Léon Frot),Paris,FR,190,53,29608,2010-07-29T00:00:00Z,2016-03-14T20:45:39Z,ok
+3937,Telehouse - Paris 2 (Voltaire - Léon Frot),Paris,FR,1739,53,35283,2010-07-29T00:00:00Z,2018-06-13T16:16:13Z,ok
+3939,Telehouse - Paris 2 (Voltaire - Léon Frot),Paris,FR,124,53,9002,2010-07-29T00:00:00Z,2016-03-14T21:20:20Z,ok
+4923,Telehouse - Paris 2 (Voltaire - Léon Frot),Paris,FR,541,53,6461,2010-07-29T00:00:00Z,2016-03-14T21:03:45Z,ok
+4940,Telehouse - Paris 2 (Voltaire - Léon Frot),Paris,FR,1955,53,6661,2010-07-29T00:00:00Z,2016-03-14T21:28:38Z,ok
+5024,Telehouse - Paris 2 (Voltaire - Léon Frot),Paris,FR,2225,53,31555,2010-07-29T00:00:00Z,2016-03-14T21:22:17Z,ok
+5039,Telehouse - Paris 2 (Voltaire - Léon Frot),Paris,FR,2221,53,39605,2010-07-29T00:00:00Z,2016-03-11T07:22:35Z,ok
+5443,Telehouse - Paris 2 (Voltaire - Léon Frot),Paris,FR,261,53,1273,2010-07-29T00:00:00Z,2016-03-14T20:40:23Z,ok
+5452,Telehouse - Paris 2 (Voltaire - Léon Frot),Paris,FR,1523,53,8784,2010-07-29T00:00:00Z,2016-03-14T21:15:04Z,ok
+5456,Telehouse - Paris 2 (Voltaire - Léon Frot),Paris,FR,2425,53,34659,2010-07-29T00:00:00Z,2016-03-14T21:15:04Z,ok
+5504,Telehouse - Paris 2 (Voltaire - Léon Frot),Paris,FR,1964,53,34177,2010-07-29T00:00:00Z,2016-03-14T20:55:59Z,ok
+5543,Telehouse - Paris 2 (Voltaire - Léon Frot),Paris,FR,2485,53,48920,2010-07-29T00:00:00Z,2016-03-14T21:48:38Z,ok
+5685,Telehouse - Paris 2 (Voltaire - Léon Frot),Paris,FR,2534,53,39180,2010-07-29T00:00:00Z,2016-03-14T20:45:43Z,ok
+5966,Telehouse - Paris 2 (Voltaire - Léon Frot),Paris,FR,2702,53,29075,2010-07-29T00:00:00Z,2016-03-14T20:27:12Z,ok
+6001,Telehouse - Paris 2 (Voltaire - Léon Frot),Paris,FR,2614,53,48072,2010-07-29T00:00:00Z,2016-03-14T21:44:01Z,ok
+6069,Telehouse - Paris 2 (Voltaire - Léon Frot),Paris,FR,2216,53,35625,2010-07-29T00:00:00Z,2016-03-14T21:17:39Z,ok
+6197,Telehouse - Paris 2 (Voltaire - Léon Frot),Paris,FR,104,53,15412,2010-07-29T00:00:00Z,2016-03-14T20:43:27Z,ok
+6287,Telehouse - Paris 2 (Voltaire - Léon Frot),Paris,FR,733,53,9036,2010-07-29T00:00:00Z,2016-03-14T21:02:15Z,ok
+6325,Telehouse - Paris 2 (Voltaire - Léon Frot),Paris,FR,2927,53,43531,2010-07-29T00:00:00Z,2016-03-15T09:24:03Z,ok
+6443,Telehouse - Paris 2 (Voltaire - Léon Frot),Paris,FR,1598,53,42456,2010-07-29T00:00:00Z,2016-03-14T21:30:44Z,ok
+6496,Telehouse - Paris 2 (Voltaire - Léon Frot),Paris,FR,2915,53,50087,2010-07-29T00:00:00Z,2016-03-14T21:38:37Z,ok
+6538,Telehouse - Paris 2 (Voltaire - Léon Frot),Paris,FR,1250,53,8487,2010-07-29T00:00:00Z,2016-03-14T21:19:36Z,ok
+6605,Telehouse - Paris 2 (Voltaire - Léon Frot),Paris,FR,3016,53,43646,2010-07-29T00:00:00Z,2016-03-14T21:40:18Z,ok
+6784,Telehouse - Paris 2 (Voltaire - Léon Frot),Paris,FR,3178,53,44583,2010-07-29T00:00:00Z,2016-03-14T21:16:30Z,ok
+6793,Telehouse - Paris 2 (Voltaire - Léon Frot),Paris,FR,2514,53,41653,2010-07-29T00:00:00Z,2016-03-14T21:54:23Z,ok
+6833,Telehouse - Paris 2 (Voltaire - Léon Frot),Paris,FR,3017,53,16347,2010-07-29T00:00:00Z,2016-03-14T21:58:45Z,ok
+6856,Telehouse - Paris 2 (Voltaire - Léon Frot),Paris,FR,456,53,21409,2010-07-29T00:00:00Z,2016-03-14T20:42:38Z,ok
+6965,Telehouse - Paris 2 (Voltaire - Léon Frot),Paris,FR,3080,53,44788,2010-07-29T00:00:00Z,2022-11-04T11:14:11Z,ok
+6991,Telehouse - Paris 2 (Voltaire - Léon Frot),Paris,FR,2033,53,34224,2010-08-04T00:00:00Z,2016-03-14T21:34:57Z,ok
+6995,Telehouse - Paris 2 (Voltaire - Léon Frot),Paris,FR,1712,53,44141,2010-08-04T00:00:00Z,2016-03-14T21:34:56Z,ok
+7037,Telehouse - Paris 2 (Voltaire - Léon Frot),Paris,FR,3362,53,33835,2010-08-16T00:00:00Z,2016-03-14T20:45:40Z,ok
+7206,Telehouse - Paris 2 (Voltaire - Léon Frot),Paris,FR,3403,53,44902,2010-09-13T00:00:00Z,2016-03-11T07:21:58Z,ok
+7303,Telehouse - Paris 2 (Voltaire - Léon Frot),Paris,FR,3468,53,20900,2010-09-30T00:00:00Z,2016-03-14T21:29:00Z,ok
+7545,Telehouse - Paris 2 (Voltaire - Léon Frot),Paris,FR,3570,53,8304,2010-11-19T00:00:00Z,2016-03-14T20:36:16Z,ok
+7613,Telehouse - Paris 2 (Voltaire - Léon Frot),Paris,FR,3513,53,50858,2010-11-30T00:00:00Z,2016-03-14T21:32:46Z,ok
+7716,Telehouse - Paris 2 (Voltaire - Léon Frot),Paris,FR,2977,53,16080,2011-01-04T00:00:00Z,2016-03-14T21:25:01Z,ok
+7980,Telehouse - Paris 2 (Voltaire - Léon Frot),Paris,FR,3846,53,39583,2011-03-08T00:00:00Z,2016-03-14T21:06:55Z,ok
+8128,Telehouse - Paris 2 (Voltaire - Léon Frot),Paris,FR,291,53,6939,2011-03-29T00:00:00Z,2016-03-14T20:26:42Z,ok
+8211,Telehouse - Paris 2 (Voltaire - Léon Frot),Paris,FR,163,53,13030,2011-04-19T00:00:00Z,2016-03-14T21:12:10Z,ok
+8416,Telehouse - Paris 2 (Voltaire - Léon Frot),Paris,FR,3992,53,34863,2011-06-15T00:00:00Z,2016-03-14T20:23:59Z,ok
+8497,Telehouse - Paris 2 (Voltaire - Léon Frot),Paris,FR,4114,53,31564,2011-07-14T00:00:00Z,2016-03-11T07:22:39Z,ok
+8538,Telehouse - Paris 2 (Voltaire - Léon Frot),Paris,FR,4129,53,29152,2011-07-20T00:00:00Z,2016-03-14T20:42:47Z,ok
+8545,Telehouse - Paris 2 (Voltaire - Léon Frot),Paris,FR,1742,53,35184,2011-07-21T00:00:00Z,2016-03-14T20:31:10Z,ok
+8656,Telehouse - Paris 2 (Voltaire - Léon Frot),Paris,FR,2654,53,49594,2011-08-23T00:00:00Z,2016-03-14T21:54:55Z,ok
+8693,Telehouse - Paris 2 (Voltaire - Léon Frot),Paris,FR,10555,53,45758,2011-08-30T00:00:00Z,2026-02-13T06:53:28Z,ok
+8754,Telehouse - Paris 2 (Voltaire - Léon Frot),Paris,FR,4190,53,57119,2011-09-16T00:00:00Z,2016-03-11T07:21:36Z,ok
+8783,Telehouse - Paris 2 (Voltaire - Léon Frot),Paris,FR,4109,53,52075,2011-09-23T00:00:00Z,2016-03-14T20:52:58Z,ok
+8788,Telehouse - Paris 2 (Voltaire - Léon Frot),Paris,FR,1764,53,44444,2011-09-24T00:00:00Z,2016-03-14T20:52:56Z,ok
+8835,Telehouse - Paris 2 (Voltaire - Léon Frot),Paris,FR,4288,53,29286,2011-10-03T00:00:00Z,2016-03-14T21:15:11Z,ok
+8974,Telehouse - Paris 2 (Voltaire - Léon Frot),Paris,FR,4359,53,197133,2011-11-10T00:00:00Z,2016-03-14T21:19:25Z,ok
+9466,Telehouse - Paris 2 (Voltaire - Léon Frot),Paris,FR,3822,53,6738,2012-02-15T00:00:00Z,2016-03-15T09:24:14Z,ok
+9558,Telehouse - Paris 2 (Voltaire - Léon Frot),Paris,FR,1599,53,33891,2012-02-29T00:00:00Z,2019-07-05T14:26:44Z,ok
+9965,Telehouse - Paris 2 (Voltaire - Léon Frot),Paris,FR,4697,53,198335,2012-06-02T00:00:00Z,2016-03-14T20:27:56Z,ok
+9994,Telehouse - Paris 2 (Voltaire - Léon Frot),Paris,FR,3552,53,29513,2012-06-07T00:00:00Z,2016-03-14T21:58:14Z,ok
+10018,Telehouse - Paris 2 (Voltaire - Léon Frot),Paris,FR,4672,53,198423,2012-06-12T00:00:00Z,2016-03-14T20:36:42Z,ok
+10021,Telehouse - Paris 2 (Voltaire - Léon Frot),Paris,FR,3235,53,31167,2012-06-13T00:00:00Z,2016-03-14T20:25:18Z,ok
+10192,Telehouse - Paris 2 (Voltaire - Léon Frot),Paris,FR,1451,53,3491,2012-07-31T00:00:00Z,2016-03-14T20:41:38Z,ok
+10296,Telehouse - Paris 2 (Voltaire - Léon Frot),Paris,FR,4958,53,198507,2012-08-23T00:00:00Z,2016-03-14T21:21:43Z,ok
+10554,Telehouse - Paris 2 (Voltaire - Léon Frot),Paris,FR,10,53,1299,2012-10-01T00:00:00Z,2016-03-14T21:43:55Z,ok
+10659,Telehouse - Paris 2 (Voltaire - Léon Frot),Paris,FR,345,53,24904,2012-10-25T00:00:00Z,2016-03-14T20:45:03Z,ok
+10695,Telehouse - Paris 2 (Voltaire - Léon Frot),Paris,FR,5065,53,50796,2012-11-02T00:00:00Z,2016-03-14T21:39:26Z,ok
+10711,Telehouse - Paris 2 (Voltaire - Léon Frot),Paris,FR,3787,53,16128,2012-11-07T00:00:00Z,2016-03-14T20:45:26Z,ok
+10885,Telehouse - Paris 2 (Voltaire - Léon Frot),Paris,FR,4632,53,6758,2012-12-08T00:00:00Z,2016-03-14T21:15:15Z,ok
+10943,Telehouse - Paris 2 (Voltaire - Léon Frot),Paris,FR,702,53,12850,2012-12-22T00:00:00Z,2016-03-14T21:37:18Z,ok
+10987,Telehouse - Paris 2 (Voltaire - Léon Frot),Paris,FR,3241,53,42473,2013-01-12T00:00:00Z,2016-03-14T20:52:09Z,ok
+11407,Telehouse - Paris 2 (Voltaire - Léon Frot),Paris,FR,3582,53,196689,2013-03-20T00:00:00Z,2016-03-14T20:45:23Z,ok
+11471,Telehouse - Paris 2 (Voltaire - Léon Frot),Paris,FR,5379,53,44494,2013-03-27T00:00:00Z,2016-03-14T21:07:41Z,ok
+11532,Telehouse - Paris 2 (Voltaire - Léon Frot),Paris,FR,5426,53,199660,2013-04-06T00:00:00Z,2016-03-14T21:36:36Z,ok
+11562,Telehouse - Paris 2 (Voltaire - Léon Frot),Paris,FR,821,53,20562,2013-04-11T00:00:00Z,2016-03-14T21:03:10Z,ok
+11594,Telehouse - Paris 2 (Voltaire - Léon Frot),Paris,FR,5305,53,15401,2014-10-16T00:00:00Z,2016-03-14T21:12:49Z,ok
+11740,Telehouse - Paris 2 (Voltaire - Léon Frot),Paris,FR,5529,53,43142,2013-05-20T00:00:00Z,2016-03-14T21:21:44Z,ok
+11776,Telehouse - Paris 2 (Voltaire - Léon Frot),Paris,FR,5539,53,57463,2013-05-23T00:00:00Z,2016-03-14T21:06:08Z,ok
+11871,Telehouse - Paris 2 (Voltaire - Léon Frot),Paris,FR,3544,53,42929,2013-06-12T00:00:00Z,2016-03-14T20:43:40Z,ok
+12048,Telehouse - Paris 2 (Voltaire - Léon Frot),Paris,FR,694,53,8075,2013-07-12T00:00:00Z,2016-03-14T21:12:00Z,ok
+12073,Telehouse - Paris 2 (Voltaire - Léon Frot),Paris,FR,5010,53,29467,2013-07-14T00:00:00Z,2016-03-14T21:21:25Z,ok
+12193,Telehouse - Paris 2 (Voltaire - Léon Frot),Paris,FR,3957,53,51269,2013-07-26T00:00:00Z,2016-03-14T20:55:46Z,ok
+12315,Telehouse - Paris 2 (Voltaire - Léon Frot),Paris,FR,5262,53,198545,2013-08-12T00:00:00Z,2016-03-14T21:53:57Z,ok
+12758,Telehouse - Paris 2 (Voltaire - Léon Frot),Paris,FR,5784,53,57809,2013-10-06T00:00:00Z,2017-07-26T10:05:27Z,ok
+12825,Telehouse - Paris 2 (Voltaire - Léon Frot),Paris,FR,6108,53,35600,2013-10-16T00:00:00Z,2016-03-14T20:25:14Z,ok
+13007,Telehouse - Paris 2 (Voltaire - Léon Frot),Paris,FR,5849,53,12876,2013-11-12T00:00:00Z,2016-03-14T21:14:28Z,ok
+13043,Telehouse - Paris 2 (Voltaire - Léon Frot),Paris,FR,737,53,20766,2013-11-20T00:00:00Z,2016-03-14T20:25:25Z,ok
+13508,Telehouse - Paris 2 (Voltaire - Léon Frot),Paris,FR,3627,53,14537,2014-02-25T00:00:00Z,2016-03-14T21:20:46Z,ok
+13888,Telehouse - Paris 2 (Voltaire - Léon Frot),Paris,FR,2160,53,31712,2014-04-08T00:00:00Z,2016-03-14T20:47:11Z,ok
+13944,Telehouse - Paris 2 (Voltaire - Léon Frot),Paris,FR,3500,53,33930,2014-04-16T00:00:00Z,2016-03-11T07:23:02Z,ok
+13957,Telehouse - Paris 2 (Voltaire - Léon Frot),Paris,FR,979,53,32934,2014-04-16T00:00:00Z,2016-03-14T20:58:34Z,ok
+14270,Telehouse - Paris 2 (Voltaire - Léon Frot),Paris,FR,457,53,2906,2014-05-27T00:00:00Z,2016-03-14T20:24:59Z,ok
+14318,Telehouse - Paris 2 (Voltaire - Léon Frot),Paris,FR,3669,53,44334,2014-05-30T00:00:00Z,2016-03-14T20:46:47Z,ok
+14342,Telehouse - Paris 2 (Voltaire - Léon Frot),Paris,FR,2405,53,8309,2014-05-30T00:00:00Z,2016-03-14T20:33:48Z,ok
+14518,Telehouse - Paris 2 (Voltaire - Léon Frot),Paris,FR,505,53,13193,2014-07-02T00:00:00Z,2016-03-14T21:22:36Z,ok
+14677,Telehouse - Paris 2 (Voltaire - Léon Frot),Paris,FR,7000,53,48504,2014-07-20T00:00:00Z,2022-09-03T11:15:28Z,ok
+14786,Telehouse - Paris 2 (Voltaire - Léon Frot),Paris,FR,7040,53,197922,2014-08-02T00:00:00Z,2016-03-14T21:03:30Z,ok
+14792,Telehouse - Paris 2 (Voltaire - Léon Frot),Paris,FR,6702,53,199396,2014-08-02T00:00:00Z,2016-03-14T20:25:09Z,ok
+14798,Telehouse - Paris 2 (Voltaire - Léon Frot),Paris,FR,4753,53,2609,2014-08-02T00:00:00Z,2016-03-14T20:25:09Z,ok
+14852,Telehouse - Paris 2 (Voltaire - Léon Frot),Paris,FR,6316,53,197551,2014-08-12T00:00:00Z,2016-03-14T20:58:04Z,ok
+15019,Telehouse - Paris 2 (Voltaire - Léon Frot),Paris,FR,1045,53,2914,2014-09-06T00:00:00Z,2016-03-14T20:51:54Z,ok
+15286,Telehouse - Paris 2 (Voltaire - Léon Frot),Paris,FR,4790,53,37090,2014-10-16T00:00:00Z,2016-03-14T20:49:18Z,ok
+16039,Telehouse - Paris 2 (Voltaire - Léon Frot),Paris,FR,7479,53,62000,2015-01-15T00:00:00Z,2016-03-14T21:07:35Z,ok
+16345,Telehouse - Paris 2 (Voltaire - Léon Frot),Paris,FR,7875,53,21351,2015-02-22T00:00:00Z,2016-03-14T21:22:45Z,ok
+16600,Telehouse - Paris 2 (Voltaire - Léon Frot),Paris,FR,1452,53,25091,2015-03-25T00:00:00Z,2016-03-14T20:42:01Z,ok
+16778,Telehouse - Paris 2 (Voltaire - Léon Frot),Paris,FR,5047,53,37054,2015-04-08T00:00:00Z,2016-03-14T21:49:37Z,ok
+17246,Telehouse - Paris 2 (Voltaire - Léon Frot),Paris,FR,8268,53,42845,2015-06-06T00:00:00Z,2016-03-14T20:29:16Z,ok
+17427,Telehouse - Paris 2 (Voltaire - Léon Frot),Paris,FR,5078,53,43858,2015-06-25T00:00:00Z,2016-03-11T07:22:59Z,ok
+17512,Telehouse - Paris 2 (Voltaire - Léon Frot),Paris,FR,8412,53,8310,2015-07-12T00:00:00Z,2016-03-14T21:55:11Z,ok
+17686,Telehouse - Paris 2 (Voltaire - Léon Frot),Paris,FR,2,53,20940,2015-07-28T00:00:00Z,2016-03-14T20:23:59Z,ok
+17750,Telehouse - Paris 2 (Voltaire - Léon Frot),Paris,FR,8561,53,200780,2015-08-12T00:00:00Z,2016-03-14T21:12:47Z,ok
+18102,Telehouse - Paris 2 (Voltaire - Léon Frot),Paris,FR,8809,53,60032,2015-09-17T00:00:00Z,2016-03-14T20:58:20Z,ok
+18242,Telehouse - Paris 2 (Voltaire - Léon Frot),Paris,FR,8860,53,48252,2015-10-01T00:00:00Z,2016-03-14T20:35:06Z,ok
+18306,Telehouse - Paris 2 (Voltaire - Léon Frot),Paris,FR,8661,53,20565,2015-10-06T00:00:00Z,2016-03-11T07:21:33Z,ok
+18737,Telehouse - Paris 2 (Voltaire - Léon Frot),Paris,FR,9120,53,57141,2015-11-26T00:00:00Z,2016-03-14T21:17:35Z,ok
+18764,Telehouse - Paris 2 (Voltaire - Léon Frot),Paris,FR,9153,53,44000,2015-12-01T00:00:00Z,2016-03-14T20:52:32Z,ok
+18840,Telehouse - Paris 2 (Voltaire - Léon Frot),Paris,FR,4338,53,58453,2015-12-08T00:00:00Z,2016-03-14T21:22:43Z,ok
+19525,Telehouse - Paris 2 (Voltaire - Léon Frot),Paris,FR,9689,53,201080,2016-03-01T00:00:00Z,2016-03-14T21:15:25Z,ok
+19865,Telehouse - Paris 2 (Voltaire - Léon Frot),Paris,FR,7642,53,201292,2016-03-31T09:38:59Z,2016-03-31T09:38:59Z,ok
+19910,Telehouse - Paris 2 (Voltaire - Léon Frot),Paris,FR,9949,53,47866,2016-04-05T17:37:57Z,2016-04-05T17:37:57Z,ok
+20025,Telehouse - Paris 2 (Voltaire - Léon Frot),Paris,FR,3130,53,2200,2016-04-12T14:41:25Z,2016-04-12T14:41:25Z,ok
+20769,Telehouse - Paris 2 (Voltaire - Léon Frot),Paris,FR,10569,53,35280,2016-06-18T03:43:29Z,2016-06-18T03:43:29Z,ok
+21152,Telehouse - Paris 2 (Voltaire - Léon Frot),Paris,FR,150,53,6774,2016-08-02T07:31:25Z,2016-08-02T07:31:25Z,ok
+21491,Telehouse - Paris 2 (Voltaire - Léon Frot),Paris,FR,2277,53,47872,2016-09-01T18:53:07Z,2016-09-01T18:53:07Z,ok
+21769,Telehouse - Paris 2 (Voltaire - Léon Frot),Paris,FR,1496,53,34141,2016-09-22T23:35:44Z,2016-09-22T23:35:44Z,ok
+22073,Telehouse - Paris 2 (Voltaire - Léon Frot),Paris,FR,10542,53,203547,2016-10-17T14:18:01Z,2016-10-17T14:18:02Z,ok
+22154,Telehouse - Paris 2 (Voltaire - Léon Frot),Paris,FR,6615,53,29606,2016-10-21T08:50:46Z,2016-10-21T08:50:46Z,ok
+22247,Telehouse - Paris 2 (Voltaire - Léon Frot),Paris,FR,6572,53,60171,2016-10-27T11:45:53Z,2016-10-27T11:45:53Z,ok
+22755,Telehouse - Paris 2 (Voltaire - Léon Frot),Paris,FR,12006,53,50624,2016-12-13T06:10:49Z,2016-12-13T06:12:46Z,ok
+22957,Telehouse - Paris 2 (Voltaire - Léon Frot),Paris,FR,10626,53,36924,2017-01-02T17:25:33Z,2017-01-02T17:25:33Z,ok
+23110,Telehouse - Paris 2 (Voltaire - Léon Frot),Paris,FR,12293,53,199483,2017-01-17T16:02:27Z,2017-01-17T16:02:27Z,ok
+23168,Telehouse - Paris 2 (Voltaire - Léon Frot),Paris,FR,4688,53,25160,2017-01-19T14:35:19Z,2017-01-19T14:35:19Z,ok
+24057,Telehouse - Paris 2 (Voltaire - Léon Frot),Paris,FR,12980,53,202140,2017-03-28T19:39:17Z,2017-03-28T19:39:17Z,ok
+24258,Telehouse - Paris 2 (Voltaire - Léon Frot),Paris,FR,13153,53,198551,2017-04-17T15:22:42Z,2017-04-17T15:22:42Z,ok
+24302,Telehouse - Paris 2 (Voltaire - Léon Frot),Paris,FR,1418,53,16509,2017-04-19T13:07:00Z,2017-04-19T13:07:01Z,ok
+24610,Telehouse - Paris 2 (Voltaire - Léon Frot),Paris,FR,4345,53,197981,2017-05-12T13:58:36Z,2017-05-12T13:58:36Z,ok
+24733,Telehouse - Paris 2 (Voltaire - Léon Frot),Paris,FR,3347,53,33353,2017-05-24T15:37:35Z,2017-05-24T15:37:35Z,ok
+25502,Telehouse - Paris 2 (Voltaire - Léon Frot),Paris,FR,3924,53,42,2017-07-27T15:58:29Z,2019-07-16T02:38:19Z,ok
+25973,Telehouse - Paris 2 (Voltaire - Léon Frot),Paris,FR,10729,53,37613,2017-09-07T10:14:14Z,2017-09-07T10:14:14Z,ok
+26088,Telehouse - Paris 2 (Voltaire - Léon Frot),Paris,FR,13894,53,197033,2017-09-15T14:27:40Z,2017-09-15T14:27:40Z,ok
+26113,Telehouse - Paris 2 (Voltaire - Léon Frot),Paris,FR,10839,53,60068,2017-09-20T10:43:36Z,2020-02-21T08:57:35Z,ok
+26265,Telehouse - Paris 2 (Voltaire - Léon Frot),Paris,FR,6691,53,50903,2017-09-29T11:48:00Z,2017-09-29T11:48:00Z,ok
+26579,Telehouse - Paris 2 (Voltaire - Léon Frot),Paris,FR,3554,53,714,2017-10-19T13:28:36Z,2017-10-19T13:28:36Z,ok
+26937,Telehouse - Paris 2 (Voltaire - Léon Frot),Paris,FR,15172,53,36884,2017-11-15T15:39:45Z,2017-11-15T15:39:45Z,ok
+26970,Telehouse - Paris 2 (Voltaire - Léon Frot),Paris,FR,14826,53,51326,2017-11-17T16:11:41Z,2017-11-17T16:11:41Z,ok
+27209,Telehouse - Paris 2 (Voltaire - Léon Frot),Paris,FR,6852,53,44356,2017-12-04T09:08:05Z,2017-12-04T09:08:05Z,ok
+27414,Telehouse - Paris 2 (Voltaire - Léon Frot),Paris,FR,11811,53,328107,2017-12-18T17:38:28Z,2017-12-18T17:38:28Z,ok
+27607,Telehouse - Paris 2 (Voltaire - Léon Frot),Paris,FR,13317,53,327814,2018-01-09T13:55:29Z,2018-01-09T13:55:30Z,ok
+27675,Telehouse - Paris 2 (Voltaire - Léon Frot),Paris,FR,1100,53,14340,2018-01-12T13:58:41Z,2018-01-12T13:58:41Z,ok
+27712,Telehouse - Paris 2 (Voltaire - Léon Frot),Paris,FR,15688,53,44297,2018-01-15T08:59:59Z,2018-01-15T08:59:59Z,ok
+27727,Telehouse - Paris 2 (Voltaire - Léon Frot),Paris,FR,1366,53,20969,2018-01-16T09:59:45Z,2018-01-16T09:59:45Z,ok
+27777,Telehouse - Paris 2 (Voltaire - Léon Frot),Paris,FR,91,53,8220,2018-01-18T13:45:50Z,2018-01-18T13:45:50Z,ok
+27858,Telehouse - Paris 2 (Voltaire - Léon Frot),Paris,FR,12383,53,201808,2018-01-25T19:41:05Z,2018-01-25T19:41:05Z,ok
+28026,Telehouse - Paris 2 (Voltaire - Léon Frot),Paris,FR,13462,53,201675,2018-02-04T15:53:29Z,2018-02-04T15:53:29Z,ok
+28458,Telehouse - Paris 2 (Voltaire - Léon Frot),Paris,FR,14185,53,2486,2018-03-07T14:53:19Z,2018-03-07T14:53:20Z,ok
+28616,Telehouse - Paris 2 (Voltaire - Léon Frot),Paris,FR,16197,53,39781,2018-03-21T10:51:21Z,2018-03-21T10:51:21Z,ok
+28923,Telehouse - Paris 2 (Voltaire - Léon Frot),Paris,FR,6709,53,39444,2018-04-11T07:35:23Z,2018-04-11T07:35:23Z,ok
+28935,Telehouse - Paris 2 (Voltaire - Léon Frot),Paris,FR,4430,53,56665,2018-04-12T12:17:45Z,2018-04-12T12:17:45Z,ok
+29514,Telehouse - Paris 2 (Voltaire - Léon Frot),Paris,FR,16361,53,197883,2018-05-11T14:45:50Z,2018-05-11T14:45:51Z,ok
+29693,Telehouse - Paris 2 (Voltaire - Léon Frot),Paris,FR,16840,53,50628,2018-05-24T14:24:06Z,2018-05-24T14:24:06Z,ok
+29836,Telehouse - Paris 2 (Voltaire - Léon Frot),Paris,FR,2113,53,15695,2018-06-07T07:29:07Z,2018-06-07T07:29:08Z,ok
+29943,Telehouse - Paris 2 (Voltaire - Léon Frot),Paris,FR,12272,53,43445,2018-06-13T09:30:17Z,2018-06-13T09:30:17Z,ok
+29947,Telehouse - Paris 2 (Voltaire - Léon Frot),Paris,FR,17014,53,57581,2018-06-13T10:32:33Z,2018-06-13T10:32:33Z,ok
+29971,Telehouse - Paris 2 (Voltaire - Léon Frot),Paris,FR,17012,53,48813,2018-06-14T12:58:22Z,2018-06-14T12:58:22Z,ok
+30429,Telehouse - Paris 2 (Voltaire - Léon Frot),Paris,FR,6639,53,37002,2018-07-20T06:11:02Z,2018-07-20T06:11:02Z,ok
+30595,Telehouse - Paris 2 (Voltaire - Léon Frot),Paris,FR,14,53,3257,2018-08-01T12:25:58Z,2018-08-01T12:25:58Z,ok
+30968,Telehouse - Paris 2 (Voltaire - Léon Frot),Paris,FR,6845,53,37492,2018-08-17T13:59:32Z,2018-08-17T13:59:32Z,ok
+31072,Telehouse - Paris 2 (Voltaire - Léon Frot),Paris,FR,12898,53,204092,2018-08-25T17:32:24Z,2018-08-25T17:32:25Z,ok
+31682,Telehouse - Paris 2 (Voltaire - Léon Frot),Paris,FR,17246,53,37451,2018-10-05T13:04:56Z,2018-10-05T13:04:56Z,ok
+32321,Telehouse - Paris 2 (Voltaire - Léon Frot),Paris,FR,18286,53,49434,2018-11-12T12:56:38Z,2018-11-12T12:56:38Z,ok
+32968,Telehouse - Paris 2 (Voltaire - Léon Frot),Paris,FR,18655,53,41114,2018-12-26T10:14:55Z,2018-12-26T10:14:55Z,ok
+33002,Telehouse - Paris 2 (Voltaire - Léon Frot),Paris,FR,9846,53,40138,2018-12-28T08:14:06Z,2018-12-28T08:14:06Z,ok
+33546,Telehouse - Paris 2 (Voltaire - Léon Frot),Paris,FR,2728,53,39737,2019-02-06T07:57:41Z,2019-02-06T07:57:41Z,ok
+33844,Telehouse - Paris 2 (Voltaire - Léon Frot),Paris,FR,16329,53,34993,2019-02-26T13:23:44Z,2019-02-26T13:23:44Z,ok
+33935,Telehouse - Paris 2 (Voltaire - Léon Frot),Paris,FR,2496,53,49544,2019-03-01T12:41:41Z,2019-03-01T12:41:42Z,ok
+34133,Telehouse - Paris 2 (Voltaire - Léon Frot),Paris,FR,118,53,5400,2019-03-11T13:33:20Z,2019-03-11T13:33:20Z,ok
+34384,Telehouse - Paris 2 (Voltaire - Léon Frot),Paris,FR,1766,53,24940,2019-03-27T11:54:44Z,2019-03-27T11:54:44Z,ok
+34505,Telehouse - Paris 2 (Voltaire - Léon Frot),Paris,FR,19419,53,57752,2019-04-02T16:46:09Z,2019-04-02T16:46:09Z,ok
+34508,Telehouse - Paris 2 (Voltaire - Léon Frot),Paris,FR,19420,53,198034,2019-04-02T18:47:46Z,2019-04-02T18:47:46Z,ok
+35080,Telehouse - Paris 2 (Voltaire - Léon Frot),Paris,FR,19048,53,58011,2019-04-29T16:32:26Z,2019-04-29T16:32:26Z,ok
+35894,Telehouse - Paris 2 (Voltaire - Léon Frot),Paris,FR,19987,53,201246,2019-06-05T07:54:47Z,2019-06-05T07:54:47Z,ok
+36740,Telehouse - Paris 2 (Voltaire - Léon Frot),Paris,FR,16931,53,47648,2019-08-05T12:31:09Z,2019-08-05T12:31:09Z,ok
+36933,Telehouse - Paris 2 (Voltaire - Léon Frot),Paris,FR,16406,53,49028,2019-08-21T10:23:14Z,2019-08-21T10:23:14Z,ok
+37337,Telehouse - Paris 2 (Voltaire - Léon Frot),Paris,FR,7675,53,59842,2019-09-24T02:39:44Z,2019-09-24T02:39:44Z,ok
+37407,Telehouse - Paris 2 (Voltaire - Léon Frot),Paris,FR,20994,53,20189,2019-09-27T10:06:59Z,2019-10-15T17:02:24Z,ok
+37830,Telehouse - Paris 2 (Voltaire - Léon Frot),Paris,FR,21237,53,39305,2019-10-28T17:01:27Z,2019-10-28T17:01:27Z,ok
+38210,Telehouse - Paris 2 (Voltaire - Léon Frot),Paris,FR,21484,53,47127,2019-11-20T10:00:13Z,2019-11-20T10:00:13Z,ok
+38299,Telehouse - Paris 2 (Voltaire - Léon Frot),Paris,FR,13539,53,29283,2019-11-26T16:42:29Z,2019-11-26T16:42:29Z,ok
+38538,Telehouse - Paris 2 (Voltaire - Léon Frot),Paris,FR,3777,53,31235,2019-12-07T22:49:47Z,2019-12-07T22:49:47Z,ok
+39140,Telehouse - Paris 2 (Voltaire - Léon Frot),Paris,FR,986,53,12779,2020-01-17T18:10:43Z,2020-01-17T18:10:43Z,ok
+41246,Telehouse - Paris 2 (Voltaire - Léon Frot),Paris,FR,9228,53,35676,2020-05-13T14:05:20Z,2020-05-13T14:05:20Z,ok
+41611,Telehouse - Paris 2 (Voltaire - Léon Frot),Paris,FR,1691,53,12826,2020-06-02T21:55:25Z,2020-06-02T21:55:25Z,ok
+41845,Telehouse - Paris 2 (Voltaire - Léon Frot),Paris,FR,3177,53,50620,2020-06-13T15:13:46Z,2020-06-13T15:13:46Z,ok
+42075,Telehouse - Paris 2 (Voltaire - Léon Frot),Paris,FR,17969,53,37721,2020-06-18T08:42:27Z,2020-06-18T08:42:27Z,ok
+42580,Telehouse - Paris 2 (Voltaire - Léon Frot),Paris,FR,23859,53,57468,2020-07-12T03:48:43Z,2020-07-12T03:48:43Z,ok
+43004,Telehouse - Paris 2 (Voltaire - Léon Frot),Paris,FR,24082,53,44097,2020-07-29T06:49:06Z,2020-07-29T06:49:06Z,ok
+43090,Telehouse - Paris 2 (Voltaire - Léon Frot),Paris,FR,23525,53,327708,2020-08-03T07:52:49Z,2020-08-03T07:52:50Z,ok
+44442,Telehouse - Paris 2 (Voltaire - Léon Frot),Paris,FR,18511,53,25540,2020-10-13T11:08:36Z,2020-10-13T11:08:36Z,ok
+45777,Telehouse - Paris 2 (Voltaire - Léon Frot),Paris,FR,2630,53,6775,2020-12-14T14:59:19Z,2020-12-14T14:59:19Z,ok
+46389,Telehouse - Paris 2 (Voltaire - Léon Frot),Paris,FR,18232,53,24691,2021-01-12T12:20:41Z,2021-01-12T12:20:41Z,ok
+47348,Telehouse - Paris 2 (Voltaire - Léon Frot),Paris,FR,26035,53,206983,2021-02-17T18:51:34Z,2021-02-17T18:51:34Z,ok
+48017,Telehouse - Paris 2 (Voltaire - Léon Frot),Paris,FR,26364,53,60456,2021-03-24T13:47:54Z,2021-03-24T13:47:54Z,ok
+48809,Telehouse - Paris 2 (Voltaire - Léon Frot),Paris,FR,19278,53,209255,2021-05-06T08:41:08Z,2021-05-06T08:41:08Z,ok
+49454,Telehouse - Paris 2 (Voltaire - Léon Frot),Paris,FR,12271,53,12906,2021-06-08T15:52:31Z,2021-06-08T15:52:31Z,ok
+49839,Telehouse - Paris 2 (Voltaire - Léon Frot),Paris,FR,26704,53,4455,2021-06-24T20:33:05Z,2021-06-24T20:33:06Z,ok
+50113,Telehouse - Paris 2 (Voltaire - Léon Frot),Paris,FR,13903,53,42388,2021-07-07T19:01:24Z,2021-07-07T19:01:24Z,ok
+50268,Telehouse - Paris 2 (Voltaire - Léon Frot),Paris,FR,27397,53,328411,2021-07-18T05:41:48Z,2021-07-18T05:41:48Z,ok
+50475,Telehouse - Paris 2 (Voltaire - Léon Frot),Paris,FR,27594,53,200906,2021-08-02T19:40:01Z,2021-08-02T19:40:02Z,ok
+51054,Telehouse - Paris 2 (Voltaire - Léon Frot),Paris,FR,18975,53,6696,2021-09-05T09:01:47Z,2021-09-05T09:01:47Z,ok
+51389,Telehouse - Paris 2 (Voltaire - Léon Frot),Paris,FR,28121,53,48817,2021-09-28T19:18:05Z,2021-09-28T19:18:05Z,ok
+51967,Telehouse - Paris 2 (Voltaire - Léon Frot),Paris,FR,28387,53,57179,2021-10-30T21:40:43Z,2021-10-30T21:40:43Z,ok
+52650,Telehouse - Paris 2 (Voltaire - Léon Frot),Paris,FR,28304,53,8298,2021-12-02T15:40:54Z,2021-12-02T15:40:54Z,ok
+52737,Telehouse - Paris 2 (Voltaire - Léon Frot),Paris,FR,28749,53,206310,2021-12-08T13:27:48Z,2021-12-08T13:27:48Z,ok
+52739,Telehouse - Paris 2 (Voltaire - Léon Frot),Paris,FR,28748,53,205698,2021-12-08T13:30:24Z,2021-12-08T13:30:24Z,ok
+52914,Telehouse - Paris 2 (Voltaire - Léon Frot),Paris,FR,28852,53,12727,2021-12-21T13:38:20Z,2021-12-21T13:38:20Z,ok
+52916,Telehouse - Paris 2 (Voltaire - Léon Frot),Paris,FR,28851,53,42487,2021-12-21T13:43:37Z,2021-12-21T13:43:37Z,ok
+53221,Telehouse - Paris 2 (Voltaire - Léon Frot),Paris,FR,29028,53,51630,2022-01-14T14:00:45Z,2022-01-14T14:00:45Z,ok
+53242,Telehouse - Paris 2 (Voltaire - Léon Frot),Paris,FR,29032,53,8882,2022-01-14T21:46:31Z,2022-01-14T21:46:31Z,ok
+54094,Telehouse - Paris 2 (Voltaire - Léon Frot),Paris,FR,29398,53,2027,2022-03-04T17:48:03Z,2022-03-04T17:48:03Z,ok
+54460,Telehouse - Paris 2 (Voltaire - Léon Frot),Paris,FR,3141,53,8368,2022-03-24T10:34:53Z,2022-03-24T10:34:53Z,ok
+54634,Telehouse - Paris 2 (Voltaire - Léon Frot),Paris,FR,29617,53,48213,2022-04-04T09:00:47Z,2022-04-04T09:00:47Z,ok
+56076,Telehouse - Paris 2 (Voltaire - Léon Frot),Paris,FR,30320,53,35077,2022-06-28T19:15:10Z,2022-06-28T19:15:10Z,ok
+56467,Telehouse - Paris 2 (Voltaire - Léon Frot),Paris,FR,30500,53,210601,2022-07-20T08:51:06Z,2022-07-20T08:51:06Z,ok
+56656,Telehouse - Paris 2 (Voltaire - Léon Frot),Paris,FR,30621,53,44407,2022-08-01T11:35:50Z,2022-08-01T11:35:50Z,ok
+57363,Telehouse - Paris 2 (Voltaire - Léon Frot),Paris,FR,6031,53,39931,2022-09-01T07:36:27Z,2022-09-01T07:36:27Z,ok
+57805,Telehouse - Paris 2 (Voltaire - Léon Frot),Paris,FR,1905,53,31898,2022-09-30T01:51:00Z,2022-09-30T01:51:00Z,ok
+58745,Telehouse - Paris 2 (Voltaire - Léon Frot),Paris,FR,31529,53,56987,2022-11-16T22:17:12Z,2022-11-16T22:17:12Z,ok
+59600,Telehouse - Paris 2 (Voltaire - Léon Frot),Paris,FR,31482,53,211882,2023-01-06T19:45:17Z,2023-01-06T19:45:17Z,ok
+59880,Telehouse - Paris 2 (Voltaire - Léon Frot),Paris,FR,3608,53,24482,2023-01-20T07:27:11Z,2023-01-20T07:27:11Z,ok
+59896,Telehouse - Paris 2 (Voltaire - Léon Frot),Paris,FR,6327,53,7155,2023-01-20T20:54:13Z,2023-01-20T20:54:13Z,ok
+59944,Telehouse - Paris 2 (Voltaire - Léon Frot),Paris,FR,5520,53,54113,2023-01-24T09:49:24Z,2023-01-24T09:49:24Z,ok
+60716,Telehouse - Paris 2 (Voltaire - Léon Frot),Paris,FR,28423,53,210806,2023-03-05T21:49:19Z,2023-03-05T21:49:19Z,ok
+61096,Telehouse - Paris 2 (Voltaire - Léon Frot),Paris,FR,28340,53,5405,2023-03-24T19:54:18Z,2023-03-24T19:54:18Z,ok
+61197,Telehouse - Paris 2 (Voltaire - Léon Frot),Paris,FR,1186,53,8302,2023-03-28T12:43:02Z,2023-03-28T12:43:02Z,ok
+61888,Telehouse - Paris 2 (Voltaire - Léon Frot),Paris,FR,13940,53,37529,2023-05-01T12:32:11Z,2023-05-01T12:32:11Z,ok
+61946,Telehouse - Paris 2 (Voltaire - Léon Frot),Paris,FR,32994,53,41191,2023-05-03T07:42:09Z,2023-05-03T07:42:09Z,ok
+63585,Telehouse - Paris 2 (Voltaire - Léon Frot),Paris,FR,13547,53,43930,2023-07-06T13:53:14Z,2023-07-06T13:53:14Z,ok
+63593,Telehouse - Paris 2 (Voltaire - Léon Frot),Paris,FR,1580,53,3215,2023-07-07T08:52:28Z,2023-07-07T08:52:28Z,ok
+63811,Telehouse - Paris 2 (Voltaire - Léon Frot),Paris,FR,19428,53,396986,2023-07-15T21:14:49Z,2023-07-15T21:14:49Z,ok
+64755,Telehouse - Paris 2 (Voltaire - Léon Frot),Paris,FR,24179,53,212815,2023-09-05T08:16:38Z,2023-09-05T08:16:38Z,ok
+65028,Telehouse - Paris 2 (Voltaire - Léon Frot),Paris,FR,20663,53,36864,2023-09-14T13:20:06Z,2023-09-14T13:20:06Z,ok
+65077,Telehouse - Paris 2 (Voltaire - Léon Frot),Paris,FR,34139,53,216302,2023-09-17T21:55:47Z,2023-09-17T21:55:47Z,ok
+65084,Telehouse - Paris 2 (Voltaire - Léon Frot),Paris,FR,34146,53,47600,2023-09-18T13:42:35Z,2023-09-18T13:42:35Z,ok
+65342,Telehouse - Paris 2 (Voltaire - Léon Frot),Paris,FR,11015,53,44530,2023-09-29T13:11:43Z,2023-09-29T13:11:43Z,ok
+65603,Telehouse - Paris 2 (Voltaire - Léon Frot),Paris,FR,26797,53,16189,2023-10-10T11:52:04Z,2023-10-10T11:52:04Z,ok
+65661,Telehouse - Paris 2 (Voltaire - Léon Frot),Paris,FR,34335,53,199088,2023-10-12T16:57:11Z,2023-10-12T16:57:11Z,ok
+65731,Telehouse - Paris 2 (Voltaire - Léon Frot),Paris,FR,27572,53,139341,2023-10-17T07:27:46Z,2023-10-17T07:27:46Z,ok
+65749,Telehouse - Paris 2 (Voltaire - Léon Frot),Paris,FR,33215,53,209428,2023-10-17T19:56:13Z,2023-10-17T19:56:13Z,ok
+65957,Telehouse - Paris 2 (Voltaire - Léon Frot),Paris,FR,34481,53,47160,2023-10-27T13:53:37Z,2023-10-27T13:53:37Z,ok
+66256,Telehouse - Paris 2 (Voltaire - Léon Frot),Paris,FR,31606,53,209823,2023-11-11T10:13:39Z,2023-11-11T10:13:39Z,ok
+66429,Telehouse - Paris 2 (Voltaire - Léon Frot),Paris,FR,34690,53,39886,2023-11-21T14:16:25Z,2023-11-21T14:16:25Z,ok
+66521,Telehouse - Paris 2 (Voltaire - Léon Frot),Paris,FR,34712,53,215955,2023-11-23T17:19:53Z,2023-11-23T17:19:53Z,ok
+66634,Telehouse - Paris 2 (Voltaire - Léon Frot),Paris,FR,10425,53,36868,2023-11-30T08:32:29Z,2023-11-30T08:32:29Z,ok
+67173,Telehouse - Paris 2 (Voltaire - Léon Frot),Paris,FR,34203,53,6204,2023-12-29T14:41:39Z,2023-12-29T14:41:39Z,ok
+67548,Telehouse - Paris 2 (Voltaire - Léon Frot),Paris,FR,35087,53,61025,2024-01-18T08:48:38Z,2024-01-18T08:48:38Z,ok
+68217,Telehouse - Paris 2 (Voltaire - Léon Frot),Paris,FR,16620,53,137409,2024-02-14T03:30:54Z,2024-02-14T03:30:54Z,ok
+68564,Telehouse - Paris 2 (Voltaire - Léon Frot),Paris,FR,22021,53,207910,2024-02-24T10:59:15Z,2024-02-24T10:59:16Z,ok
+68725,Telehouse - Paris 2 (Voltaire - Léon Frot),Paris,FR,35442,53,215596,2024-02-29T18:55:34Z,2024-02-29T18:55:34Z,ok
+69346,Telehouse - Paris 2 (Voltaire - Léon Frot),Paris,FR,18021,53,61205,2024-03-26T13:26:08Z,2024-03-26T13:26:08Z,ok
+69495,Telehouse - Paris 2 (Voltaire - Léon Frot),Paris,FR,15202,53,50446,2024-04-03T07:47:56Z,2024-04-03T07:47:57Z,ok
+69510,Telehouse - Paris 2 (Voltaire - Léon Frot),Paris,FR,35776,53,204902,2024-04-03T16:12:33Z,2024-04-03T16:12:33Z,ok
+70197,Telehouse - Paris 2 (Voltaire - Léon Frot),Paris,FR,35934,53,215234,2024-04-29T06:49:19Z,2024-04-29T06:49:19Z,ok
+71897,Telehouse - Paris 2 (Voltaire - Léon Frot),Paris,FR,15160,53,60022,2024-07-12T13:01:52Z,2024-07-12T13:01:52Z,ok
+71906,Telehouse - Paris 2 (Voltaire - Léon Frot),Paris,FR,20013,53,209323,2024-07-12T22:35:47Z,2024-07-12T22:35:47Z,ok
+71939,Telehouse - Paris 2 (Voltaire - Léon Frot),Paris,FR,36771,53,329399,2024-07-15T11:42:08Z,2024-07-15T11:42:09Z,ok
+72023,Telehouse - Paris 2 (Voltaire - Léon Frot),Paris,FR,36797,53,211113,2024-07-18T15:15:54Z,2024-07-18T15:15:54Z,ok
+72203,Telehouse - Paris 2 (Voltaire - Léon Frot),Paris,FR,28929,53,207324,2024-07-25T20:55:18Z,2024-07-25T20:55:18Z,ok
+72507,Telehouse - Paris 2 (Voltaire - Léon Frot),Paris,FR,37009,53,211733,2024-08-07T19:29:56Z,2024-08-07T19:29:56Z,ok
+72946,Telehouse - Paris 2 (Voltaire - Léon Frot),Paris,FR,37123,53,201896,2024-08-21T18:50:19Z,2024-08-21T18:50:19Z,ok
+73738,Telehouse - Paris 2 (Voltaire - Léon Frot),Paris,FR,20651,53,37722,2024-09-26T09:23:56Z,2024-09-26T09:23:57Z,ok
+74091,Telehouse - Paris 2 (Voltaire - Léon Frot),Paris,FR,4224,53,13335,2024-10-14T02:10:01Z,2024-10-14T02:10:01Z,ok
+74494,Telehouse - Paris 2 (Voltaire - Léon Frot),Paris,FR,29209,53,209768,2024-10-30T20:42:18Z,2024-10-30T20:42:18Z,ok
+74573,Telehouse - Paris 2 (Voltaire - Léon Frot),Paris,FR,18455,53,202933,2024-11-04T07:36:37Z,2024-11-04T07:36:38Z,ok
+74720,Telehouse - Paris 2 (Voltaire - Léon Frot),Paris,FR,37658,53,4601,2024-11-10T17:15:43Z,2024-11-10T17:15:43Z,ok
+74722,Telehouse - Paris 2 (Voltaire - Léon Frot),Paris,FR,21399,53,207992,2024-11-10T20:10:35Z,2024-11-10T20:10:35Z,ok
+74986,Telehouse - Paris 2 (Voltaire - Léon Frot),Paris,FR,28083,53,210732,2024-11-20T18:33:01Z,2024-11-20T18:33:01Z,ok
+76282,Telehouse - Paris 2 (Voltaire - Léon Frot),Paris,FR,8564,53,57043,2025-01-24T11:33:45Z,2025-01-24T11:33:45Z,ok
+76473,Telehouse - Paris 2 (Voltaire - Léon Frot),Paris,FR,28965,53,37649,2025-02-01T13:01:59Z,2025-02-01T13:01:59Z,ok
+77059,Telehouse - Paris 2 (Voltaire - Léon Frot),Paris,FR,16993,53,41652,2025-02-28T13:42:09Z,2025-02-28T13:42:09Z,ok
+77250,Telehouse - Paris 2 (Voltaire - Léon Frot),Paris,FR,4977,53,57344,2025-03-07T05:19:39Z,2025-03-07T05:19:39Z,ok
+77466,Telehouse - Paris 2 (Voltaire - Léon Frot),Paris,FR,17028,53,55943,2025-03-13T23:27:07Z,2025-03-13T23:27:08Z,ok
+77627,Telehouse - Paris 2 (Voltaire - Léon Frot),Paris,FR,33838,53,64289,2025-03-20T23:43:36Z,2025-03-20T23:43:36Z,ok
+77654,Telehouse - Paris 2 (Voltaire - Léon Frot),Paris,FR,38833,53,12409,2025-03-22T10:27:08Z,2025-03-22T10:27:08Z,ok
+77971,Telehouse - Paris 2 (Voltaire - Léon Frot),Paris,FR,32143,53,208962,2025-04-05T17:57:47Z,2025-04-05T17:57:47Z,ok
+79059,Telehouse - Paris 2 (Voltaire - Léon Frot),Paris,FR,32984,53,52025,2025-05-26T00:33:53Z,2025-05-26T00:33:53Z,ok
+79268,Telehouse - Paris 2 (Voltaire - Léon Frot),Paris,FR,38689,53,215724,2025-06-02T20:54:56Z,2025-06-02T20:54:57Z,ok
+79700,Telehouse - Paris 2 (Voltaire - Léon Frot),Paris,FR,7944,53,47608,2025-06-23T07:44:13Z,2025-06-23T07:44:13Z,ok
+79754,Telehouse - Paris 2 (Voltaire - Léon Frot),Paris,FR,39635,53,8801,2025-06-25T06:57:58Z,2025-06-25T06:57:59Z,ok
+79791,Telehouse - Paris 2 (Voltaire - Léon Frot),Paris,FR,37065,53,328965,2025-06-26T15:42:10Z,2025-06-26T15:42:11Z,ok
+80149,Telehouse - Paris 2 (Voltaire - Léon Frot),Paris,FR,17749,53,206120,2025-07-08T12:25:26Z,2025-07-08T12:25:26Z,ok
+80737,Telehouse - Paris 2 (Voltaire - Léon Frot),Paris,FR,39849,53,216193,2025-07-26T11:53:13Z,2025-07-26T11:53:13Z,ok
+80813,Telehouse - Paris 2 (Voltaire - Léon Frot),Paris,FR,15500,53,39421,2025-07-30T10:18:25Z,2025-07-30T10:18:25Z,ok
+80820,Telehouse - Paris 2 (Voltaire - Léon Frot),Paris,FR,15256,53,39801,2025-07-30T13:08:41Z,2025-07-30T13:08:43Z,ok
+81229,Telehouse - Paris 2 (Voltaire - Léon Frot),Paris,FR,40125,53,213966,2025-08-20T12:59:17Z,2025-08-20T12:59:17Z,ok
+81356,Telehouse - Paris 2 (Voltaire - Léon Frot),Paris,FR,40178,53,205141,2025-08-26T09:39:40Z,2025-08-26T09:39:41Z,ok
+81446,Telehouse - Paris 2 (Voltaire - Léon Frot),Paris,FR,601,53,9009,2025-08-27T12:29:19Z,2025-08-27T12:29:19Z,ok
+81555,Telehouse - Paris 2 (Voltaire - Léon Frot),Paris,FR,40114,53,209559,2025-08-31T22:31:29Z,2025-08-31T22:31:29Z,ok
+81726,Telehouse - Paris 2 (Voltaire - Léon Frot),Paris,FR,1423,53,31500,2025-09-08T11:20:50Z,2025-09-08T11:20:50Z,ok
+82186,Telehouse - Paris 2 (Voltaire - Léon Frot),Paris,FR,24402,53,51154,2025-10-02T14:57:22Z,2025-10-02T14:57:22Z,ok
+82345,Telehouse - Paris 2 (Voltaire - Léon Frot),Paris,FR,34222,53,216265,2025-10-07T15:10:00Z,2025-10-07T15:10:00Z,ok
+82355,Telehouse - Paris 2 (Voltaire - Léon Frot),Paris,FR,6514,53,57811,2025-10-08T11:17:34Z,2025-10-08T11:17:34Z,ok
+82431,Telehouse - Paris 2 (Voltaire - Léon Frot),Paris,FR,40524,53,50818,2025-10-10T08:27:27Z,2025-10-10T08:27:27Z,ok
+82493,Telehouse - Paris 2 (Voltaire - Léon Frot),Paris,FR,26933,53,47239,2025-10-13T16:57:17Z,2025-10-13T16:57:17Z,ok
+83260,Telehouse - Paris 2 (Voltaire - Léon Frot),Paris,FR,27330,53,49915,2025-10-30T01:08:25Z,2025-10-30T01:08:25Z,ok
+83284,Telehouse - Paris 2 (Voltaire - Léon Frot),Paris,FR,29361,53,42687,2025-10-30T17:38:07Z,2025-10-30T17:38:07Z,ok
+83500,Telehouse - Paris 2 (Voltaire - Léon Frot),Paris,FR,36876,53,209049,2025-11-06T20:34:12Z,2025-11-06T20:34:12Z,ok
+83602,Telehouse - Paris 2 (Voltaire - Léon Frot),Paris,FR,10572,53,50952,2025-11-10T12:06:46Z,2025-11-10T12:06:46Z,ok
+84646,Telehouse - Paris 2 (Voltaire - Léon Frot),Paris,FR,41179,53,207840,2025-12-27T22:42:39Z,2025-12-27T22:42:39Z,ok
+84662,Telehouse - Paris 2 (Voltaire - Léon Frot),Paris,FR,29752,53,205684,2025-12-29T12:01:33Z,2025-12-29T12:01:33Z,ok
+85419,Telehouse - Paris 2 (Voltaire - Léon Frot),Paris,FR,16712,53,28458,2026-02-03T20:13:51Z,2026-02-03T20:13:52Z,ok
+85763,Telehouse - Paris 2 (Voltaire - Léon Frot),Paris,FR,15846,53,205344,2026-02-11T13:55:16Z,2026-02-11T13:55:16Z,ok
+85895,Telehouse - Paris 2 (Voltaire - Léon Frot),Paris,FR,41634,53,20756,2026-02-16T14:22:38Z,2026-02-16T14:22:38Z,ok
+86039,Telehouse - Paris 2 (Voltaire - Léon Frot),Paris,FR,41421,53,209532,2026-02-20T14:46:59Z,2026-03-12T10:40:38Z,ok
+86183,Telehouse - Paris 2 (Voltaire - Léon Frot),Paris,FR,38049,53,213753,2026-02-26T05:52:29Z,2026-02-26T05:52:29Z,ok
+86263,Telehouse - Paris 2 (Voltaire - Léon Frot),Paris,FR,31221,53,56584,2026-03-02T06:26:15Z,2026-03-02T06:26:15Z,ok
+86658,Telehouse - Paris 2 (Voltaire - Léon Frot),Paris,FR,41897,53,199870,2026-03-20T15:24:50Z,2026-03-20T15:24:50Z,ok
+86776,Telehouse - Paris 2 (Voltaire - Léon Frot),Paris,FR,23526,53,208627,2026-03-25T16:48:36Z,2026-03-25T16:48:36Z,ok
+87004,Telehouse - Paris 2 (Voltaire - Léon Frot),Paris,FR,27376,53,50263,2026-04-01T13:40:45Z,2026-04-01T13:40:45Z,ok
+87118,Telehouse - Paris 2 (Voltaire - Léon Frot),Paris,FR,42035,53,202753,2026-04-06T13:54:23Z,2026-04-06T13:54:23Z,ok
+87205,Telehouse - Paris 2 (Voltaire - Léon Frot),Paris,FR,42090,53,199357,2026-04-09T13:50:52Z,2026-04-09T13:50:52Z,ok
+87425,Telehouse - Paris 2 (Voltaire - Léon Frot),Paris,FR,38837,53,211377,2026-04-20T19:02:39Z,2026-04-20T19:02:39Z,ok
+87602,Telehouse - Paris 2 (Voltaire - Léon Frot),Paris,FR,8180,53,56911,2026-04-28T12:50:00Z,2026-04-28T12:50:00Z,ok
+87662,Telehouse - Paris 2 (Voltaire - Léon Frot),Paris,FR,2099,53,45430,2026-04-30T15:24:43Z,2026-04-30T15:24:43Z,ok
+87777,Telehouse - Paris 2 (Voltaire - Léon Frot),Paris,FR,37313,53,11889,2026-05-06T15:06:53Z,2026-05-06T15:06:53Z,ok
+87851,Telehouse - Paris 2 (Voltaire - Léon Frot),Paris,FR,34818,53,215925,2026-05-09T09:44:05Z,2026-05-09T09:44:05Z,ok
+88191,Telehouse - Paris 2 (Voltaire - Léon Frot),Paris,FR,36076,53,215035,2026-05-31T11:01:35Z,2026-05-31T11:01:35Z,ok
+88331,Telehouse - Paris 2 (Voltaire - Léon Frot),Paris,FR,39370,53,201868,2026-06-06T14:25:51Z,2026-06-06T14:25:52Z,ok
+88713,Telehouse - Paris 2 (Voltaire - Léon Frot),Paris,FR,12894,53,49559,2026-06-24T08:51:16Z,2026-06-24T08:51:16Z,ok
+88840,Telehouse - Paris 2 (Voltaire - Léon Frot),Paris,FR,26229,53,44448,2026-06-28T20:43:53Z,2026-06-28T20:43:54Z,ok
+88861,Telehouse - Paris 2 (Voltaire - Léon Frot),Paris,FR,37124,53,214326,2026-06-30T14:36:58Z,2026-06-30T14:36:58Z,ok
+88876,Telehouse - Paris 2 (Voltaire - Léon Frot),Paris,FR,30887,53,60132,2026-07-01T09:21:08Z,2026-07-01T09:21:08Z,ok
+89146,Telehouse - Paris 2 (Voltaire - Léon Frot),Paris,FR,29228,53,48732,2026-07-12T08:34:27Z,2026-07-12T08:34:27Z,ok
+90200,Telehouse - Paris 2 (Voltaire - Léon Frot),Paris,FR,41725,53,211854,2026-08-25T13:45:10Z,2026-08-25T13:45:10Z,ok
+91311,Telehouse - Paris 2 (Voltaire - Léon Frot),Paris,FR,19600,53,209090,2026-10-07T00:26:50Z,2026-10-07T00:26:51Z,ok
+219,Telehouse - Paris 1 (Jeûneurs),Paris,FR,120,54,12322,2010-07-29T00:00:00Z,2016-03-15T09:24:17Z,ok
+711,Telehouse - Paris 1 (Jeûneurs),Paris,FR,437,54,6453,2010-07-29T00:00:00Z,2019-09-05T06:07:20Z,ok
+887,Telehouse - Paris 1 (Jeûneurs),Paris,FR,505,54,13193,2010-07-29T00:00:00Z,2016-03-14T20:51:03Z,ok
+1579,Telehouse - Paris 1 (Jeûneurs),Paris,FR,267,54,174,2010-07-29T00:00:00Z,2021-01-07T21:35:37Z,ok
+7718,Telehouse - Paris 1 (Jeûneurs),Paris,FR,2485,54,48920,2011-01-04T00:00:00Z,2016-03-14T21:25:01Z,ok
+7916,Telehouse - Paris 1 (Jeûneurs),Paris,FR,2702,54,29075,2011-02-19T00:00:00Z,2016-03-14T20:24:41Z,ok
+8537,Telehouse - Paris 1 (Jeûneurs),Paris,FR,4129,54,29152,2011-07-20T00:00:00Z,2016-03-14T20:42:47Z,ok
+10158,Telehouse - Paris 1 (Jeûneurs),Paris,FR,2915,54,50087,2012-07-22T00:00:00Z,2016-03-14T21:32:00Z,ok
+10553,Telehouse - Paris 1 (Jeûneurs),Paris,FR,10,54,1299,2012-10-01T00:00:00Z,2016-03-14T21:53:35Z,ok
+14341,Telehouse - Paris 1 (Jeûneurs),Paris,FR,2405,54,8309,2014-05-30T00:00:00Z,2016-03-14T21:07:47Z,ok
+18767,Telehouse - Paris 1 (Jeûneurs),Paris,FR,9153,54,44000,2015-12-01T00:00:00Z,2016-03-14T21:40:33Z,ok
+20622,Telehouse - Paris 1 (Jeûneurs),Paris,FR,541,54,6461,2016-06-01T14:42:24Z,2016-06-01T14:42:25Z,ok
+21151,Telehouse - Paris 1 (Jeûneurs),Paris,FR,150,54,6774,2016-08-02T07:31:08Z,2016-08-02T07:31:08Z,ok
+35825,Telehouse - Paris 1 (Jeûneurs),Paris,FR,5539,54,57463,2019-05-31T11:58:11Z,2019-05-31T11:58:11Z,ok
+62067,Telehouse - Paris 1 (Jeûneurs),Paris,FR,91,54,8220,2023-05-08T12:00:44Z,2023-05-08T12:00:44Z,ok
+63664,Telehouse - Paris 1 (Jeûneurs),Paris,FR,28340,54,5405,2023-07-11T09:45:03Z,2023-07-11T09:45:04Z,ok
+84842,Telehouse - Paris 1 (Jeûneurs),Paris,FR,34222,54,216265,2026-01-08T12:45:38Z,2026-01-08T12:45:38Z,ok
+90438,Telehouse - Paris 1 (Jeûneurs),Paris,FR,43121,54,219115,2026-09-04T19:34:47Z,2026-09-04T19:34:47Z,ok
+138,UltraEdge Paris - Courbevoie,Paris,FR,31,55,6762,2010-07-29T00:00:00Z,2016-03-14T21:55:44Z,ok
+218,UltraEdge Paris - Courbevoie,Paris,FR,120,55,12322,2010-07-29T00:00:00Z,2016-03-15T09:24:17Z,ok
+274,UltraEdge Paris - Courbevoie,Paris,FR,150,55,6774,2010-07-29T00:00:00Z,2016-03-14T21:40:59Z,ok
+575,UltraEdge Paris - Courbevoie,Paris,FR,10,55,1299,2010-07-29T00:00:00Z,2016-03-14T21:13:00Z,ok
+704,UltraEdge Paris - Courbevoie,Paris,FR,437,55,6453,2010-07-29T00:00:00Z,2016-03-14T21:54:41Z,ok
+840,UltraEdge Paris - Courbevoie,Paris,FR,14,55,3257,2010-07-29T00:00:00Z,2016-03-14T21:42:18Z,ok
+888,UltraEdge Paris - Courbevoie,Paris,FR,505,55,13193,2010-07-29T00:00:00Z,2016-03-14T20:51:06Z,ok
+1027,UltraEdge Paris - Courbevoie,Paris,FR,433,55,15169,2010-07-29T00:00:00Z,2016-03-14T20:58:26Z,ok
+1035,UltraEdge Paris - Courbevoie,Paris,FR,450,55,15557,2010-07-29T00:00:00Z,2016-03-14T21:36:04Z,ok
+1580,UltraEdge Paris - Courbevoie,Paris,FR,267,55,174,2010-07-29T00:00:00Z,2021-01-07T21:38:48Z,ok
+1902,UltraEdge Paris - Courbevoie,Paris,FR,971,55,20917,2010-07-29T00:00:00Z,2016-03-11T07:23:00Z,ok
+3414,UltraEdge Paris - Courbevoie,Paris,FR,1479,55,8218,2010-07-29T00:00:00Z,2016-03-14T20:24:39Z,ok
+3531,UltraEdge Paris - Courbevoie,Paris,FR,187,55,8565,2010-07-29T00:00:00Z,2016-03-14T20:58:41Z,ok
+3944,UltraEdge Paris - Courbevoie,Paris,FR,1742,55,35184,2010-07-29T00:00:00Z,2016-03-14T20:47:21Z,ok
+4943,UltraEdge Paris - Courbevoie,Paris,FR,731,55,30781,2010-07-29T00:00:00Z,2016-03-14T20:23:05Z,ok
+5453,UltraEdge Paris - Courbevoie,Paris,FR,1523,55,8784,2010-07-29T00:00:00Z,2016-03-14T21:15:04Z,ok
+6066,UltraEdge Paris - Courbevoie,Paris,FR,2485,55,48920,2010-07-29T00:00:00Z,2016-03-14T21:17:39Z,ok
+7459,UltraEdge Paris - Courbevoie,Paris,FR,2702,55,29075,2010-11-09T00:00:00Z,2016-03-14T20:48:33Z,ok
+7632,UltraEdge Paris - Courbevoie,Paris,FR,316,55,8839,2010-12-07T00:00:00Z,2016-03-14T21:06:52Z,ok
+8539,UltraEdge Paris - Courbevoie,Paris,FR,4129,55,29152,2011-07-20T00:00:00Z,2016-03-14T20:42:47Z,ok
+10712,UltraEdge Paris - Courbevoie,Paris,FR,3787,55,16128,2012-11-07T00:00:00Z,2016-03-14T20:35:30Z,ok
+12540,UltraEdge Paris - Courbevoie,Paris,FR,5956,55,16363,2013-09-06T00:00:00Z,2016-03-14T20:52:02Z,ok
+14447,UltraEdge Paris - Courbevoie,Paris,FR,2534,55,39180,2014-06-16T00:00:00Z,2016-03-14T21:43:41Z,ok
+14617,UltraEdge Paris - Courbevoie,Paris,FR,2405,55,8309,2014-07-11T00:00:00Z,2016-03-14T20:27:03Z,ok
+14679,UltraEdge Paris - Courbevoie,Paris,FR,7000,55,48504,2014-07-20T00:00:00Z,2016-03-14T20:53:34Z,ok
+20192,UltraEdge Paris - Courbevoie,Paris,FR,261,55,1273,2016-04-26T08:38:15Z,2016-04-26T08:38:16Z,ok
+20652,UltraEdge Paris - Courbevoie,Paris,FR,9886,55,33779,2016-06-05T08:01:14Z,2016-06-05T08:01:14Z,ok
+27244,UltraEdge Paris - Courbevoie,Paris,FR,8561,55,200780,2017-12-06T18:09:59Z,2017-12-06T18:09:59Z,ok
+43982,UltraEdge Paris - Courbevoie,Paris,FR,200,55,30889,2020-09-25T15:04:58Z,2020-09-25T15:04:58Z,ok
+44441,UltraEdge Paris - Courbevoie,Paris,FR,18511,55,25540,2020-10-13T11:08:22Z,2020-10-13T11:08:22Z,ok
+46463,UltraEdge Paris - Courbevoie,Paris,FR,2,55,20940,2021-01-14T14:13:41Z,2021-01-14T14:13:41Z,ok
+51343,UltraEdge Paris - Courbevoie,Paris,FR,15688,55,44297,2021-09-25T08:43:18Z,2021-09-25T08:43:18Z,ok
+54502,UltraEdge Paris - Courbevoie,Paris,FR,29551,55,49584,2022-03-25T16:39:23Z,2022-03-25T16:39:23Z,ok
+55381,UltraEdge Paris - Courbevoie,Paris,FR,21248,55,25428,2022-05-20T08:45:08Z,2022-05-20T08:45:08Z,ok
+62066,UltraEdge Paris - Courbevoie,Paris,FR,91,55,8220,2023-05-08T12:00:21Z,2023-05-08T12:00:21Z,ok
+65352,UltraEdge Paris - Courbevoie,Paris,FR,11015,55,44530,2023-09-29T13:18:43Z,2023-09-29T13:18:43Z,ok
+66427,UltraEdge Paris - Courbevoie,Paris,FR,34690,55,39886,2023-11-21T14:15:48Z,2023-11-21T14:15:48Z,ok
+75291,UltraEdge Paris - Courbevoie,Paris,FR,11913,55,13208,2024-12-02T16:29:00Z,2024-12-02T16:29:01Z,ok
+80157,UltraEdge Paris - Courbevoie,Paris,FR,17749,55,206120,2025-07-08T12:27:08Z,2025-07-08T12:27:08Z,ok
+84555,UltraEdge Paris - Courbevoie,Paris,FR,27330,55,49915,2025-12-20T01:08:05Z,2025-12-20T01:08:05Z,ok
+87778,UltraEdge Paris - Courbevoie,Paris,FR,37313,55,11889,2026-05-06T15:07:52Z,2026-05-06T15:07:52Z,ok
+422,Digital Realty Paris PAR1,Paris,FR,267,56,174,2010-07-29T00:00:00Z,2021-01-07T21:33:26Z,ok
+1859,Digital Realty Paris PAR1,Paris,FR,956,56,25286,2010-07-29T00:00:00Z,2016-03-14T20:42:45Z,ok
+2258,Digital Realty Paris PAR1,Paris,FR,2,56,20940,2010-07-29T00:00:00Z,2016-03-14T20:40:31Z,ok
+3420,Digital Realty Paris PAR1,Paris,FR,1479,56,8218,2010-07-29T00:00:00Z,2016-03-14T21:17:31Z,ok
+3645,Digital Realty Paris PAR1,Paris,FR,495,56,5511,2010-07-29T00:00:00Z,2016-03-14T20:53:24Z,ok
+4946,Digital Realty Paris PAR1,Paris,FR,731,56,30781,2010-07-29T00:00:00Z,2016-03-14T21:28:38Z,ok
+8541,Digital Realty Paris PAR1,Paris,FR,4129,56,29152,2011-07-20T00:00:00Z,2016-03-14T20:31:08Z,ok
+10713,Digital Realty Paris PAR1,Paris,FR,3787,56,16128,2012-11-07T00:00:00Z,2016-03-14T20:45:26Z,ok
+11430,Digital Realty Paris PAR1,Paris,FR,2927,56,43531,2013-03-26T00:00:00Z,2016-03-14T21:36:08Z,ok
+11531,Digital Realty Paris PAR1,Paris,FR,5426,56,199660,2013-04-06T00:00:00Z,2016-03-14T21:36:35Z,ok
+11878,Digital Realty Paris PAR1,Paris,FR,620,56,12956,2013-06-15T00:00:00Z,2017-03-03T13:08:16Z,ok
+11957,Digital Realty Paris PAR1,Paris,FR,1250,56,8487,2013-07-02T00:00:00Z,2016-03-14T21:43:49Z,ok
+12298,Digital Realty Paris PAR1,Paris,FR,3386,56,21320,2013-08-12T00:00:00Z,2016-03-14T21:55:06Z,ok
+13608,Digital Realty Paris PAR1,Paris,FR,10,56,1299,2014-03-12T00:00:00Z,2016-03-14T21:43:54Z,ok
+14319,Digital Realty Paris PAR1,Paris,FR,2405,56,8309,2014-05-30T00:00:00Z,2016-03-14T21:02:58Z,ok
+17391,Digital Realty Paris PAR1,Paris,FR,7875,56,21351,2015-06-17T00:00:00Z,2016-03-14T20:42:44Z,ok
+18512,Digital Realty Paris PAR1,Paris,FR,8996,56,49690,2015-11-02T00:00:00Z,2016-03-14T20:46:08Z,ok
+20026,Digital Realty Paris PAR1,Paris,FR,3130,56,2200,2016-04-12T14:43:44Z,2016-04-12T14:43:44Z,ok
+20621,Digital Realty Paris PAR1,Paris,FR,541,56,6461,2016-06-01T14:42:02Z,2016-06-01T14:42:02Z,ok
+21153,Digital Realty Paris PAR1,Paris,FR,150,56,6774,2016-08-02T07:31:50Z,2016-08-02T07:31:50Z,ok
+23482,Digital Realty Paris PAR1,Paris,FR,12565,56,20965,2017-02-13T14:03:23Z,2017-02-13T14:03:24Z,ok
+25202,Digital Realty Paris PAR1,Paris,FR,2173,56,25818,2017-07-04T03:10:58Z,2017-07-04T03:10:58Z,ok
+30082,Digital Realty Paris PAR1,Paris,FR,291,56,6939,2018-06-23T02:55:39Z,2018-06-23T02:55:39Z,ok
+30430,Digital Realty Paris PAR1,Paris,FR,6639,56,37002,2018-07-20T06:15:28Z,2018-07-20T06:15:28Z,ok
+30598,Digital Realty Paris PAR1,Paris,FR,14,56,3257,2018-08-01T12:28:32Z,2018-08-01T12:28:32Z,ok
+34931,Digital Realty Paris PAR1,Paris,FR,2702,56,29075,2019-04-18T12:38:11Z,2019-04-18T12:38:11Z,ok
+41053,Digital Realty Paris PAR1,Paris,FR,1964,56,34177,2020-05-03T19:13:16Z,2020-05-03T19:13:16Z,ok
+49812,Digital Realty Paris PAR1,Paris,FR,26704,56,4455,2021-06-24T20:28:41Z,2021-06-24T20:28:42Z,ok
+57682,Digital Realty Paris PAR1,Paris,FR,261,56,1273,2022-09-23T10:37:27Z,2022-09-23T10:37:27Z,ok
+76806,Digital Realty Paris PAR1,Paris,FR,11101,56,36914,2025-02-18T08:11:04Z,2025-02-18T08:11:04Z,ok
+81775,Digital Realty Paris PAR1,Paris,FR,15256,56,39801,2025-09-11T11:09:36Z,2025-09-11T11:10:11Z,ok
+82368,Digital Realty Paris PAR1,Paris,FR,38192,56,397032,2025-10-08T13:38:27Z,2025-10-08T13:39:07Z,ok
+87841,Digital Realty Paris PAR1,Paris,FR,5078,56,43858,2026-05-08T21:23:26Z,2026-05-08T21:23:26Z,ok
+87948,Digital Realty Paris PAR1,Paris,FR,36076,56,215035,2026-05-14T20:23:54Z,2026-05-14T20:23:54Z,ok
+88129,Digital Realty Paris PAR1,Paris,FR,37229,56,215599,2026-05-28T12:34:37Z,2026-05-28T12:34:37Z,ok
+346,"Equinix PA7 - Paris, Energy Park",Paris,FR,189,72,24776,2010-07-29T00:00:00Z,2016-03-14T20:44:17Z,ok
+885,"Equinix PA7 - Paris, Energy Park",Paris,FR,499,72,34019,2010-07-29T00:00:00Z,2016-03-14T20:51:03Z,ok
+1021,"Equinix PA7 - Paris, Energy Park",Paris,FR,116,72,8426,2010-07-29T00:00:00Z,2016-03-14T20:58:27Z,ok
+1458,"Equinix PA7 - Paris, Energy Park",Paris,FR,780,72,29215,2010-07-29T00:00:00Z,2016-03-14T20:37:36Z,ok
+1581,"Equinix PA7 - Paris, Energy Park",Paris,FR,267,72,174,2010-07-29T00:00:00Z,2021-01-07T21:30:57Z,ok
+1679,"Equinix PA7 - Paris, Energy Park",Paris,FR,139,72,9153,2010-07-29T00:00:00Z,2016-03-15T09:24:17Z,ok
+1814,"Equinix PA7 - Paris, Energy Park",Paris,FR,283,72,25358,2010-07-29T00:00:00Z,2016-03-14T21:28:51Z,ok
+2668,"Equinix PA7 - Paris, Energy Park",Paris,FR,1255,72,8399,2010-07-29T00:00:00Z,2016-03-14T21:02:16Z,ok
+3408,"Equinix PA7 - Paris, Energy Park",Paris,FR,1479,72,8218,2010-07-29T00:00:00Z,2016-03-14T21:51:03Z,ok
+3530,"Equinix PA7 - Paris, Energy Park",Paris,FR,187,72,8565,2010-07-29T00:00:00Z,2016-03-14T20:58:41Z,ok
+4945,"Equinix PA7 - Paris, Energy Park",Paris,FR,731,72,30781,2010-07-29T00:00:00Z,2016-03-14T21:28:38Z,ok
+5502,"Equinix PA7 - Paris, Energy Park",Paris,FR,1964,72,34177,2010-07-29T00:00:00Z,2016-03-14T20:56:00Z,ok
+5967,"Equinix PA7 - Paris, Energy Park",Paris,FR,2702,72,29075,2010-07-29T00:00:00Z,2016-03-14T20:27:12Z,ok
+6857,"Equinix PA7 - Paris, Energy Park",Paris,FR,456,72,21409,2010-07-29T00:00:00Z,2016-03-14T20:42:38Z,ok
+7242,"Equinix PA7 - Paris, Energy Park",Paris,FR,262,72,8560,2010-09-17T00:00:00Z,2016-03-14T21:09:16Z,ok
+7546,"Equinix PA7 - Paris, Energy Park",Paris,FR,3570,72,8304,2010-11-19T00:00:00Z,2016-03-14T20:36:16Z,ok
+7704,"Equinix PA7 - Paris, Energy Park",Paris,FR,3656,72,41628,2010-12-30T00:00:00Z,2016-03-14T20:23:26Z,ok
+7715,"Equinix PA7 - Paris, Energy Park",Paris,FR,2977,72,16080,2011-01-04T00:00:00Z,2016-03-14T21:25:01Z,ok
+8534,"Equinix PA7 - Paris, Energy Park",Paris,FR,4129,72,29152,2011-07-20T00:00:00Z,2016-03-14T20:42:47Z,ok
+8973,"Equinix PA7 - Paris, Energy Park",Paris,FR,4345,72,197981,2011-11-09T00:00:00Z,2016-03-14T21:11:58Z,ok
+10694,"Equinix PA7 - Paris, Energy Park",Paris,FR,5065,72,50796,2012-11-02T00:00:00Z,2016-03-14T20:43:54Z,ok
+10717,"Equinix PA7 - Paris, Energy Park",Paris,FR,3787,72,16128,2012-11-07T00:00:00Z,2016-03-14T20:35:31Z,ok
+13606,"Equinix PA7 - Paris, Energy Park",Paris,FR,10,72,1299,2014-03-12T00:00:00Z,2016-03-14T21:53:26Z,ok
+14339,"Equinix PA7 - Paris, Energy Park",Paris,FR,2405,72,8309,2014-05-30T00:00:00Z,2016-03-14T21:11:51Z,ok
+16215,"Equinix PA7 - Paris, Energy Park",Paris,FR,3957,72,51269,2015-02-06T00:00:00Z,2016-03-14T20:37:01Z,ok
+20618,"Equinix PA7 - Paris, Energy Park",Paris,FR,541,72,6461,2016-06-01T14:41:08Z,2016-06-01T14:41:08Z,ok
+23004,"Equinix PA7 - Paris, Energy Park",Paris,FR,7479,72,62000,2017-01-08T12:34:42Z,2024-09-14T15:14:48Z,ok
+23530,"Equinix PA7 - Paris, Energy Park",Paris,FR,12633,72,206342,2017-02-17T10:42:38Z,2017-02-17T10:42:38Z,ok
+26596,"Equinix PA7 - Paris, Energy Park",Paris,FR,14960,72,205555,2017-10-20T14:19:14Z,2017-10-20T14:19:14Z,ok
+28615,"Equinix PA7 - Paris, Energy Park",Paris,FR,16197,72,39781,2018-03-21T10:50:23Z,2018-03-21T10:50:23Z,ok
+29801,"Equinix PA7 - Paris, Energy Park",Paris,FR,291,72,6939,2018-06-02T07:16:52Z,2018-06-02T07:16:52Z,ok
+30196,"Equinix PA7 - Paris, Energy Park",Paris,FR,10569,72,35280,2018-06-29T15:54:19Z,2018-06-29T15:54:19Z,ok
+30600,"Equinix PA7 - Paris, Energy Park",Paris,FR,14,72,3257,2018-08-01T12:29:48Z,2018-08-01T12:29:49Z,ok
+31651,"Equinix PA7 - Paris, Energy Park",Paris,FR,1329,72,35070,2018-10-04T08:27:43Z,2018-10-04T08:27:43Z,ok
+34035,"Equinix PA7 - Paris, Energy Park",Paris,FR,9470,72,54994,2019-03-07T06:25:39Z,2019-03-07T06:25:39Z,ok
+36310,"Equinix PA7 - Paris, Energy Park",Paris,FR,1599,72,33891,2019-07-05T14:28:15Z,2019-07-05T14:28:15Z,ok
+50939,"Equinix PA7 - Paris, Energy Park",Paris,FR,17973,72,49920,2021-08-30T15:18:07Z,2021-08-30T15:18:07Z,ok
+52348,"Equinix PA7 - Paris, Energy Park",Paris,FR,28572,72,197205,2021-11-18T13:16:36Z,2021-11-18T13:16:36Z,ok
+58744,"Equinix PA7 - Paris, Energy Park",Paris,FR,31529,72,56987,2022-11-16T22:16:48Z,2022-11-16T22:16:48Z,ok
+65601,"Equinix PA7 - Paris, Energy Park",Paris,FR,26797,72,16189,2023-10-10T11:51:14Z,2023-10-10T11:51:14Z,ok
+66382,"Equinix PA7 - Paris, Energy Park",Paris,FR,7190,72,60427,2023-11-17T23:05:02Z,2023-11-17T23:05:02Z,ok
+66523,"Equinix PA7 - Paris, Energy Park",Paris,FR,34710,72,216239,2023-11-23T17:42:15Z,2023-11-23T17:42:15Z,ok
+67394,"Equinix PA7 - Paris, Energy Park",Paris,FR,6591,72,55195,2024-01-10T15:25:30Z,2024-01-10T15:25:30Z,ok
+68732,"Equinix PA7 - Paris, Energy Park",Paris,FR,35442,72,215596,2024-02-29T18:56:36Z,2024-02-29T18:56:36Z,ok
+80153,"Equinix PA7 - Paris, Energy Park",Paris,FR,17749,72,206120,2025-07-08T12:26:26Z,2025-07-08T12:26:26Z,ok
+81554,"Equinix PA7 - Paris, Energy Park",Paris,FR,31953,72,50124,2025-08-31T16:41:44Z,2025-08-31T16:41:44Z,ok
+85768,"Equinix PA7 - Paris, Energy Park",Paris,FR,33780,72,51826,2026-02-11T14:26:43Z,2026-02-11T14:26:43Z,ok
+86655,"Equinix PA7 - Paris, Energy Park",Paris,FR,1237,72,39104,2026-03-20T12:38:29Z,2026-03-20T12:38:29Z,ok
+87133,"Equinix PA7 - Paris, Energy Park",Paris,FR,7217,72,198831,2026-04-06T16:45:58Z,2026-04-06T16:45:58Z,ok
+87571,"Equinix PA7 - Paris, Energy Park",Paris,FR,40661,72,215114,2026-04-27T17:04:18Z,2026-04-27T17:04:18Z,ok
+88964,"Equinix PA7 - Paris, Energy Park",Paris,FR,36076,72,215035,2026-07-05T18:36:09Z,2026-07-05T18:36:09Z,ok
+89559,"Equinix PA7 - Paris, Energy Park",Paris,FR,27330,72,49915,2026-07-30T07:19:25Z,2026-07-30T07:19:25Z,ok
+89758,"Equinix PA7 - Paris, Energy Park",Paris,FR,25249,72,212504,2026-08-04T15:04:57Z,2026-08-04T15:04:57Z,ok
+90264,"Equinix PA7 - Paris, Energy Park",Paris,FR,35539,72,215359,2026-08-28T10:44:41Z,2026-08-28T10:44:41Z,ok
+223,"Equinix PA5 - Paris, Victor Hugo",Paris,FR,120,73,12322,2010-07-29T00:00:00Z,2018-02-13T16:23:38Z,ok
+461,"Equinix PA5 - Paris, Victor Hugo",Paris,FR,283,73,25358,2010-07-29T00:00:00Z,2018-02-13T16:23:38Z,ok
+991,"Equinix PA5 - Paris, Victor Hugo",Paris,FR,14,73,3257,2010-07-29T00:00:00Z,2018-02-13T16:23:38Z,ok
+1582,"Equinix PA5 - Paris, Victor Hugo",Paris,FR,267,73,174,2010-07-29T00:00:00Z,2021-01-07T21:30:20Z,ok
+1805,"Equinix PA5 - Paris, Victor Hugo",Paris,FR,780,73,29215,2010-07-29T00:00:00Z,2018-02-13T16:23:39Z,ok
+3407,"Equinix PA5 - Paris, Victor Hugo",Paris,FR,1479,73,8218,2010-07-29T00:00:00Z,2018-02-13T16:23:38Z,ok
+6528,"Equinix PA5 - Paris, Victor Hugo",Paris,FR,189,73,24776,2010-07-29T00:00:00Z,2018-02-13T16:23:39Z,ok
+8532,"Equinix PA5 - Paris, Victor Hugo",Paris,FR,4129,73,29152,2011-07-20T00:00:00Z,2018-02-13T16:23:39Z,ok
+8544,"Equinix PA5 - Paris, Victor Hugo",Paris,FR,1742,73,35184,2011-07-21T00:00:00Z,2018-02-13T16:23:39Z,ok
+9993,"Equinix PA5 - Paris, Victor Hugo",Paris,FR,3552,73,29513,2012-06-07T00:00:00Z,2018-02-13T16:23:38Z,ok
+10760,"Equinix PA5 - Paris, Victor Hugo",Paris,FR,3016,73,43646,2012-11-20T00:00:00Z,2018-02-13T16:23:38Z,ok
+13607,"Equinix PA5 - Paris, Victor Hugo",Paris,FR,10,73,1299,2014-03-12T00:00:00Z,2018-02-13T16:23:39Z,ok
+14378,"Equinix PA5 - Paris, Victor Hugo",Paris,FR,2405,73,8309,2014-06-03T00:00:00Z,2018-02-13T16:23:39Z,ok
+15686,"Equinix PA5 - Paris, Victor Hugo",Paris,FR,3141,73,8368,2014-12-06T00:00:00Z,2018-02-13T16:23:38Z,ok
+17687,"Equinix PA5 - Paris, Victor Hugo",Paris,FR,2,73,20940,2015-07-28T00:00:00Z,2018-02-13T16:23:38Z,ok
+20620,"Equinix PA5 - Paris, Victor Hugo",Paris,FR,541,73,6461,2016-06-01T14:41:48Z,2018-02-13T16:23:39Z,ok
+23750,"Equinix PA5 - Paris, Victor Hugo",Paris,FR,2702,73,29075,2017-03-06T10:59:51Z,2018-02-13T16:23:39Z,ok
+28238,"Equinix PA5 - Paris, Victor Hugo",Paris,FR,4807,73,13360,2018-02-20T15:41:43Z,2018-02-20T15:41:43Z,ok
+30195,"Equinix PA5 - Paris, Victor Hugo",Paris,FR,10569,73,35280,2018-06-29T15:54:11Z,2018-06-29T15:54:11Z,ok
+36659,"Equinix PA5 - Paris, Victor Hugo",Paris,FR,10839,73,60068,2019-07-31T09:43:28Z,2022-01-18T11:03:25Z,ok
+37408,"Equinix PA5 - Paris, Victor Hugo",Paris,FR,20994,73,20189,2019-09-27T10:08:01Z,2019-10-15T17:02:04Z,ok
+40404,"Equinix PA5 - Paris, Victor Hugo",Paris,FR,495,73,5511,2020-03-30T15:09:59Z,2020-03-30T15:09:59Z,ok
+41618,"Equinix PA5 - Paris, Victor Hugo",Paris,FR,18975,73,6696,2020-06-03T08:19:20Z,2023-09-24T09:02:20Z,ok
+42539,"Equinix PA5 - Paris, Victor Hugo",Paris,FR,7000,73,48504,2020-07-10T09:50:17Z,2020-07-10T09:50:17Z,ok
+43101,"Equinix PA5 - Paris, Victor Hugo",Paris,FR,11851,73,13150,2020-08-04T20:29:11Z,2020-08-04T20:29:11Z,ok
+43189,"Equinix PA5 - Paris, Victor Hugo",Paris,FR,20432,73,11019,2020-08-10T20:10:55Z,2020-08-10T20:10:55Z,ok
+46045,"Equinix PA5 - Paris, Victor Hugo",Paris,FR,17716,73,200271,2020-12-28T10:12:37Z,2020-12-28T10:12:37Z,ok
+47127,"Equinix PA5 - Paris, Victor Hugo",Paris,FR,25494,73,212175,2021-02-08T21:21:21Z,2023-06-09T10:09:36Z,ok
+49958,"Equinix PA5 - Paris, Victor Hugo",Paris,FR,5483,73,58511,2021-07-02T10:00:43Z,2021-07-02T10:00:43Z,ok
+58875,"Equinix PA5 - Paris, Victor Hugo",Paris,FR,5499,73,199524,2022-11-22T11:15:47Z,2022-11-22T11:15:47Z,ok
+62065,"Equinix PA5 - Paris, Victor Hugo",Paris,FR,91,73,8220,2023-05-08T11:59:52Z,2023-05-08T11:59:52Z,ok
+64474,"Equinix PA5 - Paris, Victor Hugo",Paris,FR,3513,73,50858,2023-08-23T10:04:16Z,2023-08-23T10:04:17Z,ok
+68028,"Equinix PA5 - Paris, Victor Hugo",Paris,FR,4549,73,36236,2024-02-07T21:53:50Z,2024-02-07T21:53:50Z,ok
+68115,"Equinix PA5 - Paris, Victor Hugo",Paris,FR,27914,73,399486,2024-02-11T13:14:43Z,2024-02-11T13:14:43Z,ok
+68214,"Equinix PA5 - Paris, Victor Hugo",Paris,FR,16620,73,137409,2024-02-14T03:30:05Z,2024-02-14T03:30:05Z,ok
+68877,"Equinix PA5 - Paris, Victor Hugo",Paris,FR,20847,73,46475,2024-03-06T14:22:09Z,2024-03-06T14:22:09Z,ok
+70561,"Equinix PA5 - Paris, Victor Hugo",Paris,FR,20584,73,59877,2024-05-13T20:56:10Z,2024-05-13T20:56:10Z,ok
+70878,"Equinix PA5 - Paris, Victor Hugo",Paris,FR,7217,73,198831,2024-05-29T03:35:44Z,2024-05-29T03:35:45Z,ok
+70921,"Equinix PA5 - Paris, Victor Hugo",Paris,FR,36365,73,214838,2024-05-30T02:23:54Z,2025-12-28T21:31:00Z,ok
+73515,"Equinix PA5 - Paris, Victor Hugo",Paris,FR,7479,73,62000,2024-09-14T15:14:35Z,2024-09-14T15:14:36Z,ok
+74703,"Equinix PA5 - Paris, Victor Hugo",Paris,FR,16810,73,63023,2024-11-09T04:34:44Z,2024-11-09T04:34:45Z,ok
+75209,"Equinix PA5 - Paris, Victor Hugo",Paris,FR,34203,73,6204,2024-11-29T00:02:12Z,2024-11-29T00:02:13Z,ok
+77679,"Equinix PA5 - Paris, Victor Hugo",Paris,FR,38207,73,206014,2025-03-24T09:57:21Z,2025-03-24T09:57:21Z,ok
+78349,"Equinix PA5 - Paris, Victor Hugo",Paris,FR,38208,73,216075,2025-04-21T19:01:17Z,2025-04-21T19:01:18Z,ok
+80384,"Equinix PA5 - Paris, Victor Hugo",Paris,FR,39824,73,214271,2025-07-16T12:46:22Z,2025-07-16T12:46:23Z,ok
+81166,"Equinix PA5 - Paris, Victor Hugo",Paris,FR,34186,73,3920,2025-08-17T22:59:00Z,2026-02-22T04:49:21Z,ok
+81297,"Equinix PA5 - Paris, Victor Hugo",Paris,FR,31953,73,50124,2025-08-24T09:12:12Z,2025-08-31T16:38:37Z,ok
+81872,"Equinix PA5 - Paris, Victor Hugo",Paris,FR,38996,73,211615,2025-09-16T14:25:27Z,2025-09-16T14:25:27Z,ok
+82238,"Equinix PA5 - Paris, Victor Hugo",Paris,FR,32075,73,400810,2025-10-03T22:06:25Z,2025-10-03T22:06:25Z,ok
+83240,"Equinix PA5 - Paris, Victor Hugo",Paris,FR,40330,73,213535,2025-10-29T22:16:00Z,2025-10-29T22:16:00Z,ok
+83510,"Equinix PA5 - Paris, Victor Hugo",Paris,FR,40784,73,210699,2025-11-07T10:34:35Z,2025-11-07T10:34:36Z,ok
+84417,"Equinix PA5 - Paris, Victor Hugo",Paris,FR,41082,73,154410,2025-12-14T19:10:48Z,2025-12-14T19:10:48Z,ok
+85769,"Equinix PA5 - Paris, Victor Hugo",Paris,FR,33780,73,51826,2026-02-11T14:26:50Z,2026-02-11T14:26:50Z,ok
+87035,"Equinix PA5 - Paris, Victor Hugo",Paris,FR,41922,73,215727,2026-04-03T02:20:56Z,2026-04-03T02:20:56Z,ok
+87572,"Equinix PA5 - Paris, Victor Hugo",Paris,FR,40661,73,215114,2026-04-27T17:04:27Z,2026-04-27T17:04:27Z,ok
+87876,"Equinix PA5 - Paris, Victor Hugo",Paris,FR,30776,73,18854,2026-05-11T02:46:43Z,2026-05-11T02:46:43Z,ok
+88101,"Equinix PA5 - Paris, Victor Hugo",Paris,FR,22927,73,213382,2026-05-26T10:17:44Z,2026-05-26T10:17:44Z,ok
+88410,"Equinix PA5 - Paris, Victor Hugo",Paris,FR,13870,73,54103,2026-06-09T07:34:44Z,2026-06-09T07:34:44Z,ok
+88418,"Equinix PA5 - Paris, Victor Hugo",Paris,FR,19086,73,39855,2026-06-09T07:39:03Z,2026-06-09T07:39:03Z,ok
+88797,"Equinix PA5 - Paris, Victor Hugo",Paris,FR,34146,73,47600,2026-06-26T00:39:22Z,2026-06-26T00:39:23Z,ok
+88962,"Equinix PA5 - Paris, Victor Hugo",Paris,FR,36076,73,215035,2026-07-05T18:35:59Z,2026-07-05T18:35:59Z,ok
+89300,"Equinix PA5 - Paris, Victor Hugo",Paris,FR,34222,73,216265,2026-07-20T12:39:08Z,2026-07-20T12:39:08Z,ok
+89661,"Equinix PA5 - Paris, Victor Hugo",Paris,FR,42233,73,198402,2026-08-01T11:06:20Z,2026-08-01T11:06:20Z,ok
+89756,"Equinix PA5 - Paris, Victor Hugo",Paris,FR,25249,73,212504,2026-08-04T15:04:42Z,2026-08-04T15:04:42Z,ok
+90053,"Equinix PA5 - Paris, Victor Hugo",Paris,FR,27233,73,212720,2026-08-18T16:54:34Z,2026-08-18T16:54:34Z,ok
+90171,"Equinix PA5 - Paris, Victor Hugo",Paris,FR,6852,73,44356,2026-08-24T14:53:11Z,2026-08-24T14:53:11Z,ok
+90263,"Equinix PA5 - Paris, Victor Hugo",Paris,FR,35539,73,215359,2026-08-28T10:44:29Z,2026-08-28T10:44:29Z,ok
+160,Digital Realty Paris PAR2,Paris,FR,29,75,5410,2010-07-29T00:00:00Z,2016-03-14T20:31:50Z,ok
+230,Digital Realty Paris PAR2,Paris,FR,120,75,12322,2010-07-29T00:00:00Z,2016-03-14T20:49:58Z,ok
+1583,Digital Realty Paris PAR2,Paris,FR,267,75,174,2010-07-29T00:00:00Z,2017-12-06T20:48:30Z,ok
+1966,Digital Realty Paris PAR2,Paris,FR,118,75,5400,2010-07-29T00:00:00Z,2016-03-14T21:39:25Z,ok
+2486,Digital Realty Paris PAR2,Paris,FR,291,75,6939,2010-07-29T00:00:00Z,2016-03-14T21:23:46Z,ok
+3421,Digital Realty Paris PAR2,Paris,FR,1479,75,8218,2010-07-29T00:00:00Z,2016-03-14T21:17:31Z,ok
+4933,Digital Realty Paris PAR2,Paris,FR,1955,75,6661,2010-07-29T00:00:00Z,2016-03-14T21:40:22Z,ok
+4947,Digital Realty Paris PAR2,Paris,FR,731,75,30781,2010-07-29T00:00:00Z,2016-03-14T21:28:38Z,ok
+6606,Digital Realty Paris PAR2,Paris,FR,3016,75,43646,2010-07-29T00:00:00Z,2016-03-14T21:40:18Z,ok
+8225,Digital Realty Paris PAR2,Paris,FR,3957,75,51269,2011-04-23T00:00:00Z,2016-03-14T20:37:19Z,ok
+10193,Digital Realty Paris PAR2,Paris,FR,1451,75,3491,2012-07-31T00:00:00Z,2016-03-14T20:41:38Z,ok
+10714,Digital Realty Paris PAR2,Paris,FR,3787,75,16128,2012-11-07T00:00:00Z,2016-03-14T20:35:32Z,ok
+11582,Digital Realty Paris PAR2,Paris,FR,1463,75,31688,2013-04-16T00:00:00Z,2016-03-14T21:16:28Z,ok
+13302,Digital Realty Paris PAR2,Paris,FR,433,75,15169,2014-01-21T00:00:00Z,2016-03-14T20:34:48Z,ok
+13609,Digital Realty Paris PAR2,Paris,FR,10,75,1299,2014-03-12T00:00:00Z,2016-03-14T21:53:25Z,ok
+14244,Digital Realty Paris PAR2,Paris,FR,3846,75,39583,2014-05-26T00:00:00Z,2016-03-14T21:01:41Z,ok
+14322,Digital Realty Paris PAR2,Paris,FR,2405,75,8309,2014-05-30T00:00:00Z,2016-03-14T21:49:23Z,ok
+16075,Digital Realty Paris PAR2,Paris,FR,7743,75,48310,2015-01-20T00:00:00Z,2016-03-14T21:00:59Z,ok
+18148,Digital Realty Paris PAR2,Paris,FR,7875,75,21351,2015-09-20T00:00:00Z,2016-03-14T21:53:58Z,ok
+23575,Digital Realty Paris PAR2,Paris,FR,2927,75,43531,2017-02-21T19:38:32Z,2017-02-21T19:38:33Z,ok
+27235,Digital Realty Paris PAR2,Paris,FR,124,75,9002,2017-12-06T11:35:33Z,2017-12-06T11:35:33Z,ok
+27711,Digital Realty Paris PAR2,Paris,FR,15688,75,44297,2018-01-15T08:59:44Z,2018-01-15T08:59:44Z,ok
+28837,Digital Realty Paris PAR2,Paris,FR,4782,75,32590,2018-04-04T16:48:55Z,2018-04-04T16:48:55Z,ok
+29972,Digital Realty Paris PAR2,Paris,FR,17012,75,48813,2018-06-14T12:58:33Z,2018-06-14T12:58:33Z,ok
+30596,Digital Realty Paris PAR2,Paris,FR,14,75,3257,2018-08-01T12:26:23Z,2018-08-01T12:26:23Z,ok
+30966,Digital Realty Paris PAR2,Paris,FR,6845,75,37492,2018-08-17T13:57:00Z,2018-08-17T13:57:00Z,ok
+32567,Digital Realty Paris PAR2,Paris,FR,3411,75,51468,2018-11-23T11:36:52Z,2018-11-23T11:36:52Z,ok
+34932,Digital Realty Paris PAR2,Paris,FR,2702,75,29075,2019-04-18T12:38:23Z,2019-04-18T12:38:23Z,ok
+35923,Digital Realty Paris PAR2,Paris,FR,20013,75,209323,2019-06-07T10:26:15Z,2019-06-07T10:26:15Z,ok
+37183,Digital Realty Paris PAR2,Paris,FR,1100,75,14340,2019-09-11T11:39:10Z,2019-09-11T11:39:10Z,ok
+37693,Digital Realty Paris PAR2,Paris,FR,10542,75,203547,2019-10-17T19:40:18Z,2019-10-17T19:40:18Z,ok
+39488,Digital Realty Paris PAR2,Paris,FR,813,75,20473,2020-02-07T17:45:21Z,2020-02-07T17:45:21Z,ok
+41054,Digital Realty Paris PAR2,Paris,FR,1964,75,34177,2020-05-03T19:13:25Z,2020-05-03T19:13:25Z,ok
+44338,Digital Realty Paris PAR2,Paris,FR,24828,75,42201,2020-10-08T08:09:48Z,2020-10-08T08:09:48Z,ok
+47497,Digital Realty Paris PAR2,Paris,FR,261,75,1273,2021-02-25T12:34:40Z,2021-02-25T12:34:40Z,ok
+49813,Digital Realty Paris PAR2,Paris,FR,26704,75,4455,2021-06-24T20:28:49Z,2021-06-24T20:28:49Z,ok
+50035,Digital Realty Paris PAR2,Paris,FR,7190,75,60427,2021-07-06T09:29:35Z,2021-07-06T09:29:35Z,ok
+51674,Digital Realty Paris PAR2,Paris,FR,27310,75,399728,2021-10-15T23:48:44Z,2021-10-15T23:48:44Z,ok
+56643,Digital Realty Paris PAR2,Paris,FR,30621,75,44407,2022-08-01T11:23:04Z,2022-08-01T11:23:04Z,ok
+56888,Digital Realty Paris PAR2,Paris,FR,4768,75,54444,2022-08-09T09:45:40Z,2022-08-09T09:45:40Z,ok
+62061,Digital Realty Paris PAR2,Paris,FR,91,75,8220,2023-05-08T11:58:59Z,2023-05-08T11:58:59Z,ok
+63594,Digital Realty Paris PAR2,Paris,FR,1580,75,3215,2023-07-07T08:53:49Z,2023-07-07T08:53:49Z,ok
+66095,Digital Realty Paris PAR2,Paris,FR,34547,75,206170,2023-11-02T10:38:37Z,2023-11-02T10:38:37Z,ok
+68145,Digital Realty Paris PAR2,Paris,FR,495,75,5511,2024-02-12T16:38:30Z,2024-02-12T16:38:30Z,ok
+72843,Digital Realty Paris PAR2,Paris,FR,9598,75,203391,2024-08-20T11:09:28Z,2024-08-20T11:09:28Z,ok
+73359,Digital Realty Paris PAR2,Paris,FR,5262,75,198545,2024-09-05T14:57:06Z,2024-09-05T14:57:06Z,ok
+73501,Digital Realty Paris PAR2,Paris,FR,1949,75,8648,2024-09-13T09:36:14Z,2024-09-13T09:36:14Z,ok
+80825,Digital Realty Paris PAR2,Paris,FR,15256,75,39801,2025-07-30T13:13:38Z,2025-09-11T11:10:02Z,ok
+82280,Digital Realty Paris PAR2,Paris,FR,40500,75,29457,2025-10-06T13:15:23Z,2025-10-06T13:15:23Z,ok
+82362,Digital Realty Paris PAR2,Paris,FR,38192,75,397032,2025-10-08T13:37:58Z,2025-10-08T13:39:15Z,ok
+82560,Digital Realty Paris PAR2,Paris,FR,8663,75,62044,2025-10-14T20:26:05Z,2025-10-14T20:26:06Z,ok
+87949,Digital Realty Paris PAR2,Paris,FR,36076,75,215035,2026-05-14T20:24:03Z,2026-05-14T20:24:03Z,ok
+88130,Digital Realty Paris PAR2,Paris,FR,37229,75,215599,2026-05-28T12:34:55Z,2026-05-28T12:34:55Z,ok
+3896,Level(3) Paris (Le Capitole),Paris,FR,1479,112,8218,2010-07-29T00:00:00Z,2016-03-14T20:58:25Z,ok
+5415,Level(3) Paris (Le Capitole),Paris,FR,190,112,29608,2010-07-29T00:00:00Z,2016-03-14T20:23:13Z,ok
+8861,Level(3) Paris (Le Capitole),Paris,FR,4129,112,29152,2011-10-07T00:00:00Z,2016-03-14T21:05:02Z,ok
+14377,Level(3) Paris (Le Capitole),Paris,FR,2405,112,8309,2014-06-03T00:00:00Z,2016-03-11T07:21:43Z,ok
+19912,Level(3) Paris (Le Capitole),Paris,FR,9949,112,47866,2016-04-05T17:38:31Z,2016-04-05T17:38:31Z,ok
+21015,Level(3) Paris (Le Capitole),Paris,FR,6457,112,199248,2016-07-20T14:22:04Z,2016-07-20T14:22:04Z,ok
+38134,Level(3) Paris (Le Capitole),Paris,FR,15846,112,205344,2019-11-16T17:59:55Z,2019-11-16T17:59:55Z,ok
+65963,Level(3) Paris (Le Capitole),Paris,FR,34481,112,47160,2023-10-27T13:54:40Z,2023-10-27T13:54:40Z,ok
+69108,Level(3) Paris (Le Capitole),Paris,FR,833,112,35217,2024-03-16T20:00:11Z,2024-03-16T20:00:11Z,ok
+79859,Level(3) Paris (Le Capitole),Paris,FR,23676,112,206804,2025-06-29T22:03:31Z,2025-06-29T22:03:31Z,ok
+85143,Level(3) Paris (Le Capitole),Paris,FR,7479,112,62000,2026-01-21T21:54:33Z,2026-01-21T21:54:33Z,ok
+1584,Global Switch Paris,Paris,FR,267,181,174,2010-07-29T00:00:00Z,2021-01-07T21:31:33Z,ok
+2654,Global Switch Paris,Paris,FR,1250,181,8487,2010-07-29T00:00:00Z,2016-03-14T20:51:33Z,ok
+2692,Global Switch Paris,Paris,FR,1264,181,16276,2010-07-29T00:00:00Z,2016-03-14T21:42:50Z,ok
+3011,Global Switch Paris,Paris,FR,200,181,30889,2010-07-29T00:00:00Z,2016-03-14T21:19:25Z,ok
+3409,Global Switch Paris,Paris,FR,1479,181,8218,2010-07-29T00:00:00Z,2016-03-14T20:52:32Z,ok
+3938,Global Switch Paris,Paris,FR,1739,181,35283,2010-07-29T00:00:00Z,2024-06-19T10:10:00Z,ok
+4941,Global Switch Paris,Paris,FR,731,181,30781,2010-07-29T00:00:00Z,2016-03-14T21:28:37Z,ok
+6497,Global Switch Paris,Paris,FR,2915,181,50087,2010-07-29T00:00:00Z,2016-03-14T21:38:37Z,ok
+7547,Global Switch Paris,Paris,FR,3570,181,8304,2010-11-19T00:00:00Z,2016-03-14T20:36:16Z,ok
+10709,Global Switch Paris,Paris,FR,3787,181,16128,2012-11-07T00:00:00Z,2016-03-14T20:27:53Z,ok
+14233,Global Switch Paris,Paris,FR,6709,181,39444,2014-05-21T00:00:00Z,2016-03-14T20:24:04Z,ok
+14376,Global Switch Paris,Paris,FR,2405,181,8309,2014-06-03T00:00:00Z,2016-03-11T07:21:43Z,ok
+18513,Global Switch Paris,Paris,FR,8996,181,49690,2015-11-02T00:00:00Z,2016-03-14T20:46:08Z,ok
+20193,Global Switch Paris,Paris,FR,261,181,1273,2016-04-26T08:38:35Z,2016-04-26T08:38:35Z,ok
+20617,Global Switch Paris,Paris,FR,541,181,6461,2016-06-01T14:40:36Z,2016-06-01T14:40:36Z,ok
+21211,Global Switch Paris,Paris,FR,8561,181,200780,2016-08-07T09:12:42Z,2016-08-07T09:12:42Z,ok
+22206,Global Switch Paris,Paris,FR,433,181,15169,2016-10-25T13:56:28Z,2016-10-25T13:56:28Z,ok
+24611,Global Switch Paris,Paris,FR,4345,181,197981,2017-05-12T13:59:00Z,2017-05-12T13:59:00Z,ok
+26577,Global Switch Paris,Paris,FR,3554,181,714,2017-10-19T13:27:46Z,2017-10-19T13:27:46Z,ok
+29946,Global Switch Paris,Paris,FR,17014,181,57581,2018-06-13T10:32:27Z,2018-06-13T10:32:27Z,ok
+32200,Global Switch Paris,Paris,FR,18211,181,197914,2018-11-05T10:20:21Z,2018-11-05T10:20:21Z,ok
+41058,Global Switch Paris,Paris,FR,1964,181,34177,2020-05-03T19:14:22Z,2020-05-03T19:14:23Z,ok
+44067,Global Switch Paris,Paris,FR,91,181,8220,2020-09-28T13:25:56Z,2020-09-28T13:25:56Z,ok
+47402,Global Switch Paris,Paris,FR,2,181,20940,2021-02-19T16:01:25Z,2021-02-19T16:01:25Z,ok
+51096,Global Switch Paris,Paris,FR,495,181,5511,2021-09-07T15:31:01Z,2021-09-07T15:31:01Z,ok
+57882,Global Switch Paris,Paris,FR,15406,181,20986,2022-10-06T07:18:42Z,2022-10-06T07:18:42Z,ok
+65059,Global Switch Paris,Paris,FR,15964,181,42962,2023-09-17T11:40:56Z,2023-09-17T11:40:56Z,ok
+70521,Global Switch Paris,Paris,FR,14,181,3257,2024-05-13T15:16:04Z,2024-05-13T15:16:04Z,ok
+75590,Global Switch Paris,Paris,FR,2702,181,29075,2024-12-16T17:40:26Z,2024-12-16T17:40:26Z,ok
+76239,Global Switch Paris,Paris,FR,2216,181,35625,2025-01-22T12:58:17Z,2025-01-22T12:58:17Z,ok
+83252,Global Switch Paris,Paris,FR,27330,181,49915,2025-10-30T01:08:13Z,2025-10-30T01:08:14Z,ok
+2013,"Equinix PA2 - Paris, Saint-Denis",Paris,FR,499,306,34019,2010-07-29T00:00:00Z,2016-03-14T20:29:37Z,ok
+2669,"Equinix PA2 - Paris, Saint-Denis",Paris,FR,283,306,25358,2010-07-29T00:00:00Z,2016-03-14T21:02:16Z,ok
+3413,"Equinix PA2 - Paris, Saint-Denis",Paris,FR,1479,306,8218,2010-07-29T00:00:00Z,2016-03-14T21:28:59Z,ok
+3482,"Equinix PA2 - Paris, Saint-Denis",Paris,FR,1492,306,35393,2010-07-29T00:00:00Z,2016-03-14T20:55:56Z,ok
+3681,"Equinix PA2 - Paris, Saint-Denis",Paris,FR,267,306,174,2010-07-29T00:00:00Z,2021-01-06T15:02:39Z,ok
+3700,"Equinix PA2 - Paris, Saint-Denis",Paris,FR,731,306,30781,2010-07-29T00:00:00Z,2016-03-14T21:14:05Z,ok
+3901,"Equinix PA2 - Paris, Saint-Denis",Paris,FR,190,306,29608,2010-07-29T00:00:00Z,2016-03-14T20:45:39Z,ok
+3936,"Equinix PA2 - Paris, Saint-Denis",Paris,FR,1739,306,35283,2010-07-29T00:00:00Z,2018-06-13T16:16:25Z,ok
+4046,"Equinix PA2 - Paris, Saint-Denis",Paris,FR,322,306,15422,2010-07-29T00:00:00Z,2016-03-14T21:19:24Z,ok
+4360,"Equinix PA2 - Paris, Saint-Denis",Paris,FR,116,306,8426,2010-07-29T00:00:00Z,2016-03-14T20:27:00Z,ok
+4611,"Equinix PA2 - Paris, Saint-Denis",Paris,FR,437,306,6453,2010-07-29T00:00:00Z,2016-03-14T20:56:45Z,ok
+4843,"Equinix PA2 - Paris, Saint-Denis",Paris,FR,2146,306,47841,2010-07-29T00:00:00Z,2016-03-14T21:09:43Z,ok
+4922,"Equinix PA2 - Paris, Saint-Denis",Paris,FR,541,306,6461,2010-07-29T00:00:00Z,2016-06-01T14:40:19Z,ok
+6068,"Equinix PA2 - Paris, Saint-Denis",Paris,FR,2485,306,48920,2010-07-29T00:00:00Z,2016-03-14T21:17:39Z,ok
+6326,"Equinix PA2 - Paris, Saint-Denis",Paris,FR,2927,306,43531,2010-07-29T00:00:00Z,2016-03-15T09:24:03Z,ok
+7213,"Equinix PA2 - Paris, Saint-Denis",Paris,FR,3403,306,44902,2010-09-14T00:00:00Z,2016-03-14T20:57:13Z,ok
+7460,"Equinix PA2 - Paris, Saint-Denis",Paris,FR,2702,306,29075,2010-11-09T00:00:00Z,2016-03-14T21:45:59Z,ok
+8535,"Equinix PA2 - Paris, Saint-Denis",Paris,FR,4129,306,29152,2011-07-20T00:00:00Z,2016-03-14T20:42:47Z,ok
+8725,"Equinix PA2 - Paris, Saint-Denis",Paris,FR,4224,306,13335,2011-09-07T00:00:00Z,2016-03-14T21:44:36Z,ok
+8782,"Equinix PA2 - Paris, Saint-Denis",Paris,FR,4109,306,52075,2011-09-23T00:00:00Z,2016-03-14T20:52:59Z,ok
+8970,"Equinix PA2 - Paris, Saint-Denis",Paris,FR,4345,306,197981,2011-11-09T00:00:00Z,2016-03-14T21:19:25Z,ok
+8975,"Equinix PA2 - Paris, Saint-Denis",Paris,FR,4359,306,197133,2011-11-10T00:00:00Z,2016-03-11T07:22:58Z,ok
+9633,"Equinix PA2 - Paris, Saint-Denis",Paris,FR,104,306,15412,2012-03-15T00:00:00Z,2016-03-14T21:11:50Z,ok
+10255,"Equinix PA2 - Paris, Saint-Denis",Paris,FR,3732,306,35665,2012-08-12T00:00:00Z,2016-03-14T20:40:26Z,ok
+10538,"Equinix PA2 - Paris, Saint-Denis",Paris,FR,10,306,1299,2012-10-01T00:00:00Z,2016-03-14T20:25:30Z,ok
+10698,"Equinix PA2 - Paris, Saint-Denis",Paris,FR,3017,306,16347,2012-11-03T00:00:00Z,2016-03-14T20:58:33Z,ok
+11470,"Equinix PA2 - Paris, Saint-Denis",Paris,FR,5379,306,44494,2013-03-27T00:00:00Z,2016-03-14T21:07:41Z,ok
+11590,"Equinix PA2 - Paris, Saint-Denis",Paris,FR,1250,306,8487,2013-04-17T00:00:00Z,2016-03-14T21:08:59Z,ok
+11623,"Equinix PA2 - Paris, Saint-Denis",Paris,FR,200,306,30889,2013-04-24T00:00:00Z,2018-02-13T06:17:34Z,ok
+12310,"Equinix PA2 - Paris, Saint-Denis",Paris,FR,5262,306,198545,2013-08-12T00:00:00Z,2016-03-14T21:53:56Z,ok
+12525,"Equinix PA2 - Paris, Saint-Denis",Paris,FR,5858,306,60532,2013-09-06T00:00:00Z,2016-03-14T20:40:08Z,ok
+12757,"Equinix PA2 - Paris, Saint-Denis",Paris,FR,5784,306,57809,2013-10-06T00:00:00Z,2017-07-26T10:06:51Z,ok
+13100,"Equinix PA2 - Paris, Saint-Denis",Paris,FR,5626,306,57068,2013-12-06T00:00:00Z,2016-03-14T21:45:00Z,ok
+13532,"Equinix PA2 - Paris, Saint-Denis",Paris,FR,4430,306,56665,2014-03-02T00:00:00Z,2016-03-14T20:46:15Z,ok
+14026,"Equinix PA2 - Paris, Saint-Denis",Paris,FR,6709,306,39444,2014-04-24T00:00:00Z,2016-03-14T21:24:57Z,ok
+14241,"Equinix PA2 - Paris, Saint-Denis",Paris,FR,2654,306,49594,2014-05-26T00:00:00Z,2016-03-14T21:01:41Z,ok
+14332,"Equinix PA2 - Paris, Saint-Denis",Paris,FR,2405,306,8309,2014-05-30T00:00:00Z,2016-03-14T21:58:13Z,ok
+14804,"Equinix PA2 - Paris, Saint-Denis",Paris,FR,6108,306,35600,2014-08-02T00:00:00Z,2016-03-14T21:33:41Z,ok
+15020,"Equinix PA2 - Paris, Saint-Denis",Paris,FR,1045,306,2914,2014-09-06T00:00:00Z,2016-03-14T20:30:29Z,ok
+15536,"Equinix PA2 - Paris, Saint-Denis",Paris,FR,7513,306,200077,2014-11-13T00:00:00Z,2016-03-14T21:56:23Z,ok
+17904,"Equinix PA2 - Paris, Saint-Denis",Paris,FR,1964,306,34177,2015-08-26T00:00:00Z,2016-03-14T20:39:16Z,ok
+18077,"Equinix PA2 - Paris, Saint-Denis",Paris,FR,1613,306,36351,2015-09-16T00:00:00Z,2016-03-14T21:01:13Z,ok
+18763,"Equinix PA2 - Paris, Saint-Denis",Paris,FR,9153,306,44000,2015-12-01T00:00:00Z,2016-03-14T20:52:32Z,ok
+19524,"Equinix PA2 - Paris, Saint-Denis",Paris,FR,9689,306,201080,2016-03-01T00:00:00Z,2016-03-14T21:15:25Z,ok
+20627,"Equinix PA2 - Paris, Saint-Denis",Paris,FR,10435,306,47631,2016-06-01T20:58:45Z,2016-06-01T20:58:45Z,ok
+20770,"Equinix PA2 - Paris, Saint-Denis",Paris,FR,10569,306,35280,2016-06-18T03:44:06Z,2016-06-18T03:44:06Z,ok
+21156,"Equinix PA2 - Paris, Saint-Denis",Paris,FR,150,306,6774,2016-08-02T16:31:16Z,2016-08-02T16:31:17Z,ok
+21346,"Equinix PA2 - Paris, Saint-Denis",Paris,FR,10987,306,60350,2016-08-20T06:24:13Z,2016-08-20T06:24:13Z,ok
+21556,"Equinix PA2 - Paris, Saint-Denis",Paris,FR,14,306,3257,2016-09-06T15:07:27Z,2016-09-06T15:07:28Z,ok
+22155,"Equinix PA2 - Paris, Saint-Denis",Paris,FR,6615,306,29606,2016-10-21T08:51:48Z,2016-10-21T08:51:49Z,ok
+22583,"Equinix PA2 - Paris, Saint-Denis",Paris,FR,5064,306,197696,2016-11-26T23:36:43Z,2016-11-26T23:36:44Z,ok
+23112,"Equinix PA2 - Paris, Saint-Denis",Paris,FR,12293,306,199483,2017-01-17T16:03:00Z,2017-01-17T16:03:00Z,ok
+23627,"Equinix PA2 - Paris, Saint-Denis",Paris,FR,291,306,6939,2017-02-24T22:57:55Z,2017-02-24T22:57:55Z,ok
+23768,"Equinix PA2 - Paris, Saint-Denis",Paris,FR,8205,306,201939,2017-03-07T09:36:34Z,2017-03-07T09:36:34Z,ok
+24055,"Equinix PA2 - Paris, Saint-Denis",Paris,FR,12980,306,202140,2017-03-28T19:37:46Z,2017-03-28T19:37:46Z,ok
+26231,"Equinix PA2 - Paris, Saint-Denis",Paris,FR,12379,306,51335,2017-09-28T07:14:44Z,2017-09-28T07:14:44Z,ok
+26354,"Equinix PA2 - Paris, Saint-Denis",Paris,FR,6852,306,44356,2017-10-03T03:07:00Z,2017-10-03T03:07:00Z,ok
+26492,"Equinix PA2 - Paris, Saint-Denis",Paris,FR,8561,306,200780,2017-10-13T17:58:05Z,2017-10-13T17:58:05Z,ok
+26576,"Equinix PA2 - Paris, Saint-Denis",Paris,FR,3554,306,714,2017-10-19T13:27:29Z,2017-10-19T13:27:29Z,ok
+27215,"Equinix PA2 - Paris, Saint-Denis",Paris,FR,5010,306,29467,2017-12-04T13:14:23Z,2017-12-04T13:14:23Z,ok
+27349,"Equinix PA2 - Paris, Saint-Denis",Paris,FR,6460,306,2635,2017-12-12T17:30:23Z,2017-12-12T17:30:23Z,ok
+28070,"Equinix PA2 - Paris, Saint-Denis",Paris,FR,7000,306,48504,2018-02-07T09:17:26Z,2018-02-07T09:17:26Z,ok
+28288,"Equinix PA2 - Paris, Saint-Denis",Paris,FR,10626,306,36924,2018-02-23T15:27:26Z,2018-02-23T15:27:26Z,ok
+28563,"Equinix PA2 - Paris, Saint-Denis",Paris,FR,16152,306,47548,2018-03-15T19:10:31Z,2018-03-15T19:10:31Z,ok
+29941,"Equinix PA2 - Paris, Saint-Denis",Paris,FR,12272,306,43445,2018-06-13T09:29:17Z,2018-06-13T09:29:17Z,ok
+30505,"Equinix PA2 - Paris, Saint-Denis",Paris,FR,854,306,36692,2018-07-27T12:56:00Z,2018-07-27T12:56:00Z,ok
+31022,"Equinix PA2 - Paris, Saint-Denis",Paris,FR,17507,306,205483,2018-08-22T06:47:53Z,2018-08-22T06:47:53Z,ok
+31274,"Equinix PA2 - Paris, Saint-Denis",Paris,FR,601,306,9009,2018-09-12T14:22:26Z,2018-09-12T14:22:26Z,ok
+32406,"Equinix PA2 - Paris, Saint-Denis",Paris,FR,906,306,30081,2018-11-15T15:23:13Z,2018-11-15T15:23:13Z,ok
+32634,"Equinix PA2 - Paris, Saint-Denis",Paris,FR,18446,306,209815,2018-11-28T14:16:52Z,2018-11-28T14:16:52Z,ok
+33582,"Equinix PA2 - Paris, Saint-Denis",Paris,FR,17353,306,48305,2019-02-08T08:34:05Z,2019-02-08T08:34:05Z,ok
+33936,"Equinix PA2 - Paris, Saint-Denis",Paris,FR,2496,306,49544,2019-03-01T12:41:50Z,2019-03-01T12:41:50Z,ok
+34036,"Equinix PA2 - Paris, Saint-Denis",Paris,FR,9470,306,54994,2019-03-07T06:25:50Z,2019-03-07T06:25:50Z,ok
+34451,"Equinix PA2 - Paris, Saint-Denis",Paris,FR,18975,306,6696,2019-03-30T16:49:43Z,2021-08-14T14:29:54Z,ok
+34504,"Equinix PA2 - Paris, Saint-Denis",Paris,FR,19419,306,57752,2019-04-02T16:45:05Z,2019-04-02T16:45:06Z,ok
+34507,"Equinix PA2 - Paris, Saint-Denis",Paris,FR,19420,306,198034,2019-04-02T18:47:39Z,2019-04-02T18:47:39Z,ok
+34701,"Equinix PA2 - Paris, Saint-Denis",Paris,FR,3235,306,31167,2019-04-09T08:30:23Z,2019-04-09T08:30:23Z,ok
+34969,"Equinix PA2 - Paris, Saint-Denis",Paris,FR,4994,306,53589,2019-04-18T21:19:24Z,2019-04-18T21:19:24Z,ok
+35079,"Equinix PA2 - Paris, Saint-Denis",Paris,FR,19048,306,58011,2019-04-29T16:32:11Z,2019-04-29T16:32:11Z,ok
+35138,"Equinix PA2 - Paris, Saint-Denis",Paris,FR,19685,306,35085,2019-05-02T14:17:57Z,2019-05-02T14:17:57Z,ok
+35768,"Equinix PA2 - Paris, Saint-Denis",Paris,FR,5539,306,57463,2019-05-31T11:43:41Z,2019-05-31T11:43:41Z,ok
+36355,"Equinix PA2 - Paris, Saint-Denis",Paris,FR,11352,306,203596,2019-07-09T09:35:36Z,2019-07-09T09:35:36Z,ok
+36587,"Equinix PA2 - Paris, Saint-Denis",Paris,FR,20430,306,57855,2019-07-25T07:57:15Z,2019-07-25T07:57:15Z,ok
+36761,"Equinix PA2 - Paris, Saint-Denis",Paris,FR,16535,306,24429,2019-08-07T02:28:26Z,2019-08-07T02:28:26Z,ok
+37061,"Equinix PA2 - Paris, Saint-Denis",Paris,FR,20738,306,50894,2019-09-01T20:40:24Z,2019-09-01T20:40:24Z,ok
+39271,"Equinix PA2 - Paris, Saint-Denis",Paris,FR,18319,306,55222,2020-01-27T14:56:48Z,2020-01-27T14:56:48Z,ok
+39321,"Equinix PA2 - Paris, Saint-Denis",Paris,FR,15530,306,62597,2020-01-29T14:12:06Z,2020-01-29T14:12:06Z,ok
+40402,"Equinix PA2 - Paris, Saint-Denis",Paris,FR,495,306,5511,2020-03-30T15:07:25Z,2020-03-30T15:07:25Z,ok
+40534,"Equinix PA2 - Paris, Saint-Denis",Paris,FR,17246,306,37451,2020-04-05T17:20:36Z,2020-04-05T17:20:36Z,ok
+41317,"Equinix PA2 - Paris, Saint-Denis",Paris,FR,16598,306,32261,2020-05-14T17:45:08Z,2020-05-14T17:45:08Z,ok
+41610,"Equinix PA2 - Paris, Saint-Denis",Paris,FR,1691,306,12826,2020-06-02T21:54:47Z,2020-06-02T21:54:47Z,ok
+42647,"Equinix PA2 - Paris, Saint-Denis",Paris,FR,4278,306,1828,2020-07-13T20:45:19Z,2020-07-13T20:45:19Z,ok
+44440,"Equinix PA2 - Paris, Saint-Denis",Paris,FR,18511,306,25540,2020-10-13T11:08:04Z,2020-10-13T11:08:04Z,ok
+46042,"Equinix PA2 - Paris, Saint-Denis",Paris,FR,17716,306,200271,2020-12-28T10:12:06Z,2020-12-28T10:12:06Z,ok
+47081,"Equinix PA2 - Paris, Saint-Denis",Paris,FR,4114,306,31564,2021-02-05T14:21:19Z,2021-02-05T14:21:19Z,ok
+48015,"Equinix PA2 - Paris, Saint-Denis",Paris,FR,26364,306,60456,2021-03-24T13:47:30Z,2021-03-24T13:47:30Z,ok
+49778,"Equinix PA2 - Paris, Saint-Denis",Paris,FR,26704,306,4455,2021-06-24T20:22:33Z,2021-06-24T20:22:33Z,ok
+49888,"Equinix PA2 - Paris, Saint-Denis",Paris,FR,27320,306,200322,2021-06-29T12:24:59Z,2021-06-29T12:24:59Z,ok
+51093,"Equinix PA2 - Paris, Saint-Denis",Paris,FR,4697,306,198335,2021-09-07T14:25:50Z,2021-09-07T14:25:50Z,ok
+51390,"Equinix PA2 - Paris, Saint-Denis",Paris,FR,28121,306,48817,2021-09-28T19:18:12Z,2021-09-28T19:18:12Z,ok
+51753,"Equinix PA2 - Paris, Saint-Denis",Paris,FR,13539,306,29283,2021-10-21T10:12:29Z,2021-10-21T10:12:29Z,ok
+51966,"Equinix PA2 - Paris, Saint-Denis",Paris,FR,28387,306,57179,2021-10-30T21:40:19Z,2021-10-30T21:40:19Z,ok
+52443,"Equinix PA2 - Paris, Saint-Denis",Paris,FR,14511,306,52580,2021-11-22T13:43:22Z,2021-11-22T13:43:22Z,ok
+52586,"Equinix PA2 - Paris, Saint-Denis",Paris,FR,1234,306,21859,2021-11-30T19:25:56Z,2021-11-30T19:25:56Z,ok
+53904,"Equinix PA2 - Paris, Saint-Denis",Paris,FR,7479,306,62000,2022-02-19T18:09:15Z,2022-02-19T18:09:15Z,ok
+56006,"Equinix PA2 - Paris, Saint-Denis",Paris,FR,6477,306,11179,2022-06-26T12:24:41Z,2022-06-26T12:24:41Z,ok
+56642,"Equinix PA2 - Paris, Saint-Denis",Paris,FR,30621,306,44407,2022-08-01T11:22:55Z,2022-08-01T11:22:55Z,ok
+57364,"Equinix PA2 - Paris, Saint-Denis",Paris,FR,6031,306,39931,2022-09-01T07:37:11Z,2022-09-01T07:37:11Z,ok
+58484,"Equinix PA2 - Paris, Saint-Denis",Paris,FR,29,306,5410,2022-11-03T15:27:40Z,2022-11-03T15:27:40Z,ok
+59234,"Equinix PA2 - Paris, Saint-Denis",Paris,FR,30727,306,56504,2022-12-15T06:37:28Z,2022-12-15T06:37:28Z,ok
+60014,"Equinix PA2 - Paris, Saint-Denis",Paris,FR,14820,306,50309,2023-01-27T09:15:12Z,2023-01-27T09:15:12Z,ok
+62059,"Equinix PA2 - Paris, Saint-Denis",Paris,FR,91,306,8220,2023-05-08T11:58:12Z,2023-05-08T11:58:12Z,ok
+62663,"Equinix PA2 - Paris, Saint-Denis",Paris,FR,3141,306,8368,2023-06-03T11:03:42Z,2023-06-03T11:03:42Z,ok
+63777,"Equinix PA2 - Paris, Saint-Denis",Paris,FR,124,306,9002,2023-07-13T14:43:00Z,2023-07-13T14:43:00Z,ok
+63797,"Equinix PA2 - Paris, Saint-Denis",Paris,FR,3608,306,24482,2023-07-14T21:00:22Z,2023-07-14T21:00:22Z,ok
+65885,"Equinix PA2 - Paris, Saint-Denis",Paris,FR,733,306,9036,2023-10-24T07:36:43Z,2023-10-24T07:36:43Z,ok
+65960,"Equinix PA2 - Paris, Saint-Denis",Paris,FR,34481,306,47160,2023-10-27T13:54:04Z,2023-10-27T13:54:04Z,ok
+67030,"Equinix PA2 - Paris, Saint-Denis",Paris,FR,24082,306,44097,2023-12-21T14:39:41Z,2023-12-21T14:39:41Z,ok
+67082,"Equinix PA2 - Paris, Saint-Denis",Paris,FR,18286,306,49434,2023-12-24T11:59:48Z,2023-12-24T11:59:48Z,ok
+67159,"Equinix PA2 - Paris, Saint-Denis",Paris,FR,34203,306,6204,2023-12-29T14:40:00Z,2023-12-29T14:40:00Z,ok
+67220,"Equinix PA2 - Paris, Saint-Denis",Paris,FR,12364,306,201376,2024-01-03T15:20:42Z,2024-01-03T15:20:42Z,ok
+67629,"Equinix PA2 - Paris, Saint-Denis",Paris,FR,6691,306,50903,2024-01-23T13:22:28Z,2024-01-23T13:22:28Z,ok
+68212,"Equinix PA2 - Paris, Saint-Denis",Paris,FR,16620,306,137409,2024-02-14T03:29:55Z,2024-02-14T03:29:55Z,ok
+68678,"Equinix PA2 - Paris, Saint-Denis",Paris,FR,33916,306,6424,2024-02-28T19:55:15Z,2024-02-28T19:55:15Z,ok
+68727,"Equinix PA2 - Paris, Saint-Denis",Paris,FR,35442,306,215596,2024-02-29T18:56:02Z,2024-02-29T18:56:02Z,ok
+69106,"Equinix PA2 - Paris, Saint-Denis",Paris,FR,833,306,35217,2024-03-16T19:59:22Z,2024-03-16T19:59:22Z,ok
+71397,"Equinix PA2 - Paris, Saint-Denis",Paris,FR,27914,306,399486,2024-06-20T17:34:38Z,2026-03-09T15:11:40Z,ok
+72947,"Equinix PA2 - Paris, Saint-Denis",Paris,FR,37123,306,201896,2024-08-21T18:50:28Z,2024-08-21T18:50:28Z,ok
+75636,"Equinix PA2 - Paris, Saint-Denis",Paris,FR,620,306,12956,2024-12-18T18:51:43Z,2024-12-18T18:51:43Z,ok
+76005,"Equinix PA2 - Paris, Saint-Denis",Paris,FR,34712,306,215955,2025-01-11T12:39:42Z,2025-01-11T12:39:42Z,ok
+77718,"Equinix PA2 - Paris, Saint-Denis",Paris,FR,12939,306,6718,2025-03-25T09:38:52Z,2025-03-25T09:38:52Z,ok
+78110,"Equinix PA2 - Paris, Saint-Denis",Paris,FR,7944,306,47608,2025-04-11T08:01:44Z,2025-04-11T08:01:44Z,ok
+78139,"Equinix PA2 - Paris, Saint-Denis",Paris,FR,36529,306,49191,2025-04-12T08:47:07Z,2025-04-12T08:47:07Z,ok
+80814,"Equinix PA2 - Paris, Saint-Denis",Paris,FR,15500,306,39421,2025-07-30T10:20:42Z,2025-07-30T10:20:43Z,ok
+80868,"Equinix PA2 - Paris, Saint-Denis",Paris,FR,25024,306,141383,2025-07-31T09:37:44Z,2025-07-31T09:37:45Z,ok
+81167,"Equinix PA2 - Paris, Saint-Denis",Paris,FR,34186,306,3920,2025-08-17T22:59:07Z,2026-02-22T04:49:08Z,ok
+81299,"Equinix PA2 - Paris, Saint-Denis",Paris,FR,31953,306,50124,2025-08-24T09:12:33Z,2025-08-31T16:40:45Z,ok
+82868,"Equinix PA2 - Paris, Saint-Denis",Paris,FR,30887,306,60132,2025-10-27T14:08:58Z,2025-10-27T14:08:58Z,ok
+83257,"Equinix PA2 - Paris, Saint-Denis",Paris,FR,27330,306,49915,2025-10-30T01:08:20Z,2025-10-30T01:08:21Z,ok
+83915,"Equinix PA2 - Paris, Saint-Denis",Paris,FR,34690,306,39886,2025-11-24T07:26:57Z,2025-11-24T07:26:58Z,ok
+85773,"Equinix PA2 - Paris, Saint-Denis",Paris,FR,33780,306,51826,2026-02-11T14:28:29Z,2026-02-11T14:28:29Z,ok
+87047,"Equinix PA2 - Paris, Saint-Denis",Paris,FR,34701,306,202089,2026-04-03T15:38:34Z,2026-04-03T15:38:34Z,ok
+87128,"Equinix PA2 - Paris, Saint-Denis",Paris,FR,7217,306,198831,2026-04-06T16:45:36Z,2026-04-06T16:45:36Z,ok
+87575,"Equinix PA2 - Paris, Saint-Denis",Paris,FR,40661,306,215114,2026-04-27T17:04:55Z,2026-04-27T17:04:55Z,ok
+88394,"Equinix PA2 - Paris, Saint-Denis",Paris,FR,13870,306,54103,2026-06-09T07:23:27Z,2026-06-09T07:23:27Z,ok
+88417,"Equinix PA2 - Paris, Saint-Denis",Paris,FR,19086,306,39855,2026-06-09T07:38:57Z,2026-06-09T07:38:57Z,ok
+88794,"Equinix PA2 - Paris, Saint-Denis",Paris,FR,34146,306,47600,2026-06-26T00:38:44Z,2026-06-26T00:38:44Z,ok
+88958,"Equinix PA2 - Paris, Saint-Denis",Paris,FR,36076,306,215035,2026-07-05T18:35:41Z,2026-07-05T18:35:41Z,ok
+89301,"Equinix PA2 - Paris, Saint-Denis",Paris,FR,34222,306,216265,2026-07-20T12:39:19Z,2026-07-20T12:39:19Z,ok
+89754,"Equinix PA2 - Paris, Saint-Denis",Paris,FR,25249,306,212504,2026-08-04T15:04:29Z,2026-08-04T15:04:29Z,ok
+90261,"Equinix PA2 - Paris, Saint-Denis",Paris,FR,35539,306,215359,2026-08-28T10:44:07Z,2026-08-28T10:44:07Z,ok
+3012,MCI/Verizon Paris St Denis,Paris,FR,200,412,30889,2010-07-29T00:00:00Z,2016-03-14T21:19:25Z,ok
+3665,MCI/Verizon Paris St Denis,Paris,FR,942,412,250,2010-07-29T00:00:00Z,2016-03-14T20:26:57Z,ok
+14371,MCI/Verizon Paris St Denis,Paris,FR,2405,412,8309,2014-06-03T00:00:00Z,2016-03-11T07:21:43Z,ok
+14323,Digital Realty Paris PAR3,Paris,FR,2405,498,8309,2014-05-30T00:00:00Z,2016-03-14T21:49:23Z,ok
+23771,Digital Realty Paris PAR3,Paris,FR,1492,498,35393,2017-03-07T13:11:49Z,2017-03-07T13:11:49Z,ok
+34933,Digital Realty Paris PAR3,Paris,FR,2702,498,29075,2019-04-18T12:38:40Z,2019-04-18T12:38:40Z,ok
+42185,Digital Realty Paris PAR3,Paris,FR,1964,498,34177,2020-06-24T14:00:16Z,2020-06-24T14:00:16Z,ok
+42736,Digital Realty Paris PAR3,Paris,FR,8661,498,20565,2020-07-17T14:02:39Z,2020-07-17T14:02:39Z,ok
+46299,Digital Realty Paris PAR3,Paris,FR,267,498,174,2021-01-07T21:33:40Z,2021-01-07T21:33:40Z,ok
+52298,Digital Realty Paris PAR3,Paris,FR,21248,498,25428,2021-11-16T10:27:02Z,2021-11-16T10:27:02Z,ok
+55740,Digital Realty Paris PAR3,Paris,FR,3570,498,8304,2022-06-13T14:18:56Z,2022-06-13T14:18:56Z,ok
+62064,Digital Realty Paris PAR3,Paris,FR,91,498,8220,2023-05-08T11:59:32Z,2023-05-08T11:59:32Z,ok
+67143,Digital Realty Paris PAR3,Paris,FR,34203,498,6204,2023-12-29T14:37:25Z,2023-12-29T14:37:26Z,ok
+68146,Digital Realty Paris PAR3,Paris,FR,495,498,5511,2024-02-12T16:38:44Z,2024-02-12T16:38:44Z,ok
+69242,Digital Realty Paris PAR3,Paris,FR,4288,498,29286,2024-03-20T10:01:17Z,2024-03-20T10:01:17Z,ok
+75724,Digital Realty Paris PAR3,Paris,FR,38192,498,397032,2024-12-23T20:46:50Z,2025-10-08T13:39:24Z,ok
+76929,Digital Realty Paris PAR3,Paris,FR,37229,498,215599,2025-02-22T19:43:26Z,2025-02-22T19:43:26Z,ok
+78550,Digital Realty Paris PAR3,Paris,FR,10670,498,55256,2025-04-30T17:15:29Z,2025-04-30T17:15:30Z,ok
+81774,Digital Realty Paris PAR3,Paris,FR,15256,498,39801,2025-09-11T11:09:20Z,2025-09-11T11:09:20Z,ok
+87840,Digital Realty Paris PAR3,Paris,FR,42243,498,198607,2026-05-08T20:39:43Z,2026-05-08T20:39:43Z,ok
+87950,Digital Realty Paris PAR3,Paris,FR,36076,498,215035,2026-05-14T20:24:11Z,2026-05-14T20:24:11Z,ok
+5986,OPCORE - DC2 / PAR2,Vitry-sur-Seine,FR,2221,655,39605,2010-07-29T00:00:00Z,2016-03-14T20:56:59Z,ok
+5988,OPCORE - DC2 / PAR2,Vitry-sur-Seine,FR,1479,655,8218,2010-07-29T00:00:00Z,2016-03-14T20:56:59Z,ok
+6854,OPCORE - DC2 / PAR2,Vitry-sur-Seine,FR,731,655,30781,2010-07-29T00:00:00Z,2016-03-14T20:42:38Z,ok
+7461,OPCORE - DC2 / PAR2,Vitry-sur-Seine,FR,2702,655,29075,2010-11-09T00:00:00Z,2016-03-14T21:45:59Z,ok
+7717,OPCORE - DC2 / PAR2,Vitry-sur-Seine,FR,2977,655,16080,2011-01-04T00:00:00Z,2016-03-14T21:25:01Z,ok
+7719,OPCORE - DC2 / PAR2,Vitry-sur-Seine,FR,2485,655,48920,2011-01-04T00:00:00Z,2016-03-14T21:25:01Z,ok
+8540,OPCORE - DC2 / PAR2,Vitry-sur-Seine,FR,4129,655,29152,2011-07-20T00:00:00Z,2016-03-14T20:31:09Z,ok
+8785,OPCORE - DC2 / PAR2,Vitry-sur-Seine,FR,4109,655,52075,2011-09-23T00:00:00Z,2016-03-14T20:52:57Z,ok
+8971,OPCORE - DC2 / PAR2,Vitry-sur-Seine,FR,4345,655,197981,2011-11-09T00:00:00Z,2016-03-14T21:11:59Z,ok
+9852,OPCORE - DC2 / PAR2,Vitry-sur-Seine,FR,3178,655,44583,2012-05-04T00:00:00Z,2016-03-14T21:38:55Z,ok
+10592,OPCORE - DC2 / PAR2,Vitry-sur-Seine,FR,5033,655,58308,2012-10-06T00:00:00Z,2016-03-14T20:49:34Z,ok
+10893,OPCORE - DC2 / PAR2,Vitry-sur-Seine,FR,5176,655,59689,2012-12-11T00:00:00Z,2016-03-14T21:53:02Z,ok
+11583,OPCORE - DC2 / PAR2,Vitry-sur-Seine,FR,1463,655,31688,2013-04-16T00:00:00Z,2016-03-14T20:50:48Z,ok
+12826,OPCORE - DC2 / PAR2,Vitry-sur-Seine,FR,6108,655,35600,2013-10-16T00:00:00Z,2023-12-21T14:38:10Z,ok
+14320,OPCORE - DC2 / PAR2,Vitry-sur-Seine,FR,2405,655,8309,2014-05-30T00:00:00Z,2016-03-14T21:49:23Z,ok
+16384,OPCORE - DC2 / PAR2,Vitry-sur-Seine,FR,7479,655,62000,2015-02-25T00:00:00Z,2026-01-21T21:55:09Z,ok
+19911,OPCORE - DC2 / PAR2,Vitry-sur-Seine,FR,9949,655,47866,2016-04-05T17:38:11Z,2016-04-05T17:38:11Z,ok
+20954,OPCORE - DC2 / PAR2,Vitry-sur-Seine,FR,8561,655,200780,2016-07-12T15:06:41Z,2016-07-12T15:06:41Z,ok
+23929,OPCORE - DC2 / PAR2,Vitry-sur-Seine,FR,5626,655,57068,2017-03-17T16:08:38Z,2017-03-17T16:08:38Z,ok
+25155,OPCORE - DC2 / PAR2,Vitry-sur-Seine,FR,13876,655,205801,2017-06-30T15:03:38Z,2017-06-30T15:03:38Z,ok
+28956,OPCORE - DC2 / PAR2,Vitry-sur-Seine,FR,14338,655,13273,2018-04-13T12:28:58Z,2018-04-13T12:28:58Z,ok
+29696,OPCORE - DC2 / PAR2,Vitry-sur-Seine,FR,16840,655,50628,2018-05-24T14:24:35Z,2018-05-24T14:24:35Z,ok
+34308,OPCORE - DC2 / PAR2,Vitry-sur-Seine,FR,19185,655,35661,2019-03-21T14:41:28Z,2019-03-21T14:41:28Z,ok
+37338,OPCORE - DC2 / PAR2,Vitry-sur-Seine,FR,7675,655,59842,2019-09-24T02:40:05Z,2019-09-24T02:40:05Z,ok
+41380,OPCORE - DC2 / PAR2,Vitry-sur-Seine,FR,499,655,34019,2020-05-17T13:48:27Z,2020-05-17T13:48:27Z,ok
+47473,OPCORE - DC2 / PAR2,Vitry-sur-Seine,FR,26086,655,212321,2021-02-24T08:59:45Z,2021-02-24T08:59:45Z,ok
+48598,OPCORE - DC2 / PAR2,Vitry-sur-Seine,FR,23716,655,213045,2021-04-26T07:39:47Z,2021-04-26T07:39:47Z,ok
+49239,OPCORE - DC2 / PAR2,Vitry-sur-Seine,FR,27053,655,199586,2021-05-27T15:33:35Z,2021-05-27T15:33:35Z,ok
+51095,OPCORE - DC2 / PAR2,Vitry-sur-Seine,FR,495,655,5511,2021-09-07T15:30:41Z,2021-09-07T15:30:41Z,ok
+51388,OPCORE - DC2 / PAR2,Vitry-sur-Seine,FR,28121,655,48817,2021-09-28T19:17:43Z,2021-09-28T19:17:43Z,ok
+51486,OPCORE - DC2 / PAR2,Vitry-sur-Seine,FR,27603,655,53636,2021-10-05T00:06:05Z,2021-10-05T00:06:05Z,ok
+54091,OPCORE - DC2 / PAR2,Vitry-sur-Seine,FR,29398,655,2027,2022-03-04T17:47:38Z,2022-03-04T17:47:38Z,ok
+54454,OPCORE - DC2 / PAR2,Vitry-sur-Seine,FR,15874,655,49763,2022-03-24T09:35:02Z,2022-03-24T09:35:02Z,ok
+61838,OPCORE - DC2 / PAR2,Vitry-sur-Seine,FR,24082,655,44097,2023-04-27T06:23:31Z,2023-04-27T06:23:31Z,ok
+63935,OPCORE - DC2 / PAR2,Vitry-sur-Seine,FR,29308,655,62119,2023-07-22T11:53:40Z,2023-07-22T11:53:40Z,ok
+65964,OPCORE - DC2 / PAR2,Vitry-sur-Seine,FR,34481,655,47160,2023-10-27T13:54:57Z,2023-10-27T13:54:58Z,ok
+66192,OPCORE - DC2 / PAR2,Vitry-sur-Seine,FR,32966,655,16101,2023-11-08T09:33:56Z,2023-11-08T09:33:56Z,ok
+67336,OPCORE - DC2 / PAR2,Vitry-sur-Seine,FR,9598,655,203391,2024-01-08T04:40:54Z,2024-01-08T04:40:54Z,ok
+72833,OPCORE - DC2 / PAR2,Vitry-sur-Seine,FR,4359,655,197133,2024-08-20T09:25:12Z,2024-08-20T09:25:12Z,ok
+72948,OPCORE - DC2 / PAR2,Vitry-sur-Seine,FR,37123,655,201896,2024-08-21T18:50:36Z,2024-08-21T18:50:36Z,ok
+82356,OPCORE - DC2 / PAR2,Vitry-sur-Seine,FR,6514,655,57811,2025-10-08T11:18:17Z,2025-10-08T11:18:17Z,ok
+82880,OPCORE - DC2 / PAR2,Vitry-sur-Seine,FR,15875,655,21247,2025-10-27T21:48:04Z,2025-10-27T21:48:04Z,ok
+83631,OPCORE - DC2 / PAR2,Vitry-sur-Seine,FR,40763,655,213432,2025-11-11T16:26:05Z,2025-11-11T16:26:05Z,ok
+88965,OPCORE - DC2 / PAR2,Vitry-sur-Seine,FR,36076,655,215035,2026-07-05T18:37:00Z,2026-07-05T18:37:00Z,ok
+3010,Digital Realty Paris PAR5,Paris,FR,200,714,30889,2010-07-29T00:00:00Z,2016-03-14T21:19:25Z,ok
+6101,Digital Realty Paris PAR5,Paris,FR,1479,714,8218,2010-07-29T00:00:00Z,2016-03-14T20:37:28Z,ok
+6853,Digital Realty Paris PAR5,Paris,FR,731,714,30781,2010-07-29T00:00:00Z,2016-03-14T20:42:38Z,ok
+8755,Digital Realty Paris PAR5,Paris,FR,4190,714,57119,2011-09-16T00:00:00Z,2016-03-11T07:21:36Z,ok
+8972,Digital Realty Paris PAR5,Paris,FR,4345,714,197981,2011-11-09T00:00:00Z,2016-03-14T21:19:25Z,ok
+9526,Digital Realty Paris PAR5,Paris,FR,1970,714,8723,2012-02-26T00:00:00Z,2016-03-14T21:36:28Z,ok
+9957,Digital Realty Paris PAR5,Paris,FR,694,714,8075,2012-06-01T00:00:00Z,2016-03-14T21:34:35Z,ok
+11958,Digital Realty Paris PAR5,Paris,FR,1250,714,8487,2013-07-02T00:00:00Z,2016-03-14T21:56:04Z,ok
+12018,Digital Realty Paris PAR5,Paris,FR,4632,714,6758,2013-07-12T00:00:00Z,2016-03-14T20:57:02Z,ok
+14328,Digital Realty Paris PAR5,Paris,FR,2405,714,8309,2014-05-30T00:00:00Z,2016-03-14T21:49:22Z,ok
+15409,Digital Realty Paris PAR5,Paris,FR,7168,714,37693,2014-11-02T00:00:00Z,2016-03-14T21:14:20Z,ok
+16344,Digital Realty Paris PAR5,Paris,FR,7875,714,21351,2015-02-22T00:00:00Z,2016-03-14T21:22:45Z,ok
+16992,Digital Realty Paris PAR5,Paris,FR,5071,714,57928,2015-05-05T00:00:00Z,2016-03-14T21:04:20Z,ok
+21780,Digital Realty Paris PAR5,Paris,FR,116,714,8426,2016-09-25T08:40:56Z,2016-09-25T08:40:57Z,ok
+23111,Digital Realty Paris PAR5,Paris,FR,12293,714,199483,2017-01-17T16:02:46Z,2017-01-17T16:02:46Z,ok
+24056,Digital Realty Paris PAR5,Paris,FR,12980,714,202140,2017-03-28T19:38:34Z,2017-03-28T19:38:35Z,ok
+24190,Digital Realty Paris PAR5,Paris,FR,8661,714,20565,2017-04-10T18:10:04Z,2017-04-10T18:10:04Z,ok
+26578,Digital Realty Paris PAR5,Paris,FR,3554,714,714,2017-10-19T13:28:26Z,2017-10-19T13:28:26Z,ok
+31803,Digital Realty Paris PAR5,Paris,FR,17973,714,49920,2018-10-10T07:42:10Z,2018-10-10T07:42:10Z,ok
+34935,Digital Realty Paris PAR5,Paris,FR,2702,714,29075,2019-04-18T12:39:18Z,2019-04-18T12:39:18Z,ok
+36093,Digital Realty Paris PAR5,Paris,FR,13894,714,197033,2019-06-19T09:21:27Z,2019-06-19T09:21:27Z,ok
+38088,Digital Realty Paris PAR5,Paris,FR,14578,714,22697,2019-11-14T17:44:37Z,2019-11-14T17:44:37Z,ok
+38209,Digital Realty Paris PAR5,Paris,FR,21484,714,47127,2019-11-20T10:00:01Z,2019-11-20T10:00:01Z,ok
+41055,Digital Realty Paris PAR5,Paris,FR,1964,714,34177,2020-05-03T19:13:34Z,2020-05-03T19:13:34Z,ok
+45625,Digital Realty Paris PAR5,Paris,FR,2784,714,25369,2020-12-06T07:22:55Z,2020-12-06T07:22:55Z,ok
+46300,Digital Realty Paris PAR5,Paris,FR,267,714,174,2021-01-07T21:34:29Z,2021-01-07T21:34:29Z,ok
+46481,Digital Realty Paris PAR5,Paris,FR,213,714,30972,2021-01-15T10:56:00Z,2021-01-15T10:56:00Z,ok
+48051,Digital Realty Paris PAR5,Paris,FR,17885,714,8069,2021-03-25T17:37:41Z,2021-03-25T17:37:41Z,ok
+48313,Digital Realty Paris PAR5,Paris,FR,3669,714,44334,2021-04-08T14:44:41Z,2021-04-08T14:44:41Z,ok
+52349,Digital Realty Paris PAR5,Paris,FR,28572,714,197205,2021-11-18T13:17:01Z,2021-11-18T13:17:01Z,ok
+54452,Digital Realty Paris PAR5,Paris,FR,3513,714,50858,2022-03-24T08:25:04Z,2022-03-24T08:25:04Z,ok
+55191,Digital Realty Paris PAR5,Paris,FR,10,714,1299,2022-05-06T20:05:41Z,2022-05-06T20:05:41Z,ok
+55610,Digital Realty Paris PAR5,Paris,FR,10839,714,60068,2022-06-06T14:15:15Z,2022-06-06T14:15:15Z,ok
+55653,Digital Realty Paris PAR5,Paris,FR,262,714,8560,2022-06-09T11:38:31Z,2022-06-09T11:38:31Z,ok
+57322,Digital Realty Paris PAR5,Paris,FR,17755,714,23764,2022-08-31T08:25:34Z,2022-08-31T08:25:34Z,ok
+61899,Digital Realty Paris PAR5,Paris,FR,120,714,12322,2023-05-02T09:38:19Z,2023-05-02T09:38:19Z,ok
+62062,Digital Realty Paris PAR5,Paris,FR,91,714,8220,2023-05-08T11:59:07Z,2023-05-08T11:59:07Z,ok
+65435,Digital Realty Paris PAR5,Paris,FR,2216,714,35625,2023-10-02T15:09:49Z,2023-10-02T15:09:49Z,ok
+66125,Digital Realty Paris PAR5,Paris,FR,31041,714,202827,2023-11-03T21:39:45Z,2023-11-03T21:39:45Z,ok
+68147,Digital Realty Paris PAR5,Paris,FR,495,714,5511,2024-02-12T16:39:05Z,2024-02-12T16:39:05Z,ok
+73242,Digital Realty Paris PAR5,Paris,FR,36076,714,215035,2024-08-30T14:36:55Z,2026-05-14T20:23:49Z,ok
+73729,Digital Realty Paris PAR5,Paris,FR,3017,714,16347,2024-09-26T08:52:06Z,2024-09-26T08:52:07Z,ok
+75201,Digital Realty Paris PAR5,Paris,FR,37963,714,213971,2024-11-28T23:14:26Z,2024-11-28T23:14:26Z,ok
+75234,Digital Realty Paris PAR5,Paris,FR,34139,714,216302,2024-11-29T12:45:09Z,2024-11-29T12:45:09Z,ok
+76930,Digital Realty Paris PAR5,Paris,FR,37229,714,215599,2025-02-22T19:49:02Z,2025-02-22T19:49:02Z,ok
+77241,Digital Realty Paris PAR5,Paris,FR,35011,714,215764,2025-03-06T14:30:19Z,2025-03-06T14:30:19Z,ok
+78198,Digital Realty Paris PAR5,Paris,FR,9598,714,203391,2025-04-15T05:18:36Z,2025-04-15T05:18:36Z,ok
+78549,Digital Realty Paris PAR5,Paris,FR,10670,714,55256,2025-04-30T17:15:02Z,2025-04-30T17:15:02Z,ok
+79395,Digital Realty Paris PAR5,Paris,FR,37756,714,213941,2025-06-07T15:38:00Z,2025-06-07T15:38:00Z,ok
+79497,Digital Realty Paris PAR5,Paris,FR,4697,714,198335,2025-06-11T15:33:15Z,2025-06-11T15:33:15Z,ok
+80025,Digital Realty Paris PAR5,Paris,FR,2,714,20940,2025-07-03T16:32:32Z,2025-07-03T16:32:32Z,ok
+80165,Digital Realty Paris PAR5,Paris,FR,17749,714,206120,2025-07-08T13:21:27Z,2025-07-08T13:21:28Z,ok
+80609,Digital Realty Paris PAR5,Paris,FR,118,714,5400,2025-07-24T14:58:18Z,2025-07-24T14:58:19Z,ok
+80821,Digital Realty Paris PAR5,Paris,FR,15256,714,39801,2025-07-30T13:09:21Z,2025-07-30T13:09:21Z,ok
+81103,Digital Realty Paris PAR5,Paris,FR,40061,714,394674,2025-08-13T18:31:39Z,2025-08-13T18:31:39Z,ok
+81161,Digital Realty Paris PAR5,Paris,FR,35769,714,202673,2025-08-17T10:03:46Z,2025-08-17T10:03:46Z,ok
+81907,Digital Realty Paris PAR5,Paris,FR,3570,714,8304,2025-09-18T12:16:12Z,2025-09-18T12:16:12Z,ok
+81965,Digital Realty Paris PAR5,Paris,FR,23929,714,212948,2025-09-21T19:40:46Z,2025-09-21T19:40:47Z,ok
+82016,Digital Realty Paris PAR5,Paris,FR,26124,714,395092,2025-09-23T14:06:43Z,2025-09-23T14:06:43Z,ok
+82354,Digital Realty Paris PAR5,Paris,FR,6514,714,57811,2025-10-08T11:12:45Z,2025-10-08T11:12:45Z,ok
+82364,Digital Realty Paris PAR5,Paris,FR,38192,714,397032,2025-10-08T13:38:07Z,2025-10-08T13:39:34Z,ok
+83266,Digital Realty Paris PAR5,Paris,FR,27330,714,49915,2025-10-30T01:08:34Z,2025-10-30T01:08:34Z,ok
+85581,Digital Realty Paris PAR5,Paris,FR,41513,714,203537,2026-02-05T13:59:10Z,2026-02-05T13:59:10Z,ok
+85991,Digital Realty Paris PAR5,Paris,FR,28965,714,37649,2026-02-19T06:11:39Z,2026-02-19T06:11:39Z,ok
+86654,Digital Realty Paris PAR5,Paris,FR,1237,714,39104,2026-03-20T12:38:20Z,2026-03-20T12:38:20Z,ok
+87801,Digital Realty Paris PAR5,Paris,FR,6824,714,45102,2026-05-07T03:26:37Z,2026-05-07T03:26:37Z,ok
+88100,Digital Realty Paris PAR5,Paris,FR,22927,714,213382,2026-05-26T10:17:23Z,2026-05-26T10:17:23Z,ok
+7979,Digital Realty Paris PAR6,Paris,FR,3846,715,39583,2011-03-08T00:00:00Z,2016-03-14T20:51:39Z,ok
+11576,Digital Realty Paris PAR6,Paris,FR,499,715,34019,2013-04-16T00:00:00Z,2016-03-14T21:23:42Z,ok
+14004,Digital Realty Paris PAR6,Paris,FR,2514,715,41653,2014-04-22T00:00:00Z,2016-03-14T21:00:33Z,ok
+14326,Digital Realty Paris PAR6,Paris,FR,2405,715,8309,2014-05-30T00:00:00Z,2016-03-14T21:49:22Z,ok
+16699,Digital Realty Paris PAR6,Paris,FR,4190,715,57119,2015-04-01T00:00:00Z,2016-03-14T21:13:45Z,ok
+19675,Digital Realty Paris PAR6,Paris,FR,6108,715,35600,2016-03-15T13:20:30Z,2016-03-15T13:20:30Z,ok
+29973,Digital Realty Paris PAR6,Paris,FR,17012,715,48813,2018-06-14T12:58:40Z,2018-06-14T12:58:40Z,ok
+34936,Digital Realty Paris PAR6,Paris,FR,2702,715,29075,2019-04-18T12:39:26Z,2019-04-18T12:39:26Z,ok
+35924,Digital Realty Paris PAR6,Paris,FR,20013,715,209323,2019-06-07T10:26:24Z,2019-06-07T10:26:24Z,ok
+41056,Digital Realty Paris PAR6,Paris,FR,1964,715,34177,2020-05-03T19:13:44Z,2020-05-03T19:13:44Z,ok
+46301,Digital Realty Paris PAR6,Paris,FR,267,715,174,2021-01-07T21:34:53Z,2021-01-07T21:34:53Z,ok
+82365,Digital Realty Paris PAR6,Paris,FR,38192,715,397032,2025-10-08T13:38:11Z,2025-10-08T13:39:38Z,ok
+83916,Digital Realty Paris PAR6,Paris,FR,34690,715,39886,2025-11-24T07:28:19Z,2025-11-24T07:28:19Z,ok
+1108,"Equinix PA3 - Paris, Saint-Denis",Paris,FR,601,717,9009,2010-07-29T00:00:00Z,2018-02-13T16:27:35Z,ok
+6138,"Equinix PA3 - Paris, Saint-Denis",Paris,FR,2146,717,47841,2010-07-29T00:00:00Z,2018-02-13T16:27:35Z,ok
+6272,"Equinix PA3 - Paris, Saint-Denis",Paris,FR,2425,717,34659,2010-07-29T00:00:00Z,2018-02-13T16:27:35Z,ok
+6521,"Equinix PA3 - Paris, Saint-Denis",Paris,FR,505,717,13193,2010-07-29T00:00:00Z,2018-02-13T16:27:35Z,ok
+6925,"Equinix PA3 - Paris, Saint-Denis",Paris,FR,499,717,34019,2010-07-29T00:00:00Z,2020-05-17T13:51:09Z,ok
+6968,"Equinix PA3 - Paris, Saint-Denis",Paris,FR,1080,717,41157,2010-07-29T00:00:00Z,2018-02-13T16:27:35Z,ok
+7084,"Equinix PA3 - Paris, Saint-Denis",Paris,FR,3387,717,47957,2010-08-26T00:00:00Z,2018-02-13T16:27:35Z,ok
+8321,"Equinix PA3 - Paris, Saint-Denis",Paris,FR,2927,717,43531,2011-05-20T00:00:00Z,2018-02-13T16:27:35Z,ok
+8536,"Equinix PA3 - Paris, Saint-Denis",Paris,FR,4129,717,29152,2011-07-20T00:00:00Z,2018-02-13T16:27:35Z,ok
+9290,"Equinix PA3 - Paris, Saint-Denis",Paris,FR,283,717,25358,2012-01-22T00:00:00Z,2018-02-13T16:27:35Z,ok
+9982,"Equinix PA3 - Paris, Saint-Denis",Paris,FR,979,717,32934,2012-06-06T00:00:00Z,2018-02-13T16:27:35Z,ok
+10222,"Equinix PA3 - Paris, Saint-Denis",Paris,FR,1527,717,29246,2012-08-12T00:00:00Z,2018-02-13T16:27:35Z,ok
+10539,"Equinix PA3 - Paris, Saint-Denis",Paris,FR,10,717,1299,2012-10-01T00:00:00Z,2018-02-13T16:27:35Z,ok
+10636,"Equinix PA3 - Paris, Saint-Denis",Paris,FR,1418,717,16509,2012-10-18T00:00:00Z,2018-02-13T16:27:35Z,ok
+10644,"Equinix PA3 - Paris, Saint-Denis",Paris,FR,2702,717,29075,2012-10-22T00:00:00Z,2018-02-13T16:27:35Z,ok
+11237,"Equinix PA3 - Paris, Saint-Denis",Paris,FR,5289,717,197653,2013-02-18T00:00:00Z,2018-02-13T16:27:35Z,ok
+11879,"Equinix PA3 - Paris, Saint-Denis",Paris,FR,620,717,12956,2013-06-15T00:00:00Z,2018-02-13T16:27:35Z,ok
+11940,"Equinix PA3 - Paris, Saint-Denis",Paris,FR,200,717,30889,2013-07-02T00:00:00Z,2018-02-13T16:27:35Z,ok
+13147,"Equinix PA3 - Paris, Saint-Denis",Paris,FR,6301,717,60362,2013-12-16T00:00:00Z,2018-02-13T16:27:35Z,ok
+13533,"Equinix PA3 - Paris, Saint-Denis",Paris,FR,4430,717,56665,2014-03-02T00:00:00Z,2018-02-13T16:27:35Z,ok
+14334,"Equinix PA3 - Paris, Saint-Denis",Paris,FR,2405,717,8309,2014-05-30T00:00:00Z,2018-02-13T16:27:35Z,ok
+14642,"Equinix PA3 - Paris, Saint-Denis",Paris,FR,5365,717,33047,2014-07-15T00:00:00Z,2018-02-13T16:27:35Z,ok
+14678,"Equinix PA3 - Paris, Saint-Denis",Paris,FR,7000,717,48504,2014-07-20T00:00:00Z,2018-02-13T16:27:35Z,ok
+14805,"Equinix PA3 - Paris, Saint-Denis",Paris,FR,6108,717,35600,2014-08-02T00:00:00Z,2018-02-13T16:27:35Z,ok
+14922,"Equinix PA3 - Paris, Saint-Denis",Paris,FR,5078,717,43858,2014-08-29T00:00:00Z,2018-02-13T16:27:35Z,ok
+17165,"Equinix PA3 - Paris, Saint-Denis",Paris,FR,31,717,6762,2015-05-26T00:00:00Z,2018-02-13T16:27:35Z,ok
+18898,"Equinix PA3 - Paris, Saint-Denis",Paris,FR,8754,717,44994,2015-12-16T00:00:00Z,2018-02-13T16:27:35Z,ok
+20010,"Equinix PA3 - Paris, Saint-Denis",Paris,FR,2534,717,39180,2016-04-10T20:25:11Z,2018-02-13T16:27:35Z,ok
+20286,"Equinix PA3 - Paris, Saint-Denis",Paris,FR,10245,717,199571,2016-05-09T15:38:46Z,2018-02-13T16:27:35Z,ok
+20616,"Equinix PA3 - Paris, Saint-Denis",Paris,FR,541,717,6461,2016-06-01T14:40:27Z,2018-02-13T16:27:35Z,ok
+21993,"Equinix PA3 - Paris, Saint-Denis",Paris,FR,8809,717,60032,2016-10-12T14:16:36Z,2018-02-13T16:27:35Z,ok
+22535,"Equinix PA3 - Paris, Saint-Denis",Paris,FR,1279,717,29169,2016-11-22T09:19:55Z,2018-02-13T16:27:35Z,ok
+23006,"Equinix PA3 - Paris, Saint-Denis",Paris,FR,7479,717,62000,2017-01-08T12:39:20Z,2022-02-26T22:03:46Z,ok
+24054,"Equinix PA3 - Paris, Saint-Denis",Paris,FR,12980,717,202140,2017-03-28T19:37:36Z,2018-02-13T16:27:35Z,ok
+24731,"Equinix PA3 - Paris, Saint-Denis",Paris,FR,3347,717,33353,2017-05-24T15:37:09Z,2018-02-13T16:27:35Z,ok
+26082,"Equinix PA3 - Paris, Saint-Denis",Paris,FR,4338,717,58453,2017-09-15T07:00:45Z,2018-02-13T16:27:35Z,ok
+26232,"Equinix PA3 - Paris, Saint-Denis",Paris,FR,12379,717,51335,2017-09-28T07:14:48Z,2018-02-13T16:27:35Z,ok
+26493,"Equinix PA3 - Paris, Saint-Denis",Paris,FR,8561,717,200780,2017-10-13T17:58:10Z,2018-02-13T16:27:35Z,ok
+26858,"Equinix PA3 - Paris, Saint-Denis",Paris,FR,5379,717,44494,2017-11-08T21:32:16Z,2018-02-13T16:27:35Z,ok
+27138,"Equinix PA3 - Paris, Saint-Denis",Paris,FR,731,717,30781,2017-11-30T09:29:35Z,2018-02-13T16:27:35Z,ok
+27346,"Equinix PA3 - Paris, Saint-Denis",Paris,FR,15406,717,20986,2017-12-12T11:54:26Z,2018-02-13T16:27:35Z,ok
+28955,"Equinix PA3 - Paris, Saint-Denis",Paris,FR,14338,717,13273,2018-04-13T12:28:48Z,2018-04-13T12:28:48Z,ok
+29254,"Equinix PA3 - Paris, Saint-Denis",Paris,FR,7063,717,19551,2018-04-30T11:38:26Z,2018-04-30T11:38:26Z,ok
+29493,"Equinix PA3 - Paris, Saint-Denis",Paris,FR,16697,717,196773,2018-05-10T21:37:35Z,2020-09-24T14:02:16Z,ok
+29695,"Equinix PA3 - Paris, Saint-Denis",Paris,FR,16840,717,50628,2018-05-24T14:24:23Z,2018-05-24T14:24:23Z,ok
+29942,"Equinix PA3 - Paris, Saint-Denis",Paris,FR,12272,717,43445,2018-06-13T09:29:30Z,2018-06-13T09:29:30Z,ok
+30194,"Equinix PA3 - Paris, Saint-Denis",Paris,FR,10569,717,35280,2018-06-29T15:54:02Z,2018-06-29T15:54:02Z,ok
+30594,"Equinix PA3 - Paris, Saint-Denis",Paris,FR,14,717,3257,2018-08-01T12:13:46Z,2018-08-01T12:13:46Z,ok
+32197,"Equinix PA3 - Paris, Saint-Denis",Paris,FR,3570,717,8304,2018-11-05T10:12:25Z,2018-11-05T10:12:25Z,ok
+32199,"Equinix PA3 - Paris, Saint-Denis",Paris,FR,18211,717,197914,2018-11-05T10:20:06Z,2018-11-05T10:20:06Z,ok
+34452,"Equinix PA3 - Paris, Saint-Denis",Paris,FR,18975,717,6696,2019-03-30T16:49:57Z,2021-08-14T14:30:00Z,ok
+36356,"Equinix PA3 - Paris, Saint-Denis",Paris,FR,11352,717,203596,2019-07-09T09:35:40Z,2019-07-09T09:35:40Z,ok
+39102,"Equinix PA3 - Paris, Saint-Denis",Paris,FR,495,717,5511,2020-01-15T17:56:43Z,2020-01-15T17:56:43Z,ok
+39799,"Equinix PA3 - Paris, Saint-Denis",Paris,FR,12006,717,50624,2020-02-25T16:58:18Z,2020-02-25T16:58:18Z,ok
+41052,"Equinix PA3 - Paris, Saint-Denis",Paris,FR,1964,717,34177,2020-05-03T19:13:07Z,2020-05-03T19:13:07Z,ok
+41558,"Equinix PA3 - Paris, Saint-Denis",Paris,FR,21807,717,15580,2020-05-28T15:21:51Z,2020-05-28T15:21:51Z,ok
+43005,"Equinix PA3 - Paris, Saint-Denis",Paris,FR,24082,717,44097,2020-07-29T06:49:15Z,2020-07-29T06:49:15Z,ok
+44300,"Equinix PA3 - Paris, Saint-Denis",Paris,FR,9549,717,8680,2020-10-07T08:19:18Z,2020-10-07T08:19:18Z,ok
+44519,"Equinix PA3 - Paris, Saint-Denis",Paris,FR,1264,717,16276,2020-10-15T13:21:03Z,2020-10-15T13:21:03Z,ok
+44588,"Equinix PA3 - Paris, Saint-Denis",Paris,FR,23937,717,50489,2020-10-20T10:59:57Z,2020-10-20T10:59:57Z,ok
+46043,"Equinix PA3 - Paris, Saint-Denis",Paris,FR,17716,717,200271,2020-12-28T10:12:18Z,2020-12-28T10:12:18Z,ok
+46295,"Equinix PA3 - Paris, Saint-Denis",Paris,FR,267,717,174,2021-01-07T21:29:41Z,2021-01-07T21:29:41Z,ok
+47082,"Equinix PA3 - Paris, Saint-Denis",Paris,FR,4114,717,31564,2021-02-05T14:21:25Z,2021-02-05T14:21:25Z,ok
+47147,"Equinix PA3 - Paris, Saint-Denis",Paris,FR,971,717,20917,2021-02-09T13:54:03Z,2021-02-09T13:54:03Z,ok
+49494,"Equinix PA3 - Paris, Saint-Denis",Paris,FR,3141,717,8368,2021-06-12T13:31:02Z,2021-06-12T13:31:02Z,ok
+49779,"Equinix PA3 - Paris, Saint-Denis",Paris,FR,26704,717,4455,2021-06-24T20:22:43Z,2021-06-24T20:22:43Z,ok
+51754,"Equinix PA3 - Paris, Saint-Denis",Paris,FR,13539,717,29283,2021-10-21T10:12:41Z,2021-10-21T10:12:41Z,ok
+53358,"Equinix PA3 - Paris, Saint-Denis",Paris,FR,18382,717,136907,2022-01-20T07:44:56Z,2022-01-20T07:44:56Z,ok
+53474,"Equinix PA3 - Paris, Saint-Denis",Paris,FR,705,717,12008,2022-01-24T23:03:21Z,2022-01-24T23:03:22Z,ok
+54194,"Equinix PA3 - Paris, Saint-Denis",Paris,FR,17597,717,395717,2022-03-11T11:17:35Z,2022-03-11T11:17:35Z,ok
+55624,"Equinix PA3 - Paris, Saint-Denis",Paris,FR,4345,717,197981,2022-06-07T12:54:40Z,2022-06-07T12:54:40Z,ok
+56077,"Equinix PA3 - Paris, Saint-Denis",Paris,FR,30320,717,35077,2022-06-28T19:15:16Z,2022-06-28T19:15:17Z,ok
+56466,"Equinix PA3 - Paris, Saint-Denis",Paris,FR,30500,717,210601,2022-07-20T08:50:46Z,2022-07-20T08:50:46Z,ok
+57573,"Equinix PA3 - Paris, Saint-Denis",Paris,FR,27868,717,60240,2022-09-16T08:22:23Z,2022-09-16T08:22:23Z,ok
+57681,"Equinix PA3 - Paris, Saint-Denis",Paris,FR,261,717,1273,2022-09-23T10:30:57Z,2022-09-23T10:30:57Z,ok
+58431,"Equinix PA3 - Paris, Saint-Denis",Paris,FR,1019,717,30058,2022-11-01T12:00:46Z,2022-11-01T12:00:46Z,ok
+58501,"Equinix PA3 - Paris, Saint-Denis",Paris,FR,196,717,3320,2022-11-04T07:33:14Z,2022-11-04T07:33:15Z,ok
+60248,"Equinix PA3 - Paris, Saint-Denis",Paris,FR,737,717,20766,2023-02-09T12:30:26Z,2023-02-09T12:30:26Z,ok
+61318,"Equinix PA3 - Paris, Saint-Denis",Paris,FR,28929,717,207324,2023-04-01T19:19:55Z,2023-04-01T19:19:55Z,ok
+61340,"Equinix PA3 - Paris, Saint-Denis",Paris,FR,450,717,15557,2023-04-03T13:18:36Z,2023-04-03T13:18:36Z,ok
+61577,"Equinix PA3 - Paris, Saint-Denis",Paris,FR,14960,717,205555,2023-04-14T14:44:32Z,2023-04-14T14:44:32Z,ok
+61900,"Equinix PA3 - Paris, Saint-Denis",Paris,FR,120,717,12322,2023-05-02T09:38:42Z,2023-05-02T09:38:42Z,ok
+64264,"Equinix PA3 - Paris, Saint-Denis",Paris,FR,5155,717,18978,2023-08-09T12:07:33Z,2023-08-09T12:07:33Z,ok
+64473,"Equinix PA3 - Paris, Saint-Denis",Paris,FR,3513,717,50858,2023-08-23T10:04:07Z,2023-08-23T10:04:07Z,ok
+65254,"Equinix PA3 - Paris, Saint-Denis",Paris,FR,34012,717,205845,2023-09-26T09:15:23Z,2023-09-26T09:15:23Z,ok
+65283,"Equinix PA3 - Paris, Saint-Denis",Paris,FR,2216,717,35625,2023-09-27T07:55:45Z,2023-09-27T07:55:45Z,ok
+65343,"Equinix PA3 - Paris, Saint-Denis",Paris,FR,11015,717,44530,2023-09-29T13:12:10Z,2023-09-29T13:12:10Z,ok
+65703,"Equinix PA3 - Paris, Saint-Denis",Paris,FR,34414,717,206002,2023-10-16T10:09:17Z,2023-10-16T10:09:17Z,ok
+65958,"Equinix PA3 - Paris, Saint-Denis",Paris,FR,34481,717,47160,2023-10-27T13:53:43Z,2023-10-27T13:53:43Z,ok
+67043,"Equinix PA3 - Paris, Saint-Denis",Paris,FR,5010,717,29467,2023-12-21T21:52:48Z,2023-12-21T21:52:48Z,ok
+68183,"Equinix PA3 - Paris, Saint-Denis",Paris,FR,20674,717,35793,2024-02-13T14:03:39Z,2024-02-13T14:03:39Z,ok
+68211,"Equinix PA3 - Paris, Saint-Denis",Paris,FR,16620,717,137409,2024-02-14T03:29:47Z,2024-02-14T03:29:47Z,ok
+68728,"Equinix PA3 - Paris, Saint-Denis",Paris,FR,35442,717,215596,2024-02-29T18:56:07Z,2024-02-29T18:56:08Z,ok
+68869,"Equinix PA3 - Paris, Saint-Denis",Paris,FR,18664,717,206610,2024-03-06T10:28:06Z,2024-03-06T10:28:06Z,ok
+69503,"Equinix PA3 - Paris, Saint-Denis",Paris,FR,35776,717,204902,2024-04-03T15:51:33Z,2024-04-03T15:51:33Z,ok
+70075,"Equinix PA3 - Paris, Saint-Denis",Paris,FR,1045,717,2914,2024-04-23T20:17:32Z,2024-04-23T20:17:32Z,ok
+70433,"Equinix PA3 - Paris, Saint-Denis",Paris,FR,36191,717,59944,2024-05-10T09:17:32Z,2024-05-10T09:17:32Z,ok
+70562,"Equinix PA3 - Paris, Saint-Denis",Paris,FR,20584,717,59877,2024-05-13T20:56:19Z,2024-05-13T20:56:19Z,ok
+70945,"Equinix PA3 - Paris, Saint-Denis",Paris,FR,8818,717,39072,2024-05-30T12:37:17Z,2024-05-30T12:37:17Z,ok
+74808,"Equinix PA3 - Paris, Saint-Denis",Paris,FR,27914,717,399486,2024-11-12T18:16:52Z,2025-05-02T14:31:08Z,ok
+75207,"Equinix PA3 - Paris, Saint-Denis",Paris,FR,34203,717,6204,2024-11-29T00:01:30Z,2024-11-29T00:01:30Z,ok
+76639,"Equinix PA3 - Paris, Saint-Denis",Paris,FR,19113,717,35426,2025-02-08T21:36:18Z,2025-02-08T21:36:19Z,ok
+77678,"Equinix PA3 - Paris, Saint-Denis",Paris,FR,38207,717,206014,2025-03-24T09:56:46Z,2025-03-24T09:56:46Z,ok
+77874,"Equinix PA3 - Paris, Saint-Denis",Paris,FR,34712,717,215955,2025-03-31T07:43:19Z,2025-03-31T07:43:19Z,ok
+79635,"Equinix PA3 - Paris, Saint-Denis",Paris,FR,39584,717,206660,2025-06-18T21:31:44Z,2025-06-18T21:31:44Z,ok
+80085,"Equinix PA3 - Paris, Saint-Denis",Paris,FR,38450,717,40214,2025-07-07T00:45:50Z,2025-07-07T00:45:51Z,ok
+80154,"Equinix PA3 - Paris, Saint-Denis",Paris,FR,17749,717,206120,2025-07-08T12:26:32Z,2025-07-08T12:26:32Z,ok
+80812,"Equinix PA3 - Paris, Saint-Denis",Paris,FR,15500,717,39421,2025-07-30T10:18:05Z,2025-07-30T10:18:05Z,ok
+81126,"Equinix PA3 - Paris, Saint-Denis",Paris,FR,6020,717,16552,2025-08-14T15:20:00Z,2025-08-14T15:20:01Z,ok
+81168,"Equinix PA3 - Paris, Saint-Denis",Paris,FR,34186,717,3920,2025-08-17T22:59:14Z,2026-02-22T04:49:15Z,ok
+81551,"Equinix PA3 - Paris, Saint-Denis",Paris,FR,31953,717,50124,2025-08-31T16:40:51Z,2025-08-31T16:40:52Z,ok
+83285,"Equinix PA3 - Paris, Saint-Denis",Paris,FR,29361,717,42687,2025-10-30T17:38:17Z,2025-10-30T17:38:18Z,ok
+84018,"Equinix PA3 - Paris, Saint-Denis",Paris,FR,16406,717,49028,2025-11-27T15:57:00Z,2025-11-27T15:57:00Z,ok
+85894,"Equinix PA3 - Paris, Saint-Denis",Paris,FR,41634,717,20756,2026-02-16T14:22:26Z,2026-02-16T14:22:26Z,ok
+86047,"Equinix PA3 - Paris, Saint-Denis",Paris,FR,15072,717,20326,2026-02-20T23:15:14Z,2026-02-20T23:15:14Z,ok
+86777,"Equinix PA3 - Paris, Saint-Denis",Paris,FR,12898,717,204092,2026-03-25T16:49:33Z,2026-03-25T16:49:33Z,ok
+86861,"Equinix PA3 - Paris, Saint-Denis",Paris,FR,30870,717,203062,2026-03-27T20:49:39Z,2026-03-27T20:49:40Z,ok
+87130,"Equinix PA3 - Paris, Saint-Denis",Paris,FR,7217,717,198831,2026-04-06T16:45:42Z,2026-04-06T16:45:42Z,ok
+87574,"Equinix PA3 - Paris, Saint-Denis",Paris,FR,40661,717,215114,2026-04-27T17:04:45Z,2026-04-27T17:04:45Z,ok
+87802,"Equinix PA3 - Paris, Saint-Denis",Paris,FR,6824,717,45102,2026-05-07T03:26:47Z,2026-05-07T03:26:48Z,ok
+88795,"Equinix PA3 - Paris, Saint-Denis",Paris,FR,34146,717,47600,2026-06-26T00:38:50Z,2026-06-26T00:38:50Z,ok
+88959,"Equinix PA3 - Paris, Saint-Denis",Paris,FR,36076,717,215035,2026-07-05T18:35:44Z,2026-07-05T18:35:44Z,ok
+89302,"Equinix PA3 - Paris, Saint-Denis",Paris,FR,34222,717,216265,2026-07-20T12:39:30Z,2026-07-20T12:39:30Z,ok
+89755,"Equinix PA3 - Paris, Saint-Denis",Paris,FR,25249,717,212504,2026-08-04T15:04:34Z,2026-08-04T15:04:34Z,ok
+90169,"Equinix PA3 - Paris, Saint-Denis",Paris,FR,6852,717,44356,2026-08-24T14:52:55Z,2026-08-24T14:52:55Z,ok
+90260,"Equinix PA3 - Paris, Saint-Denis",Paris,FR,35539,717,215359,2026-08-28T10:43:53Z,2026-08-28T10:44:15Z,ok
+90853,"Equinix PA3 - Paris, Saint-Denis",Paris,FR,43630,717,219062,2026-09-19T09:43:29Z,2026-09-19T09:43:29Z,ok
+91090,"Equinix PA3 - Paris, Saint-Denis",Paris,FR,43182,717,50144,2026-09-28T08:45:54Z,2026-09-28T08:45:54Z,ok
+91312,"Equinix PA3 - Paris, Saint-Denis",Paris,FR,19600,717,209090,2026-10-07T00:27:04Z,2026-10-07T00:27:04Z,ok
+91313,"Equinix PA3 - Paris, Saint-Denis",Paris,FR,22021,717,207910,2026-10-07T00:27:52Z,2026-10-07T00:27:52Z,ok
+46065,Cogent Paris,La Garenne Colombes,FR,267,723,174,2020-12-28T21:33:10Z,2020-12-28T21:33:10Z,ok
+79060,Cogent Paris,La Garenne Colombes,FR,32984,723,52025,2025-05-26T00:34:03Z,2025-05-26T00:34:03Z,ok
+90039,Cogent Paris,La Garenne Colombes,FR,34712,723,215955,2026-08-18T07:41:07Z,2026-08-18T07:41:07Z,ok
+7268,"Equinix PA6 - Paris, Condorcet",Paris,FR,1418,842,16509,2010-09-23T00:00:00Z,2018-02-13T16:21:40Z,ok
+7706,"Equinix PA6 - Paris, Condorcet",Paris,FR,3656,842,41628,2010-12-30T00:00:00Z,2018-02-13T16:21:40Z,ok
+7771,"Equinix PA6 - Paris, Condorcet",Paris,FR,1479,842,8218,2011-01-17T00:00:00Z,2018-02-13T16:21:40Z,ok
+8533,"Equinix PA6 - Paris, Condorcet",Paris,FR,4129,842,29152,2011-07-20T00:00:00Z,2018-02-13T16:21:40Z,ok
+9821,"Equinix PA6 - Paris, Condorcet",Paris,FR,1255,842,8399,2012-04-25T00:00:00Z,2018-02-13T16:21:40Z,ok
+10514,"Equinix PA6 - Paris, Condorcet",Paris,FR,3500,842,33930,2012-09-25T00:00:00Z,2018-02-13T16:21:40Z,ok
+14340,"Equinix PA6 - Paris, Condorcet",Paris,FR,2405,842,8309,2014-05-30T00:00:00Z,2018-02-13T16:21:40Z,ok
+18103,"Equinix PA6 - Paris, Condorcet",Paris,FR,8809,842,60032,2015-09-17T00:00:00Z,2025-04-14T08:44:58Z,ok
+19876,"Equinix PA6 - Paris, Condorcet",Paris,FR,2016,842,8681,2016-04-01T09:14:47Z,2018-02-13T16:21:40Z,ok
+20068,"Equinix PA6 - Paris, Condorcet",Paris,FR,27,842,10310,2016-04-15T06:58:08Z,2018-02-13T16:21:40Z,ok
+21782,"Equinix PA6 - Paris, Condorcet",Paris,FR,116,842,8426,2016-09-25T08:42:40Z,2018-02-13T16:21:40Z,ok
+21947,"Equinix PA6 - Paris, Condorcet",Paris,FR,4109,842,52075,2016-10-05T01:13:48Z,2018-02-13T16:21:40Z,ok
+22068,"Equinix PA6 - Paris, Condorcet",Paris,FR,283,842,25358,2016-10-16T20:56:11Z,2018-02-13T16:21:40Z,ok
+22843,"Equinix PA6 - Paris, Condorcet",Paris,FR,12096,842,49477,2016-12-20T09:15:11Z,2018-02-13T16:21:40Z,ok
+23531,"Equinix PA6 - Paris, Condorcet",Paris,FR,12633,842,206342,2017-02-17T10:44:47Z,2018-02-13T16:21:40Z,ok
+26213,"Equinix PA6 - Paris, Condorcet",Paris,FR,3502,842,19679,2017-09-26T17:55:54Z,2018-02-13T16:21:40Z,ok
+26784,"Equinix PA6 - Paris, Condorcet",Paris,FR,2702,842,29075,2017-11-06T13:06:22Z,2018-02-13T16:21:40Z,ok
+27137,"Equinix PA6 - Paris, Condorcet",Paris,FR,731,842,30781,2017-11-30T09:24:33Z,2018-02-13T16:21:40Z,ok
+27232,"Equinix PA6 - Paris, Condorcet",Paris,FR,3992,842,34863,2017-12-06T10:54:23Z,2018-02-13T16:21:40Z,ok
+28564,"Equinix PA6 - Paris, Condorcet",Paris,FR,16152,842,47548,2018-03-15T19:10:44Z,2018-03-15T19:10:44Z,ok
+28614,"Equinix PA6 - Paris, Condorcet",Paris,FR,16197,842,39781,2018-03-21T10:50:16Z,2018-03-21T10:50:16Z,ok
+29523,"Equinix PA6 - Paris, Condorcet",Paris,FR,2534,842,39180,2018-05-14T11:43:08Z,2018-05-14T11:43:08Z,ok
+30193,"Equinix PA6 - Paris, Condorcet",Paris,FR,10569,842,35280,2018-06-29T15:53:51Z,2018-06-29T15:53:51Z,ok
+33433,"Equinix PA6 - Paris, Condorcet",Paris,FR,17716,842,200271,2019-01-30T16:09:49Z,2019-01-30T16:09:49Z,ok
+34318,"Equinix PA6 - Paris, Condorcet",Paris,FR,19113,842,35426,2019-03-22T08:35:54Z,2019-03-22T08:35:54Z,ok
+35893,"Equinix PA6 - Paris, Condorcet",Paris,FR,19987,842,201246,2019-06-05T07:54:28Z,2019-06-05T07:54:28Z,ok
+36092,"Equinix PA6 - Paris, Condorcet",Paris,FR,13894,842,197033,2019-06-19T09:20:37Z,2019-06-19T09:20:37Z,ok
+36254,"Equinix PA6 - Paris, Condorcet",Paris,FR,20219,842,25117,2019-07-03T07:40:04Z,2019-07-03T07:40:04Z,ok
+38082,"Equinix PA6 - Paris, Condorcet",Paris,FR,17879,842,1301,2019-11-14T12:24:42Z,2019-11-14T12:24:42Z,ok
+38121,"Equinix PA6 - Paris, Condorcet",Paris,FR,15846,842,205344,2019-11-15T17:05:49Z,2019-11-15T17:05:49Z,ok
+40405,"Equinix PA6 - Paris, Condorcet",Paris,FR,495,842,5511,2020-03-30T15:10:05Z,2020-03-30T15:10:05Z,ok
+41609,"Equinix PA6 - Paris, Condorcet",Paris,FR,1691,842,12826,2020-06-02T21:54:34Z,2020-06-02T21:54:34Z,ok
+41619,"Equinix PA6 - Paris, Condorcet",Paris,FR,18975,842,6696,2020-06-03T08:19:37Z,2021-08-14T14:30:16Z,ok
+44954,"Equinix PA6 - Paris, Condorcet",Paris,FR,189,842,24776,2020-11-04T15:46:57Z,2020-11-04T15:46:57Z,ok
+46297,"Equinix PA6 - Paris, Condorcet",Paris,FR,267,842,174,2021-01-07T21:30:36Z,2021-01-07T21:30:36Z,ok
+54498,"Equinix PA6 - Paris, Condorcet",Paris,FR,29551,842,49584,2022-03-25T16:38:41Z,2022-03-25T16:38:41Z,ok
+57473,"Equinix PA6 - Paris, Condorcet",Paris,FR,30920,842,210433,2022-09-08T22:04:15Z,2022-09-08T22:04:15Z,ok
+62060,"Equinix PA6 - Paris, Condorcet",Paris,FR,91,842,8220,2023-05-08T11:58:18Z,2023-05-08T11:58:18Z,ok
+64893,"Equinix PA6 - Paris, Condorcet",Paris,FR,31529,842,56987,2023-09-11T16:18:34Z,2023-09-11T16:18:34Z,ok
+66381,"Equinix PA6 - Paris, Condorcet",Paris,FR,7190,842,60427,2023-11-17T23:04:47Z,2023-11-17T23:04:48Z,ok
+66522,"Equinix PA6 - Paris, Condorcet",Paris,FR,34710,842,216239,2023-11-23T17:42:04Z,2023-11-23T17:42:04Z,ok
+68215,"Equinix PA6 - Paris, Condorcet",Paris,FR,16620,842,137409,2024-02-14T03:30:09Z,2024-02-14T03:30:09Z,ok
+68730,"Equinix PA6 - Paris, Condorcet",Paris,FR,35442,842,215596,2024-02-29T18:56:22Z,2024-02-29T18:56:22Z,ok
+70432,"Equinix PA6 - Paris, Condorcet",Paris,FR,36191,842,59944,2024-05-10T09:17:24Z,2024-05-10T09:17:25Z,ok
+73516,"Equinix PA6 - Paris, Condorcet",Paris,FR,7479,842,62000,2024-09-14T15:14:41Z,2024-09-14T15:14:42Z,ok
+74450,"Equinix PA6 - Paris, Condorcet",Paris,FR,24126,842,49121,2024-10-29T10:59:33Z,2024-10-29T10:59:33Z,ok
+74841,"Equinix PA6 - Paris, Condorcet",Paris,FR,27376,842,50263,2024-11-13T20:14:40Z,2024-11-13T20:14:40Z,ok
+75210,"Equinix PA6 - Paris, Condorcet",Paris,FR,34203,842,6204,2024-11-29T00:02:28Z,2024-11-29T00:02:28Z,ok
+78594,"Equinix PA6 - Paris, Condorcet",Paris,FR,27914,842,399486,2025-05-02T14:31:27Z,2026-03-09T15:11:54Z,ok
+80166,"Equinix PA6 - Paris, Condorcet",Paris,FR,17749,842,206120,2025-07-08T13:21:35Z,2025-07-08T13:21:36Z,ok
+81165,"Equinix PA6 - Paris, Condorcet",Paris,FR,34186,842,3920,2025-08-17T22:58:18Z,2026-02-22T04:49:27Z,ok
+81298,"Equinix PA6 - Paris, Condorcet",Paris,FR,31953,842,50124,2025-08-24T09:12:20Z,2025-08-31T16:38:44Z,ok
+81357,"Equinix PA6 - Paris, Condorcet",Paris,FR,40178,842,205141,2025-08-26T09:39:54Z,2025-08-26T09:39:54Z,ok
+84765,"Equinix PA6 - Paris, Condorcet",Paris,FR,35539,842,215359,2026-01-04T17:02:28Z,2026-08-28T10:44:35Z,ok
+85582,"Equinix PA6 - Paris, Condorcet",Paris,FR,41513,842,203537,2026-02-05T13:59:19Z,2026-02-05T13:59:19Z,ok
+87132,"Equinix PA6 - Paris, Condorcet",Paris,FR,7217,842,198831,2026-04-06T16:45:50Z,2026-04-06T16:45:50Z,ok
+87570,"Equinix PA6 - Paris, Condorcet",Paris,FR,40661,842,215114,2026-04-27T17:04:02Z,2026-04-27T17:04:02Z,ok
+88253,"Equinix PA6 - Paris, Condorcet",Paris,FR,25380,842,139057,2026-06-02T13:12:48Z,2026-06-02T13:12:48Z,ok
+88963,"Equinix PA6 - Paris, Condorcet",Paris,FR,36076,842,215035,2026-07-05T18:36:04Z,2026-07-05T18:36:04Z,ok
+89299,"Equinix PA6 - Paris, Condorcet",Paris,FR,34222,842,216265,2026-07-20T12:39:01Z,2026-07-20T12:39:01Z,ok
+89753,"Equinix PA6 - Paris, Condorcet",Paris,FR,25249,842,212504,2026-08-04T15:04:05Z,2026-08-04T15:04:05Z,ok
+89946,"Equinix PA6 - Paris, Condorcet",Paris,FR,28984,842,210030,2026-08-10T22:28:15Z,2026-08-10T22:28:15Z,ok
+90172,"Equinix PA6 - Paris, Condorcet",Paris,FR,6852,842,44356,2026-08-24T14:53:17Z,2026-08-24T14:53:17Z,ok
+91050,"Equinix PA6 - Paris, Condorcet",Paris,FR,43701,842,60584,2026-09-25T16:36:24Z,2026-09-25T16:36:24Z,ok
+7023,Ad Valem Technologies - France (Saint-Denis),Saint-Denis,FR,3356,856,48528,2010-08-14T00:00:00Z,2016-03-14T21:48:24Z,ok
+14442,Ad Valem Technologies - France (Saint-Denis),Saint-Denis,FR,2405,856,8309,2014-06-16T00:00:00Z,2016-03-14T21:51:32Z,ok
+8713,TDF Datacenter Paris Fort de Romainville,Les Lilas,FR,3016,1097,43646,2011-09-23T00:00:00Z,2016-03-14T21:08:45Z,ok
+14338,TDF Datacenter Paris Fort de Romainville,Les Lilas,FR,2405,1097,8309,2014-05-30T00:00:00Z,2016-03-14T21:11:51Z,ok
+34981,Completel Val de Reuil,Paris,FR,19419,1200,57752,2019-04-20T10:35:01Z,2019-04-20T10:35:01Z,ok
+56655,Completel Val de Reuil,Paris,FR,30621,1200,44407,2022-08-01T11:26:17Z,2022-08-01T11:26:17Z,ok
+547,"Equinix PA4 - Paris, Pantin",Paris,FR,322,1244,15422,2010-07-29T00:00:00Z,2018-02-13T16:25:08Z,ok
+2612,"Equinix PA4 - Paris, Pantin",Paris,FR,1237,1244,39104,2010-07-29T00:00:00Z,2018-02-13T16:25:08Z,ok
+9909,"Equinix PA4 - Paris, Pantin",Paris,FR,283,1244,25358,2012-05-21T00:00:00Z,2018-02-13T16:25:08Z,ok
+10919,"Equinix PA4 - Paris, Pantin",Paris,FR,1479,1244,8218,2012-12-18T00:00:00Z,2018-02-13T16:25:08Z,ok
+11956,"Equinix PA4 - Paris, Pantin",Paris,FR,1250,1244,8487,2013-07-02T00:00:00Z,2018-02-13T16:25:08Z,ok
+14333,"Equinix PA4 - Paris, Pantin",Paris,FR,2405,1244,8309,2014-05-30T00:00:00Z,2018-02-13T16:25:08Z,ok
+14514,"Equinix PA4 - Paris, Pantin",Paris,FR,505,1244,13193,2014-07-02T00:00:00Z,2018-02-13T16:25:08Z,ok
+15739,"Equinix PA4 - Paris, Pantin",Paris,FR,5886,1244,57976,2014-12-11T00:00:00Z,2018-02-13T16:25:08Z,ok
+17581,"Equinix PA4 - Paris, Pantin",Paris,FR,5918,1244,6507,2015-07-13T00:00:00Z,2018-02-13T16:25:08Z,ok
+17725,"Equinix PA4 - Paris, Pantin",Paris,FR,6215,1244,51852,2015-08-12T00:00:00Z,2018-02-13T16:25:08Z,ok
+19673,"Equinix PA4 - Paris, Pantin",Paris,FR,2441,1244,35717,2016-03-15T12:42:23Z,2018-02-13T16:25:08Z,ok
+20615,"Equinix PA4 - Paris, Pantin",Paris,FR,541,1244,6461,2016-06-01T14:39:57Z,2018-02-13T16:25:08Z,ok
+20771,"Equinix PA4 - Paris, Pantin",Paris,FR,10569,1244,35280,2016-06-18T06:10:55Z,2018-02-13T16:25:08Z,ok
+21288,"Equinix PA4 - Paris, Pantin",Paris,FR,4359,1244,197133,2016-08-16T07:33:50Z,2018-02-13T16:25:08Z,ok
+22757,"Equinix PA4 - Paris, Pantin",Paris,FR,12006,1244,50624,2016-12-13T06:13:35Z,2018-02-13T16:25:08Z,ok
+24295,"Equinix PA4 - Paris, Pantin",Paris,FR,3468,1244,20900,2017-04-19T09:36:12Z,2018-02-13T16:25:08Z,ok
+31246,"Equinix PA4 - Paris, Pantin",Paris,FR,17062,1244,202276,2018-09-10T17:54:57Z,2018-09-10T17:54:57Z,ok
+34930,"Equinix PA4 - Paris, Pantin",Paris,FR,2702,1244,29075,2019-04-18T12:35:31Z,2019-04-18T12:35:31Z,ok
+34970,"Equinix PA4 - Paris, Pantin",Paris,FR,4994,1244,53589,2019-04-18T21:19:31Z,2019-04-18T21:19:31Z,ok
+36268,"Equinix PA4 - Paris, Pantin",Paris,FR,20219,1244,25117,2019-07-04T08:29:06Z,2019-07-04T08:29:06Z,ok
+37213,"Equinix PA4 - Paris, Pantin",Paris,FR,14530,1244,44527,2019-09-15T07:11:46Z,2019-09-15T07:11:46Z,ok
+38081,"Equinix PA4 - Paris, Pantin",Paris,FR,17879,1244,1301,2019-11-14T12:24:34Z,2019-11-14T12:24:34Z,ok
+40403,"Equinix PA4 - Paris, Pantin",Paris,FR,495,1244,5511,2020-03-30T15:09:30Z,2020-03-30T15:09:30Z,ok
+41559,"Equinix PA4 - Paris, Pantin",Paris,FR,21807,1244,15580,2020-05-28T15:21:59Z,2020-05-28T15:21:59Z,ok
+41620,"Equinix PA4 - Paris, Pantin",Paris,FR,18975,1244,6696,2020-06-03T08:19:54Z,2021-08-14T14:30:07Z,ok
+43207,"Equinix PA4 - Paris, Pantin",Paris,FR,24114,1244,206795,2020-08-12T07:00:44Z,2020-08-12T07:00:44Z,ok
+46044,"Equinix PA4 - Paris, Pantin",Paris,FR,17716,1244,200271,2020-12-28T10:12:28Z,2020-12-28T10:12:28Z,ok
+46296,"Equinix PA4 - Paris, Pantin",Paris,FR,267,1244,174,2021-01-07T21:30:06Z,2021-01-07T21:30:06Z,ok
+47455,"Equinix PA4 - Paris, Pantin",Paris,FR,11884,1244,62856,2021-02-23T09:46:17Z,2021-02-23T09:46:17Z,ok
+52842,"Equinix PA4 - Paris, Pantin",Paris,FR,1613,1244,36351,2021-12-16T00:54:01Z,2021-12-16T00:55:27Z,ok
+53816,"Equinix PA4 - Paris, Pantin",Paris,FR,8268,1244,42845,2022-02-14T15:25:03Z,2022-02-14T15:25:03Z,ok
+54499,"Equinix PA4 - Paris, Pantin",Paris,FR,29551,1244,49584,2022-03-25T16:38:47Z,2022-03-25T16:38:47Z,ok
+54572,"Equinix PA4 - Paris, Pantin",Paris,FR,694,1244,8075,2022-03-30T13:29:27Z,2022-03-30T13:29:27Z,ok
+55625,"Equinix PA4 - Paris, Pantin",Paris,FR,4345,1244,197981,2022-06-07T12:54:44Z,2022-06-07T12:54:44Z,ok
+62068,"Equinix PA4 - Paris, Pantin",Paris,FR,91,1244,8220,2023-05-08T12:01:11Z,2023-05-08T12:01:11Z,ok
+65959,"Equinix PA4 - Paris, Pantin",Paris,FR,34481,1244,47160,2023-10-27T13:53:47Z,2023-10-27T13:53:47Z,ok
+68213,"Equinix PA4 - Paris, Pantin",Paris,FR,16620,1244,137409,2024-02-14T03:30:00Z,2024-02-14T03:30:00Z,ok
+68729,"Equinix PA4 - Paris, Pantin",Paris,FR,35442,1244,215596,2024-02-29T18:56:15Z,2024-02-29T18:56:16Z,ok
+72024,"Equinix PA4 - Paris, Pantin",Paris,FR,36797,1244,211113,2024-07-18T15:16:30Z,2024-07-18T15:16:30Z,ok
+73514,"Equinix PA4 - Paris, Pantin",Paris,FR,7479,1244,62000,2024-09-14T15:14:28Z,2024-09-14T15:14:28Z,ok
+75208,"Equinix PA4 - Paris, Pantin",Paris,FR,34203,1244,6204,2024-11-29T00:01:54Z,2024-11-29T00:01:54Z,ok
+77677,"Equinix PA4 - Paris, Pantin",Paris,FR,38207,1244,206014,2025-03-24T09:56:37Z,2025-03-24T09:56:38Z,ok
+78689,"Equinix PA4 - Paris, Pantin",Paris,FR,1964,1244,34177,2025-05-06T17:13:21Z,2025-05-06T17:13:22Z,ok
+81553,"Equinix PA4 - Paris, Pantin",Paris,FR,31953,1244,50124,2025-08-31T16:41:20Z,2025-08-31T16:41:20Z,ok
+81966,"Equinix PA4 - Paris, Pantin",Paris,FR,6781,1244,39351,2025-09-21T20:25:27Z,2025-09-21T20:25:28Z,ok
+82060,"Equinix PA4 - Paris, Pantin",Paris,FR,1459,1244,4637,2025-09-25T00:13:27Z,2025-09-25T00:13:28Z,ok
+87131,"Equinix PA4 - Paris, Pantin",Paris,FR,7217,1244,198831,2026-04-06T16:45:46Z,2026-04-06T16:45:47Z,ok
+87573,"Equinix PA4 - Paris, Pantin",Paris,FR,40661,1244,215114,2026-04-27T17:04:36Z,2026-04-27T17:04:36Z,ok
+88796,"Equinix PA4 - Paris, Pantin",Paris,FR,34146,1244,47600,2026-06-26T00:39:18Z,2026-06-26T00:39:18Z,ok
+88961,"Equinix PA4 - Paris, Pantin",Paris,FR,36076,1244,215035,2026-07-05T18:35:54Z,2026-07-05T18:35:54Z,ok
+89304,"Equinix PA4 - Paris, Pantin",Paris,FR,34222,1244,216265,2026-07-20T12:40:03Z,2026-07-20T12:40:03Z,ok
+90119,"Equinix PA4 - Paris, Pantin",Paris,FR,30887,1244,60132,2026-08-21T10:50:27Z,2026-08-21T10:50:27Z,ok
+90170,"Equinix PA4 - Paris, Pantin",Paris,FR,6852,1244,44356,2026-08-24T14:53:02Z,2026-08-24T14:53:02Z,ok
+90262,"Equinix PA4 - Paris, Pantin",Paris,FR,35539,1244,215359,2026-08-28T10:44:22Z,2026-08-28T10:44:22Z,ok
+11288,OPCORE - DC3 / PAR3,Vitry-sur-Seine,FR,1086,1402,41690,2013-02-24T00:00:00Z,2016-03-14T21:32:10Z,ok
+12295,OPCORE - DC3 / PAR3,Vitry-sur-Seine,FR,5849,1402,12876,2013-08-12T00:00:00Z,2016-03-14T21:55:06Z,ok
+12699,OPCORE - DC3 / PAR3,Vitry-sur-Seine,FR,2702,1402,29075,2013-10-01T00:00:00Z,2016-03-14T20:34:00Z,ok
+12827,OPCORE - DC3 / PAR3,Vitry-sur-Seine,FR,6108,1402,35600,2013-10-16T00:00:00Z,2023-12-21T14:38:17Z,ok
+14030,OPCORE - DC3 / PAR3,Vitry-sur-Seine,FR,2221,1402,39605,2014-05-02T00:00:00Z,2016-03-14T20:34:28Z,ok
+14321,OPCORE - DC3 / PAR3,Vitry-sur-Seine,FR,2405,1402,8309,2014-05-30T00:00:00Z,2016-03-14T21:49:23Z,ok
+16040,OPCORE - DC3 / PAR3,Vitry-sur-Seine,FR,7479,1402,62000,2015-01-15T00:00:00Z,2026-01-21T21:55:13Z,ok
+17535,OPCORE - DC3 / PAR3,Vitry-sur-Seine,FR,1479,1402,8218,2015-07-12T00:00:00Z,2016-03-14T20:42:39Z,ok
+17749,OPCORE - DC3 / PAR3,Vitry-sur-Seine,FR,8561,1402,200780,2015-08-12T00:00:00Z,2016-03-14T21:05:28Z,ok
+22297,OPCORE - DC3 / PAR3,Vitry-sur-Seine,FR,5033,1402,58308,2016-11-01T11:18:14Z,2016-11-01T11:18:14Z,ok
+24058,OPCORE - DC3 / PAR3,Vitry-sur-Seine,FR,12980,1402,202140,2017-03-28T19:39:55Z,2017-03-28T19:39:55Z,ok
+26222,OPCORE - DC3 / PAR3,Vitry-sur-Seine,FR,10,1402,1299,2017-09-27T16:13:27Z,2017-09-27T16:13:27Z,ok
+26723,OPCORE - DC3 / PAR3,Vitry-sur-Seine,FR,499,1402,34019,2017-10-30T22:48:54Z,2017-10-30T22:48:54Z,ok
+26919,OPCORE - DC3 / PAR3,Vitry-sur-Seine,FR,10987,1402,60350,2017-11-14T15:00:14Z,2017-11-14T15:00:14Z,ok
+29697,OPCORE - DC3 / PAR3,Vitry-sur-Seine,FR,16840,1402,50628,2018-05-24T14:24:44Z,2018-05-24T14:24:44Z,ok
+30599,OPCORE - DC3 / PAR3,Vitry-sur-Seine,FR,14,1402,3257,2018-08-01T12:28:52Z,2018-08-01T12:28:52Z,ok
+35496,OPCORE - DC3 / PAR3,Vitry-sur-Seine,FR,19845,1402,206782,2019-05-21T08:27:02Z,2019-05-21T08:27:02Z,ok
+36675,OPCORE - DC3 / PAR3,Vitry-sur-Seine,FR,20498,1402,200748,2019-08-01T07:28:29Z,2019-08-01T07:28:29Z,ok
+46050,OPCORE - DC3 / PAR3,Vitry-sur-Seine,FR,5176,1402,59689,2020-12-28T15:44:17Z,2020-12-28T15:44:17Z,ok
+51094,OPCORE - DC3 / PAR3,Vitry-sur-Seine,FR,495,1402,5511,2021-09-07T15:30:36Z,2021-09-07T15:30:36Z,ok
+53389,OPCORE - DC3 / PAR3,Vitry-sur-Seine,FR,31,1402,6762,2022-01-20T16:12:44Z,2022-01-20T16:12:44Z,ok
+61837,OPCORE - DC3 / PAR3,Vitry-sur-Seine,FR,24082,1402,44097,2023-04-27T06:23:12Z,2023-04-27T06:23:12Z,ok
+61901,OPCORE - DC3 / PAR3,Vitry-sur-Seine,FR,120,1402,12322,2023-05-02T09:39:25Z,2023-05-02T09:39:26Z,ok
+65344,OPCORE - DC3 / PAR3,Vitry-sur-Seine,FR,11015,1402,44530,2023-09-29T13:12:37Z,2023-09-29T13:12:37Z,ok
+65965,OPCORE - DC3 / PAR3,Vitry-sur-Seine,FR,34481,1402,47160,2023-10-27T13:55:04Z,2023-10-27T13:55:04Z,ok
+88966,OPCORE - DC3 / PAR3,Vitry-sur-Seine,FR,36076,1402,215035,2026-07-05T18:37:08Z,2026-07-05T18:37:08Z,ok
+90351,OPCORE - DC3 / PAR3,Vitry-sur-Seine,FR,6514,1402,57811,2026-09-01T14:58:52Z,2026-09-01T14:58:52Z,ok
+6575,Digital Realty Paris PAR7,Paris,FR,1970,1536,8723,2010-07-29T00:00:00Z,2016-03-14T20:34:58Z,ok
+13301,Digital Realty Paris PAR7,Paris,FR,433,1536,15169,2014-01-21T00:00:00Z,2016-03-14T20:51:55Z,ok
+13943,Digital Realty Paris PAR7,Paris,FR,3500,1536,33930,2014-04-16T00:00:00Z,2016-03-14T20:24:42Z,ok
+14327,Digital Realty Paris PAR7,Paris,FR,2405,1536,8309,2014-05-30T00:00:00Z,2016-03-14T20:42:07Z,ok
+21943,Digital Realty Paris PAR7,Paris,FR,1086,1536,41690,2016-10-04T08:50:12Z,2016-10-04T08:50:12Z,ok
+34937,Digital Realty Paris PAR7,Paris,FR,2702,1536,29075,2019-04-18T12:39:33Z,2019-04-18T12:39:33Z,ok
+35532,Digital Realty Paris PAR7,Paris,FR,10670,1536,55256,2019-05-22T17:53:48Z,2019-05-22T17:53:48Z,ok
+46302,Digital Realty Paris PAR7,Paris,FR,267,1536,174,2021-01-07T21:35:01Z,2021-01-07T21:35:01Z,ok
+47401,Digital Realty Paris PAR7,Paris,FR,2,1536,20940,2021-02-19T16:01:12Z,2021-02-19T16:01:12Z,ok
+48677,Digital Realty Paris PAR7,Paris,FR,495,1536,5511,2021-04-30T08:07:13Z,2021-04-30T08:07:13Z,ok
+56691,Digital Realty Paris PAR7,Paris,FR,17715,1536,200356,2022-08-02T10:37:16Z,2022-08-02T10:37:16Z,ok
+58708,Digital Realty Paris PAR7,Paris,FR,6327,1536,7155,2022-11-15T13:54:03Z,2022-11-15T13:54:03Z,ok
+62063,Digital Realty Paris PAR7,Paris,FR,91,1536,8220,2023-05-08T11:59:16Z,2023-05-08T11:59:16Z,ok
+63584,Digital Realty Paris PAR7,Paris,FR,13547,1536,43930,2023-07-06T13:53:03Z,2023-07-06T13:53:03Z,ok
+69337,Digital Realty Paris PAR7,Paris,FR,35709,1536,200449,2024-03-26T06:48:42Z,2024-03-26T06:48:42Z,ok
+76327,Digital Realty Paris PAR7,Paris,FR,1764,1536,44444,2025-01-27T22:06:23Z,2025-01-27T22:06:23Z,ok
+76391,Digital Realty Paris PAR7,Paris,FR,1691,1536,12826,2025-01-29T14:19:20Z,2025-01-29T14:19:20Z,ok
+82366,Digital Realty Paris PAR7,Paris,FR,38192,1536,397032,2025-10-08T13:38:15Z,2025-10-08T13:39:41Z,ok
+86700,Digital Realty Paris PAR7,Paris,FR,40658,1536,47833,2026-03-24T12:30:33Z,2026-03-24T12:30:33Z,ok
+26233,OPCORE - DC4 / PAR4,Paris,FR,12379,1599,51335,2017-09-28T07:14:58Z,2017-09-28T07:14:58Z,ok
+15054,Treefaz Jeûneurs,Paris,FR,737,1782,20766,2014-09-07T00:00:00Z,2016-03-14T21:07:02Z,ok
+15781,Treefaz Jeûneurs,Paris,FR,499,1782,34019,2014-12-16T00:00:00Z,2022-04-17T07:42:07Z,ok
+20011,Treefaz Jeûneurs,Paris,FR,2534,1782,39180,2016-04-10T20:34:00Z,2016-04-10T20:34:00Z,ok
+23925,Treefaz Jeûneurs,Paris,FR,9949,1782,47866,2017-03-17T15:03:49Z,2017-03-17T15:03:49Z,ok
+29526,Treefaz Jeûneurs,Paris,FR,9689,1782,201080,2018-05-14T15:10:25Z,2018-05-14T15:10:25Z,ok
+29691,Treefaz Jeûneurs,Paris,FR,16840,1782,50628,2018-05-24T14:23:18Z,2018-05-24T14:23:18Z,ok
+35020,Treefaz Jeûneurs,Paris,FR,2702,1782,29075,2019-04-24T12:48:51Z,2019-04-24T12:48:51Z,ok
+38120,Treefaz Jeûneurs,Paris,FR,15846,1782,205344,2019-11-15T17:05:28Z,2019-11-15T17:05:28Z,ok
+38489,Treefaz Jeûneurs,Paris,FR,190,1782,29608,2019-12-04T14:21:57Z,2019-12-04T14:21:57Z,ok
+39615,Treefaz Jeûneurs,Paris,FR,505,1782,13193,2020-02-14T10:21:50Z,2020-02-14T10:21:50Z,ok
+43006,Treefaz Jeûneurs,Paris,FR,24082,1782,44097,2020-07-29T06:49:27Z,2020-07-29T06:49:27Z,ok
+49236,Treefaz Jeûneurs,Paris,FR,26708,1782,207642,2021-05-27T12:07:13Z,2021-05-27T12:07:13Z,ok
+51401,Treefaz Jeûneurs,Paris,FR,28121,1782,48817,2021-09-29T07:18:32Z,2021-09-29T07:18:32Z,ok
+54931,Treefaz Jeûneurs,Paris,FR,8561,1782,200780,2022-04-20T14:25:21Z,2022-04-20T14:25:22Z,ok
+56082,Treefaz Jeûneurs,Paris,FR,30320,1782,35077,2022-06-28T19:15:56Z,2022-06-28T19:15:56Z,ok
+76241,Treefaz Jeûneurs,Paris,FR,2216,1782,35625,2025-01-22T13:01:16Z,2025-01-22T13:01:16Z,ok
+80833,Treefaz Jeûneurs,Paris,FR,35442,1782,215596,2025-07-30T19:38:14Z,2025-07-30T19:38:15Z,ok
+88330,Treefaz Jeûneurs,Paris,FR,39370,1782,201868,2026-06-06T14:24:36Z,2026-06-06T14:24:36Z,ok
+16915,Telco Center,Courbevoie,FR,200,2191,30889,2015-05-20T00:00:00Z,2016-03-14T21:56:00Z,ok
+17751,Telco Center,Courbevoie,FR,8561,2191,200780,2015-08-12T00:00:00Z,2016-03-14T20:43:55Z,ok
+20258,Telco Center,Courbevoie,FR,9120,2191,57141,2016-05-03T11:54:10Z,2016-05-03T11:54:10Z,ok
+28069,Telco Center,Courbevoie,FR,7000,2191,48504,2018-02-07T09:17:12Z,2018-02-07T09:17:12Z,ok
+30189,Telco Center,Courbevoie,FR,17164,2191,197036,2018-06-29T13:06:38Z,2018-06-29T13:06:38Z,ok
+44443,Telco Center,Courbevoie,FR,18511,2191,25540,2020-10-13T11:09:20Z,2020-10-13T11:09:20Z,ok
+49495,Telco Center,Courbevoie,FR,3141,2191,8368,2021-06-12T13:31:30Z,2021-06-12T13:31:30Z,ok
+54503,Telco Center,Courbevoie,FR,29551,2191,49584,2022-03-25T16:39:39Z,2022-03-25T16:39:39Z,ok
+56033,Telco Center,Courbevoie,FR,13894,2191,197033,2022-06-27T08:45:19Z,2022-06-27T08:45:19Z,ok
+74250,Telco Center,Courbevoie,FR,3017,2191,16347,2024-10-21T12:45:22Z,2024-10-21T12:45:22Z,ok
+76237,Telco Center,Courbevoie,FR,2216,2191,35625,2025-01-22T12:55:29Z,2025-01-22T12:55:30Z,ok
+80163,Telco Center,Courbevoie,FR,17749,2191,206120,2025-07-08T12:30:18Z,2025-07-08T12:30:19Z,ok
+24822,Templus DC Paris PAR01,Paris,FR,91,4074,8220,2017-05-30T18:46:48Z,2017-05-30T18:46:48Z,ok
+90479,Templus DC Paris PAR01,Paris,FR,126,4074,13237,2026-09-07T09:55:08Z,2026-09-07T09:55:08Z,ok
+24824,COLT DC Paris III,Paris,FR,91,4076,8220,2017-05-30T18:47:25Z,2017-05-30T18:47:25Z,ok
+29163,ETIX Paris #1,Paris,FR,1479,5280,8218,2018-04-26T15:55:56Z,2018-04-26T15:55:56Z,ok
+33325,ETIX Paris #1,Paris,FR,3957,5280,51269,2019-01-23T22:29:56Z,2019-01-23T22:29:56Z,ok
+73720,ETIX Paris #1,Paris,FR,91,5280,8220,2024-09-25T19:16:23Z,2024-09-25T19:16:23Z,ok
+73990,ETIX Paris #1,Paris,FR,2405,5280,8309,2024-10-07T21:50:39Z,2024-10-07T21:50:39Z,ok
+75674,ETIX Paris #1,Paris,FR,33414,5280,51664,2024-12-20T02:09:49Z,2024-12-20T02:09:49Z,ok
+89632,ETIX Paris #1,Paris,FR,2702,5280,29075,2026-07-31T13:11:47Z,2026-07-31T13:11:47Z,ok
+57688,moji1,Nanterre,FR,15500,6112,39421,2022-09-23T13:54:12Z,2022-09-23T13:54:13Z,ok
+65956,moji1,Nanterre,FR,34481,6112,47160,2023-10-27T13:53:17Z,2023-10-27T13:53:17Z,ok
+81140,moji1,Nanterre,FR,30870,6112,203062,2025-08-15T11:25:31Z,2025-08-15T11:25:32Z,ok
+82093,moji1,Nanterre,FR,31058,6112,207849,2025-09-26T14:54:05Z,2025-09-26T14:54:05Z,ok
+85321,moji1,Nanterre,FR,37563,6112,214390,2026-01-28T23:33:37Z,2026-01-28T23:33:37Z,ok
+85322,moji1,Nanterre,FR,35284,6112,62443,2026-01-28T23:33:56Z,2026-01-28T23:33:56Z,ok
+85934,moji1,Nanterre,FR,14613,6112,205413,2026-02-18T00:11:46Z,2026-02-18T00:11:46Z,ok
+88555,moji1,Nanterre,FR,36405,6112,215248,2026-06-17T21:57:10Z,2026-06-17T21:57:10Z,ok
+89391,moji1,Nanterre,FR,35650,6112,215296,2026-07-23T20:51:24Z,2026-07-23T20:51:24Z,ok
+33355,Green Data - Nanterre,Nanterre,FR,3957,6267,51269,2019-01-26T13:41:18Z,2019-01-26T13:41:18Z,ok
+33695,Green Data - Nanterre,Nanterre,FR,7479,6267,62000,2019-02-15T22:29:20Z,2019-02-15T22:29:20Z,ok
+54500,Green Data - Nanterre,Nanterre,FR,29551,6267,49584,2022-03-25T16:39:02Z,2022-03-25T16:39:02Z,ok
+57241,Green Data - Nanterre,Nanterre,FR,28121,6267,48817,2022-08-25T22:39:02Z,2022-08-25T22:39:02Z,ok
+67523,Green Data - Nanterre,Nanterre,FR,35102,6267,198053,2024-01-17T17:43:06Z,2024-01-17T17:43:06Z,ok
+76238,Green Data - Nanterre,Nanterre,FR,2216,6267,35625,2025-01-22T12:56:21Z,2025-01-22T12:56:21Z,ok
+52967,nLighten Paris PAR2,Aubervilliers,FR,16810,7226,63023,2021-12-26T03:09:04Z,2021-12-26T03:09:04Z,ok
+66187,nLighten Paris PAR2,Aubervilliers,FR,33414,7226,51664,2023-11-07T18:20:19Z,2023-11-07T18:20:19Z,ok
+70520,nLighten Paris PAR2,Aubervilliers,FR,14,7226,3257,2024-05-13T15:15:10Z,2024-05-13T15:15:11Z,ok
+79418,nLighten Paris PAR2,Aubervilliers,FR,3094,7226,45014,2025-06-08T18:03:40Z,2025-06-08T18:03:41Z,ok
+80363,nLighten Paris PAR2,Aubervilliers,FR,28121,7226,48817,2025-07-15T12:05:26Z,2025-07-15T12:05:26Z,ok
+86701,nLighten Paris PAR2,Aubervilliers,FR,34275,7226,216456,2026-03-24T12:55:40Z,2026-03-24T12:55:40Z,ok
+89623,nLighten Paris PAR2,Aubervilliers,FR,2702,7226,29075,2026-07-31T13:04:12Z,2026-07-31T13:04:12Z,ok
+89936,nLighten Paris PAR2,Aubervilliers,FR,29752,7226,205684,2026-08-10T13:59:18Z,2026-08-10T13:59:18Z,ok
+90199,nLighten Paris PAR2,Aubervilliers,FR,41725,7226,211854,2026-08-25T13:45:03Z,2026-08-25T13:45:03Z,ok
+90291,nLighten Paris PAR2,Aubervilliers,FR,24313,7226,212783,2026-08-30T22:48:26Z,2026-08-30T22:48:26Z,ok
+41613,Groupe Cyllene - DC - Nanterre,Nanterre,FR,1691,8673,12826,2020-06-02T23:03:33Z,2020-06-02T23:03:33Z,ok
+89625,Groupe Cyllene - DC - Nanterre,Nanterre,FR,2702,8673,29075,2026-07-31T13:07:38Z,2026-07-31T13:07:38Z,ok
+41612,Groupe Cyllene - DC - Courbevoie,Courbevoie,FR,1691,8674,12826,2020-06-02T23:03:27Z,2020-06-02T23:03:27Z,ok
+89626,Groupe Cyllene - DC - Courbevoie,Courbevoie,FR,2702,8674,29075,2026-07-31T13:08:02Z,2026-07-31T13:08:02Z,ok
+50513,Aqua Ray Aurora,Ivry-sur-Seine,FR,24998,10442,208069,2021-08-04T12:23:04Z,2021-08-04T12:23:04Z,ok
+50615,Aqua Ray Aurora,Ivry-sur-Seine,FR,2514,10442,41653,2021-08-09T12:52:10Z,2021-08-09T12:52:10Z,ok
+67549,Aqua Ray Aurora,Ivry-sur-Seine,FR,35087,10442,61025,2024-01-18T08:48:47Z,2024-01-18T08:48:47Z,ok
+52652,Salamandre,Paris,FR,737,11498,20766,2021-12-02T22:55:23Z,2021-12-02T22:55:23Z,ok
+52653,Salamandre,Paris,FR,2702,11498,29075,2021-12-02T22:56:11Z,2021-12-02T22:56:11Z,ok
+53044,Salamandre,Paris,FR,28929,11498,207324,2022-01-02T11:56:03Z,2022-01-02T11:56:03Z,ok
+66889,"Equinix PA10 - Paris, Saint-Denis",Paris,FR,3992,14220,34863,2023-12-13T08:37:14Z,2023-12-13T08:37:14Z,ok
+68216,"Equinix PA10 - Paris, Saint-Denis",Paris,FR,16620,14220,137409,2024-02-14T03:30:16Z,2024-02-14T03:30:16Z,ok
+68731,"Equinix PA10 - Paris, Saint-Denis",Paris,FR,35442,14220,215596,2024-02-29T18:56:30Z,2024-02-29T18:56:30Z,ok
+71333,"Equinix PA10 - Paris, Saint-Denis",Paris,FR,1019,14220,30058,2024-06-19T07:38:35Z,2024-06-19T07:38:36Z,ok
+72497,"Equinix PA10 - Paris, Saint-Denis",Paris,FR,283,14220,25358,2024-08-07T10:29:49Z,2024-08-07T10:29:49Z,ok
+74693,"Equinix PA10 - Paris, Saint-Denis",Paris,FR,19428,14220,396986,2024-11-08T13:59:01Z,2024-11-08T13:59:02Z,ok
+74737,"Equinix PA10 - Paris, Saint-Denis",Paris,FR,34012,14220,205845,2024-11-11T06:33:36Z,2024-11-11T06:33:36Z,ok
+75211,"Equinix PA10 - Paris, Saint-Denis",Paris,FR,34203,14220,6204,2024-11-29T00:02:43Z,2024-11-29T00:02:43Z,ok
+80608,"Equinix PA10 - Paris, Saint-Denis",Paris,FR,118,14220,5400,2025-07-24T14:29:14Z,2025-07-24T14:29:14Z,ok
+81091,"Equinix PA10 - Paris, Saint-Denis",Paris,FR,4430,14220,56665,2025-08-12T21:26:52Z,2025-08-12T21:26:53Z,ok
+81552,"Equinix PA10 - Paris, Saint-Denis",Paris,FR,31953,14220,50124,2025-08-31T16:41:04Z,2025-08-31T16:41:04Z,ok
+81803,"Equinix PA10 - Paris, Saint-Denis",Paris,FR,979,14220,32934,2025-09-12T17:10:50Z,2025-09-12T17:10:50Z,ok
+83929,"Equinix PA10 - Paris, Saint-Denis",Paris,FR,5520,14220,54113,2025-11-24T14:45:30Z,2025-11-24T14:45:31Z,ok
+84257,"Equinix PA10 - Paris, Saint-Denis",Paris,FR,8731,14220,30103,2025-12-08T16:35:09Z,2025-12-08T16:35:10Z,ok
+87576,"Equinix PA10 - Paris, Saint-Denis",Paris,FR,40661,14220,215114,2026-04-27T17:05:04Z,2026-04-27T17:05:04Z,ok
+88960,"Equinix PA10 - Paris, Saint-Denis",Paris,FR,36076,14220,215035,2026-07-05T18:35:50Z,2026-07-05T18:35:50Z,ok
+89303,"Equinix PA10 - Paris, Saint-Denis",Paris,FR,34222,14220,216265,2026-07-20T12:39:37Z,2026-07-20T12:39:37Z,ok
+89757,"Equinix PA10 - Paris, Saint-Denis",Paris,FR,25249,14220,212504,2026-08-04T15:04:50Z,2026-08-04T15:04:50Z,ok
+67989,Digital Realty Paris PAR8,La Courneuve,FR,17715,14445,200356,2024-02-06T17:46:50Z,2024-02-06T17:46:50Z,ok
+68144,Digital Realty Paris PAR8,La Courneuve,FR,495,14445,5511,2024-02-12T16:36:36Z,2024-02-12T16:36:36Z,ok
+69061,Digital Realty Paris PAR8,La Courneuve,FR,27920,14445,47583,2024-03-14T08:45:40Z,2024-03-14T08:45:40Z,ok
+74640,Digital Realty Paris PAR8,La Courneuve,FR,16361,14445,197883,2024-11-07T07:54:28Z,2024-11-07T07:54:28Z,ok
+80024,Digital Realty Paris PAR8,La Courneuve,FR,2,14445,20940,2025-07-03T16:32:21Z,2025-07-03T16:32:22Z,ok
+84017,Digital Realty Paris PAR8,La Courneuve,FR,16406,14445,49028,2025-11-27T15:55:15Z,2025-11-27T15:55:15Z,ok
+72945,MEDIACTIVE MN3,Choisy-le-Roi,FR,37123,15257,201896,2024-08-21T18:49:59Z,2024-08-21T18:50:00Z,ok
+90120,MEDIACTIVE MN3,Choisy-le-Roi,FR,30887,15257,60132,2026-08-21T10:50:34Z,2026-08-21T10:50:34Z,ok
+90122,MEDIACTIVE MN3,Choisy-le-Roi,FR,4359,15257,197133,2026-08-21T11:03:55Z,2026-08-21T11:03:55Z,ok
+74563,dc2scale PAR4x (Meudon),Meudon,FR,24179,15394,212815,2024-11-03T12:13:39Z,2024-11-03T12:13:39Z,ok
+90475,Smartdc Paris,Montreuil,FR,2496,17028,49544,2026-09-07T09:12:09Z,2026-09-07T09:12:09Z,ok
+4152,"Equinix PA1 - Paris, Roissy",Roissy-en-France,FR,1479,229,8218,2010-07-29T00:00:00Z,2016-03-14T20:52:03Z,ok
+8308,"Equinix PA1 - Paris, Roissy",Roissy-en-France,FR,2146,229,47841,2011-05-18T00:00:00Z,2016-03-14T20:41:35Z,ok
+26895,"Equinix PA1 - Paris, Roissy",Roissy-en-France,FR,15156,229,64476,2017-11-13T21:59:40Z,2017-11-13T22:02:02Z,ok
+31021,"Equinix PA1 - Paris, Roissy",Roissy-en-France,FR,17507,229,205483,2018-08-22T06:47:42Z,2018-08-22T06:47:42Z,ok
+31722,"Equinix PA1 - Paris, Roissy",Roissy-en-France,FR,4338,229,58453,2018-10-09T07:48:01Z,2018-10-09T07:48:01Z,ok
+43764,"Equinix PA1 - Paris, Roissy",Roissy-en-France,FR,91,229,8220,2020-09-11T14:45:27Z,2020-09-11T14:45:27Z,ok
+46623,"Equinix PA1 - Paris, Roissy",Roissy-en-France,FR,25724,229,140883,2021-01-21T05:47:10Z,2021-01-21T05:47:10Z,ok
+1457,Multicoms Paris (Velizy),Paris,FR,780,231,29215,2010-07-29T00:00:00Z,2016-03-14T20:37:36Z,ok
+6100,Telehouse - Paris 3 (Magny),Magny-les-Hameaux,FR,1479,636,8218,2010-07-29T00:00:00Z,2016-03-14T20:37:28Z,ok
+7368,Telehouse - Paris 3 (Magny),Magny-les-Hameaux,FR,14297,636,2485,2010-10-19T00:00:00Z,2020-01-22T04:21:38Z,ok
+13509,Telehouse - Paris 3 (Magny),Magny-les-Hameaux,FR,3627,636,14537,2014-02-25T00:00:00Z,2016-03-14T21:20:46Z,ok
+14343,Telehouse - Paris 3 (Magny),Magny-les-Hameaux,FR,2405,636,8309,2014-05-30T00:00:00Z,2016-03-14T20:33:48Z,ok
+17691,Telehouse - Paris 3 (Magny),Magny-les-Hameaux,FR,3500,636,33930,2015-07-29T00:00:00Z,2016-03-14T20:52:26Z,ok
+18035,Telehouse - Paris 3 (Magny),Magny-les-Hameaux,FR,8779,636,29104,2015-09-10T00:00:00Z,2016-03-14T20:34:19Z,ok
+18427,Telehouse - Paris 3 (Magny),Magny-les-Hameaux,FR,5426,636,199660,2015-10-22T00:00:00Z,2016-03-14T21:39:31Z,ok
+18984,Telehouse - Paris 3 (Magny),Magny-les-Hameaux,FR,200,636,30889,2015-12-22T00:00:00Z,2016-03-14T20:50:49Z,ok
+21023,Telehouse - Paris 3 (Magny),Magny-les-Hameaux,FR,731,636,30781,2016-07-21T08:35:22Z,2016-07-21T08:35:22Z,ok
+21781,Telehouse - Paris 3 (Magny),Magny-les-Hameaux,FR,116,636,8426,2016-09-25T08:41:14Z,2016-09-25T08:41:14Z,ok
+22756,Telehouse - Paris 3 (Magny),Magny-les-Hameaux,FR,12006,636,50624,2016-12-13T06:13:02Z,2016-12-13T06:13:02Z,ok
+23005,Telehouse - Paris 3 (Magny),Magny-les-Hameaux,FR,7479,636,62000,2017-01-08T12:38:57Z,2023-07-28T20:10:31Z,ok
+29283,Telehouse - Paris 3 (Magny),Magny-les-Hameaux,FR,7675,636,59842,2018-05-01T02:11:47Z,2018-05-01T02:11:47Z,ok
+34938,Telehouse - Paris 3 (Magny),Magny-les-Hameaux,FR,2702,636,29075,2019-04-18T12:41:15Z,2019-04-18T12:41:15Z,ok
+36051,Telehouse - Paris 3 (Magny),Magny-les-Hameaux,FR,3387,636,47957,2019-06-17T11:12:18Z,2019-06-17T11:12:18Z,ok
+44444,Telehouse - Paris 3 (Magny),Magny-les-Hameaux,FR,18511,636,25540,2020-10-13T11:09:41Z,2020-10-13T11:09:41Z,ok
+46303,Telehouse - Paris 3 (Magny),Magny-les-Hameaux,FR,267,636,174,2021-01-07T21:36:03Z,2021-01-07T21:36:03Z,ok
+52738,Telehouse - Paris 3 (Magny),Magny-les-Hameaux,FR,28749,636,206310,2021-12-08T13:27:58Z,2021-12-08T13:27:58Z,ok
+52740,Telehouse - Paris 3 (Magny),Magny-les-Hameaux,FR,28748,636,205698,2021-12-08T13:30:34Z,2021-12-08T13:30:34Z,ok
+53158,Telehouse - Paris 3 (Magny),Magny-les-Hameaux,FR,499,636,34019,2022-01-11T18:36:23Z,2022-01-11T18:36:23Z,ok
+58888,Telehouse - Paris 3 (Magny),Magny-les-Hameaux,FR,28268,636,212579,2022-11-23T08:51:17Z,2022-11-23T08:51:17Z,ok
+61980,Telehouse - Paris 3 (Magny),Magny-les-Hameaux,FR,20663,636,36864,2023-05-05T07:12:33Z,2023-05-05T07:12:33Z,ok
+63665,Telehouse - Paris 3 (Magny),Magny-les-Hameaux,FR,28340,636,5405,2023-07-11T09:45:15Z,2023-07-11T09:45:15Z,ok
+64834,Telehouse - Paris 3 (Magny),Magny-les-Hameaux,FR,32666,636,199116,2023-09-08T17:57:39Z,2023-09-08T17:57:39Z,ok
+66614,Telehouse - Paris 3 (Magny),Magny-les-Hameaux,FR,12293,636,199483,2023-11-29T12:56:38Z,2023-11-29T12:56:38Z,ok
+67029,Telehouse - Paris 3 (Magny),Magny-les-Hameaux,FR,6108,636,35600,2023-12-21T14:38:39Z,2023-12-21T14:38:39Z,ok
+67031,Telehouse - Paris 3 (Magny),Magny-les-Hameaux,FR,24082,636,44097,2023-12-21T14:40:42Z,2023-12-21T14:40:42Z,ok
+67119,Telehouse - Paris 3 (Magny),Magny-les-Hameaux,FR,17353,636,48305,2023-12-28T15:54:58Z,2023-12-28T15:54:58Z,ok
+67348,Telehouse - Paris 3 (Magny),Magny-les-Hameaux,FR,1580,636,3215,2024-01-08T16:25:49Z,2024-01-08T16:25:50Z,ok
+68726,Telehouse - Paris 3 (Magny),Magny-les-Hameaux,FR,35442,636,215596,2024-02-29T18:55:55Z,2024-02-29T18:55:55Z,ok
+73730,Telehouse - Paris 3 (Magny),Magny-les-Hameaux,FR,3017,636,16347,2024-09-26T08:53:06Z,2024-09-26T08:53:06Z,ok
+74708,Telehouse - Paris 3 (Magny),Magny-les-Hameaux,FR,14826,636,51326,2024-11-09T17:11:03Z,2024-11-09T17:11:04Z,ok
+75680,Telehouse - Paris 3 (Magny),Magny-les-Hameaux,FR,5071,636,57928,2024-12-20T10:43:35Z,2024-12-20T10:43:35Z,ok
+76004,Telehouse - Paris 3 (Magny),Magny-les-Hameaux,FR,34712,636,215955,2025-01-11T12:39:30Z,2025-01-11T12:39:31Z,ok
+76154,Telehouse - Paris 3 (Magny),Magny-les-Hameaux,FR,8661,636,20565,2025-01-19T19:03:38Z,2025-01-19T19:03:38Z,ok
+77692,Telehouse - Paris 3 (Magny),Magny-les-Hameaux,FR,1280,636,20773,2025-03-24T15:28:31Z,2025-03-24T15:28:31Z,ok
+78170,Telehouse - Paris 3 (Magny),Magny-les-Hameaux,FR,8809,636,60032,2025-04-14T08:45:53Z,2025-04-14T08:45:53Z,ok
+79496,Telehouse - Paris 3 (Magny),Magny-les-Hameaux,FR,4697,636,198335,2025-06-11T15:33:00Z,2025-06-11T15:33:00Z,ok
+79723,Telehouse - Paris 3 (Magny),Magny-les-Hameaux,FR,2858,636,2484,2025-06-24T07:42:35Z,2025-06-24T07:42:36Z,ok
+79987,Telehouse - Paris 3 (Magny),Magny-les-Hameaux,FR,14606,636,10122,2025-07-03T04:23:54Z,2025-07-03T04:23:54Z,ok
+80046,Telehouse - Paris 3 (Magny),Magny-les-Hameaux,FR,39716,636,200653,2025-07-04T13:09:33Z,2025-07-04T13:09:33Z,ok
+81906,Telehouse - Paris 3 (Magny),Magny-les-Hameaux,FR,3570,636,8304,2025-09-18T12:15:53Z,2025-09-18T12:15:54Z,ok
+82561,Telehouse - Paris 3 (Magny),Magny-les-Hameaux,FR,8663,636,62044,2025-10-14T20:26:10Z,2025-10-14T20:26:10Z,ok
+82661,Telehouse - Paris 3 (Magny),Magny-les-Hameaux,FR,19353,636,44273,2025-10-17T11:30:12Z,2025-10-17T11:30:12Z,ok
+83264,Telehouse - Paris 3 (Magny),Magny-les-Hameaux,FR,27330,636,49915,2025-10-30T01:08:31Z,2025-10-30T01:08:31Z,ok
+84843,Telehouse - Paris 3 (Magny),Magny-les-Hameaux,FR,34222,636,216265,2026-01-08T12:45:47Z,2026-01-08T12:45:47Z,ok
+87155,Telehouse - Paris 3 (Magny),Magny-les-Hameaux,FR,41897,636,199870,2026-04-07T12:34:33Z,2026-04-07T12:34:33Z,ok
+88957,Telehouse - Paris 3 (Magny),Magny-les-Hameaux,FR,36076,636,215035,2026-07-05T18:35:18Z,2026-07-05T18:35:18Z,ok
+90121,Telehouse - Paris 3 (Magny),Magny-les-Hameaux,FR,30887,636,60132,2026-08-21T10:50:56Z,2026-08-21T10:50:56Z,ok
+90433,Telehouse - Paris 3 (Magny),Magny-les-Hameaux,FR,1964,636,34177,2026-09-04T16:33:19Z,2026-09-04T16:33:19Z,ok
+13394,Cogent Velizy,Vélizy-Villacoublay,FR,6457,731,199248,2014-02-06T00:00:00Z,2016-03-14T21:22:50Z,ok
+27251,Cogent Velizy,Vélizy-Villacoublay,FR,267,731,174,2017-12-06T20:48:55Z,2017-12-06T20:48:55Z,ok
+32322,Cogent Velizy,Vélizy-Villacoublay,FR,18286,731,49434,2018-11-12T13:04:13Z,2018-11-12T13:04:13Z,ok
+39186,Cogent Velizy,Vélizy-Villacoublay,FR,2702,731,29075,2020-01-21T16:32:21Z,2020-01-21T16:32:21Z,ok
+40571,Cogent Velizy,Vélizy-Villacoublay,FR,13205,731,20546,2020-04-07T05:11:31Z,2020-04-07T05:11:31Z,ok
+57890,Cogent Velizy,Vélizy-Villacoublay,FR,24179,731,212815,2022-10-06T19:58:15Z,2022-10-06T19:58:15Z,ok
+66793,Cogent Velizy,Vélizy-Villacoublay,FR,34712,731,215955,2023-12-08T09:58:26Z,2023-12-08T09:58:26Z,ok
+88211,Cogent Velizy,Vélizy-Villacoublay,FR,36076,731,215035,2026-05-31T11:11:19Z,2026-05-31T11:11:19Z,ok
+89423,Cogent Velizy,Vélizy-Villacoublay,FR,36966,731,214432,2026-07-26T23:20:02Z,2026-07-26T23:20:02Z,ok
+14372,Penta Infra Paris PAR01,Lognes,FR,2405,1785,8309,2014-06-03T00:00:00Z,2016-03-11T07:21:43Z,ok
+29154,Penta Infra Paris PAR01,Lognes,FR,1479,1785,8218,2018-04-26T10:38:36Z,2018-04-26T10:40:36Z,ok
+32701,Penta Infra Paris PAR01,Lognes,FR,8561,1785,200780,2018-12-04T06:12:01Z,2018-12-04T06:12:01Z,ok
+34940,Penta Infra Paris PAR01,Lognes,FR,2702,1785,29075,2019-04-18T12:41:53Z,2019-04-18T12:41:53Z,ok
+42643,Penta Infra Paris PAR01,Lognes,FR,4278,1785,1828,2020-07-13T20:44:56Z,2020-07-13T20:44:56Z,ok
+64475,Penta Infra Paris PAR01,Lognes,FR,32771,1785,34766,2023-08-23T11:06:02Z,2023-08-23T11:06:02Z,ok
+72114,Penta Infra Paris PAR01,Lognes,FR,35442,1785,215596,2024-07-23T04:25:02Z,2024-07-23T04:25:02Z,ok
+74432,Penta Infra Paris PAR01,Lognes,FR,3017,1785,16347,2024-10-28T16:06:28Z,2024-10-28T16:06:28Z,ok
+76240,Penta Infra Paris PAR01,Lognes,FR,2216,1785,35625,2025-01-22T13:00:30Z,2025-01-22T13:00:30Z,ok
+76358,Penta Infra Paris PAR01,Lognes,FR,7565,1785,200023,2025-01-28T08:50:13Z,2025-01-28T08:50:13Z,ok
+77152,Penta Infra Paris PAR01,Lognes,FR,4158,1785,8455,2025-03-03T12:31:44Z,2025-03-03T12:31:44Z,ok
+83251,Penta Infra Paris PAR01,Lognes,FR,27330,1785,49915,2025-10-30T01:08:12Z,2025-10-30T01:08:12Z,ok
+24823,COLT DC Paris II,Paris,FR,91,4075,8220,2017-05-30T18:47:10Z,2020-04-17T08:18:16Z,ok
+41057,COLT DC Paris II,Paris,FR,1964,4075,34177,2020-05-03T19:14:08Z,2020-05-03T19:14:08Z,ok
+44490,COLT DC Paris II,Paris,FR,267,4075,174,2020-10-14T15:51:22Z,2020-10-14T15:51:22Z,ok
+32633,APPLIWAVE - CBO,Croissy Beaubourg,FR,18446,5141,209815,2018-11-28T14:16:44Z,2018-11-28T14:16:44Z,ok
+47931,APPLIWAVE - CBO,Croissy Beaubourg,FR,8561,5141,200780,2021-03-18T15:42:03Z,2021-03-18T15:42:03Z,ok
+54084,APPLIWAVE - CBO,Croissy Beaubourg,FR,29398,5141,2027,2022-03-04T17:46:54Z,2022-03-04T17:46:54Z,ok
+50209,OPCORE - DC5 / PAR5,Saint-Ouen-l'Aumône,FR,2702,7180,29075,2021-07-14T21:54:09Z,2021-07-14T21:54:09Z,ok
+61902,OPCORE - DC5 / PAR5,Saint-Ouen-l'Aumône,FR,120,7180,12322,2023-05-02T09:39:36Z,2023-05-02T09:39:37Z,ok
+65436,OPCORE - DC5 / PAR5,Saint-Ouen-l'Aumône,FR,2216,7180,35625,2023-10-02T15:10:00Z,2023-10-02T15:10:00Z,ok
+80026,OPCORE - DC5 / PAR5,Saint-Ouen-l'Aumône,FR,2,7180,20940,2025-07-03T16:32:52Z,2025-07-03T16:32:52Z,ok
+84162,OPCORE - DC5 / PAR5,Saint-Ouen-l'Aumône,FR,5849,7180,12876,2025-12-03T13:30:37Z,2025-12-03T13:30:37Z,ok
+54483,Dataxion France DTX01,Trappes,FR,29551,7775,49584,2022-03-24T22:52:33Z,2022-03-24T22:52:33Z,ok
+40584,dc2scale PAR2 (Vélizy-Villacoublay),Vélizy-Villacoublay,FR,18286,8406,49434,2020-04-07T13:03:58Z,2020-04-07T13:03:58Z,ok
+43361,dc2scale PAR2 (Vélizy-Villacoublay),Vélizy-Villacoublay,FR,24179,8406,212815,2020-08-19T12:48:05Z,2020-08-19T12:48:05Z,ok
+44463,dc2scale PAR2 (Vélizy-Villacoublay),Vélizy-Villacoublay,FR,24366,8406,212844,2020-10-13T20:11:43Z,2020-10-13T20:11:43Z,ok
+47932,dc2scale PAR2 (Vélizy-Villacoublay),Vélizy-Villacoublay,FR,8561,8406,200780,2021-03-18T15:42:13Z,2021-03-18T15:42:13Z,ok
+49388,dc2scale PAR2 (Vélizy-Villacoublay),Vélizy-Villacoublay,FR,499,8406,34019,2021-06-02T21:27:31Z,2021-06-02T21:27:31Z,ok
+54088,dc2scale PAR2 (Vélizy-Villacoublay),Vélizy-Villacoublay,FR,29398,8406,2027,2022-03-04T17:47:19Z,2022-03-04T17:47:19Z,ok
+54620,dc2scale PAR2 (Vélizy-Villacoublay),Vélizy-Villacoublay,FR,27589,8406,52073,2022-04-03T13:09:10Z,2022-04-03T13:09:10Z,ok
+65433,dc2scale PAR2 (Vélizy-Villacoublay),Vélizy-Villacoublay,FR,2216,8406,35625,2023-10-02T15:09:13Z,2023-10-02T15:09:13Z,ok
+65533,dc2scale PAR2 (Vélizy-Villacoublay),Vélizy-Villacoublay,FR,26795,8406,211448,2023-10-06T13:10:54Z,2023-10-06T13:10:54Z,ok
+65750,dc2scale PAR2 (Vélizy-Villacoublay),Vélizy-Villacoublay,FR,33215,8406,209428,2023-10-17T19:56:23Z,2023-10-17T19:56:23Z,ok
+69432,dc2scale PAR2 (Vélizy-Villacoublay),Vélizy-Villacoublay,FR,35750,8406,199415,2024-03-31T15:27:17Z,2024-03-31T15:27:18Z,ok
+76807,dc2scale PAR2 (Vélizy-Villacoublay),Vélizy-Villacoublay,FR,35442,8406,215596,2025-02-18T13:42:58Z,2025-02-18T13:42:58Z,ok
+78152,dc2scale PAR2 (Vélizy-Villacoublay),Vélizy-Villacoublay,FR,38996,8406,211615,2025-04-13T20:06:47Z,2025-04-13T20:06:47Z,ok
+79113,dc2scale PAR2 (Vélizy-Villacoublay),Vélizy-Villacoublay,FR,33205,8406,200056,2025-05-27T12:33:50Z,2025-05-27T12:33:51Z,ok
+83971,dc2scale PAR2 (Vélizy-Villacoublay),Vélizy-Villacoublay,FR,24015,8406,212895,2025-11-25T14:03:55Z,2025-11-25T14:03:56Z,ok
+85907,dc2scale PAR2 (Vélizy-Villacoublay),Vélizy-Villacoublay,FR,35799,8406,52053,2026-02-16T22:33:58Z,2026-02-16T22:33:58Z,ok
+86552,dc2scale PAR2 (Vélizy-Villacoublay),Vélizy-Villacoublay,FR,25879,8406,211868,2026-03-14T11:03:24Z,2026-03-14T11:03:24Z,ok
+86930,dc2scale PAR2 (Vélizy-Villacoublay),Vélizy-Villacoublay,FR,34387,8406,216190,2026-03-30T14:50:47Z,2026-03-30T14:50:47Z,ok
+87034,dc2scale PAR2 (Vélizy-Villacoublay),Vélizy-Villacoublay,FR,41922,8406,215727,2026-04-03T02:20:47Z,2026-04-03T02:20:47Z,ok
+87922,dc2scale PAR2 (Vélizy-Villacoublay),Vélizy-Villacoublay,FR,42384,8406,197676,2026-05-13T17:50:30Z,2026-05-13T17:50:30Z,ok
+88190,dc2scale PAR2 (Vélizy-Villacoublay),Vélizy-Villacoublay,FR,42535,8406,197179,2026-05-31T10:46:30Z,2026-05-31T10:46:30Z,ok
+40725,COLT DC Paris SouthWest,Paris,FR,91,8448,8220,2020-04-15T19:47:16Z,2020-04-15T19:47:16Z,ok
+42186,Celeste Marilyn,Champs-sur-Marne,FR,1964,8528,34177,2020-06-24T14:01:02Z,2020-06-24T14:01:02Z,ok
+45369,Celeste Marilyn,Champs-sur-Marne,FR,8561,8528,200780,2020-11-23T09:04:50Z,2020-11-23T09:04:50Z,ok
+51148,Dyjix,Vélizy-Villacoublay,FR,24179,9028,212815,2021-09-11T12:09:01Z,2021-09-11T12:09:01Z,ok
+58059,Dyjix,Vélizy-Villacoublay,FR,30215,9028,57080,2022-10-16T01:02:49Z,2022-10-16T01:02:49Z,ok
+60865,Dyjix,Vélizy-Villacoublay,FR,30108,9028,205021,2023-03-13T21:28:47Z,2023-03-13T21:28:47Z,ok
+65534,Dyjix,Vélizy-Villacoublay,FR,26795,9028,211448,2023-10-06T13:11:14Z,2023-10-06T13:11:14Z,ok
+79114,Dyjix,Vélizy-Villacoublay,FR,33205,9028,200056,2025-05-27T12:33:59Z,2025-05-27T12:34:00Z,ok
+55622,DATA4 Paris Marcoussis PAR2,Marcoussis,FR,4345,10647,197981,2022-06-07T12:52:49Z,2022-06-07T12:52:49Z,ok
+74431,DATA4 Paris Marcoussis PAR2,Marcoussis,FR,3017,10647,16347,2024-10-28T16:05:35Z,2024-10-28T16:05:35Z,ok
+89618,DATA4 Paris Marcoussis PAR2,Marcoussis,FR,2702,10647,29075,2026-07-31T13:01:58Z,2026-07-31T13:01:58Z,ok
+57570,Groupe Cyllene - DC - Montigny les Bretonneux,Montigny-le-Bretonneux,FR,1691,12780,12826,2022-09-16T06:42:46Z,2022-09-16T06:42:46Z,ok
+89627,Groupe Cyllene - DC - Montigny les Bretonneux,Montigny-le-Bretonneux,FR,2702,12780,29075,2026-07-31T13:08:16Z,2026-07-31T13:08:17Z,ok
+76165,nLighten Paris PAR1,Lognes,FR,28121,13191,48817,2025-01-20T11:08:01Z,2025-01-20T11:08:01Z,ok
+76504,nLighten Paris PAR1,Lognes,FR,34481,13191,47160,2025-02-03T15:33:25Z,2025-02-03T15:33:25Z,ok
+73429,ETIX Paris #3,Vélizy-Villacoublay,FR,26704,14214,4455,2024-09-10T04:39:52Z,2024-09-10T04:39:52Z,ok
+73719,ETIX Paris #3,Vélizy-Villacoublay,FR,267,14214,174,2024-09-25T18:24:46Z,2024-09-25T18:24:46Z,ok
+73721,ETIX Paris #3,Vélizy-Villacoublay,FR,91,14214,8220,2024-09-25T19:16:33Z,2024-09-25T19:16:33Z,ok
+73848,ETIX Paris #3,Vélizy-Villacoublay,FR,1479,14214,8218,2024-09-30T13:01:04Z,2024-09-30T13:01:04Z,ok
+73991,ETIX Paris #3,Vélizy-Villacoublay,FR,2405,14214,8309,2024-10-07T21:50:50Z,2024-10-07T21:50:50Z,ok
+81770,ETIX Paris #3,Vélizy-Villacoublay,FR,10245,14214,199571,2025-09-11T07:10:23Z,2025-09-11T07:10:23Z,ok
+89633,ETIX Paris #3,Vélizy-Villacoublay,FR,2702,14214,29075,2026-07-31T13:11:53Z,2026-07-31T13:11:53Z,ok
+67573,dc2scale PAR3 (Vélizy-Villacoublay),Vélizy-Villacoublay,FR,18286,14392,49434,2024-01-20T17:09:35Z,2024-01-20T17:09:35Z,ok
+67574,dc2scale PAR3 (Vélizy-Villacoublay),Vélizy-Villacoublay,FR,24179,14392,212815,2024-01-20T17:12:26Z,2024-01-20T17:12:26Z,ok
+67799,dc2scale PAR3 (Vélizy-Villacoublay),Vélizy-Villacoublay,FR,27589,14392,52073,2024-01-30T15:24:32Z,2024-01-30T15:24:32Z,ok
+69433,dc2scale PAR3 (Vélizy-Villacoublay),Vélizy-Villacoublay,FR,35750,14392,199415,2024-03-31T15:27:22Z,2024-03-31T15:27:22Z,ok
+69512,dc2scale PAR3 (Vélizy-Villacoublay),Vélizy-Villacoublay,FR,35799,14392,52053,2024-04-03T17:25:59Z,2024-04-03T17:25:59Z,ok
+71412,dc2scale PAR3 (Vélizy-Villacoublay),Vélizy-Villacoublay,FR,36553,14392,19879,2024-06-21T10:38:53Z,2024-06-21T10:38:53Z,ok
+72998,dc2scale PAR3 (Vélizy-Villacoublay),Vélizy-Villacoublay,FR,34874,14392,216117,2024-08-23T11:13:36Z,2024-08-23T11:13:36Z,ok
+76808,dc2scale PAR3 (Vélizy-Villacoublay),Vélizy-Villacoublay,FR,35442,14392,215596,2025-02-18T13:43:06Z,2025-02-18T13:43:06Z,ok
+78220,dc2scale PAR3 (Vélizy-Villacoublay),Vélizy-Villacoublay,FR,8564,14392,57043,2025-04-16T12:42:54Z,2025-04-16T12:42:54Z,ok
+79020,dc2scale PAR3 (Vélizy-Villacoublay),Vélizy-Villacoublay,FR,38922,14392,213599,2025-05-23T12:41:44Z,2025-05-23T12:41:44Z,ok
+89630,dc2scale PAR3 (Vélizy-Villacoublay),Vélizy-Villacoublay,FR,2702,14392,29075,2026-07-31T13:09:27Z,2026-07-31T13:09:27Z,ok
+76182,Digital Realty Paris PAR12,Ferrières-en-Brie,FR,31440,15447,7492,2025-01-20T16:59:09Z,2025-01-20T17:57:59Z,ok
+74562,dc2scale PAR5 (Vélizy-Villacoublay),Vélizy-Villacoublay,FR,24179,15492,212815,2024-11-03T12:13:35Z,2024-11-03T12:13:35Z,ok
+76140,dc2scale PAR5 (Vélizy-Villacoublay),Vélizy-Villacoublay,FR,18286,15492,49434,2025-01-17T23:02:47Z,2025-01-17T23:02:47Z,ok
+89629,dc2scale PAR5 (Vélizy-Villacoublay),Vélizy-Villacoublay,FR,2702,15492,29075,2026-07-31T13:09:07Z,2026-07-31T13:09:08Z,ok

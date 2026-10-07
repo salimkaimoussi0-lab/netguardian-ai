@@ -1,0 +1,19 @@
+﻿ix_id,name,name_long,city,country,region_continent,website,tech_email,policy_email,status
+34,SFINX,Service for French INternet eXchange,Paris,FR,Europe,http://www.sfinx.fr/,noc-sfinx@noc.sfinx.fr,contact@sfinx.fr,ok
+64,NL-ix,Neutral Internet Exchange,"Amsterdam, Rotterdam, Brussels, Luxembourg, Frankfurt, Düsseldorf, Berlin, Dublin, London, Copenhagen, Paris, Marseille",NL,Europe,https://www.nl-ix.net/,support@nl-ix.net,,ok
+255,Equinix Paris,Equinix Internet Exchange Paris,Paris,FR,Europe,https://www.equinix-ix.fr/,servicedesk.fr@eu.equinix.com,,ok
+358,GNM-IX,GNM Internet Exchange,Amsterdam,NL,Europe,https://gnm-ix.net,noc@gnm.net,service@gnm.net,ok
+359,France-IX Paris,FranceIX Paris,Paris,FR,Europe,https://www.franceix.net/en/infrastructure/our-exchange-points-in-france/france-ix-paris/,noc@franceix.net,l2-support@franceix.net,ok
+699,NetIX,NetIX Communications Ltd.,Sofia,BG,Europe,http://www.netix.net,peering@netix.net,dbelev@netix.net,ok
+1320,Hopus,The HOPUS - the routed exchange,"Paris, Lyon, Marseille, Geneva, Zurich, Amsterdam, Frankfurt",FR,Europe,https://hopus.net,noc@hopus.net,info@hopus.net,ok
+3476,Global Peer Exchange,Global Peer Exchange,Washington,US,North America,https://globalpeerexchange.com/home,hkilmer@cogentco.com,vteissier@cogentco.com,ok
+3958,1-IX EU,1-IX Internet Exchange Europe,"New-York, London, Paris, Madrid, Frankfurt, Amsterdam, Warsaw, Bratislava, Hong Kong",PL,Europe,https://1-ix.eu,noc@1-ix.eu,peering@1-ix.eu,ok
+3990,INTERIX,InterIX Internet Exchange,Amsterdam,NL,Europe,https://www.inter-ix.net/,noc@inter-ix.net,noc@inter-ix.net,ok
+4461,Association HwHost,,Paris,FR,Europe,https://hwhost.fr,contact@hwhost.fr,,ok
+4705,nine,nine - the new European IX,"Amsterdam, Bordeaux, Frankfurt, Genève, Lille, London, Lyon, Marseille, Milano, Montpellier, Paris, Zurich",FR,Europe,https://nine-ix.net/,noc@nine-ix.net,support@nine-ix.net,ok
+4781,EURASIA-IX.NET,,Istanbul,TR,Europe,https://eurasia-ix.net,noc@eurasia-ix.net,policy@eurasia-ix.net,ok
+4968,EuroRhine-IX,EuroRhine-IX,Strasbourg,FR,Europe,https://www.er-ix.net,noc@er-ix.net,peering@er-ix.net,ok
+4985,ERA-IX Paris,,Paris,FR,Europe,https://www.era-ix.com/,noc@era-ix.com,,ok
+4994,1-FR FREE,,Paris,FR,Europe,https://1-ix.eu/1fr,noc@1-ix.eu,peering@1-ix.eu,ok
+5011,nine - six in Paris,,Paris,FR,Europe,https://nine-ix.net,noc@nine-ix.net,support@nine-ix.net,ok
+5040,France-IX Paris Essentiel,,Paris,FR,Europe,https://www.franceix.net/en/services/peering/peering-essentiel/,noc@franceix.net,l2-support@franceix.net,ok

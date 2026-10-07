@@ -4,56 +4,42 @@ import "maplibre-gl/dist/maplibre-gl.css";
 
 const PARIS_CENTER = [2.3522, 48.8566];
 
-function esc(value, fallback = "Non disponible") {
+function safe(value, fallback = "Non disponible") {
   if (value === null || value === undefined || value === "") {
     return fallback;
   }
 
-  return String(value)
-    .replaceAll("&", "&amp;")
-    .replaceAll("<", "&lt;")
-    .replaceAll(">", "&gt;")
-    .replaceAll('"', "&quot;")
-    .replaceAll("'", "&#039;");
+  return String(value);
 }
 
-function arrayText(value, limit = null) {
-  let values = [];
-
+function arrayText(value) {
   if (Array.isArray(value)) {
-    values = value;
-  } else if (typeof value === "string") {
+    return value.length
+      ? value.join(", ")
+      : "Non disponible";
+  }
+
+  if (typeof value === "string") {
     try {
       const parsed = JSON.parse(value);
 
       if (Array.isArray(parsed)) {
-        values = parsed;
-      } else {
-        return value;
+        return parsed.length
+          ? parsed.join(", ")
+          : "Non disponible";
       }
     } catch {
       return value;
     }
-  } else {
-    return "Non disponible";
+
+    return value;
   }
 
-  if (!values.length) {
-    return "Non disponible";
-  }
-
-  if (limit && values.length > limit) {
-    return (
-      values.slice(0, limit).join(", ") +
-      ` … (+${values.length - limit})`
-    );
-  }
-
-  return values.join(", ");
+  return "Non disponible";
 }
 
 function validPoint(feature) {
-  if (feature?.geometry?.type !== "Point") {
+  if (feature.geometry?.type !== "Point") {
     return null;
   }
 
@@ -82,22 +68,6 @@ function validPoint(feature) {
   };
 }
 
-async function fetchGeoJSON(path, label) {
-  const response = await fetch(path);
-
-  if (!response.ok) {
-    throw new Error(
-      `${label}: HTTP ${response.status}`
-    );
-  }
-
-  const data = await response.json();
-
-  return Array.isArray(data.features)
-    ? data.features
-    : [];
-}
-
 function App() {
   const mapContainer = useRef(null);
   const mapRef = useRef(null);
@@ -105,18 +75,15 @@ function App() {
   const wifiMarkersRef = useRef([]);
   const anfrMarkersRef = useRef([]);
   const ripeMarkersRef = useRef([]);
-  const peeringMarkersRef = useRef([]);
 
   const [wifiCount, setWifiCount] = useState(0);
   const [anfrCount, setAnfrCount] = useState(0);
   const [ripeCount, setRipeCount] = useState(0);
   const [anchorCount, setAnchorCount] = useState(0);
-  const [peeringCount, setPeeringCount] = useState(0);
 
   const [wifiVisible, setWifiVisible] = useState(true);
   const [anfrVisible, setAnfrVisible] = useState(true);
   const [ripeVisible, setRipeVisible] = useState(true);
-  const [peeringVisible, setPeeringVisible] = useState(true);
 
   const [objectFilter, setObjectFilter] = useState("all");
   const [objectsOpen, setObjectsOpen] = useState(false);
@@ -183,16 +150,28 @@ function App() {
           new maplibregl.LngLatBounds();
 
         /*
-         * ==================================================
+         * ==========================================
          * PARIS WI-FI
-         * ==================================================
+         * ==========================================
          */
 
-        const wifiFeatures =
-          await fetchGeoJSON(
-            "/data/paris_wifi_sites.geojson",
-            "Paris Wi-Fi"
+        const wifiResponse = await fetch(
+          "/data/paris_wifi_sites.geojson"
+        );
+
+        if (!wifiResponse.ok) {
+          throw new Error(
+            `Wi-Fi HTTP ${wifiResponse.status}`
           );
+        }
+
+        const wifiData =
+          await wifiResponse.json();
+
+        const wifiFeatures =
+          Array.isArray(wifiData.features)
+            ? wifiData.features
+            : [];
 
         let validWifi = 0;
 
@@ -228,33 +207,41 @@ function App() {
                 </div>
 
                 <h3>
-                  ${esc(p.name, "Site Wi-Fi")}
+                  ${safe(p.name, "Site Wi-Fi")}
                 </h3>
 
                 <div class="popup-row">
                   <strong>Adresse</strong>
                   <span>
-                    ${esc(p.address)}
-                    ${esc(p.postal_code, "")}
+                    ${safe(p.address)}
+                    ${safe(p.postal_code, "")}
                   </span>
                 </div>
 
                 <div class="popup-row">
                   <strong>État</strong>
-                  <span>${esc(p.status)}</span>
+                  <span>${safe(p.status)}</span>
                 </div>
 
                 <div class="popup-row">
                   <strong>Bornes</strong>
                   <span>
-                    ${esc(p.wifi_access_points)}
+                    ${safe(p.wifi_access_points)}
                   </span>
                 </div>
 
                 <div class="popup-row">
                   <strong>Source</strong>
                   <span>
-                    ${esc(p.source, "Paris Open Data")}
+                    ${safe(p.source, "Paris Open Data")}
+                  </span>
+                </div>
+
+                <div class="popup-row">
+                  <strong>Coordonnées</strong>
+                  <span>
+                    ${latitude.toFixed(5)},
+                    ${longitude.toFixed(5)}
                   </span>
                 </div>
 
@@ -290,16 +277,28 @@ function App() {
         setWifiCount(validWifi);
 
         /*
-         * ==================================================
+         * ==========================================
          * ANFR
-         * ==================================================
+         * ==========================================
          */
 
-        const anfrFeatures =
-          await fetchGeoJSON(
-            "/data/anfr_paris_sites.geojson",
-            "ANFR"
+        const anfrResponse = await fetch(
+          "/data/anfr_paris_sites.geojson"
+        );
+
+        if (!anfrResponse.ok) {
+          throw new Error(
+            `ANFR HTTP ${anfrResponse.status}`
           );
+        }
+
+        const anfrData =
+          await anfrResponse.json();
+
+        const anfrFeatures =
+          Array.isArray(anfrData.features)
+            ? anfrData.features
+            : [];
 
         let validAnfr = 0;
 
@@ -325,10 +324,7 @@ function App() {
             arrayText(p.operators);
 
           const systems =
-            arrayText(
-              p.systems,
-              8
-            );
+            arrayText(p.systems);
 
           const statuses =
             arrayText(p.statuses);
@@ -358,7 +354,7 @@ function App() {
           const popup =
             new maplibregl.Popup({
               offset: 18,
-              maxWidth: "390px"
+              maxWidth: "380px"
             }).setHTML(`
               <div class="network-popup">
 
@@ -371,39 +367,41 @@ function App() {
                 </div>
 
                 <h3>
-                  Support ${esc(p.sup_id)}
+                  Support ${safe(p.sup_id)}
                 </h3>
 
                 <div class="popup-row">
-                  <strong>Opérateurs</strong>
-                  <span>${esc(operators)}</span>
+                  <strong>Opérateur(s)</strong>
+                  <span>${operators}</span>
                 </div>
 
                 <div class="popup-row">
                   <strong>Technologies</strong>
-                  <span>${esc(generations)}</span>
+                  <span>${generations}</span>
                 </div>
 
                 <div class="popup-row">
                   <strong>Systèmes</strong>
-                  <span>${esc(systems)}</span>
+                  <span>${systems}</span>
                 </div>
 
                 <div class="popup-row">
                   <strong>Statut</strong>
-                  <span>${esc(statuses)}</span>
+                  <span>${statuses}</span>
                 </div>
 
                 <div class="popup-row">
-                  <strong>Radio systems</strong>
+                  <strong>Systèmes radio</strong>
                   <span>
-                    ${esc(p.system_count)}
+                    ${safe(p.system_count)}
                   </span>
                 </div>
 
                 <div class="popup-row">
                   <strong>Source</strong>
-                  <span>ANFR Open Data</span>
+                  <span>
+                    ${safe(p.source, "ANFR Open Data")}
+                  </span>
                 </div>
 
               </div>
@@ -438,16 +436,28 @@ function App() {
         setAnfrCount(validAnfr);
 
         /*
-         * ==================================================
+         * ==========================================
          * RIPE ATLAS
-         * ==================================================
+         * ==========================================
          */
 
-        const ripeFeatures =
-          await fetchGeoJSON(
-            "/data/ripe_atlas_paris_probes.geojson",
-            "RIPE Atlas"
+        const ripeResponse = await fetch(
+          "/data/ripe_atlas_paris_probes.geojson"
+        );
+
+        if (!ripeResponse.ok) {
+          throw new Error(
+            `RIPE Atlas HTTP ${ripeResponse.status}`
           );
+        }
+
+        const ripeData =
+          await ripeResponse.json();
+
+        const ripeFeatures =
+          Array.isArray(ripeData.features)
+            ? ripeData.features
+            : [];
 
         let validRipe = 0;
         let validAnchors = 0;
@@ -490,6 +500,9 @@ function App() {
             validAnchors += 1;
           }
 
+          const tags =
+            arrayText(p.tags);
+
           const popup =
             new maplibregl.Popup({
               offset: 18,
@@ -506,22 +519,42 @@ function App() {
                 </div>
 
                 <h3>
-                  Probe #${esc(p.probe_id)}
+                  Probe #${safe(p.probe_id)}
                 </h3>
 
                 <div class="popup-row">
                   <strong>Statut</strong>
-                  <span>${esc(p.status)}</span>
+                  <span>
+                    ${safe(p.status)}
+                  </span>
                 </div>
 
                 <div class="popup-row">
                   <strong>ASN IPv4</strong>
-                  <span>${esc(p.asn_v4)}</span>
+                  <span>
+                    ${safe(p.asn_v4)}
+                  </span>
                 </div>
 
                 <div class="popup-row">
                   <strong>ASN IPv6</strong>
-                  <span>${esc(p.asn_v6)}</span>
+                  <span>
+                    ${safe(p.asn_v6)}
+                  </span>
+                </div>
+
+                <div class="popup-row">
+                  <strong>Préfixe IPv4</strong>
+                  <span>
+                    ${safe(p.prefix_v4)}
+                  </span>
+                </div>
+
+                <div class="popup-row">
+                  <strong>Préfixe IPv6</strong>
+                  <span>
+                    ${safe(p.prefix_v6)}
+                  </span>
                 </div>
 
                 <div class="popup-row">
@@ -539,6 +572,20 @@ function App() {
                 </div>
 
                 <div class="popup-row">
+                  <strong>Tags</strong>
+                  <span>
+                    ${tags}
+                  </span>
+                </div>
+
+                <div class="popup-row">
+                  <strong>Source</strong>
+                  <span>
+                    RIPE Atlas
+                  </span>
+                </div>
+
+                <div class="popup-row">
                   <strong>Position</strong>
                   <span>
                     Approximative / obfusquée
@@ -546,8 +593,11 @@ function App() {
                 </div>
 
                 <div class="popup-row">
-                  <strong>Source</strong>
-                  <span>RIPE Atlas</span>
+                  <strong>Coordonnées</strong>
+                  <span>
+                    ${latitude.toFixed(5)},
+                    ${longitude.toFixed(5)}
+                  </span>
                 </div>
 
               </div>
@@ -582,233 +632,12 @@ function App() {
         setRipeCount(validRipe);
         setAnchorCount(validAnchors);
 
-        /*
-         * ==================================================
-         * PEERINGDB
-         * ==================================================
-         */
-
-        const peeringFeatures =
-          await fetchGeoJSON(
-            "/data/peeringdb_paris_facilities.geojson",
-            "PeeringDB"
-          );
-
-        let validPeering = 0;
-
-        for (const feature of peeringFeatures) {
-          const point = validPoint(feature);
-
-          if (!point) {
-            continue;
-          }
-
-          const {
-            longitude,
-            latitude
-          } = point;
-
-          const p =
-            feature.properties ?? {};
-
-          const networkCount =
-            Number(p.network_count) || 0;
-
-          const ixCount =
-            Number(p.ix_count) || 0;
-
-          /*
-           * Taille proportionnelle au nombre
-           * de réseaux présents.
-           */
-          const size = Math.max(
-            14,
-            Math.min(
-              34,
-              12 +
-              Math.log2(
-                networkCount + 1
-              ) * 4
-            )
-          );
-
-          const element =
-            document.createElement("div");
-
-          element.className =
-            "network-marker peeringdb-marker";
-
-          if (ixCount > 0) {
-            element.classList.add(
-              "peeringdb-has-ix"
-            );
-          }
-
-          element.style.width =
-            `${size}px`;
-
-          element.style.height =
-            `${size}px`;
-
-          element.title =
-            `${esc(p.name)} — ${networkCount} networks`;
-
-          const networks =
-            arrayText(
-              p.network_names,
-              12
-            );
-
-          const asns =
-            arrayText(
-              p.network_asns,
-              15
-            );
-
-          const exchanges =
-            arrayText(
-              p.ix_names,
-              10
-            );
-
-          const popup =
-            new maplibregl.Popup({
-              offset: 22,
-              maxWidth: "440px"
-            }).setHTML(`
-              <div class="network-popup">
-
-                <div class="popup-badge peeringdb-badge">
-                  PEERINGDB FACILITY
-                </div>
-
-                <h3>
-                  ${esc(p.name, "Datacenter")}
-                </h3>
-
-                <div class="popup-row">
-                  <strong>Organisation</strong>
-                  <span>
-                    ${esc(p.org_name)}
-                  </span>
-                </div>
-
-                <div class="popup-row">
-                  <strong>Ville</strong>
-                  <span>
-                    ${esc(p.city)}
-                    ${esc(p.zipcode, "")}
-                  </span>
-                </div>
-
-                <div class="popup-row">
-                  <strong>Adresse</strong>
-                  <span>
-                    ${esc(p.address1)}
-                    ${esc(p.address2, "")}
-                  </span>
-                </div>
-
-                <div class="popup-row">
-                  <strong>Réseaux</strong>
-                  <span>
-                    ${networkCount}
-                  </span>
-                </div>
-
-                <div class="popup-row">
-                  <strong>ASN</strong>
-                  <span>
-                    ${esc(asns)}
-                  </span>
-                </div>
-
-                <div class="popup-row">
-                  <strong>Networks</strong>
-                  <span>
-                    ${esc(networks)}
-                  </span>
-                </div>
-
-                <div class="popup-row">
-                  <strong>IX présents</strong>
-                  <span>
-                    ${ixCount}
-                  </span>
-                </div>
-
-                <div class="popup-row">
-                  <strong>Exchanges</strong>
-                  <span>
-                    ${esc(exchanges)}
-                  </span>
-                </div>
-
-                <div class="popup-row">
-                  <strong>Distance Paris</strong>
-                  <span>
-                    ${esc(p.distance_to_paris_km)} km
-                  </span>
-                </div>
-
-                <div class="popup-row">
-                  <strong>Statut</strong>
-                  <span>
-                    ${esc(p.status)}
-                  </span>
-                </div>
-
-                <div class="popup-row">
-                  <strong>Source</strong>
-                  <span>PeeringDB</span>
-                </div>
-
-              </div>
-            `);
-
-          const marker =
-            new maplibregl.Marker({
-              element,
-              anchor: "center"
-            })
-              .setLngLat([
-                longitude,
-                latitude
-              ])
-              .setPopup(popup)
-              .addTo(map);
-
-          peeringMarkersRef.current.push({
-            marker,
-            element,
-            category:
-              "peeringdb-facility"
-          });
-
-          bounds.extend([
-            longitude,
-            latitude
-          ]);
-
-          validPeering += 1;
-        }
-
-        setPeeringCount(
-          validPeering
-        );
-
-        /*
-         * ==================================================
-         * INITIAL MAP FIT
-         * ==================================================
-         */
-
         if (!bounds.isEmpty()) {
           map.fitBounds(
             bounds,
             {
               padding: 60,
-              maxZoom: 12.2,
+              maxZoom: 12.5,
               duration: 1200
             }
           );
@@ -838,11 +667,6 @@ function App() {
           validAnchors
         );
 
-        console.log(
-          "[NetGuardian] PeeringDB facilities:",
-          validPeering
-        );
-
       } catch (error) {
         console.error(
           "[NetGuardian]",
@@ -862,9 +686,9 @@ function App() {
   }, []);
 
   /*
-   * ==================================================
-   * VISIBILITY + NETWORK OBJECT FILTER
-   * ==================================================
+   * ==========================================
+   * FILTRAGE
+   * ==========================================
    */
 
   useEffect(() => {
@@ -872,12 +696,12 @@ function App() {
       const item
       of wifiMarkersRef.current
     ) {
-      const allowed =
+      const filterAllows =
         objectFilter === "all" ||
         objectFilter === "wifi";
 
       item.element.style.display =
-        wifiVisible && allowed
+        wifiVisible && filterAllows
           ? "block"
           : "none";
     }
@@ -886,12 +710,12 @@ function App() {
       const item
       of anfrMarkersRef.current
     ) {
-      const allowed =
+      const filterAllows =
         objectFilter === "all" ||
         objectFilter === item.category;
 
       item.element.style.display =
-        anfrVisible && allowed
+        anfrVisible && filterAllows
           ? "block"
           : "none";
     }
@@ -900,41 +724,23 @@ function App() {
       const item
       of ripeMarkersRef.current
     ) {
-      const allowed =
+      const filterAllows =
         objectFilter === "all" ||
         objectFilter === item.category;
 
       item.element.style.display =
-        ripeVisible && allowed
+        ripeVisible && filterAllows
           ? "block"
           : "none";
     }
-
-    for (
-      const item
-      of peeringMarkersRef.current
-    ) {
-      const allowed =
-        objectFilter === "all" ||
-        objectFilter ===
-          "peeringdb-facility";
-
-      item.element.style.display =
-        peeringVisible && allowed
-          ? "block"
-          : "none";
-    }
-
   }, [
     objectFilter,
     wifiVisible,
     anfrVisible,
     ripeVisible,
-    peeringVisible,
     wifiCount,
     anfrCount,
-    ripeCount,
-    peeringCount
+    ripeCount
   ]);
 
   function selectObjectFilter(filter) {
@@ -944,14 +750,12 @@ function App() {
       setWifiVisible(true);
       setAnfrVisible(true);
       setRipeVisible(true);
-      setPeeringVisible(true);
     }
 
     if (filter === "wifi") {
       setWifiVisible(true);
       setAnfrVisible(false);
       setRipeVisible(false);
-      setPeeringVisible(false);
     }
 
     if (
@@ -961,7 +765,6 @@ function App() {
       setWifiVisible(false);
       setAnfrVisible(true);
       setRipeVisible(false);
-      setPeeringVisible(false);
     }
 
     if (
@@ -971,17 +774,6 @@ function App() {
       setWifiVisible(false);
       setAnfrVisible(false);
       setRipeVisible(true);
-      setPeeringVisible(false);
-    }
-
-    if (
-      filter ===
-      "peeringdb-facility"
-    ) {
-      setWifiVisible(false);
-      setAnfrVisible(false);
-      setRipeVisible(false);
-      setPeeringVisible(true);
     }
 
     setObjectsOpen(false);
@@ -1004,9 +796,6 @@ function App() {
       case "ripe-anchor":
         return "RIPE Anchors";
 
-      case "peeringdb-facility":
-        return "PeeringDB";
-
       default:
         return "Tous";
     }
@@ -1015,8 +804,7 @@ function App() {
   const totalNodes =
     wifiCount +
     anfrCount +
-    ripeCount +
-    peeringCount;
+    ripeCount;
 
   return (
     <div className="app">
@@ -1066,7 +854,9 @@ function App() {
                 : "layer layer-button"
             }
             onClick={() =>
-              setWifiVisible(!wifiVisible)
+              setWifiVisible(
+                !wifiVisible
+              )
             }
           >
             <span>📶</span>
@@ -1093,7 +883,9 @@ function App() {
                 : "layer layer-button"
             }
             onClick={() =>
-              setAnfrVisible(!anfrVisible)
+              setAnfrVisible(
+                !anfrVisible
+              )
             }
           >
             <span>📡</span>
@@ -1120,7 +912,9 @@ function App() {
                 : "layer layer-button"
             }
             onClick={() =>
-              setRipeVisible(!ripeVisible)
+              setRipeVisible(
+                !ripeVisible
+              )
             }
           >
             <span>🌐</span>
@@ -1142,37 +936,12 @@ function App() {
             </span>
           </button>
 
-          <button
-            className={
-              peeringVisible
-                ? "layer layer-button peeringdb-active"
-                : "layer layer-button"
-            }
-            onClick={() =>
-              setPeeringVisible(
-                !peeringVisible
-              )
-            }
-          >
-            <span>🏢</span>
-
-            <div>
-              <strong>
-                PeeringDB
-              </strong>
-
-              <small>
-                {peeringCount} facilities
-              </small>
-            </div>
-
-            <span className="layer-state">
-              {peeringVisible ? "ON" : "OFF"}
-            </span>
-          </button>
-
           <div className="layer future">
             📱 ARCEP Mobile
+          </div>
+
+          <div className="layer future">
+            🏢 PeeringDB
           </div>
 
           <div className="layer future">
@@ -1301,22 +1070,6 @@ function App() {
                   RIPE Atlas Anchors
                 </button>
 
-                <button
-                  className={
-                    objectFilter === "peeringdb-facility"
-                      ? "object-option selected"
-                      : "object-option"
-                  }
-                  onClick={() =>
-                    selectObjectFilter(
-                      "peeringdb-facility"
-                    )
-                  }
-                >
-                  <span className="object-icon peeringdb-symbol" />
-                  PeeringDB Facilities
-                </button>
-
               </div>
             )}
 
@@ -1351,11 +1104,6 @@ function App() {
             <p>
               <span className="legend-symbol ripe-anchor-symbol" />
               RIPE Anchor
-            </p>
-
-            <p>
-              <span className="legend-square peeringdb-symbol" />
-              PeeringDB Facility
             </p>
 
           </div>

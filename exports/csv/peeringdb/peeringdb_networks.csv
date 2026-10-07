@@ -1,0 +1,626 @@
+﻿network_id,name,asn,website,info_type,info_scope,info_traffic,info_ratio,policy_general,irr_as_set,status
+2,Akamai Technologies,20940,https://www.akamai.com/,Content,Global,100+Tbps,Heavy Outbound,Open,RIPE::AS-AKAMAI,ok
+4,Edgio - AS22822,22822,https://www.edg.io,Content,Global,100+Tbps,Mostly Outbound,Selective,AS-LLNW,ok
+5,Swisscom,3303,http://www.swisscom.com,Cable/DSL/ISP,Europe,1-5Tbps,Mostly Inbound,Selective,RIPE::AS3303:AS-SWCMGLOBAL,ok
+10,Arelion (Twelve99),1299,https://www.arelion.com/,NSP,Global,100+Tbps,Balanced,Restrictive,RIPE::AS1299:AS-TWELVE99,ok
+14,GTT Communications (AS3257),3257,http://www.gtt.net,NSP,Global,100+Tbps,Balanced,Restrictive,AS-GTT,ok
+27,Yahoo,10310,https://www.yahooinc.com/,Content,Global,,Mostly Outbound,Selective,AS-YAHOO,ok
+29,Bouygues Telecom ISP,5410,http://www.bouyguestelecom.fr,Cable/DSL/ISP,Europe,10-20Tbps,Heavy Inbound,Selective,AS-BOUYGTEL-ISP,ok
+31,Telecom Italia Sparkle,6762,https://www.tisparkle.com/,NSP,Global,10-20Tbps,Balanced,Restrictive,AS-SEABONE,ok
+91,Colt,8220,https://www.colt.net,NSP,Global,1-5Tbps,Balanced,Selective,RIPE::AS8220:AS-COLT,ok
+104,FLAG Telecom,15412,https://flagtel.com/,NSP,Global,1-5Tbps,Balanced,Restrictive,AS-FLAGP,ok
+116,Claranet,8426,http://www.clara.net,Cable/DSL/ISP,Regional,50-100Gbps,Balanced,Selective,RIPE::AS-CLARANET,ok
+118,BT,5400,http://www.bt.net,NSP,Europe,1-5Tbps,Mostly Inbound,Restrictive,AS-BT-EU,ok
+120,Free SAS,12322,http://www.free.fr/,Cable/DSL/ISP,Europe,20-50Tbps,Heavy Inbound,Selective,AS-PROXAD,ok
+124,RETN,9002,http://www.retn.net/,NSP,Global,20-50Tbps,Balanced,Selective,RIPE::AS-RETN RIPE::AS-RETN6,ok
+126,euNetworks Group,13237,http://map.eunetworks.com,NSP,Europe,,Balanced,Open,AS-EUNETWORKS,ok
+139,Burstfire Networks Ltd,9153,http://www.burstfire.net,NSP,Europe,5-10Gbps,Mostly Outbound,Selective,AS-BURSTFIRE,ok
+150,BICS,6774,http://www.bics.com,NSP,Global,,Mostly Inbound,Selective,AS6774:AS-BICS-TRANSIT,ok
+163,Init7,13030,http://www.init7.net/,NSP,Global,,Balanced,Open,AS-INIT7,ok
+187,BlueGIX,8565,http://www.bluegix.com,Cable/DSL/ISP,Europe,100-1000Mbps,Balanced,Open,AS-BLUEGIX,ok
+189,Infoclip,24776,https://www.groupe-infoclip.com,NSP,Regional,1-5Gbps,Mostly Outbound,Open,AS-INFOCLIP,ok
+190,OVEA,29608,http://www.ovea.com,NSP,Europe,5-10Gbps,Balanced,Open,AS29608:AS-W2MY,ok
+196,Deutsche Telekom,3320,https://wholesale.telekom.com,NSP,Global,50-100Tbps,Mostly Inbound,Restrictive,AS3320:AS-DTAG AS3320:AS-DTAG-V6,ok
+200,Waycom International,30889,http://www.waycom.net/,Cable/DSL/ISP,Global,10-20Gbps,Balanced,Open,AS-WAYCOM,ok
+213,Bedrock,30972,https://www.bedrockstreaming.com,Content,Europe,500-1000Gbps,Heavy Outbound,Open,RIPE::AS-BEDROCK,ok
+261,Vodafone Global Network,1273,http://www.vodafone.com,NSP,Global,50-100Tbps,Balanced,Selective,RIPE::AS1273:AS-CWW RIPE::AS1273:AS-CWW-V6,ok
+262,IONOS SE,8560,http://www.ionos.com,NSP,Global,1-5Tbps,Balanced,Open,RIPE::AS-IONOS,ok
+267,"Cogent Communications, Inc.",174,http://www.cogentco.com/,NSP,Global,100+Tbps,,No,,ok
+283,Novso,25358,http://www.novso.com/,NSP,Europe,,Mostly Outbound,Selective,AS-NOVSO,ok
+291,Hurricane Electric,6939,http://he.net,NSP,Global,100+Tbps,Balanced,Open,RADB::AS-HURRICANE RADB::AS-HURRICANEV6,ok
+316,SdV,8839,https://sdv.fr,Content,Europe,10-20Gbps,Heavy Outbound,Selective,AS-SDV,ok
+320,TAS France,8554,https://nubevia.com/,NSP,Europe,5-10Gbps,Mostly Outbound,Open,AS-TAS,ok
+322,PPR,15422,http://www.kering.com,Content,Global,5-10Gbps,Mostly Outbound,Open,AS-PPR,ok
+345,"KWAOO, K-NET",24904,https://www.kwaoo.com/,Cable/DSL/ISP,Regional,50-100Gbps,Mostly Inbound,Selective,RIPE::AS-KWAOO,ok
+346,Liberty Global,6830,http://www.libertyglobal.com/,Cable/DSL/ISP,Global,,,Restrictive,RIPE::AS6830:AS-AORTA,ok
+433,Google LLC,15169,https://about.google/intl/en/,Content,Global,,Mostly Outbound,Selective,RADB::AS-GOOGLE,ok
+437,TATA Communications Ltd,6453,http://www.tatacommunications.com,NSP,Global,20-50Tbps,Balanced,Restrictive,AS-GLOBEINTERNET,ok
+450,SFR Group,15557,http://alticefrance.com/,Cable/DSL/ISP,Europe,10-20Tbps,Balanced,Selective,RIPE::AS-LDCOMNET,ok
+456,Ikoula,21409,https://www.ikoula.com,NSP,Europe,50-100Gbps,Balanced,Selective,AS-IKOULA,ok
+457,Netflix,2906,https://openconnect.netflix.com,Content,Global,,Heavy Outbound,Open,AS-NFLX,ok
+495,Orange,5511,https://wholesale.orange.com/international/en/our-solutions/ip-content-distribution.html,NSP,Global,50-100Tbps,Balanced,Restrictive,AS-OPENTRANSIT,ok
+499,Hivane,34019,https://www.hivane.net/,Non-Profit,Regional,1-5Gbps,Balanced,Open,RIPE::AS34019:AS-HIVANE,ok
+505,Nerim,13193,http://www.nerim.net/,Cable/DSL/ISP,Europe,5-10Gbps,Balanced,Selective,AS-NERIM,ok
+541,Zayo,6461,http://www.zayo.com/,NSP,Global,20-50Tbps,Balanced,Restrictive,RIPE::AS-MFNX,ok
+601,M247 Global,9009,http://www.m247global.com,NSP,Global,5-10Tbps,Balanced,Selective,AS-GBXS AS-GBXS6,ok
+620,Telxius Cable,12956,http://www.telxius.com,Cable/DSL/ISP,Global,,Not Disclosed,Selective,AS-TDATANET,ok
+694,Microsoft,8075,http://www.microsoft.com,Content,Global,,Mostly Outbound,Selective,AS-MICROSOFT,ok
+702,Retelit S.p.A. (formerly Enter),12850,https://retelit.it/,Cable/DSL/ISP,Global,1-5Gbps,Mostly Inbound,Open,AS-ENTER,ok
+705,UltraDNS,12008,https://www.digicert.com/dns-trust-manager,Content,Global,1-5Tbps,Mostly Outbound,Selective,AS-AS12008,ok
+731,Free Pro,30781,https://www.freepro.com,NSP,Europe,300-500Gbps,Mostly Inbound,Selective,RIPE::AS30781:AS-JAGUAR RIPE::AS30781:AS-JAGUAR-V6,ok
+733,Neuronnexion,9036,https://www.neuronnexion.coop,Cable/DSL/ISP,Regional,1-5Gbps,Heavy Inbound,Open,AS-NEURONNEXION,ok
+737,Association Gitoyen,20766,https://www.gitoyen.net/,Non-Profit,Europe,1-5Gbps,Balanced,Open,AS20766:AS-GITOYEN,ok
+780,V-Com Openpath,29215,,NSP,Global,1-5Gbps,Heavy Outbound,Restrictive,AS-VCOM,ok
+813,The Constant Company,20473,http://www.vultr.com/,NSP,Global,,Mostly Outbound,Selective,AS20473:AS-CONE,ok
+821,Open Peering,20562,http://www.openpeering.nl,NSP,Europe,200-300Gbps,Balanced,Open,AS-OPENPEERING,ok
+833,OVEA (Legacy),35217,http://www.ovea.com,NSP,Regional,100-1000Mbps,Mostly Outbound,Open,AS-OVEA,ok
+854,Cisco Umbrella,36692,http://www.opendns.com/,Content,Global,,Balanced,Open,AS36692:AS-UMBRELLA,ok
+906,CacheFly,30081,http://www.cachefly.com,Content,Global,20-50Tbps,Heavy Outbound,Open,RADB::AS-CACHENETWORKS,ok
+942,AS250.net,250,https://as250.net/,Non-Profit,Europe,100-1000Mbps,Balanced,Open,AS250:AS-CUMULATIVE,ok
+956,Ipercast,25286,http://www.ipercast.net/,Content,Global,,Heavy Outbound,Open,AS-IPERCAST,ok
+971,Fiducial Cloud Network,20917,https://www.fiducialcloud.fr/,Cable/DSL/ISP,Europe,5-10Gbps,Balanced,Restrictive,AS-SET-FIDUCIAL-CLOUD-01,ok
+979,Meta,32934,https://www.meta.com/,Content,Global,100+Tbps,Heavy Outbound,Selective,RADB::AS-FACEBOOK,ok
+986,IT.Gate,12779,http://www.itgate.it,NSP,Europe,100-200Gbps,Balanced,Selective,RIPE::AS12779:AS-CUSTOMERS RIPE::AS12779:AS-CUSTOMERS-V6,ok
+1019,FDCServers.Net,30058,https://www.fdcservers.net,Content,Global,5-10Tbps,Heavy Outbound,Open,RADB::AS30058:AS-CONE,ok
+1045,NTT Global IP Network,2914,https://www.gin.ntt.net/,NSP,Global,,Balanced,Restrictive,NTTCOM::AS2914:AS-GLOBAL,ok
+1080,nine Edge Cache,41157,http://www.nine-ix.net,Content,Europe,200-300Gbps,Balanced,Open,RIPE::AS41157:AS-NINE-IX-EDGE-CACHE,ok
+1086,Dailymotion,41690,https://www.dailymotion.com,Content,Global,,Heavy Outbound,Selective,AS-DAILYMOTION,ok
+1100,Salesforce.com,14340,http://www.salesforce.com,Content,Global,,Mostly Outbound,Selective,AS-SALESFORCE,ok
+1186,Zattoo,8302,https://www.zattoo.com,Content,Europe,,Heavy Outbound,Selective,AS-ZATTOO,ok
+1234,Zenlayer Edge Cloud Network - AS21859,21859,http://www.zenlayer.com,Content,Global,10-20Tbps,Heavy Outbound,Selective,AS-ZENLAYER,ok
+1237,OXEVA,39104,http://www.oxeva.fr,Content,Regional,1-5Gbps,Mostly Outbound,Open,AS-REAGI,ok
+1250,Phibee Telecom,8487,http://www.phibee-telecom.net,NSP,Europe,5-10Gbps,Balanced,Open,AS-PHIBEE-TELECOM,ok
+1255,Sewan SAS,8399,https://www.sewan.eu/,Cable/DSL/ISP,Europe,200-300Gbps,Mostly Inbound,Open,AS-SEWAN,ok
+1264,OVHcloud,16276,https://www.ovhcloud.com,Content,Global,10-20Tbps,Heavy Outbound,Open,AS-OVH,ok
+1279,Gandi,29169,http://www.gandi.net,NSP,Global,5-10Gbps,Mostly Outbound,Open,AS-GANDI,ok
+1280,Host Europe GmbH,20773,http://www.hosteurope.de/,Content,Europe,200-300Gbps,Heavy Outbound,Selective,AS20773:AS-HOSTEUROPE,ok
+1329,Digital Virgo France,35070,http://www.digitalvirgo.com,NSP,Europe,5-10Gbps,Mostly Inbound,Selective,AS-DIGITALVIRGO,ok
+1366,Ericsson Broadcast Services Netherlands,20969,http://www.ericsson.com,Content,Europe,1-5Gbps,Mostly Outbound,Open,,ok
+1418,Amazon.com,16509,https://www.amazon.com,Enterprise,Global,,Balanced,Selective,AS16509:AS-AMAZON,ok
+1423,GNM,31500,https://gnm.net/,NSP,Global,300-500Gbps,Balanced,Selective,RIPE::AS-GLOBAL-NET,ok
+1451,PCCW Global,3491,http://www.pccwglobal.com/,NSP,Global,10-20Tbps,Balanced,Restrictive,AS-CAIS,ok
+1452,IP-Max SA,25091,https://www.ip-max.net,NSP,Europe,50-100Gbps,Balanced,Open,RIPE::AS-IP-MAX RIPE::AS-IP-MAX-V6,ok
+1459,Telstra (International),4637,http://www.telstrainternational.com,NSP,Global,10-20Tbps,Balanced,Selective,RADB::AS-TELSTRA-INTL-CUSTOMERS,ok
+1463,Splio,31688,http://www.splio.com,NSP,Global,1-5Gbps,Mostly Outbound,Open,,ok
+1479,Zayo Europe,8218,https://www.zayoeurope.com,NSP,Europe,300-500Gbps,Balanced,Selective,RIPE::AS-NEOT RIPE::AS-NEOT6,ok
+1492,Magic OnLine,35393,http://www.magic.fr,Content,Europe,20-50Gbps,Balanced,Open,AS-EUROWEB,ok
+1496,in2ip,34141,http://www.in2ip.nl/,Content,Europe,1-5Gbps,Heavy Outbound,Open,AS-IN2IP,ok
+1523,Prosodie Cap Gemini,8784,http://www.prosodie.com,Content,Europe,,Mostly Outbound,Open,AS-MGN,ok
+1527,Optilian,29246,http://www.optilian.com,NSP,Europe,,Balanced,Open,AS-OPTILIAN,ok
+1580,Orange France,3215,https://wholesale.orange.com/france/fr/,Cable/DSL/ISP,Regional,10-20Tbps,,Restrictive,AS-FTFR,ok
+1598,WideVOIP - WhichWAN / Chmurtz SaRL,42456,http://www.widevoip.com,Cable/DSL/ISP,Europe,10-20Gbps,Mostly Inbound,Open,RIPE::AS-CHMURTZ RIPE::AS-CHMURTZ-IPV6,ok
+1599,Core-Backbone,33891,https://www.core-backbone.com,NSP,Global,10-20Tbps,Balanced,Selective,AS33891:AS-CORE-BACKBONE,ok
+1613,"SoftLayer Technologies, Inc. (an IBM Company)",36351,https://www.ibm.com/cloud,Content,North America,1-5Tbps,Mostly Outbound,Selective,AS-SOFTLAYER,ok
+1691,Cyllene,12826,https://www.groupe-cyllene.com/,Cable/DSL/ISP,Europe,1-5Gbps,Mostly Inbound,Selective,AS-CETSI,ok
+1712,Devclic,44141,https://www.devclic.fr,Content,Europe,1-5Gbps,Balanced,Open,AS-DEVCLIC,ok
+1739,NETWORTH TELECOM,35283,https://www.networthtelecom.fr,NSP,Regional,10-20Gbps,Mostly Inbound,Selective,AS-NETWORTH,ok
+1742,IC Telecom,35184,http://www.ictelecom.fr,Cable/DSL/ISP,Europe,100-1000Mbps,Mostly Inbound,Selective,AS-GALOPTELECOM,ok
+1764,Forcepoint Cloud,44444,http://www.forcepoint.com,NSP,Global,,Balanced,Selective,RADB::AS-FORCEPOINT-CLOUD,ok
+1766,Hetzner Online,24940,https://www.hetzner.com,Content,Europe,5-10Tbps,Mostly Outbound,Open,AS-HETZNER,ok
+1905,Oracle Cloud Infrastructure,31898,https://cloud.oracle.com,Content,Global,,,Open,AS31898,ok
+1949,one.com Group AB and its subsidiaries,8648,https://www.group.one/,Content,Europe,,Mostly Outbound,Open,AS8648:AS-ONE-NETWORK,ok
+1955,Post Group Luxembourg,6661,https://www.post.lu,Cable/DSL/ISP,Europe,100-200Gbps,Heavy Inbound,Selective,AS-PTLU,ok
+1964,CELESTE,34177,https://www.celeste.fr,Cable/DSL/ISP,Europe,,Mostly Inbound,Open,RIPE::AS-CELESTE,ok
+1970,Integra,8723,http://www.integra.fr,NSP,Europe,5-10Gbps,Heavy Outbound,Selective,AS-INTEGRA-EU,ok
+2016,JT,8681,https://jtglobal.com,NSP,Global,20-50Gbps,Mostly Inbound,Open,AS-JERSEYTELECOM,ok
+2033,Neterra,34224,https://neterra.net,NSP,Europe,50-100Gbps,Balanced,Open,AS-NETERRA-INT,ok
+2099,Advanced Wireless Network Co. Ltd.(IIG),45430,https://www.awn.co.th/,Cable/DSL/ISP,Global,1-5Tbps,Mostly Inbound,Selective,AS-SBN-IIG,ok
+2113,Expereo International bv,15695,http://www.expereo.com,NSP,Global,10-20Gbps,Balanced,Open,AS-EXPEREO,ok
+2146,Oxalide,47841,http://www.oxalide.com,Content,Europe,1-5Gbps,Heavy Outbound,Selective,AS-OXALIDE,ok
+2160,Gigastream plc,31712,http://www.gigastream.co.uk/,NSP,Europe,,Balanced,Open,AS31712,ok
+2173,CMC Networks,25818,http://www.cmcnetworks.net,NSP,Global,50-100Gbps,Balanced,Selective,AS-CMCNETWORKS,ok
+2216,Eurofiber France,35625,https://www.eurofiber.com/fr-fr,NSP,Europe,100-200Gbps,Balanced,Open,AS35625:AS-EUROFIBER-FR,ok
+2221,Iguane Solutions,39605,http://www.iguanasolutionsusa.com,Content,Europe,20-50Gbps,Mostly Outbound,Open,RIPE::AS-IGUANE,ok
+2225,Montpellier Internet Telecom Datacenter,31555,http://www.mit-datacenter.com,NSP,Europe,,Balanced,Open,,ok
+2277,Sofia Connect,47872,https://sofia-connect.net,NSP,Europe,1-5Tbps,Balanced,Open,RIPE::AS-SOFIA-CONNECT,ok
+2405,Sipartech,8309,http://www.sipartech.com,NSP,Europe,50-100Gbps,Balanced,Open,AS-SPH,ok
+2425,Bouygues Telecom Pro KEYYO,34659,https://www.keyyo.com,NSP,Europe,10-20Gbps,Balanced,Open,AS-KEYYO,ok
+2441,L'Odyssee Interactive Jeuxvideo.com,35717,http://www.webedia-group.com,Content,Europe,5-10Gbps,Heavy Outbound,Selective,AS-JEUXVIDEO,ok
+2485,Toile-Libre,48920,http://www.toile-libre.net/,Non-Profit,Europe,100-1000Mbps,Balanced,Open,AS-TOILE-LIBRE,ok
+2496,i3D.net,49544,https://www.i3d.net,NSP,Global,5-10Tbps,Balanced,Selective,AS-INTERACTIVE3D,ok
+2514,Aqua Ray,41653,https://www.aquaray.com,Content,Europe,1-5Gbps,Mostly Outbound,Open,AS-AQUARAY,ok
+2534,LASOTEL,39180,http://www.lasotel.fr,NSP,Europe,20-50Gbps,Balanced,Open,AS-LASOTEL,ok
+2614,ALSATIS,48072,https://alsatis-reseaux.com/,Cable/DSL/ISP,Regional,10-20Gbps,Mostly Inbound,Open,AS-ALSATIS,ok
+2630,Fink Telecom Services GmbH,6775,http://www.fink-telecom.com,Cable/DSL/ISP,Global,300-500Gbps,Balanced,Open,AS-FTS,ok
+2654,Altitude Infrastructure,49594,,NSP,Europe,10-20Gbps,Mostly Inbound,Open,AS-AIE,ok
+2702,IELO,29075,https://www.ielo.net/,NSP,Europe,200-300Gbps,Balanced,Open,AS29075:AS-IELO,ok
+2728,Prime Telecom,39737,http://www.primetelecom.ro,NSP,Europe,20-50Gbps,Balanced,Selective,AS-NETVISIONTEL,ok
+2784,Hydra Communications Ltd (EU),25369,https://www.bandwidth.co.uk,Content,Europe,500-1000Gbps,Mostly Outbound,Open,AS-BANDWIDTH,ok
+2858,FR-NIC-DNS-ANYCAST (AFNIC > NIC-FR > Anycast DNS),2484,http://www.afnic.fr/,Non-Profit,Europe,100-1000Mbps,Mostly Outbound,Open,AS-AFNIC,ok
+2915,Ouvanet,50087,,NSP,Europe,100-1000Mbps,Balanced,Open,AS-OUVANET,ok
+2927,IX Reach,43531,https://www.ixreach.com/,NSP,Global,300-500Gbps,Heavy Outbound,Open,AS-IXREACH,ok
+2977,Dalenys,16080,http://www.dalenys.com,NSP,Europe,,Balanced,Selective,AS-DALENYS,ok
+3016,TDF SASU,43646,http://www.tdf.fr,NSP,Regional,50-100Gbps,Balanced,Open,AS-TDFPMM,ok
+3017,adista - inherent,16347,https://www.adista.fr,Cable/DSL/ISP,Europe,100-200Gbps,Mostly Inbound,Selective,AS16347:AS-INHERENT,ok
+3080,Criteo Europe,44788,http://www.criteo.com,Content,Europe,,Balanced,Selective,RIPE::AS-CRITEO-EU RIPE::AS-CRITEO-EU-V6,ok
+3094,nLighten,45014,http://www.nlighten.com,NSP,Europe,10-20Gbps,Mostly Outbound,Open,RIPE::AS45014:AS-NLIGHTEN,ok
+3130,RENATER,2200,http://www.renater.fr,Educational/Research,Europe,50-100Gbps,Balanced,Open,AS-RENATER,ok
+3141,DSTNY,8368,http://www.dstny.com,NSP,Europe,50-100Gbps,Balanced,Selective,AS-BENESOL,ok
+3177,Blue Networks Technologies,50620,https://www.blnt.fr/,Cable/DSL/ISP,Europe,,Balanced,Open,AS-BLUENETECH,ok
+3178,Andrexen,44583,http://www.andrexen.com,Content,Europe,100-1000Mbps,Balanced,Open,AS-ANDREXEN,ok
+3235,Axione,31167,http://www.axione.fr,NSP,Europe,1-5Gbps,Mostly Inbound,Open,,ok
+3241,Anexia,42473,http://www.anexia.com,Content,Global,,Balanced,Selective,AS-ANEXIA,ok
+3347,Sony Interactive Entertainment,33353,https://sonyinteractive.com/,Content,Global,,Heavy Outbound,Selective,AS-SBS,ok
+3356,Ad Valem Technologies,48528,http://www.advalem.fr,NSP,Europe,1-5Gbps,Heavy Outbound,Open,,ok
+3362,Infosat Telecom,33835,https://www.weaccess.fr,,Europe,100-1000Mbps,Mostly Inbound,Open,AS-INFOSAT,ok
+3386,GEANT IAS,21320,https://www.geant.org/,Educational/Research,Europe,1-5Tbps,Balanced,Selective,AS-GEANT-EUPEER,ok
+3387,Ingenico Solutions and Transaction Services,47957,https://worldline.com,Enterprise,Global,,Balanced,Open,AS-WORLDLINE,ok
+3403,Covage Networks,44902,http://www.covage.com,NSP,Europe,1-5Gbps,Mostly Inbound,Selective,AS-COVAGE,ok
+3411,One.com,51468,http://www.one.com,Content,Global,20-50Gbps,Mostly Outbound,Open,AS-ONECOM,ok
+3468,InterMeDiaSud,20900,http://www.imsnetworks.com,Cable/DSL/ISP,Europe,1-5Gbps,Balanced,Open,,ok
+3500,Cloud Temple,33930,http://www.cloud-temple.com,NSP,Europe,1-5Gbps,Balanced,Open,AS-INTRINSEC,ok
+3502,Dropbox,19679,http://www.dropbox.com,Content,Global,,Balanced,Open,AS-DROPBOX,ok
+3513,SOLUTIONS INFORMATIQUES SERVICES SAS,50858,,Cable/DSL/ISP,Europe,1-5Gbps,Balanced,Open,AS-SOLUINFO,ok
+3544,Artefact - Artewan,42929,http://www.artefact.fr,Cable/DSL/ISP,Europe,5-10Gbps,Balanced,Open,AS-ARTEWAN,ok
+3552,Foliateam,29513,https://www.foliateam.com,Network Services,Europe,5-10Gbps,Mostly Inbound,Open,AS-INITIALS,ok
+3554,Apple Inc.,714,https://www.apple.com/support/systemstatus/,Content,Global,,Mostly Outbound,Selective,AS-APPLE,ok
+3570,Ecritel,8304,https://www.ecritel.fr/fr/,NSP,Global,1-5Gbps,Mostly Outbound,Selective,RIPE::AS-ECRITEL,ok
+3582,Digicube sas,196689,http://www.digicube.fr,Content,Europe,1-5Gbps,Balanced,Open,,ok
+3608,SG.GS,24482,http://www.sg.gs,NSP,Asia Pacific,500-1000Gbps,Balanced,Open,AS-SGGS,ok
+3627,Continent 8 Technologies,14537,https://www.continent8.com,NSP,Global,,Mostly Outbound,Open,AS-CONTINENT8,ok
+3656,Alterway Makers,41628,http://www.alterway.fr/,Content,Europe,1-5Gbps,Mostly Outbound,Open,RIPE::AS-ALTERWAY,ok
+3669,M6 Distribution Digital,44334,http://www.rtl.fr,NSP,Europe,1-5Gbps,Balanced,Open,AS-M6SRS,ok
+3732,Netensia,35665,,NSP,Europe,1-5Gbps,Balanced,Open,AS-NETENSIA,ok
+3777,SKIWEBCENTER,31235,http://www.skiwebcenter.fr,Cable/DSL/ISP,Europe,100-1000Mbps,Balanced,Open,,ok
+3787,AGARIK,16128,http://www.agarik.com/,Cable/DSL/ISP,Europe,5-10Gbps,Balanced,Selective,AS-AGARIK,ok
+3822,DRI,6738,https://www.dri.fr/,Content,Europe,1-5Gbps,Mostly Outbound,Open,AS-DRI,ok
+3846,Pertineo,39583,http://www.pertineo.net,Content,Europe,1-5Gbps,Mostly Outbound,Selective,,ok
+3924,PCH AS42,42,http://www.pch.net/,Educational/Research,Global,1-5Gbps,Balanced,Open,RADB::AS-PCH,ok
+3957,Hexatom,51269,http://www.hexatom.fr,NSP,Europe,1-5Gbps,Balanced,Open,AS-HEXATOM,ok
+3992,Hexanet,34863,https://www.hexanet.fr,Cable/DSL/ISP,Europe,10-20Gbps,Mostly Inbound,Open,AS-HEXANET,ok
+4109,Wifirst,52075,https://www.wifirst.com,Cable/DSL/ISP,Europe,500-1000Gbps,Mostly Inbound,Open,RIPE::AS52075:AS-GLOBAL,ok
+4114,Hexaglobe,31564,http://www.hexaglobe.com,Content,Europe,100-200Gbps,Mostly Outbound,Open,RIPE::AS-HEXAGLOBE,ok
+4129,Decknet,29152,,NSP,Global,5-10Gbps,Mostly Outbound,Open,,ok
+4158,atom86,8455,https://www.atom86.net,NSP,Regional,,Balanced,Selective,AS-ATOM86,ok
+4190,NAITWAYS SAS,57119,http://www.naitways.com,NSP,Europe,50-100Gbps,Balanced,Open,AS-NAITWAYS,ok
+4224,Cloudflare,13335,https://www.cloudflare.com,Content,Global,,Mostly Outbound,Open,AS13335:AS-CLOUDFLARE,ok
+4278,Unitas Global,1828,https://www.packetfabric.com,NSP,Global,,Mostly Inbound,Selective,RADB::AS-UNITAS,ok
+4288,Eutelsat - Skylogic,29286,https://www.eutelsat.com/,Cable/DSL/ISP,Global,20-50Gbps,Mostly Inbound,Selective,AS-SET-SKL,ok
+4338,China Mobile International,58453,https://cmi.chinamobile.com,NSP,Global,10-20Tbps,Balanced,Restrictive,AS58453:AS-CMI-ALL,ok
+4345,InterCloud,197981,https://www.intercloud.com/,NSP,Global,,Balanced,Open,AS-INTERCLOUD,ok
+4359,MEDIACTIVE NETWORK FR-EU,197133,https://mediactivegroup.com,Network Services,Global,10-20Gbps,Balanced,Open,AS-MEDIACTIVE,ok
+4430,Proximus Luxembourg,56665,http://www.proximus.lu,Cable/DSL/ISP,Regional,300-500Gbps,Heavy Inbound,Selective,AS-PROXIMUS,ok
+4549,NetActuate,36236,https://www.netactuate.com,Cable/DSL/ISP,Global,100+Tbps,Mostly Outbound,Open,RADB::AS36236:AS-NETACTUATE,ok
+4632,Monaco Telecom,6758,https://www.monaco-telecom.mc,Cable/DSL/ISP,Europe,100-200Gbps,Mostly Inbound,Open,AS6758:AS-CUSTOMERS,ok
+4672,ResoLv SARL,198423,http://www.resolv.fr,Content,Regional,20-100Mbps,Balanced,Open,RIPE::AS-RESOLV,ok
+4688,Vorboss Limited,25160,http://vorboss.com,Cable/DSL/ISP,Europe,50-100Gbps,Balanced,Open,RIPE::AS-VORBOSS RIPE::AS-VORBOSS6,ok
+4697,TRANSATEL EUROPE,198335,http://www.transatel.com,Cable/DSL/ISP,Regional,,Balanced,Open,AS-TRANSATEL,ok
+4753,Tunisie Telecom,2609,http://www.tunisietelecom.tn,NSP,Regional,50-100Gbps,Mostly Inbound,Selective,,ok
+4768,AS54444 s.r.o.,54444,https://as54444.net,Content,Global,,Mostly Outbound,Selective,AS-54444,ok
+4782,Valve Corporation,32590,http://www.valvesoftware.com,Content,Global,50-100Tbps,Mostly Outbound,Selective,RADB::AS-VALVE,ok
+4790,ISOCEL SA,37090,http://www.isoceltelecom.com,Cable/DSL/ISP,Regional,10-20Gbps,Heavy Inbound,Selective,,ok
+4807,Triton Digital,13360,http://www.tritondigital.com,Content,Global,300-500Gbps,Mostly Outbound,Selective,AS-STREAMTHEWORLD,ok
+4958,Quantic Telecom,198507,https://www.quantic-telecom.net,Cable/DSL/ISP,Europe,10-20Gbps,Mostly Inbound,Open,AS-QUANTIC,ok
+4977,Telehouse,57344,https://www.telehouse.bg,Cable/DSL/ISP,Global,300-500Gbps,Balanced,Open,AS-57344,ok
+4994,PlanetHoster,53589,https://www.planethoster.com,Content,Global,10-20Gbps,Mostly Outbound,Open,AS-PLANETHOSTER,ok
+5010,LuxNetwork,29467,https://luxnetwork.eu/,NSP,Europe,20-50Gbps,Balanced,Open,RIPE::AS-LUXNETWORK,ok
+5033,Cusae,58308,https://www.cusae.com,Content,Europe,20-100Mbps,Heavy Outbound,Open,AS-CUSAE,ok
+5047,TELMA,37054,http://www.telma.mg/,Cable/DSL/ISP,Global,20-50Gbps,Mostly Inbound,Open,AS-TELMA-INTERNATIONAL,ok
+5064,Evolix,197696,https://evolix.com/,Enterprise,Europe,100-1000Mbps,Mostly Outbound,Open,AS-EVOLIX,ok
+5065,Clever Network,50796,http://www.clevernetwork.com,Cable/DSL/ISP,Europe,,Mostly Inbound,Open,AS-CLEVERNETWORK,ok
+5071,Prodware,57928,http://www.prodware.fr/,Content,Europe,,Balanced,Open,AS-PRODWARE,ok
+5078,Webaxys,43858,http://www.webaxys.com,Cable/DSL/ISP,Europe,5-10Gbps,Mostly Inbound,Open,RIPE::AS-WEBAXYS,ok
+5155,Enzu Inc.,18978,http://www.enzu.com,Content,Global,5-10Tbps,Mostly Outbound,Open,AS18978:AS-ALL,ok
+5176,Code40,59689,https://www.code40.com,Content,Europe,20-100Mbps,Heavy Outbound,Open,AS59689:AS-CODE40,ok
+5262,FLEX NETWORK,198545,https://www.flexnetwork.fr,Cable/DSL/ISP,Europe,20-50Gbps,Mostly Inbound,Open,AS-FLEXNET,ok
+5289,Alcatraz Information Security,197653,http://www.alcatraz.fr,NSP,Europe,,Balanced,Open,,ok
+5305,Orange Business - La Fabrique,15401,https://lafabrique.orange-business.com,NSP,Europe,,Balanced,Open,AS15401:AS-CUSTOMERS,ok
+5365,Instart Logic,33047,http://www.instartlogic.com,Content,Global,1-5Tbps,Heavy Outbound,Selective,AS-INSTART,ok
+5379,VIA-NUMERICA,44494,http://www.via-numerica.net,Cable/DSL/ISP,Europe,1-5Gbps,Balanced,Open,AS-VIANUMERICA,ok
+5426,Cloudata,199660,http://www.cloudata.fr,NSP,Europe,100-1000Mbps,Balanced,Open,AS-CLOUDATA,ok
+5483,Swoop,58511,https://www.swoop.com.au/,NSP,Global,100-200Gbps,Balanced,Open,AS-CIT,ok
+5499,Gcore,199524,http://gcore.com/,Content,Global,20-50Tbps,Heavy Outbound,Selective,RIPE::AS-GCORE,ok
+5520,"Fastly, Inc.",54113,https://www.fastly.com,Content,Global,100+Tbps,Heavy Outbound,Selective,AS54113:AS-FASTLY,ok
+5529,Adeli,43142,http://www.adeli.fr,Cable/DSL/ISP,Regional,1-5Gbps,Balanced,Open,AS-ADELINOVIUS,ok
+5539,NetIX Communications,57463,http://www.netix.net,NSP,Global,1-5Tbps,Balanced,Selective,AS-NETIX-NET,ok
+5626,Watchever Group,57068,http://www.watchever-group.com,Content,Europe,,Heavy Outbound,Open,AS-VME,ok
+5784,unyc,57809,http://www.unyc.io,Cable/DSL/ISP,Europe,20-50Gbps,Balanced,Open,AS57809:AS-UNYC,ok
+5849,Scaleway,12876,https://www.scaleway.com,Content,Europe,1-5Tbps,Mostly Outbound,Selective,RIPE::AS-ONLINESAS,ok
+5858,Backbone and Communications,60532,http://www.b-and-c.net,NSP,Europe,,Balanced,Open,AS-60532,ok
+5886,Blizzard Entertainment,57976,http://www.blizzard.com,Content,Global,,Mostly Outbound,Open,RADB::AS-BLIZZARD,ok
+5918,Riot Games,6507,http://www.riotgames.com,Content,Regional,500-1000Gbps,Mostly Outbound,Selective,AS-RIOT,ok
+5956,Axialys,16363,http://www.axialys.com,Content,Europe,100-1000Mbps,Balanced,Open,AS-AXIALYS,ok
+6020,DigiCert DNS,16552,https://www.digicert.com/dns-trust-manager,Content,Global,,Balanced,Open,AS16552:AS-CONE,ok
+6031,IPTelecom,39931,https://www.iptelecom.fr,Content,Europe,5-10Gbps,Balanced,Open,AS-IPTELECOM,ok
+6108,Vedege,35600,https://bgp.tools/as/35600,Network Services,Regional,,Balanced,Open,RIPE::AS35600:AS-VDG,ok
+6215,Phase Layer Global Networks,51852,http://www.phaselayer.com,NSP,Europe,100-200Gbps,Mostly Outbound,Open,RS-PRIVATELAYER-ZUR0401,ok
+6301,alwaysdata,60362,https://www.alwaysdata.com,Content,Europe,1-5Gbps,Mostly Outbound,Open,AS60362,ok
+6316,AMEOS,197551,http://www.ameos.com,Content,Regional,20-100Mbps,Mostly Outbound,Open,,ok
+6327,ViaSat,7155,https://www.viasat.com/,Cable/DSL/ISP,Regional,200-300Gbps,Heavy Inbound,Selective,AS-VIASAT,ok
+6457,NUMLOG,199248,http://www.numlog.fr,Cable/DSL/ISP,Europe,100-1000Mbps,Balanced,Open,AS-NUMLOG,ok
+6460,Automattic,2635,https://automattic.com,Content,Global,300-500Gbps,Mostly Outbound,Open,RADB::AS-AUTOMATTIC,ok
+6477,Aryaka Networks,11179,http://www.aryaka.com,Enterprise,Global,5-10Gbps,Balanced,Open,,ok
+6514,Redge Technologies,57811,https://redge.com,Content,Europe,1-5Tbps,Heavy Outbound,Open,AS-ATDS-SERVICES,ok
+6572,AFR-IX Telecom,60171,https://www.afr-ix.com/,NSP,Africa,300-500Gbps,Mostly Inbound,Selective,RIPE::AS60171:AS-AFRIX,ok
+6591,CIRA-CLOUD1,55195,http://www.cira.ca,Network Services,Global,1-5Gbps,Balanced,Open,RADB::AS-55195,ok
+6615,Borwood,29606,http://www.borwood.com,NSP,Global,,Mostly Inbound,Open,AS-BORWOOD,ok
+6639,REUNICABLE SAS,37002,http://www.zeop.re,Cable/DSL/ISP,,300-500Gbps,Mostly Inbound,Open,AS37002:AS-ALL,ok
+6691,TRINAPS,50903,http://trinaps.com/,Cable/DSL/ISP,Europe,1-5Gbps,Mostly Inbound,Open,AS-TRINAPS,ok
+6702,Association SamesWireless,199396,http://www.sameswireless.fr,Non-Profit,Europe,100-1000Mbps,Balanced,Open,AS199396,ok
+6709,Owentis,39444,https://www.groupeozitem.com,Cable/DSL/ISP,Europe,1-5Gbps,Mostly Outbound,Open,AS-OWENTIS:AS-SET RS-OWENTIS:RS-SET,ok
+6781,31173 Services,39351,http://www.31173.se,NSP,Europe,200-300Gbps,Balanced,Open,AS-ESAB,ok
+6824,Alibaba,45102,http://alibabagroup.com/,Content,Global,,Mostly Outbound,Open,AS-ALIBABA-CN-NET,ok
+6845,Orange Tunisie,37492,http://www.orange.tn,Cable/DSL/ISP,Regional,300-500Gbps,Mostly Inbound,Open,AS-37492,ok
+6852,Epsilon,44356,https://epsilontel.com,NSP,Global,10-20Gbps,Mostly Inbound,Selective,RIPE::AS-44356-CUSTOMERS,ok
+7000,OpenIP,48504,https://dstny.fr/,Cable/DSL/ISP,Europe,10-20Gbps,Balanced,Selective,,ok
+7040,Techcrea Solutions,197922,http://www.techcrea.fr,NSP,Europe,20-50Gbps,Mostly Inbound,Open,,ok
+7063,Thales/Imperva,19551,https://www.imperva.com/,Content,Global,1-5Tbps,Mostly Outbound,Open,AS-INCAPSULA,ok
+7168,Ooredoo Tunisia,37693,http://www.ooredoo.tn,Cable/DSL/ISP,Global,300-500Gbps,Mostly Inbound,Open,AS-37693,ok
+7190,System-Net SAS,60427,http://www.system-net.fr,Cable/DSL/ISP,Europe,100-1000Mbps,Balanced,Open,AS-SYSTEM-NET,ok
+7217,Holycloud,198831,https://as198831.net,Network Services,Europe,100-200Gbps,Balanced,Selective,AS198831:AS-HOLYCLOUD,ok
+7479,moji-netrix edge network,62000,https://as62000.net,Content,Global,1-5Tbps,Balanced,Open,RIPE::AS-NETRIX,ok
+7513,Arkadin,200077,http://www.arkadin.com,Content,Global,1-5Gbps,Balanced,Open,AS-CCNTT,ok
+7565,Qonnected,200023,http://www.qonnected.nl,Cable/DSL/ISP,Global,,Mostly Inbound,Open,AS-QONNECTED,ok
+7642,BeTech Solution,201292,http://www.behost.fr,NSP,Europe,1-5Gbps,Mostly Outbound,Open,,ok
+7675,Believe Digital,59842,http://www.believe.com,Content,Global,5-10Gbps,Mostly Outbound,Open,AS-BELIEVE,ok
+7743,IMS Dynamics,48310,http://www.ims-dynamics.com,NSP,Europe,,Balanced,Selective,RIPE::AS-IMSD,ok
+7875,Canal+ Telecom,21351,http://www.canalplustelecom.com/,Cable/DSL/ISP,Global,,Mostly Inbound,Selective,AS-CPLUSTELECOM,ok
+7944,Gigalis,47608,https://gigalis.org/,NSP,Regional,10-20Gbps,Balanced,Open,AS-GIGALIS,ok
+8180,WARIAN,56911,https://www.warian.net,NSP,Europe,100-200Gbps,Mostly Inbound,Open,AS56911:AS-WARIAN-EU AS56911:AS-WARIAN-MX,ok
+8205,Koesio Corporate Technologies,201939,https://www.kct.fr/,NSP,Europe,1-5Gbps,Mostly Inbound,Open,AS-DSMI,ok
+8268,Bretagne Telecom,42845,https://www.bt-blue.com/,Cable/DSL/ISP,Europe,10-20Gbps,Balanced,Open,AS42845:AS-BRETAGNE_TELECOM,ok
+8412,PacWan,8310,http://www.pacwan.fr,Cable/DSL/ISP,Regional,5-10Gbps,Mostly Inbound,Open,,ok
+8561,Eurofiber France - Appliwave,200780,https://www.appliwave.com,Cable/DSL/ISP,Europe,20-50Gbps,Mostly Inbound,Open,AS-APPLIWAVE,ok
+8564,HOSTKEY B.V.,57043,http://www.hostkey.com,Content,Global,100-200Gbps,Mostly Outbound,Open,AS-HOSTKEYBV,ok
+8661,Netalis,20565,https://www.netalis.fr/,Cable/DSL/ISP,Europe,5-10Gbps,Balanced,Open,AS-NETALIS,ok
+8663,Zscaler AS62044,62044,http://www.zscaler.com,Network Services,Regional,,Balanced,Open,AS-ZSCALER-EMEA,ok
+8731,"Zoom Communications, Inc.",30103,https://zoom.us,NSP,Global,,Balanced,Restrictive,,ok
+8754,IPeva,44994,,NSP,Regional,,Mostly Inbound,Open,AS-IPEVA,ok
+8779,Thales Services Numériques,29104,http://www.thalesgroup.com,Enterprise,Global,10-20Gbps,Balanced,Open,AS-THALES,ok
+8809,Coriolis,60032,http://www.coriolis.com/,Cable/DSL/ISP,Regional,20-50Gbps,Mostly Inbound,Selective,RIPE::AS-CORIOLISCS,ok
+8818,Axess OWS,39072,https://www.axess.fr/,Content,Global,100-1000Mbps,Heavy Outbound,Selective,,ok
+8860,Digicel AFG,48252,http://www.digicel.fr/,Cable/DSL/ISP,Regional,20-50Gbps,Mostly Inbound,Selective,RIPE::AS-DIGICELFWI,ok
+8996,SAINT-GOBAIN,49690,https://www.saint-gobain.com/,Enterprise,Global,5-10Gbps,Balanced,Selective,AS49690,ok
+9120,TELWAN,57141,http://www.telwan.fr/,Cable/DSL/ISP,Europe,,Mostly Inbound,Open,,ok
+9153,Net1C,44000,https://www.net1c.com,Content,Europe,1-5Gbps,Balanced,Open,AS-NET1C,ok
+9228,Groupe La Poste France,35676,https://www.lapostegroupe.com/fr,Enterprise,Regional,20-50Gbps,Mostly Inbound,Selective,,ok
+9470,meteversecloud,54994,https://meteversecloud.com/,NSP,Global,20-50Tbps,Mostly Outbound,Open,AS54994:AS-ALL,ok
+9549,Sure Guernsey Ltd,8680,https://business.sure.com/,NSP,Europe,,Mostly Inbound,Selective,AS-CWCI,ok
+9598,ClouDNS,203391,https://www.cloudns.net/,Content,Global,10-20Gbps,Mostly Outbound,Open,AS203391:AS-ALL,ok
+9689,SCANI,201080,http://www.scani.fr/,Non-Profit,Regional,1-5Gbps,Mostly Inbound,Open,AS-SCANI,ok
+9846,MDNET,40138,http://www.m-d.net/,Network Services,Global,20-50Gbps,Balanced,Open,AS40138:AS-ALL,ok
+9886,Wataniya Telecom Algerie,33779,http://www.ooredoo.dz,Cable/DSL/ISP,Africa,20-50Gbps,Mostly Inbound,Open,,ok
+9949,iBrowse SARL,47866,http://www.ibrowse.com,Cable/DSL/ISP,Europe,5-10Gbps,Heavy Inbound,Selective,AS47866,ok
+10245,EASTER-EGGS,199571,http://www.as199571.net/,Content,Regional,100-1000Mbps,Mostly Outbound,Open,,ok
+10425,Rogers Capital Technology Services,36868,https://www.rogerscapital.mu/,Cable/DSL/ISP,Global,5-10Gbps,Balanced,Open,AS-ADBN,ok
+10435,SIPCOM,47631,http://www.sipcom.com,Network Services,Global,,Not Disclosed,Open,AS-SIPCOM,ok
+10542,NEXT2i,203547,http://www.next2i.fr,NSP,Europe,10-20Gbps,Balanced,Open,,ok
+10555,TripleT Broadband(AIS|3BB),45758,http://www.3bb.co.th,Cable/DSL/ISP,Asia Pacific,1-5Tbps,Mostly Inbound,Selective,AS-TRIPLETNET,ok
+10569,F5 Inc.,35280,https://www.f5.com,Content,Global,1-5Tbps,Balanced,Selective,AS-F5,ok
+10572,GNM-IX Route Servers,50952,https://gnm-ix.net/,Route Server,Europe,5-10Tbps,Balanced,Open,AS-DATAIX,ok
+10626,GVA,36924,http://www.gva.africa,Cable/DSL/ISP,Africa,,Mostly Inbound,Selective,AS-GVA,ok
+10670,Netskope,55256,https://www.netskope.com/,Network Services,Global,,Not Disclosed,Open,AS-NETSKOPE-55256,ok
+10729,DOLPHIN TELECOMMUNICATION LIMITED,37613,https://www.dolphintelecom.net,NSP,Global,,Mostly Inbound,Selective,AS-DOLPHIN-TRANSIT,ok
+10839,CDN77,60068,http://www.cdn77.com,Content,Global,50-100Tbps,Mostly Outbound,Open,AS-CDN77,ok
+10987,Veepee (former VENTE-PRIVEE.COM),60350,https://www.veepee.com,Content,Europe,5-10Gbps,Balanced,Selective,RIPE::AS-VP,ok
+11015,Hopus,44530,https://hopus.net,,Europe,,Not Disclosed,Open,RIPE::AS-HOPUS,ok
+11101,KENET,36914,http://www.kenet.or.ke,,Not Disclosed,,Mostly Inbound,Open,AFRINIC::AS-36914,ok
+11352,Celya AS203596,203596,https://www.celya.fr,Cable/DSL/ISP,Europe,1-5Gbps,Balanced,Open,AS-CELYA,ok
+11811,GUILAB,328107,http://www.guilab.com.gn,Enterprise,Africa,20-50Gbps,Not Disclosed,Selective,AS-GUILAB,ok
+11851,Cato Networks,13150,https://www.catonetworks.com,,Not Disclosed,,Not Disclosed,Open,AS-CATONETWORKS-ASNS,ok
+11884,Docusign,62856,https://www.docusign.com,Content,Global,10-20Gbps,Balanced,No,AS-DOCUSIGN,ok
+11913,Newtel,13208,https://www.newtel.je,NSP,Europe,20-50Gbps,Mostly Inbound,Open,AS-NEWTELSOLUTIONS,ok
+12006,Outscale,50624,https://fr.outscale.com/,NSP,,,Not Disclosed,Open,AS-OUTSCALE,ok
+12096,eTF1,49477,https://www.tf1.fr,Content,Regional,1-5Tbps,Heavy Outbound,Selective,,ok
+12271,Deltatre S.p.A.,12906,https://www.deltatre.com,Enterprise,Europe,,Not Disclosed,Selective,,ok
+12272,Arte France SA,43445,https://www.arte.tv/fr/,,Not Disclosed,,Not Disclosed,Selective,,ok
+12293,NXO France WAN,199483,http://www.nxo.eu/,Cable/DSL/ISP,Europe,,Balanced,Open,AS-LINKER,ok
+12364,AuvernIX Route Exchange,201376,http://www.auvernix.org,Route Server,Regional,5-10Gbps,Balanced,Open,AS201376:AS-MEMBERS,ok
+12379,NBS System,51335,https://www.nbs-system.com/,,Not Disclosed,,Not Disclosed,Restrictive,,ok
+12383,Blue Infra,201808,https://www.blueinfra.fr,Cable/DSL/ISP,Not Disclosed,5-10Gbps,Balanced,Open,AS-BLUEINFRA_TRANSIT-CUST,ok
+12565,GEANT R&E,20965,http://www.geant.org,Educational/Research,Europe,1-5Tbps,Balanced,Restrictive,AS-GEANTNRN,ok
+12633,Air Liquide IT,206342,http://www.airliquide.com,Enterprise,Global,1-5Gbps,Mostly Inbound,Open,,ok
+12894,A-Systems,49559,http://1-ix.eu,NSP,Global,300-500Gbps,Balanced,Open,AS49559:AS-1-IX-IPT-CUST,ok
+12898,GRIFON,204092,https://grifon.fr/,Non-Profit,Regional,100-1000Mbps,Balanced,Open,AS204092:AS-GRIFON,ok
+12939,NAV Communications,6718,https://www.nav.co,NSP,Global,100-200Gbps,Balanced,Open,RIPE::AS-NAV,ok
+12980,DIRECT INFO SERVICE,202140,http://www.group-dis.com,NSP,Europe,,Mostly Outbound,Open,AS-DIS,ok
+13153,Societe Atlantique de Telephonie et Communication SARL,198551,http://www.rezocean.fr,Cable/DSL/ISP,Regional,10-20Gbps,Mostly Inbound,Open,AS-SATECOM,ok
+13205,SOPRADO GmbH,20546,https://myrasecurity.com,Content,Global,300-500Gbps,Balanced,Open,AS-MYRASEC,ok
+13317,Ecoband,327814,https://www.ecoband.net,NSP,Africa,5-10Gbps,Mostly Inbound,Open,AS-ECOBAND,ok
+13462,Saclak Network,201675,https://saclak-network.com,Cable/DSL/ISP,Regional,1-5Gbps,Balanced,Open,AS201675:AS-SACLAK,ok
+13539,Hub One SA,29283,http://www.hubone.fr,Cable/DSL/ISP,Global,,Mostly Inbound,Selective,AS-HUBONE,ok
+13547,FTVDN,43930,http://www.francetelevisions.fr,Content,Europe,10-20Gbps,Heavy Outbound,Selective,AS-FTVDN,ok
+13870,MOD Mission Critical,54103,http://www.modmc.net,NSP,Global,50-100Gbps,Balanced,Open,AS-MOD,ok
+13876,Synalabs,205801,http://www.synalabs.com,Content,Europe,,Not Disclosed,Open,AS-SYNALABS,ok
+13894,KOESIO NETWORKS,197033,http://www.koesio.com,Cable/DSL/ISP,Europe,20-50Gbps,Mostly Inbound,Open,AS-CPRO-TEL,ok
+13903,Anexia CloudDNS,42388,http://www.anexia.com,Content,Global,,Not Disclosed,Restrictive,RIPE::AS-ANX-ANYCAST,ok
+13940,Gestor de Infraestructuras de Telecomunicaciones de Guinea Ecuatorial,37529,http://www.gitge.com/,NSP,Africa,20-50Gbps,Mostly Inbound,Open,AS-SET-GITGE,ok
+14185,FR-NIC-DNS-UNICAST (AFNIC > NIC-FR > Unicast DNS),2486,http://www.afnic.fr/,Non-Profit,Europe,100-1000Mbps,Mostly Outbound,Open,AS-AFNIC,ok
+14297,AFNIC Offices,2485,https://www.afnic.fr/,,Not Disclosed,,Not Disclosed,Open,,ok
+14338,Alter Way - OPS,13273,https://www.alterway.fr/,Content,Europe,1-5Gbps,Mostly Outbound,Open,AS-SMILE-OSS,ok
+14511,Azion Technologies,52580,https://www.azion.com,Content,Global,10-20Tbps,Heavy Outbound,Selective,AS-AZION,ok
+14530,DOCAPOST,44527,http://www.docaposte.com,Enterprise,Europe,5-10Gbps,Balanced,Selective,AS-DOCAPOSTE,ok
+14578,ROBLOX,22697,https://www.roblox.com/,Content,Global,1-5Tbps,Not Disclosed,Open,AS-ROBLOX,ok
+14606,NETSTAR,10122,http://peering.netstartech.sg,Content,Global,,Heavy Outbound,Open,AS-BIGO-10122,ok
+14613,DIGITALWEBWORKS,205413,https://digitalwebworks.fr,Enterprise,,1-5Gbps,,Open,AS205413:AS-DIGITALWEBWORKS,ok
+14820,ARCADIZ TELECOM,50309,http://www.arcadiz.com/,NSP,Europe,,Balanced,Open,AS-ARCADIZ,ok
+14826,W3TEL,51326,http://www.w3tel.com,NSP,Global,100-1000Mbps,Balanced,Open,AS-51326,ok
+14960,VSC Technologies,205555,http://www.sncf-connect.com,Enterprise,Europe,1-5Gbps,Mostly Inbound,Open,AS205555,ok
+15072,Teraswitch Inc,20326,https://www.teraswitch.com,NSP,Global,,Mostly Outbound,Open,AS-TERASWITCH,ok
+15156,Shadow EU,64476,https://shadow.tech/,Content,Europe,,Heavy Outbound,Open,AS-BLADE,ok
+15160,SONA,60022,https://www.sonabusiness.com,NSP,Global,100-200Gbps,Mostly Outbound,Selective,AS-SONA AS-SONA-V6,ok
+15172,Wana Corporate (AS36884),36884,http://www.inwi.ma,,Not Disclosed,,Not Disclosed,Open,,ok
+15202,Datacampus,50446,https://www.datacampus.fr,Content,Europe,,Heavy Outbound,Open,AS-DATACAMPUS,ok
+15256,France-IX L3 Services,39801,https://www.franceix.net/,NSP,Europe,,,Open,AS39801:AS-TRANSIT AS39801:AS-MULTIPASS-CUST AS39801:AS-MULTIPASS-PEERS,ok
+15406,EASYTEAM,20986,https://www.easyteam.fr,Content,Europe,5-10Gbps,Balanced,Open,AS-20986,ok
+15500,Sapinet,39421,https://sapi.net,NSP,Europe,10-20Gbps,Mostly Outbound,Open,RIPE::AS39421:AS-SAPINET,ok
+15530,NSONE,62597,https://www.ibm.com/products/ns1-connect,,Not Disclosed,,Not Disclosed,Selective,AS-NSONE,ok
+15688,ICODIA,44297,https://www.icodia.com,Content,Europe,20-50Gbps,Mostly Outbound,Selective,AS44297,ok
+15846,Unixo,205344,https://unixo.fr/,Cable/DSL/ISP,Europe,1-5Gbps,Mostly Inbound,Open,AS205344:AS-TELERYS,ok
+15874,Leboncoin,49763,https://leboncoin.fr,Enterprise,Europe,10-20Gbps,Mostly Outbound,Open,AS49763,ok
+15875,IP SYNERGIES,21247,https://www.ipsyn.net/,,Not Disclosed,100-1000Mbps,Not Disclosed,Open,AS21247,ok
+15964,CoreLink Global,42962,https://corelink.io,Content,Global,200-300Gbps,Not Disclosed,Selective,AS-CLE1,ok
+16152,FLOW LINE SAS,47548,http://www.flowlinetechnologies.com/,Cable/DSL/ISP,Europe,,Balanced,Selective,AS-FLOWLINE,ok
+16197,Diabolocom,39781,http://diabolocom.com,Network Services,Europe,1-5Gbps,Balanced,Open,AS-DABCNET,ok
+16329,ODISO,34993,https://www.odiso.com/,Content,Regional,1-5Gbps,Heavy Outbound,Selective,AS-ODISO,ok
+16361,Serinya Telecom,197883,https://serinyatelecom.fr,Cable/DSL/ISP,Europe,10-20Gbps,Balanced,No,AS197883,ok
+16406,D-LAKE AS49028,49028,http://www.d-lake.fr,Cable/DSL/ISP,Europe,5-10Gbps,Balanced,Selective,RIPE::AS-D-LAKE,ok
+16535,Alibaba Cloud CDN,24429,https://www.alibabacloud.com,Content,Global,20-50Tbps,Heavy Outbound,Open,AS-ALIBABA-CLOUD-CDN,ok
+16598,Subspace,32261,https://www.subspace.com,,Global,,,Restrictive,AS-SUBSPACE,ok
+16620,Global Secure Layer,137409,https://globalsecurelayer.com,NSP,Global,20-50Tbps,Balanced,Open,AS137409:AS-ALL,ok
+16697,VIAPASS,196773,http://www.viapass.com,,Not Disclosed,,Not Disclosed,Restrictive,AS196773,ok
+16712,IENTC Telecom Mexico,28458,https://ientc.com,NSP,North America,5-10Tbps,Mostly Inbound,Open,RADB::AS-IENTC-MX,ok
+16810,GTHost,63023,https://gthost.com/,Content,Global,5-10Tbps,Balanced,Open,ARIN::AS-GTHOST,ok
+16840,Leonix Telecom,50628,http://leonix.fr,NSP,Regional,10-20Gbps,Mostly Inbound,Open,AS-LEONIX,ok
+16931,NOREST SERVICES,47648,http://www.norest-telecom.fr,Cable/DSL/ISP,Europe,100-1000Mbps,Not Disclosed,Open,,ok
+16993,Acrib - Asolta - SHPV,41652,https://www.shpv.fr/,Cable/DSL/ISP,Europe,1-5Gbps,Balanced,Open,AS-SHPV,ok
+17012,Enix,48813,https://enix.io,NSP,Europe,5-10Gbps,Balanced,Open,AS48813,ok
+17014,STREEEMING,57581,http://www.streeeming.fr,,Europe,,Mostly Outbound,Open,,ok
+17028,OPT,55943,https://www.opt.pf,Cable/DSL/ISP,Not Disclosed,,Not Disclosed,Open,AS55943:AS-CUSTOMERS,ok
+17062,iboss Europe,202276,https://www.iboss.com,,Not Disclosed,,Not Disclosed,Open,ARIN::AS-IBOSS,ok
+17164,IPLine,197036,https://www.ipline.fr,Cable/DSL/ISP,Europe,1-5Gbps,Balanced,Open,AS-IPLINE,ok
+17246,Congo Telecom,37451,http://www.congotelecom.cg,NSP,Global,1-5Tbps,Not Disclosed,Selective,AS-CONGOTELECOM,ok
+17353,Noraina,48305,https://www.noraina.cloud,Content,Europe,5-10Gbps,Mostly Outbound,Open,RIPE::AS-NORAINA,ok
+17507,KPMG,205483,http://www.kpmg.fr,Content,Europe,5-10Gbps,Balanced,Open,,ok
+17597,Wasabi Technologies,395717,http://www.wasabi.com/,,Not Disclosed,,Not Disclosed,Open,,ok
+17715,Iguane Solutions PAR8,200356,http://www.iguanesolutions.com,Content,Europe,,,Open,RIPE::AS-IGUANE,ok
+17716,Iguane Solutions FR,200271,http://www.iguanesolutions.com,Content,Europe,5-10Gbps,Mostly Outbound,Open,RIPE::AS-IGUANE,ok
+17749,KOESIO NETWORKS (KIX),206120,https://koesio.com,Network Services,Regional,20-50Gbps,Mostly Inbound,Selective,AS206120:AS-CUSTOMERS,ok
+17755,CTGNet,23764,https://www.chinatelecomglobal.com/,NSP,Global,,Balanced,Selective,AS-CTGNET,ok
+17879,EDF Group,1301,https://www.edf.fr,,Europe,,Not Disclosed,Open,AS-EDF,ok
+17885,Microsoft AS8069,8069,http://www.microsoft.com,Content,Global,,Not Disclosed,Restrictive,,ok
+17969,Virtual Technologies and Solutions,37721,http://www.vts.bf,Cable/DSL/ISP,Global,300-500Gbps,Mostly Inbound,Open,AS-VTS-SET,ok
+17973,Flowbird,49920,https://www.flowbird.group,Enterprise,Global,,Balanced,Selective,,ok
+18021,INFOMIL,61205,https://www.infomil.com/,,Not Disclosed,,Not Disclosed,Open,,ok
+18211,Ecritel - Defcon,197914,https://www.ecritel.fr,,Not Disclosed,,Not Disclosed,Open,,ok
+18232,Togocom,24691,http://www.yas.tg,Cable/DSL/ISP,Not Disclosed,20-50Gbps,Not Disclosed,Open,,ok
+18286,FBW Networks,49434,https://as49434.net,NSP,Europe,500-1000Gbps,Balanced,Open,RIPE::AS-HHOSTING,ok
+18319,Aylo,55222,https://www.aylo.com,Enterprise,Global,10-20Gbps,Balanced,Open,RADB::AS-AYLO,ok
+18382,Huawei Cloud Global,136907,https://www.huaweicloud.com,Content,Global,10-20Tbps,Balanced,Selective,AS-HUAWEI,ok
+18446,ALTAREA MANAGEMENT,209815,http://www.altareacogedim.com/,Enterprise,Europe,1-5Gbps,Balanced,Selective,AS-ALTAREA,ok
+18455,Comlink SAS,202933,https://www.comlink.fr/,Cable/DSL/ISP,Europe,1-5Gbps,Balanced,Open,AS202933:AS-COMLINK,ok
+18511,Alphalink,25540,http://www.alphalink.fr/,Cable/DSL/ISP,Not Disclosed,20-50Gbps,Mostly Inbound,Selective,AS-ALPHALINK,ok
+18655,Orne THD,41114,https://ornethd.net,Cable/DSL/ISP,Europe,50-100Gbps,Mostly Inbound,Open,AS-ORNETHD,ok
+18664,Mixvoip AS206610,206610,https://mixvoip.com,NSP,Europe,10-20Gbps,Mostly Inbound,Selective,AS-MIXVOIP,ok
+18975,VERIXI,6696,https://www.verixi.net,NSP,Not Disclosed,50-100Gbps,Balanced,Selective,AS-VERIXI,ok
+19048,CHEOPS TECHNOLOGY FRANCE S.A.,58011,https://www.cheops.fr/fr,,Not Disclosed,,Not Disclosed,Open,,ok
+19086,Mod Mission Critical AS39855,39855,http://www.modmc.net,NSP,Global,50-100Gbps,Balanced,Selective,AS-MOD,ok
+19113,Nextmap,35426,https://nextmap.io,Content,Europe,1-5Gbps,Balanced,Open,AS-NEXTMAP,ok
+19185,VIRTUASYS.EU,35661,https://www.virtuasys.eu/,NSP,Europe,5-10Gbps,Balanced,Open,RIPE::AS35661:AS-VIRTUASYS,ok
+19278,Telfax Communications,209255,https://www.telfax.fr,NSP,Regional,1-5Gbps,Balanced,Open,AS-TELFAX,ok
+19353,GoDaddy DNS,44273,https://www.godaddy.com,Content,Global,20-100Mbps,Balanced,Open,,ok
+19419,NORMHOST,57752,https://www.voip-telecom.com/,Cable/DSL/ISP,Europe,1-5Gbps,Mostly Inbound,Selective,AS-NORMHOST,ok
+19420,SENSOTELECOM,198034,https://www.voip-telecom.com,Content,Europe,100-1000Mbps,Balanced,Selective,AS198034,ok
+19428,ByteDance,396986,https://www.bytedance.com,Content,Global,,Mostly Outbound,Selective,AS-BD,ok
+19600,Stolon,209090,https://www.stolon.fr,Non-Profit,Regional,0-20Mbps,Balanced,Open,AS-STOLON,ok
+19685,ACORSO Network,35085,http://as35085.acorso.fr,,Regional,20-100Mbps,Mostly Inbound,Open,AS-ACORSO,ok
+19845,GPLExpert,206782,https://www.gplhost.com,,Europe,100-1000Mbps,Mostly Inbound,Selective,,ok
+19987,AVM-INFO,201246,http://www.avmup.com,Cable/DSL/ISP,Europe,1-5Gbps,Balanced,Open,,ok
+20013,Geneanet,209323,http://www.geneanet.org,Content,Global,100-1000Mbps,Heavy Outbound,Open,,ok
+20219,Bouygues Telecom Business-Distribution,25117,https://www.euroinformation-telecom.com,,Europe,100-200Gbps,Heavy Inbound,Selective,,ok
+20430,networksu,57855,https://networksu.net,,Europe,20-100Mbps,Mostly Inbound,Open,AS-NETWORKSU,ok
+20432,HAPROXY-TECHNOLOGIES,11019,http://www.haproxy.com,Content,Global,1-5Tbps,Mostly Outbound,Selective,RADB::AS-HAPNET,ok
+20498,grandorlyseinebievre,200748,http://www.grandorlyseinebievre.fr,,Not Disclosed,,Not Disclosed,Open,AS-GOSB,ok
+20584,VA telecom,59877,https://va-telecom.fr/,,Europe,,Not Disclosed,Open,AS59877:AS-VA-TELECOM,ok
+20651,Kaldera,37722,http://www.kaldera.mu,Cable/DSL/ISP,Global,5-10Gbps,Balanced,Open,AS-KALDERA,ok
+20663,Afribone Mali,36864,http://www.afribone.com,Cable/DSL/ISP,Africa,10-20Gbps,Balanced,Open,AS-AFRIBONE,ok
+20674,Acronis EMEA,35793,https://www.acronis.com,,Regional,,Mostly Inbound,Open,AS35793,ok
+20738,KINDRED FRANCE,50894,,Content,Europe,200-300Gbps,Mostly Outbound,Selective,,ok
+20847,Limestone Networks,46475,https://www.limestonenetworks.com,Content,Global,5-10Tbps,Mostly Outbound,Open,AS-LIMESTONE,ok
+20994,Akamai Direct Connect,20189,https://www.akamai.com/,Enterprise,Not Disclosed,,Not Disclosed,Selective,AS-AKAMAI,ok
+21237,Groupe Convergence.com,39305,https://www.groupe-convergence.com/,NSP,Europe,,Balanced,Open,AS39305:AS-CONVERGENCE,ok
+21248,Colruyt Group Services,25428,http://www.colruytgroup.com,Enterprise,Europe,,Not Disclosed,Restrictive,,ok
+21399,Feelb,207992,https://feelb.io,,Europe,20-50Gbps,Balanced,Open,AS-FEELB,ok
+21484,TELEMAQUE,47127,https://www.telemaque.fr,,Global,100-1000Mbps,Balanced,Open,AS47127,ok
+21807,Allianz Technology,15580,https://www.allianz.com,,Not Disclosed,,Not Disclosed,No,AS-ALLIANZ,ok
+22021,DAM64,207910,https://as207910.net,Educational/Research,Global,,Balanced,Open,AS207910:AS-DAM64,ok
+22927,PEERYX NETWORK SAS,213382,https://peeryx.com,NSP,,1-5Tbps,Not Disclosed,Selective,RIPE::AS213382:AS-PEERYX,ok
+23525,Airtel Rwanda AS327708,327708,https://airtel.africa,NSP,Not Disclosed,,Not Disclosed,Selective,AS-327708,ok
+23526,Alarig,208627,https://www.swordarmor.fr/,,Europe,20-100Mbps,Mostly Inbound,Open,AS-ALARIG,ok
+23676,EstNOC,206804,https://www.estnoc.ee,Enterprise,Global,,Not Disclosed,Selective,AS206804:AS-ALL,ok
+23716,Alex Delporte,213045,https://as213045.net/,Educational/Research,Europe,20-100Mbps,Balanced,Open,AS-DED3L,ok
+23859,AZA TELECOM,57468,http://www.azatelecom.com,Cable/DSL/ISP,Regional,1-5Gbps,Balanced,Open,AS-AZATELECOM,ok
+23929,NIRVANET,212948,https://www.nirvanet.org,Educational/Research,Europe,10-20Gbps,Balanced,Open,AS-NIRVANET,ok
+23937,Ori Global Edge,50489,http://www.ori.co/global-edge/,Content,Global,,Mostly Outbound,Selective,AS-ORIEDGE,ok
+24015,ROUTE64.ORG,212895,http://www.route64.org,NSP,Global,10-20Gbps,Balanced,Open,AS212895:AS-ROUTE64,ok
+24082,Clément Cavadore,44097,http://www.as44097.net,Cable/DSL/ISP,Not Disclosed,,Not Disclosed,Open,RIPE::AS44097:AS-CAVADORE,ok
+24114,Kappalys,206795,https://www.kappalys.com,,Europe,,Not Disclosed,Open,,ok
+24126,IN8INITY EU,49121,https://in8inity.com,NSP,Not Disclosed,,Not Disclosed,Open,AS-INFTELE,ok
+24179,★ Dyjix SAS,212815,https://dyjix.eu,Cable/DSL/ISP,Europe,20-50Gbps,Balanced,Restrictive,AS-DYJIX,ok
+24313,Gaetan Ferez,212783,https://as212783.net,Non-Profit,Europe,,Not Disclosed,Open,AS-GFEREZ,ok
+24366,Matis GAGNEUX,212844,https://as212844.gagneux.ovh/,Non-Profit,Europe,100-1000Mbps,Mostly Outbound,Open,RIPE::AS-GAGNEUX,ok
+24402,pCloud,51154,https://www.pcloud.com/,Content,Europe,50-100Gbps,Balanced,Open,AS51154,ok
+24828,PVDataNet AB,42201,https://pvdatanet.com,NSP,Not Disclosed,,Balanced,Open,AS-PVDATANET,ok
+24998,ATAXYA,208069,https://ataxya.net,Educational/Research,Europe,100-1000Mbps,,Open,AS-ATAXYA,ok
+25024,VERGE CLOUD PRIVATE LIMITED,141383,https://www.vergecloud.com/,Content,Global,,Mostly Outbound,Open,AS141383,ok
+25249,AdKyNet SAS,212504,https://www.adkynet.com,Content,Europe,1-5Gbps,Mostly Outbound,Open,AS-ADKYNET,ok
+25380,EdgeNext,139057,https://www.edgenext.com/traffic-partner,Content,Global,20-50Tbps,Heavy Outbound,Open,AS139057:AS-CONE,ok
+25494,Stelia,212175,https://stelia.ai,NSP,Global,1-5Tbps,Balanced,Selective,AS212175:AS-STELIA,ok
+25724,Hong Kong Zeyond Technology AS140883,140883,,,Not Disclosed,,Not Disclosed,Open,,ok
+25879,Quentin Dacquet,211868,https://www.prosaicloud.net,Educational/Research,Europe,,,Open,,ok
+26035,Airmont,206983,http://www.airmont.com,,Global,100-1000Mbps,Heavy Inbound,Open,AS206983,ok
+26086,PC A LA CARTE,212321,http://www.pcalacarte.fr,Enterprise,Europe,20-100Mbps,Balanced,Open,AS-PCA,ok
+26124,Shock Hosting,395092,https://shockhosting.com,Content,Global,100-200Gbps,Balanced,Open,AS-SHOCKHOSTING,ok
+26229,LOGICEK,44448,https://www.logicek.com,Cable/DSL/ISP,Europe,,Not Disclosed,Open,AS44448,ok
+26364,REVTELECOM,60456,https://www.revtelecom.net/,Cable/DSL/ISP,Europe,1-5Gbps,Balanced,Open,AS-REVTELECOM,ok
+26704,BSO,4455,https://www.bso.co,NSP,Global,300-500Gbps,Heavy Outbound,Open,AS-BSO,ok
+26708,Treefaz,207642,https://www.treefaz.fr/,,Not Disclosed,,Not Disclosed,Open,,ok
+26795,WEBCONEX,211448,https://webconex.io,Enterprise,Europe,10-20Gbps,Not Disclosed,Open,AS-WEBCONEX,ok
+26797,KLEE,16189,http://www.kleegroup.com,Network Services,Europe,,Not Disclosed,Selective,AS16189:AS-SET-KLEEGROUP,ok
+26933,LimOps,47239,https://www.limops.net,Cable/DSL/ISP,Europe,10-20Gbps,Mostly Inbound,Open,AS47239:AS-LIMOPS,ok
+27053,MA2T,199586,https://www.ma2t.com/,Enterprise,Not Disclosed,,Not Disclosed,Open,,ok
+27233,NET2LAN,212720,https://net2lan.fr,Content,Global,1-5Gbps,Balanced,Open,AS212720:AS-NET2LAN,ok
+27310,P Foundation,399728,https://p.foundation,Non-Profit,Not Disclosed,20-50Gbps,Balanced,Open,AS-PFOUNDATION,ok
+27320,XANKOM France,200322,https://www.xankom.fr,Cable/DSL/ISP,Regional,100-1000Mbps,Mostly Inbound,Open,AS-XANKOM,ok
+27330,Megaport Global Access,49915,http://www.megaport.com,NSP,Global,,Not Disclosed,Selective,AS49915:AS-MEGAPORT,ok
+27376,1-IX EU,50263,https://1-ix.eu,NSP,Europe,100+Tbps,Balanced,Open,AS50263:AS-1-IX-EU-WORLD,ok
+27397,Gulfsat Madagascar,328411,https://www.blueline.mg,Cable/DSL/ISP,Africa,,Not Disclosed,Open,AS-GULFSAT,ok
+27572,ACE CDN,139341,https://peering.aceville.net,Content,Global,50-100Tbps,Heavy Outbound,Open,AS139341:AS-ACE,ok
+27589,I2SNetwork,52073,https://i2s.network,Network Services,Europe,1-5Gbps,Balanced,Open,AS52073:AS-I2SNETWORK,ok
+27594,MCT,200906,https://mct.eu/,NSP,,,Balanced,Open,AS-MCT,ok
+27603,Xerio,53636,https://xerio.com,Content,Not Disclosed,,,Open,,ok
+27868,Lynqo,60240,https://lynqo.fr,Cable/DSL/ISP,Europe,100-1000Mbps,Heavy Outbound,Open,RIPE::AS-LYNQO,ok
+27914,Virtuo.Host (AS399486),399486,https://www.virtuo.host/,Content,Global,500-1000Gbps,Heavy Outbound,Open,AS-VIRTUO,ok
+27920,Hostinger International,47583,https://www.hostinger.com/,Content,Global,200-300Gbps,Mostly Outbound,Open,AS-HOSTINGER,ok
+28083,Kamatari Online,210732,https://ecowan.fr,,Europe,1-5Gbps,Balanced,Open,AS210732:AS-KAMATARI-ONLINE,ok
+28121,PRIZZ TELECOM,48817,https://www.prizz-telecom.fr/,,Europe,,Not Disclosed,Selective,RIPE::AS-PRIZZTEL,ok
+28268,IPEXIA,212579,https://www.ipexia.com,Cable/DSL/ISP,Europe,5-10Gbps,Heavy Inbound,Open,AS-IPEXIA,ok
+28304,IPng Networks GmbH,8298,https://ipng.ch/,Network Services,Europe,1-5Gbps,Balanced,Open,RIPE::AS8298:AS-IPNG,ok
+28340,Inter.link,5405,https://inter.link,NSP,Global,,Balanced,Selective,RIPE::AS5405:AS-INTERDOTLINK,ok
+28387,IELO-B,57179,https://www.ielo.net/,NSP,Europe,100-200Gbps,Balanced,Selective,,ok
+28423,Strong Blue,210806,http://strong.blue,Cable/DSL/ISP,Not Disclosed,,Not Disclosed,Open,RIPE::AS-STRONGBLUE,ok
+28572,1000mercis,197205,https://numberly.com/,,Not Disclosed,,Balanced,Open,RIPE::AS-1000MERCIS,ok
+28748,WAXX AS205698,205698,https://www.wanqo.fr/,Cable/DSL/ISP,Europe,5-10Gbps,Balanced,Open,,ok
+28749,WAXX AS206310,206310,https://www.wanqo.fr/,Cable/DSL/ISP,Europe,5-10Gbps,Balanced,Open,,ok
+28851,Vialis Moselle,42487,http://www.vialis.net,Cable/DSL/ISP,Europe,50-100Gbps,Mostly Inbound,Open,AS-VIALIS-WPY,ok
+28852,Vialis Colmar,12727,https://www.vialis.net,Cable/DSL/ISP,Europe,50-100Gbps,Mostly Inbound,Open,AS-VIALIS-COL,ok
+28929,Tiersbox,207324,https://tiersbox.net,NSP,Europe,5-10Gbps,Balanced,Open,,ok
+28965,SAGA AFRICA,37649,http://www.yas.sn,Cable/DSL/ISP,Africa,200-300Gbps,Mostly Inbound,Selective,,ok
+28984,★ ANCELADE CLOUD,210030,https://privateheberg.net,Network Services,Europe,1-5Gbps,Balanced,Open,,ok
+29028,ops,51630,https://www.ops-services.fr/,Cable/DSL/ISP,Europe,100-1000Mbps,Heavy Inbound,Open,AS-OPS,ok
+29032,AS8882,8882,https://as8882.net,NSP,Global,,Not Disclosed,Open,AS-8882,ok
+29209,white2net,209768,https://white2net.com,Cable/DSL/ISP,Global,200-300Gbps,Balanced,Open,AS-WHITE2NETCUSTOMER,ok
+29228,PEERES-TELECOM,48732,https://peeres-telecom.fr,Non-Profit,Europe,1-5Gbps,Balanced,Open,RIPE::AS-PEERES-TELECOM,ok
+29308,root.fr,62119,https://root.fr,NSP,Europe,100-1000Mbps,Balanced,Open,RIPE::AS-ROOT-FR,ok
+29361,IzarLink,42687,https://www.izarralde.com,Cable/DSL/ISP,Not Disclosed,1-5Gbps,Not Disclosed,Open,AS-IZARLINK,ok
+29398,MilkyWan,2027,https://milkywan.fr,Cable/DSL/ISP,Europe,5-10Gbps,Balanced,Open,AS-MILKYWAN,ok
+29551,EASYTEAM (ex DATAXION),49584,https://www.easyteam.fr/,NSP,Regional,1-5Gbps,Balanced,Open,AS-DATAXIONFR,ok
+29617,ABICOM,48213,https://www.abicom.fr,Cable/DSL/ISP,Europe,1-5Gbps,Mostly Inbound,Open,AS-ABICOM,ok
+29752,Algathia,205684,https://algathia.fr/,NSP,Europe,1-5Gbps,Not Disclosed,Open,AS205684:AS-ALGATHIA,ok
+30108,Shiftek-Hosting,205021,https://shiftek.fr/,Enterprise,Europe,100-1000Mbps,Heavy Inbound,Selective,AS-SHIFTEKHOSTING,ok
+30215,Yohan FRESNEAU,57080,https://www.freshome.fr/,Educational/Research,Not Disclosed,,Not Disclosed,Open,AS-YOHAN-FRESNEAU,ok
+30320,Netwo,35077,https://netwo.io,,Not Disclosed,,Not Disclosed,Restrictive,,ok
+30500,soliano,210601,,,Not Disclosed,,Not Disclosed,,,ok
+30621,Linkt,44407,https://www.linkt.fr,Network Services,Europe,100-200Gbps,Mostly Inbound,Open,AS44407:AS-LINKT,ok
+30727,HostCircle AS56504,56504,https://hostcircle.nl,Network Services,Global,5-10Tbps,Mostly Outbound,Open,AS56504:AS-ALL,ok
+30776,"RadWeb, LLC",18854,https://radwebhosting.com,,Not Disclosed,,Not Disclosed,Open,,ok
+30870,Alexandre Roux,203062,http://as203062.net,Cable/DSL/ISP,Not Disclosed,,Not Disclosed,Open,AS-ASR-NET,ok
+30887,Zoréole Group,60132,https://www.zoreole.com,Network Services,Europe,10-20Gbps,Balanced,Selective,RIPE::AS60132:AS-ZOREOLE,ok
+30920,CNOM,210433,https://www.conseil-national.medecin.fr/,Non-Profit,Europe,100-1000Mbps,Balanced,No,,ok
+31041,EXAGROUP,202827,http://exagroup.org,Non-Profit,Europe,1-5Gbps,Balanced,Open,AS202827:AS-EXAGROUP,ok
+31058,OpenGate,207849,https://opengate.space,Non-Profit,Regional,20-100Mbps,Balanced,Open,,ok
+31221,InterIX,56584,https://www.inter-ix.net,Route Server,Global,100-200Gbps,Balanced,Open,AS56584:AS-INTERIX,ok
+31440,NEXON GLOBAL,7492,http://nexoncloud.com.au,,Not Disclosed,,Not Disclosed,Open,,ok
+31482,Aquilenet Paris,211882,https://www.aquilenet.fr,Non-Profit,Regional,100-1000Mbps,Balanced,Open,AS211882:AS-AQUILENET,ok
+31529,Abaclouda,56987,https://www.abaclouda.com/,NSP,Europe,50-100Gbps,Balanced,Open,AS-ABACLOUDA,ok
+31606,Enki Multimedia,209823,https://enki-multimedia.eu,Content,Europe,1-5Gbps,Balanced,Open,RIPE::AS-ENKI,ok
+31953,EASIO-COM,50124,https://www.easio-com.com,NSP,Europe,10-20Gbps,Balanced,Open,AS50124:AS-EASIOCOM,ok
+32075,BreezeHost.io,400810,https://breezehost.io,Enterprise,North America,,Balanced,Open,AS400810:AS-ALL,ok
+32143,Nextremum,208962,https://nextremum.net/,Network Services,Global,,Balanced,Open,,ok
+32666,REZEL,199116,https://rezel.net,Non-Profit,Not Disclosed,100-1000Mbps,Heavy Inbound,Open,AS199116:AS-TO-PEERS,ok
+32771,Layer23 BV,34766,http://Layer23.nl,,Europe,,Mostly Outbound,Open,,ok
+32966,ORDIPAT,16101,https://www.ordipat.fr,Content,Regional,500-1000Gbps,Balanced,Selective,RS-ORDIPAT,ok
+32984,ParadoxNetworks Limited,52025,https://pdxnet.co.uk,NSP,Global,20-50Gbps,Balanced,Selective,AS52025:AS-ALL,ok
+32994,Mappy,41191,https://fr.mappy.com/,,Europe,,Not Disclosed,Open,AS-MAPPY,ok
+33205,INFRARINOX,200056,https://infrarinox.net,Content,Europe,10-20Gbps,Balanced,Restrictive,AS-INFRARINOX,ok
+33215,DSCW,209428,https://dscw.io,Enterprise,Europe,20-50Gbps,Balanced,Open,AS209428:AS-DSCW,ok
+33414,Bilendi Technology,51664,https://www.bilendi.com,Enterprise,Not Disclosed,,Balanced,Open,,ok
+33780,evroc,51826,https://evroc.com,Content,Europe,,Not Disclosed,Selective,AS51826:AS-EVROC,ok
+33838,Macarne - AS64289,64289,https://macarne.com,NSP,Global,20-50Tbps,Mostly Outbound,Open,AS64289:AS-MACARNE,ok
+33916,EDGOO NETWORKS,6424,https://www.edgoo.com,NSP,Global,5-10Tbps,Not Disclosed,Selective,RIPE::AS-EDGOO,ok
+34012,PLANISWARE EUROPE,205845,http://planisware.com,Content,Europe,1-5Gbps,Mostly Outbound,Restrictive,AS-PLANISWARE,ok
+34139,Kaminot,216302,http://kaminot.net,,Not Disclosed,,Not Disclosed,Open,AS216302:AS-KAMINOT,ok
+34146,RUBIX DATACENTER,47600,https://www.rubix-datacenter.fr,Cable/DSL/ISP,Regional,200-300Gbps,Balanced,Open,AS47600:AS-RUBIX,ok
+34186,PUSHPKT-OU,3920,https://www.pushpkt.com/,NSP,Europe,5-10Tbps,Mostly Outbound,Open,RIPE::AS3920:AS-3920,ok
+34203,ZET.NET,6204,https://zet.net,NSP,Global,10-20Tbps,Balanced,Selective,AS-ZETNET,ok
+34222,Aristo Networks,216265,https://aristonetworks.net,NSP,,,,Open,RIPE::AS216265:AS-ARISTONET,ok
+34275,dcent,216456,http://www.dcent.nl,NSP,Europe,100-200Gbps,Balanced,Open,AS216456:AS-DCENT,ok
+34335,OCTOGENCY,199088,https://as199088.net,Content,Europe,5-10Gbps,Mostly Outbound,Open,,ok
+34387,OCASDEV,216190,https://as216190.net,Network Services,Europe,5-10Gbps,Balanced,Open,AS216190:AS-OCASDEV,ok
+34414,Scalair SAS,206002,https://scalair.fr,NSP,Regional,1-5Gbps,Not Disclosed,Open,AS206002:AS-SCALAIR,ok
+34481,moji,47160,https://moji.fr,Cable/DSL/ISP,Europe,300-500Gbps,Mostly Outbound,Open,AS47160:AS-MOJI,ok
+34547,Inleed,206170,https://inleed.com,Cable/DSL/ISP,Europe,20-50Gbps,Balanced,Open,AS206170:AS-YELLES,ok
+34690,STELOGY,39886,https://www.stelogy.com/,Cable/DSL/ISP,Europe,10-20Gbps,Balanced,Open,RIPE::AS-NOMOTECH,ok
+34701,UNIMEDIA SERVICES SAS,202089,https://unimedia.fr/,Cable/DSL/ISP,Europe,5-10Gbps,Heavy Inbound,Open,,ok
+34710,PRINTEMPS,216239,http://printemps.com,Enterprise,Europe,100-1000Mbps,Heavy Inbound,Open,,ok
+34712,ALTEASYSTEMS,215955,https://www.alteasystems.com,Cable/DSL/ISP,Europe,100-200Gbps,Mostly Inbound,Selective,AS215955:AS-SET,ok
+34818,VPSVAULTHOST,215925,http://vpsvault.host,Content,Global,200-300Gbps,Balanced,Open,AS215925:AS-VPSVAULT,ok
+34874,Association CLIENTXCMS,216117,https://clientxcms.com,Non-Profit,Not Disclosed,,Not Disclosed,Open,,ok
+35011,v4Guard,215764,https://as215764.net,Network Services,Global,1-5Gbps,Balanced,Selective,AS215764:AS-V4GUARD,ok
+35087,COCCA,61025,https://cocca.org.nz,,Not Disclosed,20-100Mbps,Balanced,Open,,ok
+35102,Green Data,198053,https://greendata.fr,,Not Disclosed,,Not Disclosed,Open,,ok
+35284,akwa.fr,62443,https://www.akwa.fr,Cable/DSL/ISP,Europe,20-100Mbps,Balanced,Open,AS62443:AS-MEMBERS,ok
+35442,KISSGROUP SAS,215596,http://kissgroup.io,Cable/DSL/ISP,Europe,10-20Gbps,Mostly Inbound,Open,AS215596:AS-KISSGROUP,ok
+35539,NR Consulting SAS,215359,https://as215359.net/,Content,Europe,20-100Mbps,Balanced,Open,,ok
+35650,LowPing NL,215296,https://as215296.net,Educational/Research,Europe,5-10Gbps,Not Disclosed,Open,AS215296:AS-LOWPINGNL,ok
+35709,Qrator Labs,200449,https://qrator.net/,,Not Disclosed,,Not Disclosed,Selective,RIPE::AS200449:AS-SET,ok
+35750,YORKHOST,199415,https://yorkhost.fr,,Not Disclosed,,Not Disclosed,,,ok
+35769,Ohz Digital SL,202673,https://ohz.es,Content,Global,100-200Gbps,Balanced,Open,RIPE::AS202673:AS-OHZ,ok
+35776,MARITIK INFRAS,204902,https://www.maritik.com,Network Services,Global,20-50Gbps,Balanced,Selective,AS204902:AS-MARITIK,ok
+35799,REDHEBERG SAS,52053,https://redheberg.fr,Network Services,Europe,1-5Gbps,Balanced,Open,RIPE::AS-REDHEBERG,ok
+35934,UBIZWAN,215234,http://www.ubizwan.fr,Cable/DSL/ISP,Not Disclosed,,Not Disclosed,Open,AS215234:AS-UBIZWAN,ok
+36076,★ CONNECT-IX,215035,https://connect-ix.net/,Network Services,Europe,20-50Gbps,Balanced,Open,AS215035:AS-CONNECT-IX,ok
+36191,ADAY,59944,https://aday.fr,Enterprise,Not Disclosed,,Not Disclosed,Open,RIPE::AS59944:AS-ADAY,ok
+36365,OSIOM AGENCY,214838,https://swizcloud.fr,Content,Europe,1-5Gbps,Balanced,Open,AS-OSIOMAGENCY,ok
+36405,215248 - Bastiaan Mathijs Brink,215248,https://as215248.net,Educational/Research,Global,5-10Gbps,Not Disclosed,Open,RIPE::AS215248:AS-BASTIAANBRINK,ok
+36529,SOFTERIUM AS49191,49191,https://uptel.eu,Enterprise,Not Disclosed,,Not Disclosed,Selective,,ok
+36553,Propel,19879,https://propel.sh/,Content,Global,,Mostly Outbound,Open,AS19879:AS-PROPEL,ok
+36771,Societe Cajutel Guinee,329399,http://cajutel.com.gn,,Not Disclosed,,Not Disclosed,Open,,ok
+36797,BDF,211113,https://www.banque-france.fr/fr,,Not Disclosed,,Not Disclosed,Restrictive,,ok
+36876,Michcom Limited,209049,https://www.michcom.sl,NSP,Africa,5-10Gbps,Not Disclosed,Open,AS209049:AS-MICHCOM,ok
+36966,"Zhilian Technology CO., LTD.",214432,https://zlidc.net,Cable/DSL/ISP,Global,100-200Gbps,Balanced,Open,AS-ZLIDC,ok
+37009,Atlas IP,211733,https://www.atlasip.fr/,Cable/DSL/ISP,Europe,1-5Gbps,Not Disclosed,Open,AS-ATLASIP,ok
+37065,Leader Net Services,328965,https://leadernet-gn.com,Cable/DSL/ISP,Africa,5-10Gbps,Mostly Inbound,Open,AFRINIC::AS328965,ok
+37123,MEDIACTIVE 24/7,201896,https://mediactivegroup.com,Content,Global,20-50Gbps,Mostly Outbound,Open,,ok
+37124,MixTelecom,214326,https://mixheberg.fr,Cable/DSL/ISP,Europe,100-1000Mbps,Balanced,Open,AS214326:AS-MXTL-HOUSING,ok
+37229,★ ZKILLU,215599,https://zkillu.fr,Content,Europe,1-5Gbps,Balanced,Open,AS215599:AS-ZKILLUSAS,ok
+37313,IVANET-NYC,11889,https://ibasis.com,,Global,,Not Disclosed,Open,,ok
+37563,Gofile,214390,https://gofile.io,Content,Global,1-5Tbps,Heavy Outbound,Open,AS214390,ok
+37658,DaKnObNET,4601,https://daknob.net/,Non-Profit,Europe,1-5Gbps,Balanced,Open,AS4601:AS-DNET,ok
+37756,NVHCloud,213941,https://www.nvhcloud.com/,Network Services,Europe,1-5Gbps,Balanced,Open,,ok
+37963,FAL GROUP,213971,http://iglao.com,,Not Disclosed,,Not Disclosed,Open,,ok
+38049,InterEdge B.V.,213753,https://www.interedge.com,Enterprise,Regional,1-5Tbps,Balanced,Open,AS213753:AS-INTEREDGE,ok
+38192,SPARKED,397032,https://sparkedhost.com/,NSP,Global,20-50Gbps,Mostly Outbound,Open,AS-SPARKED,ok
+38207,RdemSystems,206014,https://www.rdem-systems.com,Enterprise,Not Disclosed,,Not Disclosed,Open,RIPE::AS206014:AS-ANNOUNCE,ok
+38208,Zenyx,216075,https://zenyx.eu,Non-Profit,Europe,100-1000Mbps,Balanced,Open,,ok
+38450,Groq,40214,https://groq.com/,,Global,,Not Disclosed,Selective,,ok
+38689,"Edgevana, Inc.",215724,https://edgevana.com,Content,Global,5-10Tbps,Mostly Outbound,Open,AS215724:AS-EDGEVANA,ok
+38833,Trustteam,12409,https://www.trustteam.fr,Cable/DSL/ISP,Europe,,Mostly Inbound,Selective,AS12409:AS-IX,ok
+38837,ARYK,211377,https://aryk.fr,Enterprise,Europe,5-10Gbps,Mostly Outbound,Open,,ok
+38922,RHONET,213599,https://www.rhonet.eu,Content,Europe,100-1000Mbps,Mostly Outbound,Open,,ok
+38996,Netaris SAS,211615,http://netaris.fr,Cable/DSL/ISP,Europe,1-5Gbps,Balanced,Selective,RIPE::AS211615:AS-NETARIS,ok
+39370,PROSOLUCE SAS,201868,http://prosoluce.net,Content,Europe,5-10Gbps,Balanced,Open,,ok
+39584,sphere-telecom,206660,https://www.sphere-telecom.com/,NSP,Not Disclosed,,Not Disclosed,Open,,ok
+39635,Rocket Fibre (AS8801),8801,http://www.rocket-fibre.co.uk/wholesale,Cable/DSL/ISP,Global,,,Open,AS8801:AS-ROCKET,ok
+39716,PROVECTIO,200653,https://www.provectio.fr/,Cable/DSL/ISP,Not Disclosed,,Not Disclosed,Open,AS200653:AS-PROVECTIO,ok
+39824,ICONIC SERVERS,214271,https://iconicservers.co.uk,NSP,Global,,Balanced,Open,,ok
+39849,Hyperion Cloud SAS,216193,https://hyperion.cloud,Content,Europe,,Not Disclosed,Open,,ok
+40061,Tecurian,394674,https://tecurian.com,,Not Disclosed,,Not Disclosed,Open,,ok
+40114,EVANN,209559,https://as209559.net,,Europe,20-100Mbps,Balanced,Open,AS209559:AS-EVANN,ok
+40125,ADRESEAU,213966,https://adreseau.fr,Cable/DSL/ISP,Europe,100-1000Mbps,Mostly Inbound,Open,AS-ADRESEAU,ok
+40178,XIWO TECHNOLOGIES,205141,https://www.xiwo.fr,Cable/DSL/ISP,Global,200-300Gbps,Balanced,Open,AS205141:AS-XIWO,ok
+40330,YOTTASRC,213535,https://yottasrc.com/,Network Services,Europe,10-20Gbps,Balanced,Open,AS213535:AS-YOTTASRC,ok
+40500,Options Technology LTD (Options IT),29457,http://www.options-it.com/,,Global,,Not Disclosed,Open,,ok
+40524,MUONA,50818,https://www.muona.fr/,Cable/DSL/ISP,Europe,5-10Gbps,Balanced,Open,AS-MUONA,ok
+40658,AGORA CALYCE,47833,https://agoracalyce.com,Content,Europe,20-50Gbps,Balanced,Open,,ok
+40661,SLBCLOUD,215114,https://slbcloud.fr,Cable/DSL/ISP,Europe,5-10Gbps,Balanced,Open,AS215114:AS-SLBCLOUD,ok
+40763,Aevoo,213432,https://www.aevoo.fr,,Europe,5-10Gbps,Not Disclosed,Open,,ok
+40784,WEDEPLOY (INFRAWIRE.NET),210699,https://infrawire.net/,Network Services,Europe,10-20Gbps,Heavy Outbound,Open,AS210699:AS-INFRAWIRE,ok
+41082,Marshall Telecom,154410,https://marshalltelecom.com/,Cable/DSL/ISP,Asia Pacific,10-20Gbps,Balanced,Open,AS154410:AS-MTL-CUSTOMERS,ok
+41179,XIWO MOBILE,207840,https://www.mobile.xiwo.fr/,Cable/DSL/ISP,Global,50-100Gbps,Balanced,Open,,ok
+41421,INFORMATIQUE MAINTENANCE SERVICES SAS,209532,https://opteam-ip.fr,Cable/DSL/ISP,Global,10-20Gbps,,Restrictive,,ok
+41513,SABAONE,203537,https://sabaone.net,,Global,,Not Disclosed,Open,,ok
+41634,Nameshield,20756,https://www.nameshield.com,Enterprise,Not Disclosed,,Not Disclosed,Open,AS-NAMESHIELD,ok
+41725,MEOWAN,211854,http://meowan.net,Cable/DSL/ISP,Europe,5-10Gbps,Balanced,Open,RIPE::AS211854,ok
+41897,ERA-IX Route Servers Paris,199870,https://www.era-ix.com/paris,Route Server,Not Disclosed,,Not Disclosed,Open,AS199870:AS-ERA-IX-PARIS,ok
+41922,NS Worldwide SA,215727,https://as215727.net,Cable/DSL/ISP,Not Disclosed,,Not Disclosed,Open,AS215727:AS-ALL,ok
+42035,GLOBALGRID,202753,https://www.globalgridcarrier.com,Network Services,Global,50-100Gbps,Balanced,Open,AS202753:AS-GLOBALGRID,ok
+42090,1-FR FREE,199357,https://1-ix.eu/1fr,Route Server,Regional,,Not Disclosed,Open,AS199357:AS-1-FR,ok
+42233,FlowHardware,198402,https://www.flowhardware.ch,Network Services,Europe,,Balanced,Open,AS198402:AS-FLOWHARDWARE AS198402:AS-FLOWHARDWARE-V6,ok
+42243,HaloAgency,198607,https://haloagency.fr,Network Services,Europe,5-10Gbps,Balanced,Open,,ok
+42384,NODREX Cloud,197676,https://nodrex.cloud,Cable/DSL/ISP,Europe,100-1000Mbps,,Open,,ok
+42535,OCASDEV - AIPB44-AD,197179,https://as197179.network,Cable/DSL/ISP,Not Disclosed,,Not Disclosed,Open,,ok
+43121,Tropical Hosting,219115,https://www.tropicalhosting.net,Network Services,Europe,1-5Gbps,Balanced,Open,AS219115:AS-TROPICALHOST,ok
+43182,UNIMATRIX-AS,50144,https://www.byborgenterprises.com/,Content,Global,100-200Gbps,Mostly Outbound,Open,AS50144:AS-UNIMATRIX,ok
+43630,Nera,219062,https://nera.pl,NSP,Global,5-10Tbps,Balanced,Open,RIPE::AS219062:AS-SET,ok
+43701,IN8INITY,60584,https://in8inity.com,NSP,Not Disclosed,,Not Disclosed,Open,RIPE::AS-INFTELE,ok
