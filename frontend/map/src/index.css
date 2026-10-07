@@ -1,0 +1,297 @@
+* {
+  box-sizing: border-box;
+}
+
+html,
+body,
+#root {
+  margin: 0;
+  width: 100%;
+  height: 100%;
+}
+
+body {
+  font-family:
+    Inter,
+    system-ui,
+    -apple-system,
+    BlinkMacSystemFont,
+    "Segoe UI",
+    sans-serif;
+
+  background: #0b1020;
+  color: #f8fafc;
+}
+
+.app {
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+.topbar {
+  height: 82px;
+
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+
+  padding: 0 26px;
+
+  background: #0b1020;
+
+  border-bottom:
+    1px solid rgba(148, 163, 184, 0.15);
+}
+
+.eyebrow {
+  color: #60a5fa;
+  font-size: 10px;
+  font-weight: 800;
+  letter-spacing: 0.18em;
+}
+
+.topbar h1 {
+  margin: 3px 0 0;
+  font-size: 25px;
+}
+
+.system-status {
+  display: flex;
+  align-items: center;
+
+  gap: 10px;
+
+  padding: 10px 14px;
+
+  border:
+    1px solid rgba(148, 163, 184, 0.15);
+
+  border-radius: 10px;
+
+  background: #111827;
+}
+
+.system-status div {
+  display: flex;
+  flex-direction: column;
+}
+
+.system-status strong {
+  font-size: 12px;
+}
+
+.system-status small {
+  color: #94a3b8;
+}
+
+.green-dot {
+  width: 9px;
+  height: 9px;
+
+  border-radius: 50%;
+
+  background: #22c55e;
+
+  box-shadow:
+    0 0 12px rgba(34, 197, 94, 0.8);
+}
+
+.workspace {
+  flex: 1;
+
+  display: grid;
+
+  grid-template-columns:
+    250px 1fr;
+
+  min-height: 0;
+}
+
+.sidebar {
+  padding: 24px 16px;
+
+  background: #111827;
+
+  border-right:
+    1px solid rgba(148, 163, 184, 0.15);
+
+  overflow-y: auto;
+}
+
+.sidebar h2 {
+  margin-top: 0;
+
+  color: #94a3b8;
+
+  font-size: 12px;
+
+  text-transform: uppercase;
+
+  letter-spacing: 0.1em;
+}
+
+.layer {
+  display: flex;
+
+  gap: 10px;
+
+  align-items: center;
+
+  padding: 11px 12px;
+
+  margin-bottom: 5px;
+
+  border-radius: 8px;
+
+  font-size: 13px;
+}
+
+.layer.active {
+  background:
+    rgba(37, 99, 235, 0.18);
+
+  border:
+    1px solid rgba(96, 165, 250, 0.35);
+}
+
+.layer.future {
+  opacity: 0.45;
+}
+
+.layer strong,
+.layer small {
+  display: block;
+}
+
+.layer small {
+  margin-top: 2px;
+  color: #94a3b8;
+}
+
+.legend {
+  margin-top: 30px;
+
+  padding-top: 18px;
+
+  border-top:
+    1px solid rgba(148, 163, 184, 0.15);
+
+  color: #94a3b8;
+
+  font-size: 11px;
+}
+
+.legend h3 {
+  color: #64748b;
+
+  text-transform: uppercase;
+
+  letter-spacing: 0.08em;
+
+  font-size: 10px;
+}
+
+.map-area {
+  position: relative;
+
+  min-width: 0;
+  min-height: 0;
+}
+
+.map {
+  position: absolute;
+  inset: 0;
+}
+
+.maplibregl-popup-content {
+  min-width: 240px;
+
+  padding: 14px;
+
+  border-radius: 10px;
+
+  color: #0f172a;
+}
+
+.wifi-popup h3 {
+  margin: 7px 0 12px;
+}
+
+.wifi-popup p {
+  padding-top: 6px;
+
+  border-top:
+    1px solid #e2e8f0;
+
+  font-size: 11px;
+}
+
+.popup-badge {
+  display: inline-block;
+
+  padding: 3px 7px;
+
+  border-radius: 4px;
+
+  background: #dcfce7;
+
+  color: #166534;
+
+  font-size: 9px;
+
+  font-weight: 800;
+
+  letter-spacing: 0.08em;
+}
+
+@media (max-width: 800px) {
+  .workspace {
+    grid-template-columns: 1fr;
+  }
+
+  .sidebar {
+    display: none;
+  }
+
+  .topbar {
+    height: 70px;
+    padding: 0 14px;
+  }
+
+  .topbar h1 {
+    font-size: 20px;
+  }
+}
+
+/* ==============================
+   Paris Wi-Fi markers
+   ============================== */
+
+.wifi-marker {
+  width: 18px;
+  height: 18px;
+
+  background: #ef4444;
+
+  border: 3px solid white;
+
+  border-radius: 50%;
+
+  cursor: pointer;
+
+  box-shadow:
+    0 0 0 2px rgba(239, 68, 68, 0.3),
+    0 3px 10px rgba(0, 0, 0, 0.5);
+
+  transition:
+    transform 0.15s ease;
+}
+
+.wifi-marker:hover {
+  transform: scale(1.5);
+
+  background: #dc2626;
+
+  z-index: 1000;
+}

@@ -1,0 +1,7279 @@
+{
+  "metadata": {
+    "project": "NetGuardian Paris",
+    "source": "Paris Open Data",
+    "dataset": "sites-disposant-du-service-paris-wi-fi",
+    "retrieved_at": "2026-10-07T10:35:21.947059+00:00",
+    "record_count": 316
+  },
+  "records": [
+    {
+      "nom_site": "GYMNASE MARIE PARADIS",
+      "arc_adresse": "11 Square Alban Satragne",
+      "cp": "75010",
+      "idpw": "PW0097",
+      "nombre_de_borne_wifi": 1,
+      "etat2": "Opérationnel",
+      "geo_shape": {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [
+            2.3552484281821826,
+            48.875453940691216
+          ],
+          "type": "Point"
+        },
+        "properties": {}
+      },
+      "geo_point_2d": {
+        "lon": 2.3552484281821826,
+        "lat": 48.875453940691216
+      }
+    },
+    {
+      "nom_site": "PISCINE AUTEUIL",
+      "arc_adresse": "1 ROUTE DES LACS A PASSY",
+      "cp": "75016",
+      "idpw": "PW0102",
+      "nombre_de_borne_wifi": 1,
+      "etat2": "Opérationnel",
+      "geo_shape": {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [
+            2.2615674823094567,
+            48.85815259404038
+          ],
+          "type": "Point"
+        },
+        "properties": {}
+      },
+      "geo_point_2d": {
+        "lon": 2.2615674823094567,
+        "lat": 48.85815259404038
+      }
+    },
+    {
+      "nom_site": "BERGES RIVE GAUCHE - EMMARCHEMENT",
+      "arc_adresse": "8 Port de Solférino",
+      "cp": "75007",
+      "idpw": "PW0207",
+      "nombre_de_borne_wifi": 0,
+      "etat2": "Non opérationnel",
+      "geo_shape": {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [
+            2.3243565700203863,
+            48.86141664184817
+          ],
+          "type": "Point"
+        },
+        "properties": {}
+      },
+      "geo_point_2d": {
+        "lon": 2.3243565700203863,
+        "lat": 48.86141664184817
+      }
+    },
+    {
+      "nom_site": "BIBLIOTHEQUE HERGE",
+      "arc_adresse": "2 RUE DU DEPARTEMENT",
+      "cp": "75019",
+      "idpw": "PW0139",
+      "nombre_de_borne_wifi": 1,
+      "etat2": "Opérationnel",
+      "geo_shape": {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [
+            2.3672350140828184,
+            48.88501362640926
+          ],
+          "type": "Point"
+        },
+        "properties": {}
+      },
+      "geo_point_2d": {
+        "lon": 2.3672350140828184,
+        "lat": 48.88501362640926
+      }
+    },
+    {
+      "nom_site": "BIBLIOTHEQUE HISTORIQUE DE LA VILLE DE PARIS (BHVP)",
+      "arc_adresse": "24 Rue Pavée",
+      "cp": "75004",
+      "idpw": "PW0043",
+      "nombre_de_borne_wifi": 3,
+      "etat2": "Opérationnel",
+      "geo_shape": {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [
+            2.3616959043904777,
+            48.857065427924205
+          ],
+          "type": "Point"
+        },
+        "properties": {}
+      },
+      "geo_point_2d": {
+        "lon": 2.3616959043904777,
+        "lat": 48.857065427924205
+      }
+    },
+    {
+      "nom_site": "BIBLIOTHEQUE RAINER MARIA RILKE",
+      "arc_adresse": "88 T BOULEVARD DE PORT-ROYAL",
+      "cp": "75005",
+      "idpw": "PW0115",
+      "nombre_de_borne_wifi": 2,
+      "etat2": "Opérationnel",
+      "geo_shape": {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [
+            2.338781673488587,
+            48.83930698880458
+          ],
+          "type": "Point"
+        },
+        "properties": {}
+      },
+      "geo_point_2d": {
+        "lon": 2.338781673488587,
+        "lat": 48.83930698880458
+      }
+    },
+    {
+      "nom_site": "CENTRE SPORTIF SUZANNE LENGLEN - ENTREE",
+      "arc_adresse": "2 RUE LOUIS ARMAND",
+      "cp": "75015",
+      "idpw": "PW0173-1",
+      "nombre_de_borne_wifi": 1,
+      "etat2": "Opérationnel",
+      "geo_shape": {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [
+            2.2765763571063142,
+            48.833070643227764
+          ],
+          "type": "Point"
+        },
+        "properties": {}
+      },
+      "geo_point_2d": {
+        "lon": 2.2765763571063142,
+        "lat": 48.833070643227764
+      }
+    },
+    {
+      "nom_site": "MAIRIE DU 9 EME",
+      "arc_adresse": "6 Rue Drouot",
+      "cp": "75009",
+      "idpw": "PW0131",
+      "nombre_de_borne_wifi": 5,
+      "etat2": "Opérationnel",
+      "geo_shape": {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [
+            2.3404806021508517,
+            48.87259160236116
+          ],
+          "type": "Point"
+        },
+        "properties": {}
+      },
+      "geo_point_2d": {
+        "lon": 2.3404806021508517,
+        "lat": 48.87259160236116
+      }
+    },
+    {
+      "nom_site": "PARC DE BELLEVILLE (PARIS NATURE MAISON DE L'AIR)",
+      "arc_adresse": "27 Rue Piat",
+      "cp": "75020",
+      "idpw": "PW0168",
+      "nombre_de_borne_wifi": 0,
+      "etat2": "Non opérationnel",
+      "geo_shape": {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [
+            2.384924750509343,
+            48.87160514880641
+          ],
+          "type": "Point"
+        },
+        "properties": {}
+      },
+      "geo_point_2d": {
+        "lon": 2.384924750509343,
+        "lat": 48.87160514880641
+      }
+    },
+    {
+      "nom_site": "BERGES RIVE DROITE - PONT AU CHANGE",
+      "arc_adresse": "BERGE DE SEINE RIVE DROITE - VIA FERRATA",
+      "cp": "75001",
+      "idpw": "PW0158",
+      "nombre_de_borne_wifi": 1,
+      "etat2": "Opérationnel",
+      "geo_shape": {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [
+            2.346563042652778,
+            48.85751278386862
+          ],
+          "type": "Point"
+        },
+        "properties": {}
+      },
+      "geo_point_2d": {
+        "lon": 2.346563042652778,
+        "lat": 48.85751278386862
+      }
+    },
+    {
+      "nom_site": "SQUARE DU CHANOINE VIOLLET",
+      "arc_adresse": "72 RUE DU MOULIN VERT",
+      "cp": "75014",
+      "idpw": "PW0185",
+      "nombre_de_borne_wifi": 1,
+      "etat2": "Opérationnel",
+      "geo_shape": {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [
+            2.3200964902595502,
+            48.83129620230284
+          ],
+          "type": "Point"
+        },
+        "properties": {}
+      },
+      "geo_point_2d": {
+        "lon": 2.3200964902595502,
+        "lat": 48.83129620230284
+      }
+    },
+    {
+      "nom_site": "SQUARE FERDINAND BRUNOT",
+      "arc_adresse": "PLACE FERDINAND BRUNOT",
+      "cp": "75014",
+      "idpw": "PW0065",
+      "nombre_de_borne_wifi": 1,
+      "etat2": "Opérationnel",
+      "geo_shape": {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [
+            2.3267672261372168,
+            48.8328511609528
+          ],
+          "type": "Point"
+        },
+        "properties": {}
+      },
+      "geo_point_2d": {
+        "lon": 2.3267672261372168,
+        "lat": 48.8328511609528
+      }
+    },
+    {
+      "nom_site": "SQUARE GEORGES DUHAMEL",
+      "arc_adresse": "RUE JEAN ANOUILH",
+      "cp": "75013",
+      "idpw": "PW0171",
+      "nombre_de_borne_wifi": 1,
+      "etat2": "Opérationnel",
+      "geo_shape": {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [
+            2.377611889269577,
+            48.83191582844802
+          ],
+          "type": "Point"
+        },
+        "properties": {}
+      },
+      "geo_point_2d": {
+        "lon": 2.377611889269577,
+        "lat": 48.83191582844802
+      }
+    },
+    {
+      "nom_site": "MAISON DE LA VIE ASSOCIATIVE ET CITOYENNE 2",
+      "arc_adresse": "23 Rue Greneta",
+      "cp": "75002",
+      "idpw": "PW0036",
+      "nombre_de_borne_wifi": 4,
+      "etat2": "Opérationnel",
+      "geo_shape": {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [
+            2.35054940319118,
+            48.8650814049341
+          ],
+          "type": "Point"
+        },
+        "properties": {}
+      },
+      "geo_point_2d": {
+        "lon": 2.35054940319118,
+        "lat": 48.8650814049341
+      }
+    },
+    {
+      "nom_site": "MAISON DE LA VIE ASSOCIATIVE ET CITOYENNE 3/4",
+      "arc_adresse": "3 RUE EUGENE SPULLER",
+      "cp": "75003",
+      "idpw": "PW0019-1",
+      "nombre_de_borne_wifi": 1,
+      "etat2": "Opérationnel",
+      "geo_shape": {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [
+            2.362186544891377,
+            48.86402504205693
+          ],
+          "type": "Point"
+        },
+        "properties": {}
+      },
+      "geo_point_2d": {
+        "lon": 2.362186544891377,
+        "lat": 48.86402504205693
+      }
+    },
+    {
+      "nom_site": "MAISON DE LA VIE ASSOCIATIVE ET CITOYENNE 20",
+      "arc_adresse": "18 RUE RAMUS",
+      "cp": "75020",
+      "idpw": "PW0187",
+      "nombre_de_borne_wifi": 2,
+      "etat2": "Opérationnel",
+      "geo_shape": {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [
+            2.398789064219767,
+            48.86270432644073
+          ],
+          "type": "Point"
+        },
+        "properties": {}
+      },
+      "geo_point_2d": {
+        "lon": 2.398789064219767,
+        "lat": 48.86270432644073
+      }
+    },
+    {
+      "nom_site": "HOTEL DE VILLE 1ER",
+      "arc_adresse": "4 Place de l'Hôtel de Ville-esplanade de la Libération",
+      "cp": "75004",
+      "idpw": "PW0122-2",
+      "nombre_de_borne_wifi": 1,
+      "etat2": "Opérationnel",
+      "geo_shape": {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [
+            2.3522618590700266,
+            48.85608287395023
+          ],
+          "type": "Point"
+        },
+        "properties": {}
+      },
+      "geo_point_2d": {
+        "lon": 2.3522618590700266,
+        "lat": 48.85608287395023
+      }
+    },
+    {
+      "nom_site": "PARC MONTSOURIS - GARDE COTY",
+      "arc_adresse": "2 RUE GAZAN",
+      "cp": "75014",
+      "idpw": "PW0212",
+      "nombre_de_borne_wifi": 1,
+      "etat2": "Opérationnel",
+      "geo_shape": {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [
+            2.3398723673854613,
+            48.82451919846644
+          ],
+          "type": "Point"
+        },
+        "properties": {}
+      },
+      "geo_point_2d": {
+        "lon": 2.3398723673854613,
+        "lat": 48.82451919846644
+      }
+    },
+    {
+      "nom_site": "FOURRIERE LA COURNEUVE",
+      "arc_adresse": "92 RUE MERMOZ LA COURNEUVE",
+      "cp": "93120",
+      "idpw": null,
+      "nombre_de_borne_wifi": 1,
+      "etat2": "En étude",
+      "geo_shape": {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [
+            2.408745633623747,
+            48.93254696974426
+          ],
+          "type": "Point"
+        },
+        "properties": {}
+      },
+      "geo_point_2d": {
+        "lon": 2.408745633623747,
+        "lat": 48.93254696974426
+      }
+    },
+    {
+      "nom_site": "ATELIER DES BEAUX ARTS GLACIERE",
+      "arc_adresse": "121 Rue de la Glacière",
+      "cp": "75013",
+      "idpw": "PW0256",
+      "nombre_de_borne_wifi": 15,
+      "etat2": "Opérationnel",
+      "geo_shape": {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [
+            2.3422023322377754,
+            48.82695881743487
+          ],
+          "type": "Point"
+        },
+        "properties": {}
+      },
+      "geo_point_2d": {
+        "lon": 2.3422023322377754,
+        "lat": 48.82695881743487
+      }
+    },
+    {
+      "nom_site": "CENTRE MEDICAL MARIE BECQUET",
+      "arc_adresse": "9b Rue Jean-Baptiste Dumas",
+      "cp": "75017",
+      "idpw": "PW0265",
+      "nombre_de_borne_wifi": 2,
+      "etat2": "Opérationnel",
+      "geo_shape": {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [
+            2.292012076427586,
+            48.883131271684036
+          ],
+          "type": "Point"
+        },
+        "properties": {}
+      },
+      "geo_point_2d": {
+        "lon": 2.292012076427586,
+        "lat": 48.883131271684036
+      }
+    },
+    {
+      "nom_site": "ARCHIVES DE PARIS",
+      "arc_adresse": "18 BOULEVARD SERURIER",
+      "cp": "75019",
+      "idpw": "PW0246",
+      "nombre_de_borne_wifi": 1,
+      "etat2": "Opérationnel",
+      "geo_shape": {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [
+            2.4058081248559793,
+            48.87803821682544
+          ],
+          "type": "Point"
+        },
+        "properties": {}
+      },
+      "geo_point_2d": {
+        "lon": 2.4058081248559793,
+        "lat": 48.87803821682544
+      }
+    },
+    {
+      "nom_site": "BERGES RIVE GAUCHE - LA HALLE",
+      "arc_adresse": "6 Port de Solférino",
+      "cp": "75007",
+      "idpw": "PW0190",
+      "nombre_de_borne_wifi": 0,
+      "etat2": "Non opérationnel",
+      "geo_shape": {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [
+            2.3250654339643306,
+            48.861148458940185
+          ],
+          "type": "Point"
+        },
+        "properties": {}
+      },
+      "geo_point_2d": {
+        "lon": 2.3250654339643306,
+        "lat": 48.861148458940185
+      }
+    },
+    {
+      "nom_site": "BIBLIOTHEQUE ANDRE MALRAUX",
+      "arc_adresse": "78 BOULEVARD RASPAIL",
+      "cp": "75006",
+      "idpw": "PW0118",
+      "nombre_de_borne_wifi": 2,
+      "etat2": "Opérationnel",
+      "geo_shape": {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [
+            2.3275943360813645,
+            48.8481097373342
+          ],
+          "type": "Point"
+        },
+        "properties": {}
+      },
+      "geo_point_2d": {
+        "lon": 2.3275943360813645,
+        "lat": 48.8481097373342
+      }
+    },
+    {
+      "nom_site": "BIBLIOTHEQUE DIDEROT",
+      "arc_adresse": "42 AVENUE DAUMESNIL",
+      "cp": "75012",
+      "idpw": "PW0135",
+      "nombre_de_borne_wifi": 1,
+      "etat2": "Opérationnel",
+      "geo_shape": {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [
+            2.3777161395607687,
+            48.8459667165727
+          ],
+          "type": "Point"
+        },
+        "properties": {}
+      },
+      "geo_point_2d": {
+        "lon": 2.3777161395607687,
+        "lat": 48.8459667165727
+      }
+    },
+    {
+      "nom_site": "BIBLIOTHEQUE ITALIE",
+      "arc_adresse": "213 BOULEVARD VINCENT AURIOL",
+      "cp": "75013",
+      "idpw": "PW0114",
+      "nombre_de_borne_wifi": 1,
+      "etat2": "Opérationnel",
+      "geo_shape": {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [
+            2.3567544767297495,
+            48.83078680904554
+          ],
+          "type": "Point"
+        },
+        "properties": {}
+      },
+      "geo_point_2d": {
+        "lon": 2.3567544767297495,
+        "lat": 48.83078680904554
+      }
+    },
+    {
+      "nom_site": "BIBLIOTHEQUE PARMENTIER",
+      "arc_adresse": "20 AVENUE PARMENTIER",
+      "cp": "75011",
+      "idpw": "PW0052",
+      "nombre_de_borne_wifi": 1,
+      "etat2": "Opérationnel",
+      "geo_shape": {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [
+            2.3790349614981054,
+            48.86009629404828
+          ],
+          "type": "Point"
+        },
+        "properties": {}
+      },
+      "geo_point_2d": {
+        "lon": 2.3790349614981054,
+        "lat": 48.86009629404828
+      }
+    },
+    {
+      "nom_site": "PARC DE CHOISY",
+      "arc_adresse": "160 AVENUE DE CHOISY",
+      "cp": "75013",
+      "idpw": "PW0062",
+      "nombre_de_borne_wifi": 2,
+      "etat2": "Opérationnel",
+      "geo_shape": {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [
+            2.35959561394622,
+            48.82775099396245
+          ],
+          "type": "Point"
+        },
+        "properties": {}
+      },
+      "geo_point_2d": {
+        "lon": 2.35959561394622,
+        "lat": 48.82775099396245
+      }
+    },
+    {
+      "nom_site": "PARC FLORAL",
+      "arc_adresse": "ROUTE DE LA PYRAMIDE",
+      "cp": "75012",
+      "idpw": "PW0200",
+      "nombre_de_borne_wifi": 7,
+      "etat2": "Opérationnel",
+      "geo_shape": {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [
+            2.439835247184326,
+            48.840125544936114
+          ],
+          "type": "Point"
+        },
+        "properties": {}
+      },
+      "geo_point_2d": {
+        "lon": 2.439835247184326,
+        "lat": 48.840125544936114
+      }
+    },
+    {
+      "nom_site": "MAIRIE DU 5 EME",
+      "arc_adresse": "21 Place du Panthéon",
+      "cp": "75005",
+      "idpw": "PW0021",
+      "nombre_de_borne_wifi": 5,
+      "etat2": "Opérationnel",
+      "geo_shape": {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [
+            2.3445808786950564,
+            48.84619170895861
+          ],
+          "type": "Point"
+        },
+        "properties": {}
+      },
+      "geo_point_2d": {
+        "lon": 2.3445808786950564,
+        "lat": 48.84619170895861
+      }
+    },
+    {
+      "nom_site": "SQUARE D'ANVERS",
+      "arc_adresse": "PLACE D'ANVERS",
+      "cp": "75009",
+      "idpw": "PW0184",
+      "nombre_de_borne_wifi": 1,
+      "etat2": "Opérationnel",
+      "geo_shape": {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [
+            2.344520519971863,
+            48.88231742995315
+          ],
+          "type": "Point"
+        },
+        "properties": {}
+      },
+      "geo_point_2d": {
+        "lon": 2.344520519971863,
+        "lat": 48.88231742995315
+      }
+    },
+    {
+      "nom_site": "SQUARE ORILLON JULES VERNES",
+      "arc_adresse": "19B RUE DE L ORILLON",
+      "cp": "75011",
+      "idpw": "PW0056",
+      "nombre_de_borne_wifi": 1,
+      "etat2": "Opérationnel",
+      "geo_shape": {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [
+            2.375117284276381,
+            48.869892680703174
+          ],
+          "type": "Point"
+        },
+        "properties": {}
+      },
+      "geo_point_2d": {
+        "lon": 2.375117284276381,
+        "lat": 48.869892680703174
+      }
+    },
+    {
+      "nom_site": "MAISON DE LA VIE ASSOCIATIVE ET CITOYENNE  13",
+      "arc_adresse": "11 Rue Caillaux",
+      "cp": "75013",
+      "idpw": "PW0039",
+      "nombre_de_borne_wifi": 9,
+      "etat2": "Opérationnel",
+      "geo_shape": {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [
+            2.361318112511235,
+            48.82263334522024
+          ],
+          "type": "Point"
+        },
+        "properties": {}
+      },
+      "geo_point_2d": {
+        "lon": 2.361318112511235,
+        "lat": 48.82263334522024
+      }
+    },
+    {
+      "nom_site": "ESPACE PARISIEN POUR L INSERTION 7 15 16",
+      "arc_adresse": "14 RUE MOISANT",
+      "cp": "75015",
+      "idpw": "PW0162",
+      "nombre_de_borne_wifi": 1,
+      "etat2": "Opérationnel",
+      "geo_shape": {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [
+            2.3172057615962056,
+            48.842310116893366
+          ],
+          "type": "Point"
+        },
+        "properties": {}
+      },
+      "geo_point_2d": {
+        "lon": 2.3172057615962056,
+        "lat": 48.842310116893366
+      }
+    },
+    {
+      "nom_site": "MUSEE BALZAC",
+      "arc_adresse": "47 RUE RAYNOUARD",
+      "cp": "75016",
+      "idpw": "PW0202",
+      "nombre_de_borne_wifi": 10,
+      "etat2": "Opérationnel",
+      "geo_shape": {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [
+            2.280717716603592,
+            48.85539359756073
+          ],
+          "type": "Point"
+        },
+        "properties": {}
+      },
+      "geo_point_2d": {
+        "lon": 2.280717716603592,
+        "lat": 48.85539359756073
+      }
+    },
+    {
+      "nom_site": "MUSEE DU PETIT PALAIS",
+      "arc_adresse": "7 Avenue Dutuit",
+      "cp": "75008",
+      "idpw": "PW0232",
+      "nombre_de_borne_wifi": 30,
+      "etat2": "Opérationnel",
+      "geo_shape": {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [
+            2.3152239387630265,
+            48.86608193950941
+          ],
+          "type": "Point"
+        },
+        "properties": {}
+      },
+      "geo_point_2d": {
+        "lon": 2.3152239387630265,
+        "lat": 48.86608193950941
+      }
+    },
+    {
+      "nom_site": "GYMNASE EMILE ANTHOINE",
+      "arc_adresse": "9 Rue Jean Rey",
+      "cp": "75015",
+      "idpw": "PW0260",
+      "nombre_de_borne_wifi": 10,
+      "etat2": "Opérationnel",
+      "geo_shape": {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [
+            2.2910299478286844,
+            48.855442403756484
+          ],
+          "type": "Point"
+        },
+        "properties": {}
+      },
+      "geo_point_2d": {
+        "lon": 2.2910299478286844,
+        "lat": 48.855442403756484
+      }
+    },
+    {
+      "nom_site": "DIRECTION EMPLOI",
+      "arc_adresse": "8 Rue de Citeaux",
+      "cp": "75012",
+      "idpw": "PW0273",
+      "nombre_de_borne_wifi": 1,
+      "etat2": "Opérationnel",
+      "geo_shape": {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [
+            2.3802420942271296,
+            48.8472534453078
+          ],
+          "type": "Point"
+        },
+        "properties": {}
+      },
+      "geo_point_2d": {
+        "lon": 2.3802420942271296,
+        "lat": 48.8472534453078
+      }
+    },
+    {
+      "nom_site": "GYMNASE INVALIDES",
+      "arc_adresse": "1 Rue Paul et Jean Lerolle",
+      "cp": "75007",
+      "idpw": "PW0257",
+      "nombre_de_borne_wifi": 0,
+      "etat2": "Non opérationnel",
+      "geo_shape": {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [
+            2.3122195137713244,
+            48.86181139879101
+          ],
+          "type": "Point"
+        },
+        "properties": {}
+      },
+      "geo_point_2d": {
+        "lon": 2.3122195137713244,
+        "lat": 48.86181139879101
+      }
+    },
+    {
+      "nom_site": "ESPACE GLISSE DES FILLETTES",
+      "arc_adresse": "54 BOULEVARD NEY",
+      "cp": "75018",
+      "idpw": "PW0093",
+      "nombre_de_borne_wifi": 1,
+      "etat2": "Opérationnel",
+      "geo_shape": {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [
+            2.3635069351099576,
+            48.89875981393056
+          ],
+          "type": "Point"
+        },
+        "properties": {}
+      },
+      "geo_point_2d": {
+        "lon": 2.3635069351099576,
+        "lat": 48.89875981393056
+      }
+    },
+    {
+      "nom_site": "GYMNASE JAPY",
+      "arc_adresse": "2 RUE JAPY",
+      "cp": "75011",
+      "idpw": "PW0096",
+      "nombre_de_borne_wifi": 1,
+      "etat2": "Opérationnel",
+      "geo_shape": {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [
+            2.382453535830384,
+            48.855871412200436
+          ],
+          "type": "Point"
+        },
+        "properties": {}
+      },
+      "geo_point_2d": {
+        "lon": 2.382453535830384,
+        "lat": 48.855871412200436
+      }
+    },
+    {
+      "nom_site": "BIBLIOTHEQUE BENJAMIN RABIER",
+      "arc_adresse": "141 Avenue de Flandre",
+      "cp": "75019",
+      "idpw": "PW0001",
+      "nombre_de_borne_wifi": 3,
+      "etat2": "Opérationnel",
+      "geo_shape": {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [
+            2.3791228394582746,
+            48.89276109370963
+          ],
+          "type": "Point"
+        },
+        "properties": {}
+      },
+      "geo_point_2d": {
+        "lon": 2.3791228394582746,
+        "lat": 48.89276109370963
+      }
+    },
+    {
+      "nom_site": "BIBLIOTHEQUE HELENE BERR",
+      "arc_adresse": "70 RUE DE PICPUS",
+      "cp": "75012",
+      "idpw": "PW0051",
+      "nombre_de_borne_wifi": 4,
+      "etat2": "Opérationnel",
+      "geo_shape": {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [
+            2.3974768896781797,
+            48.84254112148939
+          ],
+          "type": "Point"
+        },
+        "properties": {}
+      },
+      "geo_point_2d": {
+        "lon": 2.3974768896781797,
+        "lat": 48.84254112148939
+      }
+    },
+    {
+      "nom_site": "LES BLANCS MANTEAUX",
+      "arc_adresse": "48 RUE VIEILLE DU TEMPLE",
+      "cp": "75004",
+      "idpw": "PW0121",
+      "nombre_de_borne_wifi": 2,
+      "etat2": "Opérationnel",
+      "geo_shape": {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [
+            2.3583923571774,
+            48.85826132515104
+          ],
+          "type": "Point"
+        },
+        "properties": {}
+      },
+      "geo_point_2d": {
+        "lon": 2.3583923571774,
+        "lat": 48.85826132515104
+      }
+    },
+    {
+      "nom_site": "JARDIN NELSON MANDELA",
+      "arc_adresse": "32 RUE BERGER",
+      "cp": "75001",
+      "idpw": "PW0110",
+      "nombre_de_borne_wifi": 2,
+      "etat2": "Opérationnel",
+      "geo_shape": {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [
+            2.346303724007311,
+            48.861469422154464
+          ],
+          "type": "Point"
+        },
+        "properties": {}
+      },
+      "geo_point_2d": {
+        "lon": 2.346303724007311,
+        "lat": 48.861469422154464
+      }
+    },
+    {
+      "nom_site": "QUARTIER JEUNES",
+      "arc_adresse": "4 Place du Louvre",
+      "cp": "75001",
+      "idpw": "PW0127",
+      "nombre_de_borne_wifi": 22,
+      "etat2": "Opérationnel",
+      "geo_shape": {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [
+            2.341064476164005,
+            48.86008352657211
+          ],
+          "type": "Point"
+        },
+        "properties": {}
+      },
+      "geo_point_2d": {
+        "lon": 2.341064476164005,
+        "lat": 48.86008352657211
+      }
+    },
+    {
+      "nom_site": "PARC DE BERCY (MAISON DU LAC)",
+      "arc_adresse": "1 COUR CHAMONARD",
+      "cp": "75012",
+      "idpw": "PW0058-1",
+      "nombre_de_borne_wifi": 1,
+      "etat2": "Opérationnel",
+      "geo_shape": {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [
+            2.384532226240482,
+            48.83507864071959
+          ],
+          "type": "Point"
+        },
+        "properties": {}
+      },
+      "geo_point_2d": {
+        "lon": 2.384532226240482,
+        "lat": 48.83507864071959
+      }
+    },
+    {
+      "nom_site": "PROMENADE DES CHAMPS ELYSEES - KIOSQUE A MUSIQUE",
+      "arc_adresse": "AVENUE EDWARD TUCK",
+      "cp": "75008",
+      "idpw": "PW0196",
+      "nombre_de_borne_wifi": 2,
+      "etat2": "Opérationnel",
+      "geo_shape": {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [
+            2.317839768979231,
+            48.86528730587915
+          ],
+          "type": "Point"
+        },
+        "properties": {}
+      },
+      "geo_point_2d": {
+        "lon": 2.317839768979231,
+        "lat": 48.86528730587915
+      }
+    },
+    {
+      "nom_site": "SQUARE CLAUDE NICOLAS LEDOUX",
+      "arc_adresse": "2 PLACE DENFERT ROCHEREAU",
+      "cp": "75014",
+      "idpw": "PW0199",
+      "nombre_de_borne_wifi": 2,
+      "etat2": "Opérationnel",
+      "geo_shape": {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [
+            2.3321285183323224,
+            48.834231880510345
+          ],
+          "type": "Point"
+        },
+        "properties": {}
+      },
+      "geo_point_2d": {
+        "lon": 2.3321285183323224,
+        "lat": 48.834231880510345
+      }
+    },
+    {
+      "nom_site": "SQUARE DE LA MARSEILLAISE",
+      "arc_adresse": "1B RUE DE LA MARSEILLAISE",
+      "cp": "75019",
+      "idpw": "PW0064",
+      "nombre_de_borne_wifi": 1,
+      "etat2": "Opérationnel",
+      "geo_shape": {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [
+            2.3980622430291216,
+            48.887286841813356
+          ],
+          "type": "Point"
+        },
+        "properties": {}
+      },
+      "geo_point_2d": {
+        "lon": 2.3980622430291216,
+        "lat": 48.887286841813356
+      }
+    },
+    {
+      "nom_site": "SQUARE TRINITE D ESTIENNE D ORVES",
+      "arc_adresse": "1 PLACE D ESTIENNES D ORVES",
+      "cp": "75009",
+      "idpw": "PW0176",
+      "nombre_de_borne_wifi": 1,
+      "etat2": "Opérationnel",
+      "geo_shape": {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [
+            2.331798275213253,
+            48.87659566954102
+          ],
+          "type": "Point"
+        },
+        "properties": {}
+      },
+      "geo_point_2d": {
+        "lon": 2.331798275213253,
+        "lat": 48.87659566954102
+      }
+    },
+    {
+      "nom_site": "MAISON DE LA VIE ASSOCIATIVE ET CITOYENNE 7",
+      "arc_adresse": "93 RUE SAINT DOMINIQUE",
+      "cp": "75007",
+      "idpw": "PW0027",
+      "nombre_de_borne_wifi": 1,
+      "etat2": "Opérationnel",
+      "geo_shape": {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [
+            2.307226483261079,
+            48.85957020973672
+          ],
+          "type": "Point"
+        },
+        "properties": {}
+      },
+      "geo_point_2d": {
+        "lon": 2.307226483261079,
+        "lat": 48.85957020973672
+      }
+    },
+    {
+      "nom_site": "HOTEL DE VILLE PARVIS SEINE",
+      "arc_adresse": "4 PLACE DE L'HOTEL DE VILLE",
+      "cp": "75004",
+      "idpw": "PW0123",
+      "nombre_de_borne_wifi": 1,
+      "etat2": "Opérationnel",
+      "geo_shape": {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [
+            2.3517550767309303,
+            48.856319313937796
+          ],
+          "type": "Point"
+        },
+        "properties": {}
+      },
+      "geo_point_2d": {
+        "lon": 2.3517550767309303,
+        "lat": 48.856319313937796
+      }
+    },
+    {
+      "nom_site": "PREFOURRIERE CHARLETY",
+      "arc_adresse": "8 RUE THOMIRE",
+      "cp": "75013",
+      "idpw": "PW0224",
+      "nombre_de_borne_wifi": 1,
+      "etat2": "Opérationnel",
+      "geo_shape": {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [
+            2.3483816487117286,
+            48.81939645595855
+          ],
+          "type": "Point"
+        },
+        "properties": {}
+      },
+      "geo_point_2d": {
+        "lon": 2.3483816487117286,
+        "lat": 48.81939645595855
+      }
+    },
+    {
+      "nom_site": "MUSEE ZADKINE",
+      "arc_adresse": "100 BIS RUE D ASSAS",
+      "cp": "75006",
+      "idpw": "PW0238",
+      "nombre_de_borne_wifi": 3,
+      "etat2": "Opérationnel",
+      "geo_shape": {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [
+            2.3334967424001003,
+            48.843268180495784
+          ],
+          "type": "Point"
+        },
+        "properties": {}
+      },
+      "geo_point_2d": {
+        "lon": 2.3334967424001003,
+        "lat": 48.843268180495784
+      }
+    },
+    {
+      "nom_site": "ESPACE PARISIEN POUR L INSERTION CHAMPIONNET",
+      "arc_adresse": "192 Rue Championnet",
+      "cp": "75018",
+      "idpw": "PW0262",
+      "nombre_de_borne_wifi": 9,
+      "etat2": "Opérationnel",
+      "geo_shape": {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [
+            2.332379050087926,
+            48.894187666498794
+          ],
+          "type": "Point"
+        },
+        "properties": {}
+      },
+      "geo_point_2d": {
+        "lon": 2.332379050087926,
+        "lat": 48.894187666498794
+      }
+    },
+    {
+      "nom_site": "ESPACE PARISIEN POUR L'INSERTION CHATEAU LANDON",
+      "arc_adresse": "44 Rue du Château Landon",
+      "cp": "75010",
+      "idpw": "PW0267",
+      "nombre_de_borne_wifi": 20,
+      "etat2": "Opérationnel",
+      "geo_shape": {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [
+            2.363829094978109,
+            48.88293351099386
+          ],
+          "type": "Point"
+        },
+        "properties": {}
+      },
+      "geo_point_2d": {
+        "lon": 2.363829094978109,
+        "lat": 48.88293351099386
+      }
+    },
+    {
+      "nom_site": "MAISON SPORT-SANTÉ FALGUIÈRE (MSS15)",
+      "arc_adresse": "133 Rue Falguière",
+      "cp": "75015",
+      "idpw": "PW0282",
+      "nombre_de_borne_wifi": 4,
+      "etat2": "Opérationnel",
+      "geo_shape": {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [
+            2.31075679185094,
+            48.836907551666556
+          ],
+          "type": "Point"
+        },
+        "properties": {}
+      },
+      "geo_point_2d": {
+        "lon": 2.31075679185094,
+        "lat": 48.836907551666556
+      }
+    },
+    {
+      "nom_site": "MÉDIATHÈQUE JAMES BALDWIN",
+      "arc_adresse": "10b Rue Henri Ribière",
+      "cp": "75019",
+      "idpw": "PW0284",
+      "nombre_de_borne_wifi": 10,
+      "etat2": "Opérationnel",
+      "geo_shape": {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [
+            2.3956370739202937,
+            48.87655036285949
+          ],
+          "type": "Point"
+        },
+        "properties": {}
+      },
+      "geo_point_2d": {
+        "lon": 2.3956370739202937,
+        "lat": 48.87655036285949
+      }
+    },
+    {
+      "nom_site": "CONSERVATOIRE À RAYONNEMENT RÉGIONAL DE PARIS ( JJ ROUSSEAU)",
+      "arc_adresse": "53 Rue Jean-Jacques Rousseau",
+      "cp": "75001",
+      "idpw": "PW0295",
+      "nombre_de_borne_wifi": 1,
+      "etat2": "Opérationnel",
+      "geo_shape": {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [
+            2.3431608128954258,
+            48.86392192826604
+          ],
+          "type": "Point"
+        },
+        "properties": {}
+      },
+      "geo_point_2d": {
+        "lon": 2.3431608128954258,
+        "lat": 48.86392192826604
+      }
+    },
+    {
+      "nom_site": "CENTRE SPORTIF ALFRED NAKACHE",
+      "arc_adresse": "4/12 RUE DENOYEZ",
+      "cp": "75020",
+      "idpw": "PW0071",
+      "nombre_de_borne_wifi": 1,
+      "etat2": "Opérationnel",
+      "geo_shape": {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [
+            2.3786770353452464,
+            48.87148306478329
+          ],
+          "type": "Point"
+        },
+        "properties": {}
+      },
+      "geo_point_2d": {
+        "lon": 2.3786770353452464,
+        "lat": 48.87148306478329
+      }
+    },
+    {
+      "nom_site": "CENTRE SPORTIF HENRY DE MONTHERLAND",
+      "arc_adresse": "30-32 BOULEVARD LANNES",
+      "cp": "75016",
+      "idpw": "PW0101",
+      "nombre_de_borne_wifi": 1,
+      "etat2": "Opérationnel",
+      "geo_shape": {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [
+            2.2721208538069106,
+            48.86752280679386
+          ],
+          "type": "Point"
+        },
+        "properties": {}
+      },
+      "geo_point_2d": {
+        "lon": 2.2721208538069106,
+        "lat": 48.86752280679386
+      }
+    },
+    {
+      "nom_site": "BIBLIOTHEQUE FORNEY",
+      "arc_adresse": "1 RUE DU FIGUIER",
+      "cp": "75004",
+      "idpw": "PW0050",
+      "nombre_de_borne_wifi": 4,
+      "etat2": "Opérationnel",
+      "geo_shape": {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [
+            2.3591792372689597,
+            48.85342353398947
+          ],
+          "type": "Point"
+        },
+        "properties": {}
+      },
+      "geo_point_2d": {
+        "lon": 2.3591792372689597,
+        "lat": 48.85342353398947
+      }
+    },
+    {
+      "nom_site": "BIBLIOTHEQUE HEURE JOYEUSE",
+      "arc_adresse": "6-12 RUE DES PRETRES ST-SEVERIN",
+      "cp": "75005",
+      "idpw": "PW0136",
+      "nombre_de_borne_wifi": 2,
+      "etat2": "Opérationnel",
+      "geo_shape": {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [
+            2.3449482189135584,
+            48.85190101045929
+          ],
+          "type": "Point"
+        },
+        "properties": {}
+      },
+      "geo_point_2d": {
+        "lon": 2.3449482189135584,
+        "lat": 48.85190101045929
+      }
+    },
+    {
+      "nom_site": "BIBLIOTHEQUE SAINT ELOI",
+      "arc_adresse": "23 RUE DU COLONEL ROZANOFF",
+      "cp": "75012",
+      "idpw": "PW0141",
+      "nombre_de_borne_wifi": 2,
+      "etat2": "Opérationnel",
+      "geo_shape": {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [
+            2.387110986075708,
+            48.84552915718271
+          ],
+          "type": "Point"
+        },
+        "properties": {}
+      },
+      "geo_point_2d": {
+        "lon": 2.387110986075708,
+        "lat": 48.84552915718271
+      }
+    },
+    {
+      "nom_site": "JARDIN D EOLE - 2",
+      "arc_adresse": "18B RUE DU DEPARTEMENT",
+      "cp": "75018",
+      "idpw": "PW0170-1",
+      "nombre_de_borne_wifi": 2,
+      "etat2": "Opérationnel",
+      "geo_shape": {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [
+            2.3650478295623927,
+            48.885833654570234
+          ],
+          "type": "Point"
+        },
+        "properties": {}
+      },
+      "geo_point_2d": {
+        "lon": 2.3650478295623927,
+        "lat": 48.885833654570234
+      }
+    },
+    {
+      "nom_site": "MAIRIE DU 12 EME",
+      "arc_adresse": "130 AVENUE DAUMESNIL",
+      "cp": "75012",
+      "idpw": "PW0012",
+      "nombre_de_borne_wifi": 2,
+      "etat2": "Opérationnel",
+      "geo_shape": {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [
+            2.388337487704946,
+            48.84110407848002
+          ],
+          "type": "Point"
+        },
+        "properties": {}
+      },
+      "geo_point_2d": {
+        "lon": 2.388337487704946,
+        "lat": 48.84110407848002
+      }
+    },
+    {
+      "nom_site": "MAIRIE DU 13 EME",
+      "arc_adresse": "1 PLACE D ITALIE",
+      "cp": "75013",
+      "idpw": "PW0013",
+      "nombre_de_borne_wifi": 2,
+      "etat2": "Opérationnel",
+      "geo_shape": {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [
+            2.3553133492379694,
+            48.83231441086374
+          ],
+          "type": "Point"
+        },
+        "properties": {}
+      },
+      "geo_point_2d": {
+        "lon": 2.3553133492379694,
+        "lat": 48.83231441086374
+      }
+    },
+    {
+      "nom_site": "MAIRIE DU 19 EME",
+      "arc_adresse": "5 PLACE ARMAND CARREL",
+      "cp": "75019",
+      "idpw": "PW0017",
+      "nombre_de_borne_wifi": 1,
+      "etat2": "Opérationnel",
+      "geo_shape": {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [
+            2.381917974125572,
+            48.88279457828254
+          ],
+          "type": "Point"
+        },
+        "properties": {}
+      },
+      "geo_point_2d": {
+        "lon": 2.381917974125572,
+        "lat": 48.88279457828254
+      }
+    },
+    {
+      "nom_site": "SQUARE SERMENT DE KOUFRA",
+      "arc_adresse": "30 AVENUE ERNEST REYER",
+      "cp": "75014",
+      "idpw": "PW0188",
+      "nombre_de_borne_wifi": 1,
+      "etat2": "Opérationnel",
+      "geo_shape": {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [
+            2.323034982175869,
+            48.82159345390935
+          ],
+          "type": "Point"
+        },
+        "properties": {}
+      },
+      "geo_point_2d": {
+        "lon": 2.323034982175869,
+        "lat": 48.82159345390935
+      }
+    },
+    {
+      "nom_site": "SERVICE TECHNIQUE DES BIBLIOTHEQUES",
+      "arc_adresse": "46B RUE DE SAINT MAUR",
+      "cp": "75011",
+      "idpw": "PW0998",
+      "nombre_de_borne_wifi": 1,
+      "etat2": "Opérationnel",
+      "geo_shape": {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [
+            2.3803087695105534,
+            48.862211238459054
+          ],
+          "type": "Point"
+        },
+        "properties": {}
+      },
+      "geo_point_2d": {
+        "lon": 2.3803087695105534,
+        "lat": 48.862211238459054
+      }
+    },
+    {
+      "nom_site": "ATELIERS DE PARIS INCUBATEUR",
+      "arc_adresse": "28 Rue Faidherbe",
+      "cp": "75011",
+      "idpw": "PW0261",
+      "nombre_de_borne_wifi": 2,
+      "etat2": "Opérationnel",
+      "geo_shape": {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [
+            2.383427792309561,
+            48.85226937032396
+          ],
+          "type": "Point"
+        },
+        "properties": {}
+      },
+      "geo_point_2d": {
+        "lon": 2.383427792309561,
+        "lat": 48.85226937032396
+      }
+    },
+    {
+      "nom_site": "CONSERVATOIRE MUNICIPAL GUSTAVE CHARPENTIER (CMA 18)",
+      "arc_adresse": "29 Rue Baudelique",
+      "cp": "75018",
+      "idpw": "PW0279",
+      "nombre_de_borne_wifi": 4,
+      "etat2": "Opérationnel",
+      "geo_shape": {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [
+            2.3476592648083607,
+            48.8933697285641
+          ],
+          "type": "Point"
+        },
+        "properties": {}
+      },
+      "geo_point_2d": {
+        "lon": 2.3476592648083607,
+        "lat": 48.8933697285641
+      }
+    },
+    {
+      "nom_site": "GYMNASE OLIVIER DE SERRES",
+      "arc_adresse": "99 Rue Olivier de Serres",
+      "cp": "75015",
+      "idpw": "PW0293",
+      "nombre_de_borne_wifi": 2,
+      "etat2": "Opérationnel",
+      "geo_shape": {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [
+            2.2932447508427978,
+            48.831822935855826
+          ],
+          "type": "Point"
+        },
+        "properties": {}
+      },
+      "geo_point_2d": {
+        "lon": 2.2932447508427978,
+        "lat": 48.831822935855826
+      }
+    },
+    {
+      "nom_site": "CARRE DE BAUDOIN",
+      "arc_adresse": "121 Rue de Ménilmontant",
+      "cp": "75020",
+      "idpw": "PW0298",
+      "nombre_de_borne_wifi": 2,
+      "etat2": "Opérationnel",
+      "geo_shape": {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [
+            2.394102388561673,
+            48.86997357478541
+          ],
+          "type": "Point"
+        },
+        "properties": {}
+      },
+      "geo_point_2d": {
+        "lon": 2.394102388561673,
+        "lat": 48.86997357478541
+      }
+    },
+    {
+      "nom_site": "CENTRE SPORTIF PAUL VALERY",
+      "arc_adresse": "15 RUE DE LA NOUVELLE CALEDONIE",
+      "cp": "75012",
+      "idpw": "PW0087",
+      "nombre_de_borne_wifi": 1,
+      "etat2": "Opérationnel",
+      "geo_shape": {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [
+            2.410429161569747,
+            48.838002529065406
+          ],
+          "type": "Point"
+        },
+        "properties": {}
+      },
+      "geo_point_2d": {
+        "lon": 2.410429161569747,
+        "lat": 48.838002529065406
+      }
+    },
+    {
+      "nom_site": "PROMENADE RICHARD LENOIR",
+      "arc_adresse": "67 BOULEVARD RICHARD LENOIR",
+      "cp": "75011",
+      "idpw": "PW0206",
+      "nombre_de_borne_wifi": 1,
+      "etat2": "Opérationnel",
+      "geo_shape": {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [
+            2.3722214168165956,
+            48.860512794097644
+          ],
+          "type": "Point"
+        },
+        "properties": {}
+      },
+      "geo_point_2d": {
+        "lon": 2.3722214168165956,
+        "lat": 48.860512794097644
+      }
+    },
+    {
+      "nom_site": "BIBLIOTHEQUE ANDRÉE CHEDID",
+      "arc_adresse": "36-40 RUE EMERIAU",
+      "cp": "75015",
+      "idpw": "PW0117",
+      "nombre_de_borne_wifi": 3,
+      "etat2": "Opérationnel",
+      "geo_shape": {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [
+            2.286136743745502,
+            48.84974131047438
+          ],
+          "type": "Point"
+        },
+        "properties": {}
+      },
+      "geo_point_2d": {
+        "lon": 2.286136743745502,
+        "lat": 48.84974131047438
+      }
+    },
+    {
+      "nom_site": "CENTRE SPORTIF SUZANNE LENGLEN - TRIBUNE COUR DE TENNIS",
+      "arc_adresse": "2 RUE LOUIS ARMAND",
+      "cp": "75015",
+      "idpw": "PW0173",
+      "nombre_de_borne_wifi": 1,
+      "etat2": "Opérationnel",
+      "geo_shape": {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [
+            2.276832789549165,
+            48.832964670678884
+          ],
+          "type": "Point"
+        },
+        "properties": {}
+      },
+      "geo_point_2d": {
+        "lon": 2.276832789549165,
+        "lat": 48.832964670678884
+      }
+    },
+    {
+      "nom_site": "MAIRIE DU 15 EME",
+      "arc_adresse": "31 Rue Péclet",
+      "cp": "75015",
+      "idpw": "PW0014",
+      "nombre_de_borne_wifi": 6,
+      "etat2": "Opérationnel",
+      "geo_shape": {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [
+            2.2998843875842367,
+            48.841515749400145
+          ],
+          "type": "Point"
+        },
+        "properties": {}
+      },
+      "geo_point_2d": {
+        "lon": 2.2998843875842367,
+        "lat": 48.841515749400145
+      }
+    },
+    {
+      "nom_site": "MAIRIE DU 20 EME",
+      "arc_adresse": "6 PLACE GAMBETTA",
+      "cp": "75020",
+      "idpw": "PW0018",
+      "nombre_de_borne_wifi": 4,
+      "etat2": "Opérationnel",
+      "geo_shape": {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [
+            2.3989977002640397,
+            48.865091139066706
+          ],
+          "type": "Point"
+        },
+        "properties": {}
+      },
+      "geo_point_2d": {
+        "lon": 2.3989977002640397,
+        "lat": 48.865091139066706
+      }
+    },
+    {
+      "nom_site": "MEDIATHEQUE LA CANOPEE LA FONTAINE",
+      "arc_adresse": "10 PASSAGE DE LA CANOPEE",
+      "cp": "75001",
+      "idpw": "PW0143",
+      "nombre_de_borne_wifi": 5,
+      "etat2": "Opérationnel",
+      "geo_shape": {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [
+            2.347643903283827,
+            48.86181948548021
+          ],
+          "type": "Point"
+        },
+        "properties": {}
+      },
+      "geo_point_2d": {
+        "lon": 2.347643903283827,
+        "lat": 48.86181948548021
+      }
+    },
+    {
+      "nom_site": "PARC DE BERCY (JARDINAGE)",
+      "arc_adresse": "1 COURS SAIT EMILION",
+      "cp": "75012",
+      "idpw": "PW0058",
+      "nombre_de_borne_wifi": 1,
+      "etat2": "Opérationnel",
+      "geo_shape": {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [
+            2.385483176701274,
+            48.83241898581483
+          ],
+          "type": "Point"
+        },
+        "properties": {}
+      },
+      "geo_point_2d": {
+        "lon": 2.385483176701274,
+        "lat": 48.83241898581483
+      }
+    },
+    {
+      "nom_site": "SQUARE ASPIRANT DUNAND",
+      "arc_adresse": "RUE MOUTON DUVERNET",
+      "cp": "75014",
+      "idpw": "PW0063",
+      "nombre_de_borne_wifi": 1,
+      "etat2": "Opérationnel",
+      "geo_shape": {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [
+            2.326884536863806,
+            48.83215523073599
+          ],
+          "type": "Point"
+        },
+        "properties": {}
+      },
+      "geo_point_2d": {
+        "lon": 2.326884536863806,
+        "lat": 48.83215523073599
+      }
+    },
+    {
+      "nom_site": "SQUARE JULIA BARTET",
+      "arc_adresse": "1 RUE JULIA BARTET",
+      "cp": "75014",
+      "idpw": "PW0183",
+      "nombre_de_borne_wifi": 1,
+      "etat2": "Opérationnel",
+      "geo_shape": {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [
+            2.302824808848508,
+            48.825685501127516
+          ],
+          "type": "Point"
+        },
+        "properties": {}
+      },
+      "geo_point_2d": {
+        "lon": 2.302824808848508,
+        "lat": 48.825685501127516
+      }
+    },
+    {
+      "nom_site": "SQUARE LA PETITE ROQUETTE",
+      "arc_adresse": "4 RUE SERVAN - SQUARE DE LA ROQUETTE",
+      "cp": "75011",
+      "idpw": "PW0068",
+      "nombre_de_borne_wifi": 1,
+      "etat2": "Opérationnel",
+      "geo_shape": {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [
+            2.3841876330805594,
+            48.859124367471004
+          ],
+          "type": "Point"
+        },
+        "properties": {}
+      },
+      "geo_point_2d": {
+        "lon": 2.3841876330805594,
+        "lat": 48.859124367471004
+      }
+    },
+    {
+      "nom_site": "SQUARE PAUL LANGEVIN",
+      "arc_adresse": "12 RUE DES ECOLES",
+      "cp": "75005",
+      "idpw": "PW0154",
+      "nombre_de_borne_wifi": 2,
+      "etat2": "Opérationnel",
+      "geo_shape": {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [
+            2.34964310762926,
+            48.84808490765895
+          ],
+          "type": "Point"
+        },
+        "properties": {}
+      },
+      "geo_point_2d": {
+        "lon": 2.34964310762926,
+        "lat": 48.84808490765895
+      }
+    },
+    {
+      "nom_site": "MAISON DE LA VIE ASSOCIATIVE ET CITOYENNE  9",
+      "arc_adresse": "54 RUE PIGALLE",
+      "cp": "75009",
+      "idpw": "PW0037",
+      "nombre_de_borne_wifi": 1,
+      "etat2": "Opérationnel",
+      "geo_shape": {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [
+            2.335936611209824,
+            48.88097813417974
+          ],
+          "type": "Point"
+        },
+        "properties": {}
+      },
+      "geo_point_2d": {
+        "lon": 2.335936611209824,
+        "lat": 48.88097813417974
+      }
+    },
+    {
+      "nom_site": "HOTEL DE VILLE  PARVIS  9",
+      "arc_adresse": "9 PLACE DE L HOTEL DE VILLE",
+      "cp": "75004",
+      "idpw": "PW0119",
+      "nombre_de_borne_wifi": 1,
+      "etat2": "Opérationnel",
+      "geo_shape": {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [
+            2.3512776121492363,
+            48.85727328251876
+          ],
+          "type": "Point"
+        },
+        "properties": {}
+      },
+      "geo_point_2d": {
+        "lon": 2.3512776121492363,
+        "lat": 48.85727328251876
+      }
+    },
+    {
+      "nom_site": "MAISON COMMUNALE",
+      "arc_adresse": "69 RUE VILOLET",
+      "cp": "75015",
+      "idpw": "PW0240",
+      "nombre_de_borne_wifi": 1,
+      "etat2": "Opérationnel",
+      "geo_shape": {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [
+            2.2915124728297736,
+            48.84557161745619
+          ],
+          "type": "Point"
+        },
+        "properties": {}
+      },
+      "geo_point_2d": {
+        "lon": 2.2915124728297736,
+        "lat": 48.84557161745619
+      }
+    },
+    {
+      "nom_site": "STADE JEAN BOUIN",
+      "arc_adresse": "24 Avenue du Général Sarrail",
+      "cp": "75016",
+      "idpw": "PW0107",
+      "nombre_de_borne_wifi": 0,
+      "etat2": "Non opérationnel",
+      "geo_shape": {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [
+            2.2550948881911776,
+            48.84392391670775
+          ],
+          "type": "Point"
+        },
+        "properties": {}
+      },
+      "geo_point_2d": {
+        "lon": 2.2550948881911776,
+        "lat": 48.84392391670775
+      }
+    },
+    {
+      "nom_site": "CRYPTE",
+      "arc_adresse": "1V Parvis Notre-Dame Place Jean-Paul II",
+      "cp": "75004",
+      "idpw": "PW0255",
+      "nombre_de_borne_wifi": 5,
+      "etat2": "Opérationnel",
+      "geo_shape": {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [
+            2.348115562490514,
+            48.85360667271708
+          ],
+          "type": "Point"
+        },
+        "properties": {}
+      },
+      "geo_point_2d": {
+        "lon": 2.348115562490514,
+        "lat": 48.85360667271708
+      }
+    },
+    {
+      "nom_site": "ESPACE PARISIEN POUR L'INSERTION 11/12",
+      "arc_adresse": "125 Rue de Reuilly",
+      "cp": "75012",
+      "idpw": "PW0277",
+      "nombre_de_borne_wifi": 6,
+      "etat2": "Opérationnel",
+      "geo_shape": {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [
+            2.3949768131030402,
+            48.840484142371345
+          ],
+          "type": "Point"
+        },
+        "properties": {}
+      },
+      "geo_point_2d": {
+        "lon": 2.3949768131030402,
+        "lat": 48.840484142371345
+      }
+    },
+    {
+      "nom_site": "BIBLIOTHEQUE PLACE DES FETES",
+      "arc_adresse": "18 RUE JANSSEN",
+      "cp": "75019",
+      "idpw": "PW0008",
+      "nombre_de_borne_wifi": 3,
+      "etat2": "Opérationnel",
+      "geo_shape": {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [
+            2.3976375837086765,
+            48.87936484092136
+          ],
+          "type": "Point"
+        },
+        "properties": {}
+      },
+      "geo_point_2d": {
+        "lon": 2.3976375837086765,
+        "lat": 48.87936484092136
+      }
+    },
+    {
+      "nom_site": "HOTEL DE VILLE SOUS SOL",
+      "arc_adresse": "29 Rue de Rivoli",
+      "cp": "75004",
+      "idpw": "PW0122",
+      "nombre_de_borne_wifi": 5,
+      "etat2": "Opérationnel",
+      "geo_shape": {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [
+            2.352648313015423,
+            48.856763442143226
+          ],
+          "type": "Point"
+        },
+        "properties": {}
+      },
+      "geo_point_2d": {
+        "lon": 2.352648313015423,
+        "lat": 48.856763442143226
+      }
+    },
+    {
+      "nom_site": "JARDIN DU TROCADERO",
+      "arc_adresse": "1 PLACE DU ONZE NOVEMBRE 1918",
+      "cp": "75016",
+      "idpw": "PW0175",
+      "nombre_de_borne_wifi": 1,
+      "etat2": "Opérationnel",
+      "geo_shape": {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [
+            2.2893499443659575,
+            48.860937214689706
+          ],
+          "type": "Point"
+        },
+        "properties": {}
+      },
+      "geo_point_2d": {
+        "lon": 2.2893499443659575,
+        "lat": 48.860937214689706
+      }
+    },
+    {
+      "nom_site": "PARC CHAMPS DE MARS - 1",
+      "arc_adresse": "AVENUE CHARLES RISLER",
+      "cp": "75007",
+      "idpw": "PW0165",
+      "nombre_de_borne_wifi": 1,
+      "etat2": "Opérationnel",
+      "geo_shape": {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [
+            2.293339063475274,
+            48.856979410315645
+          ],
+          "type": "Point"
+        },
+        "properties": {}
+      },
+      "geo_point_2d": {
+        "lon": 2.293339063475274,
+        "lat": 48.856979410315645
+      }
+    },
+    {
+      "nom_site": "MAIRIE DU 18 EME",
+      "arc_adresse": "1 PLACE JULES JOFFRIN",
+      "cp": "75018",
+      "idpw": "PW0023",
+      "nombre_de_borne_wifi": 1,
+      "etat2": "Opérationnel",
+      "geo_shape": {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [
+            2.3446872129632013,
+            48.89230355785121
+          ],
+          "type": "Point"
+        },
+        "properties": {}
+      },
+      "geo_point_2d": {
+        "lon": 2.3446872129632013,
+        "lat": 48.89230355785121
+      }
+    },
+    {
+      "nom_site": "SQUARE ANDRE ULMANN",
+      "arc_adresse": "17 BOULEVARD DE REIMS",
+      "cp": "75017",
+      "idpw": "PW0166",
+      "nombre_de_borne_wifi": 1,
+      "etat2": "Opérationnel",
+      "geo_shape": {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [
+            2.298941389477171,
+            48.88990039760424
+          ],
+          "type": "Point"
+        },
+        "properties": {}
+      },
+      "geo_point_2d": {
+        "lon": 2.298941389477171,
+        "lat": 48.88990039760424
+      }
+    },
+    {
+      "nom_site": "MAISON DE LA VIE ASSOCIATIVE ET CITOYENNE  1",
+      "arc_adresse": "5B RUE DU LOUVRE",
+      "cp": "75001",
+      "idpw": "PW0148",
+      "nombre_de_borne_wifi": 2,
+      "etat2": "Opérationnel",
+      "geo_shape": {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [
+            2.341156755003171,
+            48.86188336150229
+          ],
+          "type": "Point"
+        },
+        "properties": {}
+      },
+      "geo_point_2d": {
+        "lon": 2.341156755003171,
+        "lat": 48.86188336150229
+      }
+    },
+    {
+      "nom_site": "BOURSE DU TRAVAIL",
+      "arc_adresse": "3 RUE DU CHATEAU D EAU",
+      "cp": "75010",
+      "idpw": "PW0215",
+      "nombre_de_borne_wifi": 3,
+      "etat2": "Opérationnel",
+      "geo_shape": {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [
+            2.3619974062706084,
+            48.86910541253626
+          ],
+          "type": "Point"
+        },
+        "properties": {}
+      },
+      "geo_point_2d": {
+        "lon": 2.3619974062706084,
+        "lat": 48.86910541253626
+      }
+    },
+    {
+      "nom_site": "BIBLIOTHEQUE AMELIE",
+      "arc_adresse": "164 RUE DE GRENELLE",
+      "cp": "75007",
+      "idpw": "PW0059",
+      "nombre_de_borne_wifi": 1,
+      "etat2": "Opérationnel",
+      "geo_shape": {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [
+            2.3089898828141666,
+            48.85806889772534
+          ],
+          "type": "Point"
+        },
+        "properties": {}
+      },
+      "geo_point_2d": {
+        "lon": 2.3089898828141666,
+        "lat": 48.85806889772534
+      }
+    },
+    {
+      "nom_site": "BIBLIOTHEQUE BUFFON",
+      "arc_adresse": "15 B RUE BUFFON",
+      "cp": "75005",
+      "idpw": "PW0111",
+      "nombre_de_borne_wifi": 3,
+      "etat2": "Opérationnel",
+      "geo_shape": {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [
+            2.361868243596555,
+            48.84254660801995
+          ],
+          "type": "Point"
+        },
+        "properties": {}
+      },
+      "geo_point_2d": {
+        "lon": 2.361868243596555,
+        "lat": 48.84254660801995
+      }
+    },
+    {
+      "nom_site": "BIBLIOTHEQUE MAURICE GENEVOIX",
+      "arc_adresse": "19 RUE TRISTAN TZARA",
+      "cp": "75018",
+      "idpw": "PW0007",
+      "nombre_de_borne_wifi": 1,
+      "etat2": "Opérationnel",
+      "geo_shape": {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [
+            2.363900713494337,
+            48.8949645929562
+          ],
+          "type": "Point"
+        },
+        "properties": {}
+      },
+      "geo_point_2d": {
+        "lon": 2.363900713494337,
+        "lat": 48.8949645929562
+      }
+    },
+    {
+      "nom_site": "CENTRE SPORTIF GEORGES CARPENTIER - BATIMENT TENNIS",
+      "arc_adresse": "81 BOULEVARD MASSENA",
+      "cp": "75013",
+      "idpw": "PW0103-2",
+      "nombre_de_borne_wifi": 1,
+      "etat2": "Opérationnel",
+      "geo_shape": {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [
+            2.367308749603463,
+            48.82049066987802
+          ],
+          "type": "Point"
+        },
+        "properties": {}
+      },
+      "geo_point_2d": {
+        "lon": 2.367308749603463,
+        "lat": 48.82049066987802
+      }
+    },
+    {
+      "nom_site": "CENTRE SPORTIF GEORGES CARPENTIER - BUREAU",
+      "arc_adresse": "81 BOULEVARD MASSENA (BUREAU CENTRE SPORTIF)",
+      "cp": "75013",
+      "idpw": "PW0103-1",
+      "nombre_de_borne_wifi": 2,
+      "etat2": "Opérationnel",
+      "geo_shape": {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [
+            2.368446174308279,
+            48.82090327022333
+          ],
+          "type": "Point"
+        },
+        "properties": {}
+      },
+      "geo_point_2d": {
+        "lon": 2.368446174308279,
+        "lat": 48.82090327022333
+      }
+    },
+    {
+      "nom_site": "PARC DES BUTTES CHAUMONT - FESSARD",
+      "arc_adresse": "3 RUE BOTZARIS",
+      "cp": "75019",
+      "idpw": "PW0159-2",
+      "nombre_de_borne_wifi": 3,
+      "etat2": "Opérationnel",
+      "geo_shape": {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [
+            2.381090100033082,
+            48.8779490325857
+          ],
+          "type": "Point"
+        },
+        "properties": {}
+      },
+      "geo_point_2d": {
+        "lon": 2.381090100033082,
+        "lat": 48.8779490325857
+      }
+    },
+    {
+      "nom_site": "BERGES RIVE DROITE - PONT AU CHANGE",
+      "arc_adresse": "1V Place du Châtelet",
+      "cp": "75001",
+      "idpw": "PW0193",
+      "nombre_de_borne_wifi": 0,
+      "etat2": "Non opérationnel",
+      "geo_shape": {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [
+            2.3470199244719736,
+            48.85742785373787
+          ],
+          "type": "Point"
+        },
+        "properties": {}
+      },
+      "geo_point_2d": {
+        "lon": 2.3470199244719736,
+        "lat": 48.85742785373787
+      }
+    },
+    {
+      "nom_site": "BERGES RIVE DROITE - PONT NEUF",
+      "arc_adresse": "BERGE DE SEINE RIVE DROITE - SORTIE TUNNEL TUILERIES",
+      "cp": "75001",
+      "idpw": "PW0149",
+      "nombre_de_borne_wifi": 1,
+      "etat2": "Opérationnel",
+      "geo_shape": {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [
+            2.3358223560544475,
+            48.85937332543367
+          ],
+          "type": "Point"
+        },
+        "properties": {}
+      },
+      "geo_point_2d": {
+        "lon": 2.3358223560544475,
+        "lat": 48.85937332543367
+      }
+    },
+    {
+      "nom_site": "SQUARE COLBERT",
+      "arc_adresse": "159 RUE DE CHARONNE",
+      "cp": "75011",
+      "idpw": "PW0160",
+      "nombre_de_borne_wifi": 1,
+      "etat2": "Opérationnel",
+      "geo_shape": {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [
+            2.389595542248922,
+            48.85559193673261
+          ],
+          "type": "Point"
+        },
+        "properties": {}
+      },
+      "geo_point_2d": {
+        "lon": 2.389595542248922,
+        "lat": 48.85559193673261
+      }
+    },
+    {
+      "nom_site": "SQUARE DE LA TOUR SAINT JACQUES",
+      "arc_adresse": "88 RUE DE RIVOLI",
+      "cp": "75004",
+      "idpw": "PW0153",
+      "nombre_de_borne_wifi": 1,
+      "etat2": "Opérationnel",
+      "geo_shape": {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [
+            2.3492201014548653,
+            48.85804072427662
+          ],
+          "type": "Point"
+        },
+        "properties": {}
+      },
+      "geo_point_2d": {
+        "lon": 2.3492201014548653,
+        "lat": 48.85804072427662
+      }
+    },
+    {
+      "nom_site": "SQUARE GUSTAVE MESUREUR",
+      "arc_adresse": "105 RUE JEANNE D ARC",
+      "cp": "75013",
+      "idpw": "PW0178",
+      "nombre_de_borne_wifi": 1,
+      "etat2": "Opérationnel",
+      "geo_shape": {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [
+            2.362791895302857,
+            48.83384615455623
+          ],
+          "type": "Point"
+        },
+        "properties": {}
+      },
+      "geo_point_2d": {
+        "lon": 2.362791895302857,
+        "lat": 48.83384615455623
+      }
+    },
+    {
+      "nom_site": "HOTEL DE VILLE 4EME",
+      "arc_adresse": "7 Rue de Lobau",
+      "cp": "75004",
+      "idpw": "PW0122-5",
+      "nombre_de_borne_wifi": 5,
+      "etat2": "Opérationnel",
+      "geo_shape": {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [
+            2.35317182327921,
+            48.85686653543353
+          ],
+          "type": "Point"
+        },
+        "properties": {}
+      },
+      "geo_point_2d": {
+        "lon": 2.35317182327921,
+        "lat": 48.85686653543353
+      }
+    },
+    {
+      "nom_site": "COULEE VERTE - DAUMESNIL RAMBOUILLET",
+      "arc_adresse": "6 Ruelle Bidault",
+      "cp": "75012",
+      "idpw": "PW0217",
+      "nombre_de_borne_wifi": 0,
+      "etat2": "Non opérationnel",
+      "geo_shape": {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [
+            2.3816157676057963,
+            48.84467620670816
+          ],
+          "type": "Point"
+        },
+        "properties": {}
+      },
+      "geo_point_2d": {
+        "lon": 2.3816157676057963,
+        "lat": 48.84467620670816
+      }
+    },
+    {
+      "nom_site": "MUSEE DES EGOUTS",
+      "arc_adresse": "93 QUAI D ORSAY",
+      "cp": "75007",
+      "idpw": "PW0243",
+      "nombre_de_borne_wifi": 15,
+      "etat2": "Opérationnel",
+      "geo_shape": {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [
+            2.3023830027117476,
+            48.86207328848182
+          ],
+          "type": "Point"
+        },
+        "properties": {}
+      },
+      "geo_point_2d": {
+        "lon": 2.3023830027117476,
+        "lat": 48.86207328848182
+      }
+    },
+    {
+      "nom_site": "MAISON SPORT SANTE CURIAL",
+      "arc_adresse": "84 Rue Curial",
+      "cp": "75019",
+      "idpw": "PW0264",
+      "nombre_de_borne_wifi": 1,
+      "etat2": "Opérationnel",
+      "geo_shape": {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [
+            2.374616045426483,
+            48.89486440320053
+          ],
+          "type": "Point"
+        },
+        "properties": {}
+      },
+      "geo_point_2d": {
+        "lon": 2.374616045426483,
+        "lat": 48.89486440320053
+      }
+    },
+    {
+      "nom_site": "GYMNASE ALICE MILLIAT",
+      "arc_adresse": "11 T RUE D ALESIA",
+      "cp": "75014",
+      "idpw": "PW0094",
+      "nombre_de_borne_wifi": 1,
+      "etat2": "Opérationnel",
+      "geo_shape": {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [
+            2.3362638390068327,
+            48.82716090943827
+          ],
+          "type": "Point"
+        },
+        "properties": {}
+      },
+      "geo_point_2d": {
+        "lon": 2.3362638390068327,
+        "lat": 48.82716090943827
+      }
+    },
+    {
+      "nom_site": "BIBLIOTHEQUE EUROPE",
+      "arc_adresse": "3 Rue de Lisbonne",
+      "cp": "75008",
+      "idpw": "PW0124",
+      "nombre_de_borne_wifi": 6,
+      "etat2": "Opérationnel",
+      "geo_shape": {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [
+            2.3174864787234464,
+            48.87775138401691
+          ],
+          "type": "Point"
+        },
+        "properties": {}
+      },
+      "geo_point_2d": {
+        "lon": 2.3174864787234464,
+        "lat": 48.87775138401691
+      }
+    },
+    {
+      "nom_site": "MEDIATHEQUE VIOLETTE LEDUC",
+      "arc_adresse": "18 RUE FAIDHERBE",
+      "cp": "75011",
+      "idpw": "PW0049",
+      "nombre_de_borne_wifi": 4,
+      "etat2": "Opérationnel",
+      "geo_shape": {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [
+            2.383960070968057,
+            48.85159555284071
+          ],
+          "type": "Point"
+        },
+        "properties": {}
+      },
+      "geo_point_2d": {
+        "lon": 2.383960070968057,
+        "lat": 48.85159555284071
+      }
+    },
+    {
+      "nom_site": "BIBLIOTHEQUE FESSART",
+      "arc_adresse": "6 RUE FESSART",
+      "cp": "75019",
+      "idpw": "PW0005",
+      "nombre_de_borne_wifi": 1,
+      "etat2": "Opérationnel",
+      "geo_shape": {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [
+            2.3881842280763705,
+            48.876268783142606
+          ],
+          "type": "Point"
+        },
+        "properties": {}
+      },
+      "geo_point_2d": {
+        "lon": 2.3881842280763705,
+        "lat": 48.876268783142606
+      }
+    },
+    {
+      "nom_site": "BIBLIOTHEQUE GOUTTE D OR",
+      "arc_adresse": "2-4 RUE FLEURY",
+      "cp": "75018",
+      "idpw": "PW0006",
+      "nombre_de_borne_wifi": 4,
+      "etat2": "Opérationnel",
+      "geo_shape": {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [
+            2.354141601420772,
+            48.88446312981792
+          ],
+          "type": "Point"
+        },
+        "properties": {}
+      },
+      "geo_point_2d": {
+        "lon": 2.354141601420772,
+        "lat": 48.88446312981792
+      }
+    },
+    {
+      "nom_site": "BIBLIOTHEQUE VALEYRE",
+      "arc_adresse": "24 RUE DE ROCHECHOUART",
+      "cp": "75009",
+      "idpw": "PW0142",
+      "nombre_de_borne_wifi": 2,
+      "etat2": "Opérationnel",
+      "geo_shape": {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [
+            2.3450215123377305,
+            48.87796726487003
+          ],
+          "type": "Point"
+        },
+        "properties": {}
+      },
+      "geo_point_2d": {
+        "lon": 2.3450215123377305,
+        "lat": 48.87796726487003
+      }
+    },
+    {
+      "nom_site": "JARDIN GARE DE CHARONNE",
+      "arc_adresse": "59 Boulevard Davout",
+      "cp": "75020",
+      "idpw": "PW0055",
+      "nombre_de_borne_wifi": 0,
+      "etat2": "Non opérationnel",
+      "geo_shape": {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [
+            2.4105606441583807,
+            48.85231215220886
+          ],
+          "type": "Point"
+        },
+        "properties": {}
+      },
+      "geo_point_2d": {
+        "lon": 2.4105606441583807,
+        "lat": 48.85231215220886
+      }
+    },
+    {
+      "nom_site": "JARDIN VILLEMIN",
+      "arc_adresse": "8 RUE DES RECOLLETS",
+      "cp": "75010",
+      "idpw": "PW0164",
+      "nombre_de_borne_wifi": 2,
+      "etat2": "Opérationnel",
+      "geo_shape": {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [
+            2.3619049385372235,
+            48.87449882830306
+          ],
+          "type": "Point"
+        },
+        "properties": {}
+      },
+      "geo_point_2d": {
+        "lon": 2.3619049385372235,
+        "lat": 48.87449882830306
+      }
+    },
+    {
+      "nom_site": "MAIRIE DU 17 EME",
+      "arc_adresse": "20 Rue des Batignolles",
+      "cp": "75017",
+      "idpw": "PW0016",
+      "nombre_de_borne_wifi": 4,
+      "etat2": "Opérationnel",
+      "geo_shape": {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [
+            2.321834360309548,
+            48.88449376861103
+          ],
+          "type": "Point"
+        },
+        "properties": {}
+      },
+      "geo_point_2d": {
+        "lon": 2.321834360309548,
+        "lat": 48.88449376861103
+      }
+    },
+    {
+      "nom_site": "SQUARE JEAN AICARD",
+      "arc_adresse": "5 AVENUE JEAN AICARD",
+      "cp": "75011",
+      "idpw": "PW0152",
+      "nombre_de_borne_wifi": 1,
+      "etat2": "Opérationnel",
+      "geo_shape": {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [
+            2.3812723169725416,
+            48.864908624429034
+          ],
+          "type": "Point"
+        },
+        "properties": {}
+      },
+      "geo_point_2d": {
+        "lon": 2.3812723169725416,
+        "lat": 48.864908624429034
+      }
+    },
+    {
+      "nom_site": "MUSEE CERNUSCHI",
+      "arc_adresse": "7 AVENUE VELASQUEZ",
+      "cp": "75008",
+      "idpw": "PW0247",
+      "nombre_de_borne_wifi": 17,
+      "etat2": "Opérationnel",
+      "geo_shape": {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [
+            2.312523099981508,
+            48.8794445126079
+          ],
+          "type": "Point"
+        },
+        "properties": {}
+      },
+      "geo_point_2d": {
+        "lon": 2.312523099981508,
+        "lat": 48.8794445126079
+      }
+    },
+    {
+      "nom_site": "BOURSE DU TRAVAIL ANNEXE CHARLOT",
+      "arc_adresse": "85 RUE CHARLOT",
+      "cp": "75003",
+      "idpw": "PW0220",
+      "nombre_de_borne_wifi": 1,
+      "etat2": "Opérationnel",
+      "geo_shape": {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [
+            2.365108017746905,
+            48.86514825320897
+          ],
+          "type": "Point"
+        },
+        "properties": {}
+      },
+      "geo_point_2d": {
+        "lon": 2.365108017746905,
+        "lat": 48.86514825320897
+      }
+    },
+    {
+      "nom_site": "DIR SYSTEMES INFORMATION ET NUMERIQUE",
+      "arc_adresse": "227 Rue de Bercy",
+      "cp": "75012",
+      "idpw": "PW0999",
+      "nombre_de_borne_wifi": 1,
+      "etat2": "Opérationnel",
+      "geo_shape": {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [
+            2.3697055470915753,
+            48.84647564555833
+          ],
+          "type": "Point"
+        },
+        "properties": {}
+      },
+      "geo_point_2d": {
+        "lon": 2.3697055470915753,
+        "lat": 48.84647564555833
+      }
+    },
+    {
+      "nom_site": "MUSEE BOURDELLE",
+      "arc_adresse": "18 Rue Antoine Bourdelle",
+      "cp": "75015",
+      "idpw": "PW0241",
+      "nombre_de_borne_wifi": 13,
+      "etat2": "Opérationnel",
+      "geo_shape": {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [
+            2.318579339445639,
+            48.843088368029136
+          ],
+          "type": "Point"
+        },
+        "properties": {}
+      },
+      "geo_point_2d": {
+        "lon": 2.318579339445639,
+        "lat": 48.843088368029136
+      }
+    },
+    {
+      "nom_site": "KIOSQUE CITOYEN 18",
+      "arc_adresse": "FACE AU 133 RUE BELLIARD",
+      "cp": "75018",
+      "idpw": "PW0249",
+      "nombre_de_borne_wifi": 1,
+      "etat2": "Opérationnel",
+      "geo_shape": {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [
+            2.334660151483013,
+            48.89635773480956
+          ],
+          "type": "Point"
+        },
+        "properties": {}
+      },
+      "geo_point_2d": {
+        "lon": 2.334660151483013,
+        "lat": 48.89635773480956
+      }
+    },
+    {
+      "nom_site": "GYMNASE MASSERAN",
+      "arc_adresse": "6 Rue Masseran",
+      "cp": "75007",
+      "idpw": "PW0253",
+      "nombre_de_borne_wifi": 0,
+      "etat2": "Non opérationnel",
+      "geo_shape": {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [
+            2.313819200912689,
+            48.848770748398636
+          ],
+          "type": "Point"
+        },
+        "properties": {}
+      },
+      "geo_point_2d": {
+        "lon": 2.313819200912689,
+        "lat": 48.848770748398636
+      }
+    },
+    {
+      "nom_site": "CONSERVATOIRE MUNICIPAL GEORGES BIZET (CMA20)",
+      "arc_adresse": "3 Place Carmen",
+      "cp": "75020",
+      "idpw": "PW0280",
+      "nombre_de_borne_wifi": 5,
+      "etat2": "Opérationnel",
+      "geo_shape": {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [
+            2.389230750901265,
+            48.866121560496744
+          ],
+          "type": "Point"
+        },
+        "properties": {}
+      },
+      "geo_point_2d": {
+        "lon": 2.389230750901265,
+        "lat": 48.866121560496744
+      }
+    },
+    {
+      "nom_site": "CENTRE SPORTIF BERTRAND DAUVIN",
+      "arc_adresse": "12 Rue René Binet",
+      "cp": "75018",
+      "idpw": "PW0089",
+      "nombre_de_borne_wifi": 6,
+      "etat2": "Opérationnel",
+      "geo_shape": {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [
+            2.3420540980918902,
+            48.89948663873551
+          ],
+          "type": "Point"
+        },
+        "properties": {}
+      },
+      "geo_point_2d": {
+        "lon": 2.3420540980918902,
+        "lat": 48.89948663873551
+      }
+    },
+    {
+      "nom_site": "ACTIVITES ARTISANALES ET CREATION DU 12EME",
+      "arc_adresse": "30 Rue du Faubourg Saint-Antoine",
+      "cp": "75012",
+      "idpw": "PW0120",
+      "nombre_de_borne_wifi": 8,
+      "etat2": "Opérationnel",
+      "geo_shape": {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [
+            2.3716454350642713,
+            48.85240661248836
+          ],
+          "type": "Point"
+        },
+        "properties": {}
+      },
+      "geo_point_2d": {
+        "lon": 2.3716454350642713,
+        "lat": 48.85240661248836
+      }
+    },
+    {
+      "nom_site": "BIBLIOTHEQUE NAGUIB MAHFOUZ",
+      "arc_adresse": "66 RUE DES COURONNES",
+      "cp": "75020",
+      "idpw": "PW0048",
+      "nombre_de_borne_wifi": 1,
+      "etat2": "Opérationnel",
+      "geo_shape": {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [
+            2.3852198260575443,
+            48.870162555019036
+          ],
+          "type": "Point"
+        },
+        "properties": {}
+      },
+      "geo_point_2d": {
+        "lon": 2.3852198260575443,
+        "lat": 48.870162555019036
+      }
+    },
+    {
+      "nom_site": "BIBLIOTHEQUE EDMOND ROSTAND",
+      "arc_adresse": "11 RUE NICOLAS CHUQUET",
+      "cp": "75017",
+      "idpw": "PW0104",
+      "nombre_de_borne_wifi": 3,
+      "etat2": "Opérationnel",
+      "geo_shape": {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [
+            2.303089705679942,
+            48.888394359208995
+          ],
+          "type": "Point"
+        },
+        "properties": {}
+      },
+      "geo_point_2d": {
+        "lon": 2.303089705679942,
+        "lat": 48.888394359208995
+      }
+    },
+    {
+      "nom_site": "MEDIATHEQUE MUSICALE DE PARIS (HALLES)",
+      "arc_adresse": "8 PORTE SAINT EUSTACHE",
+      "cp": "75001",
+      "idpw": "PW0020",
+      "nombre_de_borne_wifi": 2,
+      "etat2": "Opérationnel",
+      "geo_shape": {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [
+            2.345916105005209,
+            48.862650133028886
+          ],
+          "type": "Point"
+        },
+        "properties": {}
+      },
+      "geo_point_2d": {
+        "lon": 2.345916105005209,
+        "lat": 48.862650133028886
+      }
+    },
+    {
+      "nom_site": "PARC DES BUTTES CHAUMONT - CARREL",
+      "arc_adresse": "4 PLACE ARMAND CARREL",
+      "cp": "75019",
+      "idpw": "PW0182",
+      "nombre_de_borne_wifi": 2,
+      "etat2": "Opérationnel",
+      "geo_shape": {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [
+            2.3827054255995606,
+            48.88279406334441
+          ],
+          "type": "Point"
+        },
+        "properties": {}
+      },
+      "geo_point_2d": {
+        "lon": 2.3827054255995606,
+        "lat": 48.88279406334441
+      }
+    },
+    {
+      "nom_site": "MAIRIE DU 14 EME",
+      "arc_adresse": "2 PLACE FERDINAND BRUNOT",
+      "cp": "75014",
+      "idpw": "PW0035",
+      "nombre_de_borne_wifi": 1,
+      "etat2": "Opérationnel",
+      "geo_shape": {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [
+            2.3268543569490587,
+            48.832997279587715
+          ],
+          "type": "Point"
+        },
+        "properties": {}
+      },
+      "geo_point_2d": {
+        "lon": 2.3268543569490587,
+        "lat": 48.832997279587715
+      }
+    },
+    {
+      "nom_site": "SQUARE DE LA RAFFINERIE SAY",
+      "arc_adresse": "147 BOULEVARD VINCENT AURIOL",
+      "cp": "75013",
+      "idpw": "PW0174",
+      "nombre_de_borne_wifi": 1,
+      "etat2": "Opérationnel",
+      "geo_shape": {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [
+            2.362043401044535,
+            48.83256937742215
+          ],
+          "type": "Point"
+        },
+        "properties": {}
+      },
+      "geo_point_2d": {
+        "lon": 2.362043401044535,
+        "lat": 48.83256937742215
+      }
+    },
+    {
+      "nom_site": "SQUARE MONTHOLON",
+      "arc_adresse": "RUE LA FAYETTE",
+      "cp": "75009",
+      "idpw": "PW0186",
+      "nombre_de_borne_wifi": 1,
+      "etat2": "Opérationnel",
+      "geo_shape": {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [
+            2.3464050031294454,
+            48.87690165728508
+          ],
+          "type": "Point"
+        },
+        "properties": {}
+      },
+      "geo_point_2d": {
+        "lon": 2.3464050031294454,
+        "lat": 48.87690165728508
+      }
+    },
+    {
+      "nom_site": "SQUARE RENE LEGALL",
+      "arc_adresse": "43 RUE CORVISART",
+      "cp": "75013",
+      "idpw": "PW0069",
+      "nombre_de_borne_wifi": 1,
+      "etat2": "Opérationnel",
+      "geo_shape": {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [
+            2.3474197664308325,
+            48.832206799973164
+          ],
+          "type": "Point"
+        },
+        "properties": {}
+      },
+      "geo_point_2d": {
+        "lon": 2.3474197664308325,
+        "lat": 48.832206799973164
+      }
+    },
+    {
+      "nom_site": "MAISON DE LA VIE ASSOCIATIVE ET CITOYENNE 12",
+      "arc_adresse": "181 AVENUE DAUMESNIL",
+      "cp": "75012",
+      "idpw": "PW0030",
+      "nombre_de_borne_wifi": 6,
+      "etat2": "Opérationnel",
+      "geo_shape": {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [
+            2.3925067765318033,
+            48.84048781257587
+          ],
+          "type": "Point"
+        },
+        "properties": {}
+      },
+      "geo_point_2d": {
+        "lon": 2.3925067765318033,
+        "lat": 48.84048781257587
+      }
+    },
+    {
+      "nom_site": "MAISON DE LA VIE ASSOCIATIVE ET CITOYENNE 15",
+      "arc_adresse": "22 RUE DE LA SAIDA",
+      "cp": "75015",
+      "idpw": "PW0031",
+      "nombre_de_borne_wifi": 5,
+      "etat2": "Opérationnel",
+      "geo_shape": {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [
+            2.2957560957627234,
+            48.83183217258377
+          ],
+          "type": "Point"
+        },
+        "properties": {}
+      },
+      "geo_point_2d": {
+        "lon": 2.2957560957627234,
+        "lat": 48.83183217258377
+      }
+    },
+    {
+      "nom_site": "MUSEE DE LA VIE ROMANTIQUE",
+      "arc_adresse": "16 RUE CHAPTAL",
+      "cp": "75009",
+      "idpw": "PW0248",
+      "nombre_de_borne_wifi": 5,
+      "etat2": "Opérationnel",
+      "geo_shape": {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [
+            2.333166328391331,
+            48.8809377749593
+          ],
+          "type": "Point"
+        },
+        "properties": {}
+      },
+      "geo_point_2d": {
+        "lon": 2.333166328391331,
+        "lat": 48.8809377749593
+      }
+    },
+    {
+      "nom_site": "PISCINE SOLITA SALGADO",
+      "arc_adresse": "133 Rue Belliard",
+      "cp": "75018",
+      "idpw": "PW0281",
+      "nombre_de_borne_wifi": 14,
+      "etat2": "Opérationnel",
+      "geo_shape": {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [
+            2.3346987393293275,
+            48.89623843309689
+          ],
+          "type": "Point"
+        },
+        "properties": {}
+      },
+      "geo_point_2d": {
+        "lon": 2.3346987393293275,
+        "lat": 48.89623843309689
+      }
+    },
+    {
+      "nom_site": "CENTRE SPORTIF JEAN DAME",
+      "arc_adresse": "17 RUE LEOPOLD BELLAN",
+      "cp": "75002",
+      "idpw": "PW0082",
+      "nombre_de_borne_wifi": 1,
+      "etat2": "Opérationnel",
+      "geo_shape": {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [
+            2.345506505320458,
+            48.86656834849908
+          ],
+          "type": "Point"
+        },
+        "properties": {}
+      },
+      "geo_point_2d": {
+        "lon": 2.345506505320458,
+        "lat": 48.86656834849908
+      }
+    },
+    {
+      "nom_site": "JARDIN DES GRANDS EXPLORATEURS",
+      "arc_adresse": "5 RUE MICHELET",
+      "cp": "75006",
+      "idpw": "PW0208",
+      "nombre_de_borne_wifi": 1,
+      "etat2": "Opérationnel",
+      "geo_shape": {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [
+            2.336705703948916,
+            48.84138856611185
+          ],
+          "type": "Point"
+        },
+        "properties": {}
+      },
+      "geo_point_2d": {
+        "lon": 2.336705703948916,
+        "lat": 48.84138856611185
+      }
+    },
+    {
+      "nom_site": "BIBLIOTHEQUE BATIGNOLLES",
+      "arc_adresse": "20 Rue des Batignolles",
+      "cp": "75017",
+      "idpw": "PW0133",
+      "nombre_de_borne_wifi": 0,
+      "etat2": "Non opérationnel",
+      "geo_shape": {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [
+            2.3221209454424474,
+            48.88475451404929
+          ],
+          "type": "Point"
+        },
+        "properties": {}
+      },
+      "geo_point_2d": {
+        "lon": 2.3221209454424474,
+        "lat": 48.88475451404929
+      }
+    },
+    {
+      "nom_site": "BIBLIOTHEQUE DES LITTERATURES POLICIERES",
+      "arc_adresse": "48-50 RUE DU CARDINAL LEMOINE",
+      "cp": "75005",
+      "idpw": "PW0138",
+      "nombre_de_borne_wifi": 2,
+      "etat2": "Opérationnel",
+      "geo_shape": {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [
+            2.351181030723315,
+            48.84643022998531
+          ],
+          "type": "Point"
+        },
+        "properties": {}
+      },
+      "geo_point_2d": {
+        "lon": 2.351181030723315,
+        "lat": 48.84643022998531
+      }
+    },
+    {
+      "nom_site": "BIBLIOTHEQUE DROUOT",
+      "arc_adresse": "11 RUE DROUOT",
+      "cp": "75009",
+      "idpw": "PW0060",
+      "nombre_de_borne_wifi": 1,
+      "etat2": "Opérationnel",
+      "geo_shape": {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [
+            2.340452056446281,
+            48.87339027391681
+          ],
+          "type": "Point"
+        },
+        "properties": {}
+      },
+      "geo_point_2d": {
+        "lon": 2.340452056446281,
+        "lat": 48.87339027391681
+      }
+    },
+    {
+      "nom_site": "BIBLIOTHEQUE DU CINEMA FRANCOIS TRUFFAUT",
+      "arc_adresse": "5 Rue des Prouvaires",
+      "cp": "75001",
+      "idpw": "PW0112",
+      "nombre_de_borne_wifi": 2,
+      "etat2": "Opérationnel",
+      "geo_shape": {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [
+            2.344154109508664,
+            48.86148891058232
+          ],
+          "type": "Point"
+        },
+        "properties": {}
+      },
+      "geo_point_2d": {
+        "lon": 2.344154109508664,
+        "lat": 48.86148891058232
+      }
+    },
+    {
+      "nom_site": "BIBLIOTHEQUE MARGUERITE DURAS",
+      "arc_adresse": "109-115 RUE DE BAGNOLET",
+      "cp": "75020",
+      "idpw": "PW0045",
+      "nombre_de_borne_wifi": 12,
+      "etat2": "Opérationnel",
+      "geo_shape": {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [
+            2.4032269985441195,
+            48.85983876871813
+          ],
+          "type": "Point"
+        },
+        "properties": {}
+      },
+      "geo_point_2d": {
+        "lon": 2.4032269985441195,
+        "lat": 48.85983876871813
+      }
+    },
+    {
+      "nom_site": "BIBLIOTHEQUE LOUISE MICHEL",
+      "arc_adresse": "29/35 RUE DES HAIES",
+      "cp": "75020",
+      "idpw": "PW0130",
+      "nombre_de_borne_wifi": 2,
+      "etat2": "Opérationnel",
+      "geo_shape": {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [
+            2.4012127882676766,
+            48.853295546389774
+          ],
+          "type": "Point"
+        },
+        "properties": {}
+      },
+      "geo_point_2d": {
+        "lon": 2.4012127882676766,
+        "lat": 48.853295546389774
+      }
+    },
+    {
+      "nom_site": "BIBLIOTHEQUE SORBIER",
+      "arc_adresse": "17 RUE SORBIER",
+      "cp": "75020",
+      "idpw": "PW0129",
+      "nombre_de_borne_wifi": 2,
+      "etat2": "Opérationnel",
+      "geo_shape": {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [
+            2.3928519745691124,
+            48.865961582375775
+          ],
+          "type": "Point"
+        },
+        "properties": {}
+      },
+      "geo_point_2d": {
+        "lon": 2.3928519745691124,
+        "lat": 48.865961582375775
+      }
+    },
+    {
+      "nom_site": "HOTEL DE VILLE PARVIS RIVOLI",
+      "arc_adresse": "4 PLACE DE L HOTEL DE VILLE",
+      "cp": "75004",
+      "idpw": "PW0123-1",
+      "nombre_de_borne_wifi": 1,
+      "etat2": "Opérationnel",
+      "geo_shape": {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [
+            2.352351724212448,
+            48.85705185006894
+          ],
+          "type": "Point"
+        },
+        "properties": {}
+      },
+      "geo_point_2d": {
+        "lon": 2.352351724212448,
+        "lat": 48.85705185006894
+      }
+    },
+    {
+      "nom_site": "MAIRIE DU 7 EME",
+      "arc_adresse": "116 RUE DE GRENELLE",
+      "cp": "75007",
+      "idpw": "PW0022",
+      "nombre_de_borne_wifi": 1,
+      "etat2": "Opérationnel",
+      "geo_shape": {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [
+            2.320043697435678,
+            48.85686647665855
+          ],
+          "type": "Point"
+        },
+        "properties": {}
+      },
+      "geo_point_2d": {
+        "lon": 2.320043697435678,
+        "lat": 48.85686647665855
+      }
+    },
+    {
+      "nom_site": "SQUARE THEODORE MONOD",
+      "arc_adresse": "8 RUE SCIPION",
+      "cp": "75005",
+      "idpw": "PW0155",
+      "nombre_de_borne_wifi": 1,
+      "etat2": "Opérationnel",
+      "geo_shape": {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [
+            2.3537775366667226,
+            48.83839921606968
+          ],
+          "type": "Point"
+        },
+        "properties": {}
+      },
+      "geo_point_2d": {
+        "lon": 2.3537775366667226,
+        "lat": 48.83839921606968
+      }
+    },
+    {
+      "nom_site": "STADE PIERRE DE COUBERTIN",
+      "arc_adresse": "82 Avenue Georges Lafont",
+      "cp": "75016",
+      "idpw": "PW0108",
+      "nombre_de_borne_wifi": 21,
+      "etat2": "Opérationnel",
+      "geo_shape": {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [
+            2.2557606933469425,
+            48.83549894578003
+          ],
+          "type": "Point"
+        },
+        "properties": {}
+      },
+      "geo_point_2d": {
+        "lon": 2.2557606933469425,
+        "lat": 48.83549894578003
+      }
+    },
+    {
+      "nom_site": "PREFOURRIERE PANTIN",
+      "arc_adresse": "15 RUE DE LA MARSEILLAISE",
+      "cp": "75019",
+      "idpw": "PW0231",
+      "nombre_de_borne_wifi": 1,
+      "etat2": "Opérationnel",
+      "geo_shape": {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [
+            2.398020912550891,
+            48.888616518294896
+          ],
+          "type": "Point"
+        },
+        "properties": {}
+      },
+      "geo_point_2d": {
+        "lon": 2.398020912550891,
+        "lat": 48.888616518294896
+      }
+    },
+    {
+      "nom_site": "MUSEE VICTOR HUGO",
+      "arc_adresse": "6 Place des Vosges",
+      "cp": "75004",
+      "idpw": "PW0237",
+      "nombre_de_borne_wifi": 10,
+      "etat2": "Opérationnel",
+      "geo_shape": {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [
+            2.3661685247627218,
+            48.85477276860285
+          ],
+          "type": "Point"
+        },
+        "properties": {}
+      },
+      "geo_point_2d": {
+        "lon": 2.3661685247627218,
+        "lat": 48.85477276860285
+      }
+    },
+    {
+      "nom_site": "MUSEE COGNACQ-JAY",
+      "arc_adresse": "8 RUE ELZEVIR",
+      "cp": "75003",
+      "idpw": "PW0251",
+      "nombre_de_borne_wifi": 14,
+      "etat2": "Opérationnel",
+      "geo_shape": {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [
+            2.3614603612016785,
+            48.85817283984133
+          ],
+          "type": "Point"
+        },
+        "properties": {}
+      },
+      "geo_point_2d": {
+        "lon": 2.3614603612016785,
+        "lat": 48.85817283984133
+      }
+    },
+    {
+      "nom_site": "THEATRE CONCORDE",
+      "arc_adresse": "1 Avenue Gabriel",
+      "cp": "75008",
+      "idpw": "PW0266",
+      "nombre_de_borne_wifi": 11,
+      "etat2": "Opérationnel",
+      "geo_shape": {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [
+            2.3189240980878503,
+            48.86737840029341
+          ],
+          "type": "Point"
+        },
+        "properties": {}
+      },
+      "geo_point_2d": {
+        "lon": 2.3189240980878503,
+        "lat": 48.86737840029341
+      }
+    },
+    {
+      "nom_site": "GYMNASE MAX ROUSIE",
+      "arc_adresse": "28 Rue André Bréchet",
+      "cp": "75017",
+      "idpw": "PW0287",
+      "nombre_de_borne_wifi": 12,
+      "etat2": "Opérationnel",
+      "geo_shape": {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [
+            2.3252306844335315,
+            48.89912501026196
+          ],
+          "type": "Point"
+        },
+        "properties": {}
+      },
+      "geo_point_2d": {
+        "lon": 2.3252306844335315,
+        "lat": 48.89912501026196
+      }
+    },
+    {
+      "nom_site": "CENTRE MATERNEL MICHELET",
+      "arc_adresse": "237 Rue de Tolbiac",
+      "cp": "75013",
+      "idpw": "PW0289",
+      "nombre_de_borne_wifi": 7,
+      "etat2": "Opérationnel",
+      "geo_shape": {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [
+            2.343006349945399,
+            48.8261552636359
+          ],
+          "type": "Point"
+        },
+        "properties": {}
+      },
+      "geo_point_2d": {
+        "lon": 2.343006349945399,
+        "lat": 48.8261552636359
+      }
+    },
+    {
+      "nom_site": "CONSERVATOIRE À RAYONNEMENT RÉGIONAL DE PARIS (MADRID)",
+      "arc_adresse": "14 Rue de Madrid",
+      "cp": "75008",
+      "idpw": "PW0296",
+      "nombre_de_borne_wifi": 8,
+      "etat2": "Opérationnel",
+      "geo_shape": {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [
+            2.3207035112874523,
+            48.87849796571582
+          ],
+          "type": "Point"
+        },
+        "properties": {}
+      },
+      "geo_point_2d": {
+        "lon": 2.3207035112874523,
+        "lat": 48.87849796571582
+      }
+    },
+    {
+      "nom_site": "JARDIN DES BERGES DU CANAL SAINT MARTIN",
+      "arc_adresse": "179 Quai de Valmy",
+      "cp": "75010",
+      "idpw": "PW0194",
+      "nombre_de_borne_wifi": 0,
+      "etat2": "Non opérationnel",
+      "geo_shape": {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [
+            2.367206668709813,
+            48.88011121540689
+          ],
+          "type": "Point"
+        },
+        "properties": {}
+      },
+      "geo_point_2d": {
+        "lon": 2.367206668709813,
+        "lat": 48.88011121540689
+      }
+    },
+    {
+      "nom_site": "SQUARE DES RECOLLETS",
+      "arc_adresse": "88 QUAI DE VALMY",
+      "cp": "75010",
+      "idpw": "PW0210",
+      "nombre_de_borne_wifi": 1,
+      "etat2": "Opérationnel",
+      "geo_shape": {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [
+            2.3636116179778983,
+            48.87320402026158
+          ],
+          "type": "Point"
+        },
+        "properties": {}
+      },
+      "geo_point_2d": {
+        "lon": 2.3636116179778983,
+        "lat": 48.87320402026158
+      }
+    },
+    {
+      "nom_site": "CENTRE SPORTIF GEORGES CARPENTIER",
+      "arc_adresse": "81 BOULEVARD MASSENA",
+      "cp": "75013",
+      "idpw": "PW0103",
+      "nombre_de_borne_wifi": 4,
+      "etat2": "Opérationnel",
+      "geo_shape": {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [
+            2.3681251513067862,
+            48.820237188844665
+          ],
+          "type": "Point"
+        },
+        "properties": {}
+      },
+      "geo_point_2d": {
+        "lon": 2.3681251513067862,
+        "lat": 48.820237188844665
+      }
+    },
+    {
+      "nom_site": "CENTRE SPORTIF LOUIS LUMIERE",
+      "arc_adresse": "30 RUE LOUIS LUMIERE",
+      "cp": "75020",
+      "idpw": "PW0105",
+      "nombre_de_borne_wifi": 1,
+      "etat2": "Opérationnel",
+      "geo_shape": {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [
+            2.4116456845360936,
+            48.85919821308155
+          ],
+          "type": "Point"
+        },
+        "properties": {}
+      },
+      "geo_point_2d": {
+        "lon": 2.4116456845360936,
+        "lat": 48.85919821308155
+      }
+    },
+    {
+      "nom_site": "SQUARE BELLEVILLE",
+      "arc_adresse": "45-47 RUE DES COURONNES",
+      "cp": "75020",
+      "idpw": "PW0204",
+      "nombre_de_borne_wifi": 1,
+      "etat2": "Opérationnel",
+      "geo_shape": {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [
+            2.3848066323080355,
+            48.87030887663179
+          ],
+          "type": "Point"
+        },
+        "properties": {}
+      },
+      "geo_point_2d": {
+        "lon": 2.3848066323080355,
+        "lat": 48.87030887663179
+      }
+    },
+    {
+      "nom_site": "SQUARE HELOISE ET ABELARD - PARIS NATURE MAISON DES 5 SENS",
+      "arc_adresse": "22 RUE PIERRE GOURDAULT",
+      "cp": "75013",
+      "idpw": "PW0066",
+      "nombre_de_borne_wifi": 1,
+      "etat2": "Opérationnel",
+      "geo_shape": {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [
+            2.3701069536371744,
+            48.830919043595564
+          ],
+          "type": "Point"
+        },
+        "properties": {}
+      },
+      "geo_point_2d": {
+        "lon": 2.3701069536371744,
+        "lat": 48.830919043595564
+      }
+    },
+    {
+      "nom_site": "PREFOURRIERE LOUVRE",
+      "arc_adresse": "1 PLACE DU LOUVRE",
+      "cp": "75001",
+      "idpw": "PW0227",
+      "nombre_de_borne_wifi": 1,
+      "etat2": "Opérationnel",
+      "geo_shape": {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [
+            2.340738421116781,
+            48.85932482275742
+          ],
+          "type": "Point"
+        },
+        "properties": {}
+      },
+      "geo_point_2d": {
+        "lon": 2.340738421116781,
+        "lat": 48.85932482275742
+      }
+    },
+    {
+      "nom_site": "CONSERVATOIRE MUNICIPAL CHARLES MÜNCH (CMA 11)",
+      "arc_adresse": "7 Rue Duranti",
+      "cp": "75011",
+      "idpw": "PW0291",
+      "nombre_de_borne_wifi": 4,
+      "etat2": "Opérationnel",
+      "geo_shape": {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [
+            2.3843780273662483,
+            48.86088597414149
+          ],
+          "type": "Point"
+        },
+        "properties": {}
+      },
+      "geo_point_2d": {
+        "lon": 2.3843780273662483,
+        "lat": 48.86088597414149
+      }
+    },
+    {
+      "nom_site": "CENTRE SPORTIF PYRENEES",
+      "arc_adresse": "296 RUE DES PYRENEES",
+      "cp": "75020",
+      "idpw": "PW0072",
+      "nombre_de_borne_wifi": 1,
+      "etat2": "Opérationnel",
+      "geo_shape": {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [
+            2.392302500371265,
+            48.871953372804484
+          ],
+          "type": "Point"
+        },
+        "properties": {}
+      },
+      "geo_point_2d": {
+        "lon": 2.392302500371265,
+        "lat": 48.871953372804484
+      }
+    },
+    {
+      "nom_site": "CENTRE SPORTIF GEORGES RIGAL",
+      "arc_adresse": "115 BOULEVARD DE CHARONNE",
+      "cp": "75011",
+      "idpw": "PW0080",
+      "nombre_de_borne_wifi": 1,
+      "etat2": "Opérationnel",
+      "geo_shape": {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [
+            2.393868772427969,
+            48.85660341812766
+          ],
+          "type": "Point"
+        },
+        "properties": {}
+      },
+      "geo_point_2d": {
+        "lon": 2.393868772427969,
+        "lat": 48.85660341812766
+      }
+    },
+    {
+      "nom_site": "CENTRE SPORTIF DES LILAS",
+      "arc_adresse": "5 RUE DES LILAS",
+      "cp": "75019",
+      "idpw": "PW0081",
+      "nombre_de_borne_wifi": 1,
+      "etat2": "Opérationnel",
+      "geo_shape": {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [
+            2.3954212669475536,
+            48.8779068008442
+          ],
+          "type": "Point"
+        },
+        "properties": {}
+      },
+      "geo_point_2d": {
+        "lon": 2.3954212669475536,
+        "lat": 48.8779068008442
+      }
+    },
+    {
+      "nom_site": "GYMNASE PAUL MEURICE",
+      "arc_adresse": "1 RUE PAUL MEURICE",
+      "cp": "75020",
+      "idpw": "PW0085",
+      "nombre_de_borne_wifi": 1,
+      "etat2": "Opérationnel",
+      "geo_shape": {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [
+            2.4121376797317944,
+            48.87402650073301
+          ],
+          "type": "Point"
+        },
+        "properties": {}
+      },
+      "geo_point_2d": {
+        "lon": 2.4121376797317944,
+        "lat": 48.87402650073301
+      }
+    },
+    {
+      "nom_site": "GYMNASE REUILLY",
+      "arc_adresse": "11 RUE ANTOINE JULIEN HENARD",
+      "cp": "75012",
+      "idpw": "PW0099",
+      "nombre_de_borne_wifi": 1,
+      "etat2": "Opérationnel",
+      "geo_shape": {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [
+            2.3891714419219685,
+            48.84170547884535
+          ],
+          "type": "Point"
+        },
+        "properties": {}
+      },
+      "geo_point_2d": {
+        "lon": 2.3891714419219685,
+        "lat": 48.84170547884535
+      }
+    },
+    {
+      "nom_site": "BIBLIOTHEQUE BRASSENS",
+      "arc_adresse": "38 RUE GASSENDI",
+      "cp": "75014",
+      "idpw": "PW0054",
+      "nombre_de_borne_wifi": 2,
+      "etat2": "Opérationnel",
+      "geo_shape": {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [
+            2.325855977890741,
+            48.833766609696085
+          ],
+          "type": "Point"
+        },
+        "properties": {}
+      },
+      "geo_point_2d": {
+        "lon": 2.325855977890741,
+        "lat": 48.833766609696085
+      }
+    },
+    {
+      "nom_site": "BIBLIOTHEQUE CHARLOTTE DELBO",
+      "arc_adresse": "2 PASSAGE DES PETITS PERES",
+      "cp": "75002",
+      "idpw": "PW0134",
+      "nombre_de_borne_wifi": 2,
+      "etat2": "Opérationnel",
+      "geo_shape": {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [
+            2.3404344914894324,
+            48.866507580054055
+          ],
+          "type": "Point"
+        },
+        "properties": {}
+      },
+      "geo_point_2d": {
+        "lon": 2.3404344914894324,
+        "lat": 48.866507580054055
+      }
+    },
+    {
+      "nom_site": "BIBLIOTHEQUE GERMAINE TILLION",
+      "arc_adresse": "6 RUE DU COMMANDANT SCHLOESING",
+      "cp": "75016",
+      "idpw": "PW0113",
+      "nombre_de_borne_wifi": 3,
+      "etat2": "Opérationnel",
+      "geo_shape": {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [
+            2.284270791218422,
+            48.86183638257241
+          ],
+          "type": "Point"
+        },
+        "properties": {}
+      },
+      "geo_point_2d": {
+        "lon": 2.284270791218422,
+        "lat": 48.86183638257241
+      }
+    },
+    {
+      "nom_site": "BIBLIOTHEQUE ARTHUR RIMBAUD",
+      "arc_adresse": "2 Place Baudoyer",
+      "cp": "75004",
+      "idpw": "PW0132-2",
+      "nombre_de_borne_wifi": 31,
+      "etat2": "Opérationnel",
+      "geo_shape": {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [
+            2.3559375242406873,
+            48.85613837361523
+          ],
+          "type": "Point"
+        },
+        "properties": {}
+      },
+      "geo_point_2d": {
+        "lon": 2.3559375242406873,
+        "lat": 48.85613837361523
+      }
+    },
+    {
+      "nom_site": "MAIRIE DU CENTRE",
+      "arc_adresse": "2 RUE EUGENE SPULLER",
+      "cp": "75003",
+      "idpw": "PW0019",
+      "nombre_de_borne_wifi": 2,
+      "etat2": "Opérationnel",
+      "geo_shape": {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [
+            2.361531961565592,
+            48.863992026300004
+          ],
+          "type": "Point"
+        },
+        "properties": {}
+      },
+      "geo_point_2d": {
+        "lon": 2.361531961565592,
+        "lat": 48.863992026300004
+      }
+    },
+    {
+      "nom_site": "PARC CHAMPS DE MARS - 2",
+      "arc_adresse": "AVENUE CHARLES RISLER",
+      "cp": "75007",
+      "idpw": "PW0165-1",
+      "nombre_de_borne_wifi": 1,
+      "etat2": "Opérationnel",
+      "geo_shape": {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [
+            2.300190630733143,
+            48.854610122522914
+          ],
+          "type": "Point"
+        },
+        "properties": {}
+      },
+      "geo_point_2d": {
+        "lon": 2.300190630733143,
+        "lat": 48.854610122522914
+      }
+    },
+    {
+      "nom_site": "PARC MONCEAU  - ENTREE PARC",
+      "arc_adresse": "39 Boulevard de Courcelles",
+      "cp": "75008",
+      "idpw": "PW0151-1",
+      "nombre_de_borne_wifi": 2,
+      "etat2": "Opérationnel",
+      "geo_shape": {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [
+            2.3074990761071477,
+            48.87994077004261
+          ],
+          "type": "Point"
+        },
+        "properties": {}
+      },
+      "geo_point_2d": {
+        "lon": 2.3074990761071477,
+        "lat": 48.87994077004261
+      }
+    },
+    {
+      "nom_site": "BERGES RIVE DROITE - LES NAUTES",
+      "arc_adresse": "BERGE DE SEINE RIVE DROITE - 5 QUAI DES CELESTINS",
+      "cp": "75004",
+      "idpw": "PW0150",
+      "nombre_de_borne_wifi": 1,
+      "etat2": "Opérationnel",
+      "geo_shape": {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [
+            2.360310974496217,
+            48.8523533398358
+          ],
+          "type": "Point"
+        },
+        "properties": {}
+      },
+      "geo_point_2d": {
+        "lon": 2.360310974496217,
+        "lat": 48.8523533398358
+      }
+    },
+    {
+      "nom_site": "SQUARE BREGUET SABIN",
+      "arc_adresse": "25 Boulevard Richard Lenoir",
+      "cp": "75011",
+      "idpw": "PW0177",
+      "nombre_de_borne_wifi": 0,
+      "etat2": "Non opérationnel",
+      "geo_shape": {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [
+            2.3704796611004237,
+            48.8570974891207
+          ],
+          "type": "Point"
+        },
+        "properties": {}
+      },
+      "geo_point_2d": {
+        "lon": 2.3704796611004237,
+        "lat": 48.8570974891207
+      }
+    },
+    {
+      "nom_site": "JARDIN FREDERICO GARCIA LORCA - SQUARE HDV",
+      "arc_adresse": "QUAI DE L'HOTEL DE VILLE",
+      "cp": "75004",
+      "idpw": "PW0191",
+      "nombre_de_borne_wifi": 1,
+      "etat2": "Opérationnel",
+      "geo_shape": {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [
+            2.353240934008803,
+            48.854710505471026
+          ],
+          "type": "Point"
+        },
+        "properties": {}
+      },
+      "geo_point_2d": {
+        "lon": 2.353240934008803,
+        "lat": 48.854710505471026
+      }
+    },
+    {
+      "nom_site": "SQUARE DES JARDINIERS",
+      "arc_adresse": "2 PASSAGE DUMAS",
+      "cp": "75011",
+      "idpw": "PW0203",
+      "nombre_de_borne_wifi": 1,
+      "etat2": "Opérationnel",
+      "geo_shape": {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [
+            2.3902500868580323,
+            48.85209002148712
+          ],
+          "type": "Point"
+        },
+        "properties": {}
+      },
+      "geo_point_2d": {
+        "lon": 2.3902500868580323,
+        "lat": 48.85209002148712
+      }
+    },
+    {
+      "nom_site": "SQUARE MARCEL MOULOUDJI",
+      "arc_adresse": "2 RUE PIERRE REVERDY",
+      "cp": "75019",
+      "idpw": "PW0167",
+      "nombre_de_borne_wifi": 1,
+      "etat2": "Opérationnel",
+      "geo_shape": {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [
+            2.376354191052254,
+            48.88527540480053
+          ],
+          "type": "Point"
+        },
+        "properties": {}
+      },
+      "geo_point_2d": {
+        "lon": 2.376354191052254,
+        "lat": 48.88527540480053
+      }
+    },
+    {
+      "nom_site": "MAISON DE LA VIE ASSOCIATIVE ET CITOYENNE  9 ANNEXE",
+      "arc_adresse": "35 RUE VICTOR MASSE",
+      "cp": "75009",
+      "idpw": "PW0038",
+      "nombre_de_borne_wifi": 1,
+      "etat2": "Opérationnel",
+      "geo_shape": {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [
+            2.3370108830626894,
+            48.88094098309761
+          ],
+          "type": "Point"
+        },
+        "properties": {}
+      },
+      "geo_point_2d": {
+        "lon": 2.3370108830626894,
+        "lat": 48.88094098309761
+      }
+    },
+    {
+      "nom_site": "MAISON DE LA VIE ASSOCIATIVE ET CITOYENNE 16",
+      "arc_adresse": "14-16 AVENUE RENE BOYLESVE",
+      "cp": "75016",
+      "idpw": "PW0041",
+      "nombre_de_borne_wifi": 2,
+      "etat2": "Opérationnel",
+      "geo_shape": {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [
+            2.283836733756716,
+            48.8567504744646
+          ],
+          "type": "Point"
+        },
+        "properties": {}
+      },
+      "geo_point_2d": {
+        "lon": 2.283836733756716,
+        "lat": 48.8567504744646
+      }
+    },
+    {
+      "nom_site": "BOURSE DU TRAVAIL ANNEXE TURBIGO",
+      "arc_adresse": "67 RUE TURBIGO",
+      "cp": "75003",
+      "idpw": "PW0219",
+      "nombre_de_borne_wifi": 1,
+      "etat2": "Opérationnel",
+      "geo_shape": {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [
+            2.358004775693509,
+            48.8660165781331
+          ],
+          "type": "Point"
+        },
+        "properties": {}
+      },
+      "geo_point_2d": {
+        "lon": 2.358004775693509,
+        "lat": 48.8660165781331
+      }
+    },
+    {
+      "nom_site": "MUSEE CARNAVALET",
+      "arc_adresse": "27 Rue Madame de Sévigné",
+      "cp": "75003",
+      "idpw": "PW0233",
+      "nombre_de_borne_wifi": 24,
+      "etat2": "Opérationnel",
+      "geo_shape": {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [
+            2.362975092932358,
+            48.85754315834628
+          ],
+          "type": "Point"
+        },
+        "properties": {}
+      },
+      "geo_point_2d": {
+        "lon": 2.362975092932358,
+        "lat": 48.85754315834628
+      }
+    },
+    {
+      "nom_site": "GYMNASE CAMOU",
+      "arc_adresse": "35 AVENUE DE LA BOURDONNAIS",
+      "cp": "75007",
+      "idpw": "PW0250",
+      "nombre_de_borne_wifi": 3,
+      "etat2": "Opérationnel",
+      "geo_shape": {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [
+            2.2992737787183,
+            48.858399619901874
+          ],
+          "type": "Point"
+        },
+        "properties": {}
+      },
+      "geo_point_2d": {
+        "lon": 2.2992737787183,
+        "lat": 48.858399619901874
+      }
+    },
+    {
+      "nom_site": "GYMNASE BERCY BASTILLE",
+      "arc_adresse": "242 Rue de Bercy",
+      "cp": "75012",
+      "idpw": "PW0252",
+      "nombre_de_borne_wifi": 1,
+      "etat2": "Opérationnel",
+      "geo_shape": {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [
+            2.369130681154877,
+            48.847172442528134
+          ],
+          "type": "Point"
+        },
+        "properties": {}
+      },
+      "geo_point_2d": {
+        "lon": 2.369130681154877,
+        "lat": 48.847172442528134
+      }
+    },
+    {
+      "nom_site": "CENTRE SPORTIF SAINT GERMAIN",
+      "arc_adresse": "12 Rue Lobineau",
+      "cp": "75006",
+      "idpw": "PW0268",
+      "nombre_de_borne_wifi": 3,
+      "etat2": "Opérationnel",
+      "geo_shape": {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [
+            2.3358718219025376,
+            48.85173905867073
+          ],
+          "type": "Point"
+        },
+        "properties": {}
+      },
+      "geo_point_2d": {
+        "lon": 2.3358718219025376,
+        "lat": 48.85173905867073
+      }
+    },
+    {
+      "nom_site": "MAISON DE LA JEUNESSE TOLBIAC",
+      "arc_adresse": "115 Rue de Tolbiac",
+      "cp": "75013",
+      "idpw": "PW0271",
+      "nombre_de_borne_wifi": 2,
+      "etat2": "Opérationnel",
+      "geo_shape": {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [
+            2.3629275536254735,
+            48.8264398243958
+          ],
+          "type": "Point"
+        },
+        "properties": {}
+      },
+      "geo_point_2d": {
+        "lon": 2.3629275536254735,
+        "lat": 48.8264398243958
+      }
+    },
+    {
+      "nom_site": "GYMNASE CHAPELLE INTERNATIONAL",
+      "arc_adresse": "47 Rue des Cheminots",
+      "cp": "75018",
+      "idpw": "PW0292",
+      "nombre_de_borne_wifi": 4,
+      "etat2": "Opérationnel",
+      "geo_shape": {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [
+            2.3561947993818166,
+            48.897717738714945
+          ],
+          "type": "Point"
+        },
+        "properties": {}
+      },
+      "geo_point_2d": {
+        "lon": 2.3561947993818166,
+        "lat": 48.897717738714945
+      }
+    },
+    {
+      "nom_site": "CENTRE SPORTIF CHARLES MOUREU",
+      "arc_adresse": "17 Avenue Edison",
+      "cp": "75013",
+      "idpw": "PW0074",
+      "nombre_de_borne_wifi": 0,
+      "etat2": "Non opérationnel",
+      "geo_shape": {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [
+            2.36413466137506,
+            48.82780123635454
+          ],
+          "type": "Point"
+        },
+        "properties": {}
+      },
+      "geo_point_2d": {
+        "lon": 2.36413466137506,
+        "lat": 48.82780123635454
+      }
+    },
+    {
+      "nom_site": "CENTRE SPORTIF CHARLES RIGOULOT",
+      "arc_adresse": "18 AVENUE DE LA PORTE BRANCION",
+      "cp": "75015",
+      "idpw": "PW0075",
+      "nombre_de_borne_wifi": 1,
+      "etat2": "Opérationnel",
+      "geo_shape": {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [
+            2.3004174655087017,
+            48.82663359274809
+          ],
+          "type": "Point"
+        },
+        "properties": {}
+      },
+      "geo_point_2d": {
+        "lon": 2.3004174655087017,
+        "lat": 48.82663359274809
+      }
+    },
+    {
+      "nom_site": "CENTRE SPORTIF COUR DES LIONS",
+      "arc_adresse": "9-11 RUE ALPHONSE BAUDIN",
+      "cp": "75011",
+      "idpw": "PW0076",
+      "nombre_de_borne_wifi": 1,
+      "etat2": "Opérationnel",
+      "geo_shape": {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [
+            2.370343866923959,
+            48.86067412777187
+          ],
+          "type": "Point"
+        },
+        "properties": {}
+      },
+      "geo_point_2d": {
+        "lon": 2.370343866923959,
+        "lat": 48.86067412777187
+      }
+    },
+    {
+      "nom_site": "CENTRE SPORTIF DE LA GRANGE AUX BELLES",
+      "arc_adresse": "17 RUE BOY ZELENSKI",
+      "cp": "75010",
+      "idpw": "PW0077",
+      "nombre_de_borne_wifi": 1,
+      "etat2": "Opérationnel",
+      "geo_shape": {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [
+            2.3683903402173634,
+            48.877430616544906
+          ],
+          "type": "Point"
+        },
+        "properties": {}
+      },
+      "geo_point_2d": {
+        "lon": 2.3683903402173634,
+        "lat": 48.877430616544906
+      }
+    },
+    {
+      "nom_site": "CENTRE SPORTIF LEO LAGRANGE",
+      "arc_adresse": "68 BOULEVARD PONIATOWSKI",
+      "cp": "75012",
+      "idpw": "PW0084",
+      "nombre_de_borne_wifi": 1,
+      "etat2": "Opérationnel",
+      "geo_shape": {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [
+            2.3993343359356065,
+            48.83216486752819
+          ],
+          "type": "Point"
+        },
+        "properties": {}
+      },
+      "geo_point_2d": {
+        "lon": 2.3993343359356065,
+        "lat": 48.83216486752819
+      }
+    },
+    {
+      "nom_site": "BIBLIOTHEQUE GLACIERE MARINA TSVETAÏEVA",
+      "arc_adresse": "132 RUE DE LA GLACIERE",
+      "cp": "75013",
+      "idpw": "PW0125",
+      "nombre_de_borne_wifi": 2,
+      "etat2": "Opérationnel",
+      "geo_shape": {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [
+            2.3419937169845078,
+            48.82731805418922
+          ],
+          "type": "Point"
+        },
+        "properties": {}
+      },
+      "geo_point_2d": {
+        "lon": 2.3419937169845078,
+        "lat": 48.82731805418922
+      }
+    },
+    {
+      "nom_site": "BIBLIOTHEQUE JACQUELINE DE ROMILLY",
+      "arc_adresse": "16-30 AVENUE DE LA PORTE MONTMARTRE",
+      "cp": "75018",
+      "idpw": "PW0198",
+      "nombre_de_borne_wifi": 2,
+      "etat2": "Opérationnel",
+      "geo_shape": {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [
+            2.335873500895439,
+            48.90037987433251
+          ],
+          "type": "Point"
+        },
+        "properties": {}
+      },
+      "geo_point_2d": {
+        "lon": 2.335873500895439,
+        "lat": 48.90037987433251
+      }
+    },
+    {
+      "nom_site": "BIBLIOTHEQUE FRANCOIS VILLON",
+      "arc_adresse": "81 BOULEVARD DE LA VILLETTE",
+      "cp": "75010",
+      "idpw": "PW0116",
+      "nombre_de_borne_wifi": 4,
+      "etat2": "Opérationnel",
+      "geo_shape": {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [
+            2.37079691969116,
+            48.87720543415444
+          ],
+          "type": "Point"
+        },
+        "properties": {}
+      },
+      "geo_point_2d": {
+        "lon": 2.37079691969116,
+        "lat": 48.87720543415444
+      }
+    },
+    {
+      "nom_site": "PARC DES BUTTES CHAUMONT - BOLIVAR",
+      "arc_adresse": "1 RUE BOTZARIS",
+      "cp": "75019",
+      "idpw": "PW0159-1",
+      "nombre_de_borne_wifi": 1,
+      "etat2": "Opérationnel",
+      "geo_shape": {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [
+            2.3810174201339076,
+            48.87647305121453
+          ],
+          "type": "Point"
+        },
+        "properties": {}
+      },
+      "geo_point_2d": {
+        "lon": 2.3810174201339076,
+        "lat": 48.87647305121453
+      }
+    },
+    {
+      "nom_site": "MAISON DE LA VIE ASSOCIATIVE ET CITOYENNE  10",
+      "arc_adresse": "206 QUAI DE VALMY",
+      "cp": "75010",
+      "idpw": "PW0028",
+      "nombre_de_borne_wifi": 1,
+      "etat2": "Opérationnel",
+      "geo_shape": {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [
+            2.368720066964893,
+            48.88178411021711
+          ],
+          "type": "Point"
+        },
+        "properties": {}
+      },
+      "geo_point_2d": {
+        "lon": 2.368720066964893,
+        "lat": 48.88178411021711
+      }
+    },
+    {
+      "nom_site": "STADE CHARLETY",
+      "arc_adresse": "91 Boulevard Kellermann",
+      "cp": "75013",
+      "idpw": "PW0169",
+      "nombre_de_borne_wifi": 10,
+      "etat2": "Opérationnel",
+      "geo_shape": {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [
+            2.346701652733019,
+            48.819334380975064
+          ],
+          "type": "Point"
+        },
+        "properties": {}
+      },
+      "geo_point_2d": {
+        "lon": 2.346701652733019,
+        "lat": 48.819334380975064
+      }
+    },
+    {
+      "nom_site": "MAISON DES INITIATIVES ETUDIANTES LABO6",
+      "arc_adresse": "76 Rue de Rennes",
+      "cp": "75006",
+      "idpw": "PW0146",
+      "nombre_de_borne_wifi": 6,
+      "etat2": "Opérationnel",
+      "geo_shape": {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [
+            2.3304436230163663,
+            48.851242609525265
+          ],
+          "type": "Point"
+        },
+        "properties": {}
+      },
+      "geo_point_2d": {
+        "lon": 2.3304436230163663,
+        "lat": 48.851242609525265
+      }
+    },
+    {
+      "nom_site": "ESPACE PARISIEN POUR L'INSERTION ITALIE (AVENUE D'ITALIE)",
+      "arc_adresse": "93 Avenue d'Italie",
+      "cp": "75013",
+      "idpw": "PW0270",
+      "nombre_de_borne_wifi": 10,
+      "etat2": "Opérationnel",
+      "geo_shape": {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [
+            2.3583678251214266,
+            48.82356363350256
+          ],
+          "type": "Point"
+        },
+        "properties": {}
+      },
+      "geo_point_2d": {
+        "lon": 2.3583678251214266,
+        "lat": 48.82356363350256
+      }
+    },
+    {
+      "nom_site": "MÉDIATHÈQUE VIRGINIA WOOLF",
+      "arc_adresse": "4 Rue Germaine Krull",
+      "cp": "75013",
+      "idpw": "PW0274",
+      "nombre_de_borne_wifi": 12,
+      "etat2": "Opérationnel",
+      "geo_shape": {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [
+            2.359183768277045,
+            48.817386505373996
+          ],
+          "type": "Point"
+        },
+        "properties": {}
+      },
+      "geo_point_2d": {
+        "lon": 2.359183768277045,
+        "lat": 48.817386505373996
+      }
+    },
+    {
+      "nom_site": "CENTRE DE SANTE BALKAN",
+      "arc_adresse": "26 Rue des Balkans",
+      "cp": "75020",
+      "idpw": "PW0283",
+      "nombre_de_borne_wifi": 3,
+      "etat2": "Opérationnel",
+      "geo_shape": {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [
+            2.4066019496367077,
+            48.86090460380702
+          ],
+          "type": "Point"
+        },
+        "properties": {}
+      },
+      "geo_point_2d": {
+        "lon": 2.4066019496367077,
+        "lat": 48.86090460380702
+      }
+    },
+    {
+      "nom_site": "CENTRE SPORTIF LEON MOTTOT",
+      "arc_adresse": "17 CITE MOYNET",
+      "cp": "75012",
+      "idpw": "PW0086",
+      "nombre_de_borne_wifi": 1,
+      "etat2": "Opérationnel",
+      "geo_shape": {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [
+            2.386629495395027,
+            48.843865692875596
+          ],
+          "type": "Point"
+        },
+        "properties": {}
+      },
+      "geo_point_2d": {
+        "lon": 2.386629495395027,
+        "lat": 48.843865692875596
+      }
+    },
+    {
+      "nom_site": "BIBLIOTHEQUE GUTENBERG",
+      "arc_adresse": "8 RUE DE LA MONTAGNE D AULAS",
+      "cp": "75015",
+      "idpw": "PW0145",
+      "nombre_de_borne_wifi": 1,
+      "etat2": "Opérationnel",
+      "geo_shape": {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [
+            2.2787064242142545,
+            48.84020760641955
+          ],
+          "type": "Point"
+        },
+        "properties": {}
+      },
+      "geo_point_2d": {
+        "lon": 2.2787064242142545,
+        "lat": 48.84020760641955
+      }
+    },
+    {
+      "nom_site": "BIBLIOTHEQUE MOHAMMED ARKOUN",
+      "arc_adresse": "74 RUE MOUFFETARD",
+      "cp": "75005",
+      "idpw": "PW0126",
+      "nombre_de_borne_wifi": 2,
+      "etat2": "Opérationnel",
+      "geo_shape": {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [
+            2.3496737606613083,
+            48.84249352852193
+          ],
+          "type": "Point"
+        },
+        "properties": {}
+      },
+      "geo_point_2d": {
+        "lon": 2.3496737606613083,
+        "lat": 48.84249352852193
+      }
+    },
+    {
+      "nom_site": "BIBLIOTHEQUE ROBERT SABATIER",
+      "arc_adresse": "29 RUE HERMEL",
+      "cp": "75018",
+      "idpw": "PW0236",
+      "nombre_de_borne_wifi": 5,
+      "etat2": "Opérationnel",
+      "geo_shape": {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [
+            2.3444363201141876,
+            48.891536321027466
+          ],
+          "type": "Point"
+        },
+        "properties": {}
+      },
+      "geo_point_2d": {
+        "lon": 2.3444363201141876,
+        "lat": 48.891536321027466
+      }
+    },
+    {
+      "nom_site": "BIBLIOTHEQUE SAINT SIMON",
+      "arc_adresse": "116 RUE DE GRENELLE",
+      "cp": "75007",
+      "idpw": "PW0022-1",
+      "nombre_de_borne_wifi": 1,
+      "etat2": "Opérationnel",
+      "geo_shape": {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [
+            2.320043697435678,
+            48.85686647665855
+          ],
+          "type": "Point"
+        },
+        "properties": {}
+      },
+      "geo_point_2d": {
+        "lon": 2.320043697435678,
+        "lat": 48.85686647665855
+      }
+    },
+    {
+      "nom_site": "ESPLANADE DES INVALIDES",
+      "arc_adresse": "1 RUE PAUL ET JEAN LEROLLE",
+      "cp": "75007",
+      "idpw": "PW0161",
+      "nombre_de_borne_wifi": 1,
+      "etat2": "Opérationnel",
+      "geo_shape": {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [
+            2.312894263966205,
+            48.85818974233775
+          ],
+          "type": "Point"
+        },
+        "properties": {}
+      },
+      "geo_point_2d": {
+        "lon": 2.312894263966205,
+        "lat": 48.85818974233775
+      }
+    },
+    {
+      "nom_site": "MAIRIE DU 16 EME",
+      "arc_adresse": "71 Avenue Henri Martin",
+      "cp": "75016",
+      "idpw": "PW0015",
+      "nombre_de_borne_wifi": 7,
+      "etat2": "Opérationnel",
+      "geo_shape": {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [
+            2.2766525218985634,
+            48.86394077019891
+          ],
+          "type": "Point"
+        },
+        "properties": {}
+      },
+      "geo_point_2d": {
+        "lon": 2.2766525218985634,
+        "lat": 48.86394077019891
+      }
+    },
+    {
+      "nom_site": "MEDIATHEQUE FRANCOISE SAGAN",
+      "arc_adresse": "8 Rue Léon Schwartzenberg",
+      "cp": "75010",
+      "idpw": "PW0147",
+      "nombre_de_borne_wifi": 12,
+      "etat2": "Opérationnel",
+      "geo_shape": {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [
+            2.353666772968425,
+            48.875429870811345
+          ],
+          "type": "Point"
+        },
+        "properties": {}
+      },
+      "geo_point_2d": {
+        "lon": 2.353666772968425,
+        "lat": 48.875429870811345
+      }
+    },
+    {
+      "nom_site": "SQUARE JEAN CLAUDE NICOLAS FORESTIER",
+      "arc_adresse": "79 Boulevard Kellermann",
+      "cp": "75013",
+      "idpw": "PW0179",
+      "nombre_de_borne_wifi": 1,
+      "etat2": "Opérationnel",
+      "geo_shape": {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [
+            2.3477547551079145,
+            48.81983056005852
+          ],
+          "type": "Point"
+        },
+        "properties": {}
+      },
+      "geo_point_2d": {
+        "lon": 2.3477547551079145,
+        "lat": 48.81983056005852
+      }
+    },
+    {
+      "nom_site": "ACADEMIE DU CLIMAT",
+      "arc_adresse": "2 PLACE BAUDOYER",
+      "cp": "75004",
+      "idpw": "PW0132",
+      "nombre_de_borne_wifi": 29,
+      "etat2": "Opérationnel",
+      "geo_shape": {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [
+            2.355756901105179,
+            48.85627160786783
+          ],
+          "type": "Point"
+        },
+        "properties": {}
+      },
+      "geo_point_2d": {
+        "lon": 2.355756901105179,
+        "lat": 48.85627160786783
+      }
+    },
+    {
+      "nom_site": "MAISON DE LA VIE ASSOCIATIVE ET CITOYENNE  14",
+      "arc_adresse": "22 Rue Deparcieux",
+      "cp": "75014",
+      "idpw": "PW0040",
+      "nombre_de_borne_wifi": 4,
+      "etat2": "Opérationnel",
+      "geo_shape": {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [
+            2.325821393195147,
+            48.8355916799591
+          ],
+          "type": "Point"
+        },
+        "properties": {}
+      },
+      "geo_point_2d": {
+        "lon": 2.325821393195147,
+        "lat": 48.8355916799591
+      }
+    },
+    {
+      "nom_site": "MAISON DE LA VIE ASSOCIATIVE ET CITOYENNE 18",
+      "arc_adresse": "15 PASSAGE RAMEY",
+      "cp": "75018",
+      "idpw": "PW0032",
+      "nombre_de_borne_wifi": 3,
+      "etat2": "Opérationnel",
+      "geo_shape": {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [
+            2.347335497120628,
+            48.890069083043585
+          ],
+          "type": "Point"
+        },
+        "properties": {}
+      },
+      "geo_point_2d": {
+        "lon": 2.347335497120628,
+        "lat": 48.890069083043585
+      }
+    },
+    {
+      "nom_site": "PREFOURRIERE FOCH",
+      "arc_adresse": "8 AVENUE FOCH",
+      "cp": "75016",
+      "idpw": "PW0230",
+      "nombre_de_borne_wifi": 1,
+      "etat2": "Opérationnel",
+      "geo_shape": {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [
+            2.291739344849887,
+            48.87381249537699
+          ],
+          "type": "Point"
+        },
+        "properties": {}
+      },
+      "geo_point_2d": {
+        "lon": 2.291739344849887,
+        "lat": 48.87381249537699
+      }
+    },
+    {
+      "nom_site": "FOURRIERE BONNEUIL",
+      "arc_adresse": "11 RUE DES CHAMPS BONNEUIL SUR MARNE",
+      "cp": "94380",
+      "idpw": "PW0245",
+      "nombre_de_borne_wifi": 1,
+      "etat2": "Opérationnel",
+      "geo_shape": {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [
+            2.4994783918660057,
+            48.76286105418927
+          ],
+          "type": "Point"
+        },
+        "properties": {}
+      },
+      "geo_point_2d": {
+        "lon": 2.4994783918660057,
+        "lat": 48.76286105418927
+      }
+    },
+    {
+      "nom_site": "PISCINE MASSARD",
+      "arc_adresse": "66 Boulevard du Montparnasse",
+      "cp": "75015",
+      "idpw": "PW0258",
+      "nombre_de_borne_wifi": 3,
+      "etat2": "Opérationnel",
+      "geo_shape": {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [
+            2.3234125334485642,
+            48.84352754072995
+          ],
+          "type": "Point"
+        },
+        "properties": {}
+      },
+      "geo_point_2d": {
+        "lon": 2.3234125334485642,
+        "lat": 48.84352754072995
+      }
+    },
+    {
+      "nom_site": "CENTRE SPORTIF PLAINE",
+      "arc_adresse": "13 RUE DU GENERAL GUILLAUMAT",
+      "cp": "75015",
+      "idpw": "PW0088",
+      "nombre_de_borne_wifi": 1,
+      "etat2": "Opérationnel",
+      "geo_shape": {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [
+            2.293327610769408,
+            48.82803317409269
+          ],
+          "type": "Point"
+        },
+        "properties": {}
+      },
+      "geo_point_2d": {
+        "lon": 2.293327610769408,
+        "lat": 48.82803317409269
+      }
+    },
+    {
+      "nom_site": "CENTRE SPORTIF POISSONNIERS",
+      "arc_adresse": "2 Rue Jean Cocteau",
+      "cp": "75018",
+      "idpw": "PW0091",
+      "nombre_de_borne_wifi": 5,
+      "etat2": "Opérationnel",
+      "geo_shape": {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [
+            2.351991975265799,
+            48.89968592616539
+          ],
+          "type": "Point"
+        },
+        "properties": {}
+      },
+      "geo_point_2d": {
+        "lon": 2.351991975265799,
+        "lat": 48.89968592616539
+      }
+    },
+    {
+      "nom_site": "CENTRE SPORTIF LEON BIANCOTTO",
+      "arc_adresse": "6 AVENUE DE LA PORTE DE CLICHY",
+      "cp": "75017",
+      "idpw": "PW0098",
+      "nombre_de_borne_wifi": 1,
+      "etat2": "Opérationnel",
+      "geo_shape": {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [
+            2.311830475367835,
+            48.89576823451991
+          ],
+          "type": "Point"
+        },
+        "properties": {}
+      },
+      "geo_point_2d": {
+        "lon": 2.311830475367835,
+        "lat": 48.89576823451991
+      }
+    },
+    {
+      "nom_site": "SQUARE MAURICE GARDETTE",
+      "arc_adresse": "2 RUE DU GENERAL BLAISE RUE LACHARRIERE",
+      "cp": "75011",
+      "idpw": "PW0205",
+      "nombre_de_borne_wifi": 1,
+      "etat2": "Opérationnel",
+      "geo_shape": {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [
+            2.3790725170531806,
+            48.86108519335692
+          ],
+          "type": "Point"
+        },
+        "properties": {}
+      },
+      "geo_point_2d": {
+        "lon": 2.3790725170531806,
+        "lat": 48.86108519335692
+      }
+    },
+    {
+      "nom_site": "BIBLIOTHEQUE OSCAR WILDE",
+      "arc_adresse": "12 RUE DU TELEGRAPHE",
+      "cp": "75020",
+      "idpw": "PW0061",
+      "nombre_de_borne_wifi": 1,
+      "etat2": "Opérationnel",
+      "geo_shape": {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [
+            2.3998162932187976,
+            48.8720261057821
+          ],
+          "type": "Point"
+        },
+        "properties": {}
+      },
+      "geo_point_2d": {
+        "lon": 2.3998162932187976,
+        "lat": 48.8720261057821
+      }
+    },
+    {
+      "nom_site": "BIBLIOTHEQUE BENOITE GROULT",
+      "arc_adresse": "25 RUE DU COMMANDANT RENE MOUCHOTTE",
+      "cp": "75014",
+      "idpw": "PW0218",
+      "nombre_de_borne_wifi": 1,
+      "etat2": "Opérationnel",
+      "geo_shape": {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [
+            2.319875105283682,
+            48.83828030726402
+          ],
+          "type": "Point"
+        },
+        "properties": {}
+      },
+      "geo_point_2d": {
+        "lon": 2.319875105283682,
+        "lat": 48.83828030726402
+      }
+    },
+    {
+      "nom_site": "CENTRE SPORTIF SUZANNE LENGLEN - STADE DE RUDBY",
+      "arc_adresse": "2  RUE LOUIS ARMAND",
+      "cp": "75015",
+      "idpw": "PW0173-2",
+      "nombre_de_borne_wifi": 1,
+      "etat2": "Opérationnel",
+      "geo_shape": {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [
+            2.276606159443164,
+            48.832881073674926
+          ],
+          "type": "Point"
+        },
+        "properties": {}
+      },
+      "geo_point_2d": {
+        "lon": 2.276606159443164,
+        "lat": 48.832881073674926
+      }
+    },
+    {
+      "nom_site": "PARC DE BERCY (ORANGERIE)",
+      "arc_adresse": "1 COUR CHAMONARD",
+      "cp": "75012",
+      "idpw": "PW0058-2",
+      "nombre_de_borne_wifi": 2,
+      "etat2": "Opérationnel",
+      "geo_shape": {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [
+            2.383252259533802,
+            48.83609176602629
+          ],
+          "type": "Point"
+        },
+        "properties": {}
+      },
+      "geo_point_2d": {
+        "lon": 2.383252259533802,
+        "lat": 48.83609176602629
+      }
+    },
+    {
+      "nom_site": "PARC DES BUTTES CHAUMONT - VILLETTE",
+      "arc_adresse": "1 RUE BOTZARIS",
+      "cp": "75019",
+      "idpw": "PW0159",
+      "nombre_de_borne_wifi": 1,
+      "etat2": "Opérationnel",
+      "geo_shape": {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [
+            2.3883276373944744,
+            48.87968174681816
+          ],
+          "type": "Point"
+        },
+        "properties": {}
+      },
+      "geo_point_2d": {
+        "lon": 2.3883276373944744,
+        "lat": 48.87968174681816
+      }
+    },
+    {
+      "nom_site": "PARC MONCEAU - ALLEE CONTESSE DE SEGUR",
+      "arc_adresse": "1-3 PLACE DE LA REPUBLIQUE DOMINICAINE",
+      "cp": "75008",
+      "idpw": "PW0151",
+      "nombre_de_borne_wifi": 4,
+      "etat2": "Opérationnel",
+      "geo_shape": {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [
+            2.309839896973784,
+            48.88026234072968
+          ],
+          "type": "Point"
+        },
+        "properties": {}
+      },
+      "geo_point_2d": {
+        "lon": 2.309839896973784,
+        "lat": 48.88026234072968
+      }
+    },
+    {
+      "nom_site": "HOTEL DE VILLE RDC",
+      "arc_adresse": "6 Place de l'Hôtel de Ville-esplanade de la Libération",
+      "cp": "75004",
+      "idpw": "PW0122-1",
+      "nombre_de_borne_wifi": 5,
+      "etat2": "Opérationnel",
+      "geo_shape": {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [
+            2.352388267005781,
+            48.85638968298792
+          ],
+          "type": "Point"
+        },
+        "properties": {}
+      },
+      "geo_point_2d": {
+        "lon": 2.352388267005781,
+        "lat": 48.85638968298792
+      }
+    },
+    {
+      "nom_site": "PREFOURRIERE POUCHET 2",
+      "arc_adresse": "1BIS BOULEVARD DU GENERAL LECLERC CLICHY SUR SEINE",
+      "cp": "92100",
+      "idpw": "PW0226",
+      "nombre_de_borne_wifi": 1,
+      "etat2": "Opérationnel",
+      "geo_shape": {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [
+            2.3183649749146373,
+            48.899696926250854
+          ],
+          "type": "Point"
+        },
+        "properties": {}
+      },
+      "geo_point_2d": {
+        "lon": 2.3183649749146373,
+        "lat": 48.899696926250854
+      }
+    },
+    {
+      "nom_site": "CAPLA PLACE DES FETES",
+      "arc_adresse": "PLACE DES FETES",
+      "cp": "75019",
+      "idpw": "PW0242",
+      "nombre_de_borne_wifi": 1,
+      "etat2": "Opérationnel",
+      "geo_shape": {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [
+            2.3938045772650307,
+            48.876807032279444
+          ],
+          "type": "Point"
+        },
+        "properties": {}
+      },
+      "geo_point_2d": {
+        "lon": 2.3938045772650307,
+        "lat": 48.876807032279444
+      }
+    },
+    {
+      "nom_site": "CONSERVATOIRE MUNICIPAL CLAUDE DEBUSSY (CMA 17)",
+      "arc_adresse": "222 Rue de Courcelles",
+      "cp": "75017",
+      "idpw": "PW0278",
+      "nombre_de_borne_wifi": 4,
+      "etat2": "Opérationnel",
+      "geo_shape": {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [
+            2.2942259999760455,
+            48.8883744012101
+          ],
+          "type": "Point"
+        },
+        "properties": {}
+      },
+      "geo_point_2d": {
+        "lon": 2.2942259999760455,
+        "lat": 48.8883744012101
+      }
+    },
+    {
+      "nom_site": "CENTRE SPORTIF DUNOIS",
+      "arc_adresse": "70 RUE DUNOIS",
+      "cp": "75013",
+      "idpw": "PW0079",
+      "nombre_de_borne_wifi": 1,
+      "etat2": "Opérationnel",
+      "geo_shape": {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [
+            2.366278587662253,
+            48.833170321660546
+          ],
+          "type": "Point"
+        },
+        "properties": {}
+      },
+      "geo_point_2d": {
+        "lon": 2.366278587662253,
+        "lat": 48.833170321660546
+      }
+    },
+    {
+      "nom_site": "BIBLIOTHEQUE COLETTE VIVIER",
+      "arc_adresse": "6 RUE FOURNEYRON",
+      "cp": "75017",
+      "idpw": "PW0003",
+      "nombre_de_borne_wifi": 1,
+      "etat2": "Opérationnel",
+      "geo_shape": {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [
+            2.319643373437661,
+            48.88978333501901
+          ],
+          "type": "Point"
+        },
+        "properties": {}
+      },
+      "geo_point_2d": {
+        "lon": 2.319643373437661,
+        "lat": 48.88978333501901
+      }
+    },
+    {
+      "nom_site": "BIBLIOTHEQUE MARGUERITE AUDOUX",
+      "arc_adresse": "8-12 RUE PORTEFOIN",
+      "cp": "75003",
+      "idpw": "PW0044",
+      "nombre_de_borne_wifi": 2,
+      "etat2": "Opérationnel",
+      "geo_shape": {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [
+            2.359846256600825,
+            48.86376892355014
+          ],
+          "type": "Point"
+        },
+        "properties": {}
+      },
+      "geo_point_2d": {
+        "lon": 2.359846256600825,
+        "lat": 48.86376892355014
+      }
+    },
+    {
+      "nom_site": "MAIRIE DU 11 EME",
+      "arc_adresse": "2 Place Léon Blum",
+      "cp": "75011",
+      "idpw": "PW0011",
+      "nombre_de_borne_wifi": 10,
+      "etat2": "Opérationnel",
+      "geo_shape": {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [
+            2.3810034004762697,
+            48.85807993154854
+          ],
+          "type": "Point"
+        },
+        "properties": {}
+      },
+      "geo_point_2d": {
+        "lon": 2.3810034004762697,
+        "lat": 48.85807993154854
+      }
+    },
+    {
+      "nom_site": "MAISON DES INITIATIVES ETUDIANTES",
+      "arc_adresse": "50 Rue des Tournelles",
+      "cp": "75003",
+      "idpw": "PW0070",
+      "nombre_de_borne_wifi": 11,
+      "etat2": "Opérationnel",
+      "geo_shape": {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [
+            2.3673918201295203,
+            48.856221957138
+          ],
+          "type": "Point"
+        },
+        "properties": {}
+      },
+      "geo_point_2d": {
+        "lon": 2.3673918201295203,
+        "lat": 48.856221957138
+      }
+    },
+    {
+      "nom_site": "SQUARE LOUIS XIII",
+      "arc_adresse": "1M Place des Vosges",
+      "cp": "75004",
+      "idpw": "PW0163",
+      "nombre_de_borne_wifi": 0,
+      "etat2": "Non opérationnel",
+      "geo_shape": {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [
+            2.3656584031313166,
+            48.85563078391002
+          ],
+          "type": "Point"
+        },
+        "properties": {}
+      },
+      "geo_point_2d": {
+        "lon": 2.3656584031313166,
+        "lat": 48.85563078391002
+      }
+    },
+    {
+      "nom_site": "PARC MONTSOURIS - GARDE GAZAN",
+      "arc_adresse": "2 RUE GAZAN",
+      "cp": "75014",
+      "idpw": "PW0213",
+      "nombre_de_borne_wifi": 1,
+      "etat2": "Opérationnel",
+      "geo_shape": {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [
+            2.3398255642883012,
+            48.824367644891204
+          ],
+          "type": "Point"
+        },
+        "properties": {}
+      },
+      "geo_point_2d": {
+        "lon": 2.3398255642883012,
+        "lat": 48.824367644891204
+      }
+    },
+    {
+      "nom_site": "PARC MONTSOURIS - STATION RER",
+      "arc_adresse": "BOULEVARD JOURDAN",
+      "cp": "75014",
+      "idpw": "PW0214",
+      "nombre_de_borne_wifi": 1,
+      "etat2": "Opérationnel",
+      "geo_shape": {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [
+            2.329491797866467,
+            48.822331067615
+          ],
+          "type": "Point"
+        },
+        "properties": {}
+      },
+      "geo_point_2d": {
+        "lon": 2.329491797866467,
+        "lat": 48.822331067615
+      }
+    },
+    {
+      "nom_site": "COULEE VERTE - BASTILLE",
+      "arc_adresse": "38 AVENUE DAUMESNIL",
+      "cp": "75012",
+      "idpw": "PW0216",
+      "nombre_de_borne_wifi": 1,
+      "etat2": "Opérationnel",
+      "geo_shape": {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [
+            2.3764195169455746,
+            48.847183089015545
+          ],
+          "type": "Point"
+        },
+        "properties": {}
+      },
+      "geo_point_2d": {
+        "lon": 2.3764195169455746,
+        "lat": 48.847183089015545
+      }
+    },
+    {
+      "nom_site": "ESPACE REUILLY",
+      "arc_adresse": "21 Rue Antoine-Julien Hénard",
+      "cp": "75012",
+      "idpw": "PW0222",
+      "nombre_de_borne_wifi": 2,
+      "etat2": "Opérationnel",
+      "geo_shape": {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [
+            2.3896330843907885,
+            48.84251862032188
+          ],
+          "type": "Point"
+        },
+        "properties": {}
+      },
+      "geo_point_2d": {
+        "lon": 2.3896330843907885,
+        "lat": 48.84251862032188
+      }
+    },
+    {
+      "nom_site": "BIBLIOTHEQUE LANCRY",
+      "arc_adresse": "11 RUE DE LANCRY",
+      "cp": "75010",
+      "idpw": "PW0254",
+      "nombre_de_borne_wifi": 3,
+      "etat2": "Opérationnel",
+      "geo_shape": {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [
+            2.3602320004273603,
+            48.86940599989269
+          ],
+          "type": "Point"
+        },
+        "properties": {}
+      },
+      "geo_point_2d": {
+        "lon": 2.3602320004273603,
+        "lat": 48.86940599989269
+      }
+    },
+    {
+      "nom_site": "CONSERVATOIRE MUNICIPAL GABRIEL FAURÉ (CMA 05)",
+      "arc_adresse": "12 Rue de Pontoise",
+      "cp": "75005",
+      "idpw": "PW0276",
+      "nombre_de_borne_wifi": 5,
+      "etat2": "Opérationnel",
+      "geo_shape": {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [
+            2.3519478821822455,
+            48.84997193360294
+          ],
+          "type": "Point"
+        },
+        "properties": {}
+      },
+      "geo_point_2d": {
+        "lon": 2.3519478821822455,
+        "lat": 48.84997193360294
+      }
+    },
+    {
+      "nom_site": "CONSERVATOIRE MUNICIPAL FRÉDÉRIC CHOPIN (CMA15)",
+      "arc_adresse": "43 Rue Bargue",
+      "cp": "75015",
+      "idpw": "PW0297",
+      "nombre_de_borne_wifi": 4,
+      "etat2": "Opérationnel",
+      "geo_shape": {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [
+            2.3089699294383426,
+            48.837970798475986
+          ],
+          "type": "Point"
+        },
+        "properties": {}
+      },
+      "geo_point_2d": {
+        "lon": 2.3089699294383426,
+        "lat": 48.837970798475986
+      }
+    },
+    {
+      "nom_site": "CENTRE SPORTIF ZAC PAJOL",
+      "arc_adresse": "22T RUE PAJOL",
+      "cp": "75018",
+      "idpw": "PW0092",
+      "nombre_de_borne_wifi": 1,
+      "etat2": "Opérationnel",
+      "geo_shape": {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [
+            2.3630676012052962,
+            48.889594797247035
+          ],
+          "type": "Point"
+        },
+        "properties": {}
+      },
+      "geo_point_2d": {
+        "lon": 2.3630676012052962,
+        "lat": 48.889594797247035
+      }
+    },
+    {
+      "nom_site": "PISCINE BERNARD LAFAY",
+      "arc_adresse": "79 Rue de la Jonquière",
+      "cp": "75017",
+      "idpw": "PW0100",
+      "nombre_de_borne_wifi": 0,
+      "etat2": "Non opérationnel",
+      "geo_shape": {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [
+            2.3188172423325684,
+            48.89464799028461
+          ],
+          "type": "Point"
+        },
+        "properties": {}
+      },
+      "geo_point_2d": {
+        "lon": 2.3188172423325684,
+        "lat": 48.89464799028461
+      }
+    },
+    {
+      "nom_site": "BIBLIOTHEQUE CHAPTAL",
+      "arc_adresse": "26 RUE CHAPTAL",
+      "cp": "75009",
+      "idpw": "PW0109",
+      "nombre_de_borne_wifi": 2,
+      "etat2": "Opérationnel",
+      "geo_shape": {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [
+            2.3323455598268845,
+            48.8811113359397
+          ],
+          "type": "Point"
+        },
+        "properties": {}
+      },
+      "geo_point_2d": {
+        "lon": 2.3323455598268845,
+        "lat": 48.8811113359397
+      }
+    },
+    {
+      "nom_site": "BIBLIOTHEQUE MELVILLE ET MARGUERITE DURAND",
+      "arc_adresse": "79 RUE NATIONALE",
+      "cp": "75013",
+      "idpw": "PW0221",
+      "nombre_de_borne_wifi": 3,
+      "etat2": "Opérationnel",
+      "geo_shape": {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [
+            2.3664399118366863,
+            48.82678697107449
+          ],
+          "type": "Point"
+        },
+        "properties": {}
+      },
+      "geo_point_2d": {
+        "lon": 2.3664399118366863,
+        "lat": 48.82678697107449
+      }
+    },
+    {
+      "nom_site": "BIBLIOTHEQUE VACLAV HAVEL",
+      "arc_adresse": "26B RUE PAJOL",
+      "cp": "75018",
+      "idpw": "PW0009",
+      "nombre_de_borne_wifi": 4,
+      "etat2": "Opérationnel",
+      "geo_shape": {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [
+            2.3632099736311223,
+            48.89010615413496
+          ],
+          "type": "Point"
+        },
+        "properties": {}
+      },
+      "geo_point_2d": {
+        "lon": 2.3632099736311223,
+        "lat": 48.89010615413496
+      }
+    },
+    {
+      "nom_site": "PARC DE CHOISY",
+      "arc_adresse": "160 AVENUE DE CHOISY",
+      "cp": "75013",
+      "idpw": "PW0157",
+      "nombre_de_borne_wifi": 2,
+      "etat2": "Opérationnel",
+      "geo_shape": {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [
+            2.358626737402552,
+            48.82818582306962
+          ],
+          "type": "Point"
+        },
+        "properties": {}
+      },
+      "geo_point_2d": {
+        "lon": 2.358626737402552,
+        "lat": 48.82818582306962
+      }
+    },
+    {
+      "nom_site": "PISCINE JEAN BOITEUX",
+      "arc_adresse": "13 RUE ANTOINE JULIEN HENARD",
+      "cp": "75012",
+      "idpw": "PW0106",
+      "nombre_de_borne_wifi": 1,
+      "etat2": "Opérationnel",
+      "geo_shape": {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [
+            2.3893977890114995,
+            48.84214721269366
+          ],
+          "type": "Point"
+        },
+        "properties": {}
+      },
+      "geo_point_2d": {
+        "lon": 2.3893977890114995,
+        "lat": 48.84214721269366
+      }
+    },
+    {
+      "nom_site": "BERGES RIVE DROITE - PONT NOTRE DAME",
+      "arc_adresse": "BERGE DE SEINE RIVE DROITE -  QUAI DE GESVRES 2",
+      "cp": "75004",
+      "idpw": "PW0181",
+      "nombre_de_borne_wifi": 1,
+      "etat2": "Opérationnel",
+      "geo_shape": {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [
+            2.3489230003257022,
+            48.85668757090017
+          ],
+          "type": "Point"
+        },
+        "properties": {}
+      },
+      "geo_point_2d": {
+        "lon": 2.3489230003257022,
+        "lat": 48.85668757090017
+      }
+    },
+    {
+      "nom_site": "SQUARE JEAN XXIII - 2",
+      "arc_adresse": "3 Rue du Cloître Notre-Dame",
+      "cp": "75004",
+      "idpw": "PW0067",
+      "nombre_de_borne_wifi": 0,
+      "etat2": "Non opérationnel",
+      "geo_shape": {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [
+            2.3507959620076813,
+            48.85250147506818
+          ],
+          "type": "Point"
+        },
+        "properties": {}
+      },
+      "geo_point_2d": {
+        "lon": 2.3507959620076813,
+        "lat": 48.85250147506818
+      }
+    },
+    {
+      "nom_site": "MAISON DE LA VIE ASSOCIATIVE ET CITOYENNE  11",
+      "arc_adresse": "8 RUE DU GENERAL RENAULT",
+      "cp": "75011",
+      "idpw": "PW0029",
+      "nombre_de_borne_wifi": 2,
+      "etat2": "Opérationnel",
+      "geo_shape": {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [
+            2.3785024756759645,
+            48.86126592554234
+          ],
+          "type": "Point"
+        },
+        "properties": {}
+      },
+      "geo_point_2d": {
+        "lon": 2.3785024756759645,
+        "lat": 48.86126592554234
+      }
+    },
+    {
+      "nom_site": "MAISON DE LA VIE ASSOCIATIVE ET CITOYENNE  17",
+      "arc_adresse": "25 RUE LANTIEZ",
+      "cp": "75017",
+      "idpw": "PW0042",
+      "nombre_de_borne_wifi": 1,
+      "etat2": "Opérationnel",
+      "geo_shape": {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [
+            2.323751423106822,
+            48.89503066621167
+          ],
+          "type": "Point"
+        },
+        "properties": {}
+      },
+      "geo_point_2d": {
+        "lon": 2.323751423106822,
+        "lat": 48.89503066621167
+      }
+    },
+    {
+      "nom_site": "BASE NAUTIQUE DE LA VILLETTE",
+      "arc_adresse": "41 QUAI DE LA LOIRE",
+      "cp": "75019",
+      "idpw": "PW0078",
+      "nombre_de_borne_wifi": 1,
+      "etat2": "Opérationnel",
+      "geo_shape": {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [
+            2.378891594800032,
+            48.88752363166016
+          ],
+          "type": "Point"
+        },
+        "properties": {}
+      },
+      "geo_point_2d": {
+        "lon": 2.378891594800032,
+        "lat": 48.88752363166016
+      }
+    },
+    {
+      "nom_site": "CENTRE SPORTIF JULES LADOUMEGUE",
+      "arc_adresse": "37 Route des Petits Ponts",
+      "cp": "75019",
+      "idpw": "PW0083",
+      "nombre_de_borne_wifi": 2,
+      "etat2": "Opérationnel",
+      "geo_shape": {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [
+            2.3977875069644603,
+            48.893005176977596
+          ],
+          "type": "Point"
+        },
+        "properties": {}
+      },
+      "geo_point_2d": {
+        "lon": 2.3977875069644603,
+        "lat": 48.893005176977596
+      }
+    },
+    {
+      "nom_site": "SQUARE FREDERIC LEMAITRE",
+      "arc_adresse": "35 QUAI DE JEMMAPES",
+      "cp": "75010",
+      "idpw": "PW0197",
+      "nombre_de_borne_wifi": 1,
+      "etat2": "Opérationnel",
+      "geo_shape": {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [
+            2.3671123302517154,
+            48.87883863164687
+          ],
+          "type": "Point"
+        },
+        "properties": {}
+      },
+      "geo_point_2d": {
+        "lon": 2.3671123302517154,
+        "lat": 48.87883863164687
+      }
+    },
+    {
+      "nom_site": "BERGES RIVE GAUCHE - JARDIN FLOTTANT",
+      "arc_adresse": "84 Quai d'Orsay",
+      "cp": "75007",
+      "idpw": "PW0189",
+      "nombre_de_borne_wifi": 2,
+      "etat2": "Opérationnel",
+      "geo_shape": {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [
+            2.304524681937941,
+            48.86296417505911
+          ],
+          "type": "Point"
+        },
+        "properties": {}
+      },
+      "geo_point_2d": {
+        "lon": 2.304524681937941,
+        "lat": 48.86296417505911
+      }
+    },
+    {
+      "nom_site": "BIBLIOTHEQUE CRIMEE",
+      "arc_adresse": "42-44 RUE PETIT",
+      "cp": "75019",
+      "idpw": "PW0004",
+      "nombre_de_borne_wifi": 1,
+      "etat2": "Opérationnel",
+      "geo_shape": {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [
+            2.383050187514214,
+            48.8848820163643
+          ],
+          "type": "Point"
+        },
+        "properties": {}
+      },
+      "geo_point_2d": {
+        "lon": 2.383050187514214,
+        "lat": 48.8848820163643
+      }
+    },
+    {
+      "nom_site": "BIBLIOTHEQUE MARGUERITE YOURCENAR",
+      "arc_adresse": "41 RUE D ALLERAY",
+      "cp": "75015",
+      "idpw": "PW0046",
+      "nombre_de_borne_wifi": 7,
+      "etat2": "Opérationnel",
+      "geo_shape": {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [
+            2.3034808021788145,
+            48.83680692102482
+          ],
+          "type": "Point"
+        },
+        "properties": {}
+      },
+      "geo_point_2d": {
+        "lon": 2.3034808021788145,
+        "lat": 48.83680692102482
+      }
+    },
+    {
+      "nom_site": "BIBLIOTHEQUE MUSSET",
+      "arc_adresse": "20 RUE MUSSET",
+      "cp": "75016",
+      "idpw": "PW0140",
+      "nombre_de_borne_wifi": 1,
+      "etat2": "Opérationnel",
+      "geo_shape": {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [
+            2.263539698646935,
+            48.84208223736807
+          ],
+          "type": "Point"
+        },
+        "properties": {}
+      },
+      "geo_point_2d": {
+        "lon": 2.263539698646935,
+        "lat": 48.84208223736807
+      }
+    },
+    {
+      "nom_site": "SQUARE CLAUDE BERNARD",
+      "arc_adresse": "176 BOULEVARD MACDONALD",
+      "cp": "75019",
+      "idpw": "PW0209",
+      "nombre_de_borne_wifi": 1,
+      "etat2": "Opérationnel",
+      "geo_shape": {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [
+            2.3815835281554016,
+            48.898295887695575
+          ],
+          "type": "Point"
+        },
+        "properties": {}
+      },
+      "geo_point_2d": {
+        "lon": 2.3815835281554016,
+        "lat": 48.898295887695575
+      }
+    },
+    {
+      "nom_site": "SQUARE PAUL GRIMAULT",
+      "arc_adresse": "20 RUE DE LA FONTAINE A MULARD",
+      "cp": "75013",
+      "idpw": "PW0180",
+      "nombre_de_borne_wifi": 1,
+      "etat2": "Opérationnel",
+      "geo_shape": {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [
+            2.3487751245987023,
+            48.82304357972498
+          ],
+          "type": "Point"
+        },
+        "properties": {}
+      },
+      "geo_point_2d": {
+        "lon": 2.3487751245987023,
+        "lat": 48.82304357972498
+      }
+    },
+    {
+      "nom_site": "MAISON DE LA VIE ASSOCIATIVE ET CITOYENNE QUARTIER LATIN 5",
+      "arc_adresse": "4 RUE DES ARENES",
+      "cp": "75005",
+      "idpw": "PW0026",
+      "nombre_de_borne_wifi": 2,
+      "etat2": "Opérationnel",
+      "geo_shape": {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [
+            2.3542064419028152,
+            48.8451121921689
+          ],
+          "type": "Point"
+        },
+        "properties": {}
+      },
+      "geo_point_2d": {
+        "lon": 2.3542064419028152,
+        "lat": 48.8451121921689
+      }
+    },
+    {
+      "nom_site": "MAISON DE LA VIE ASSOCIATIVE ET CITOYENNE  19",
+      "arc_adresse": "20 RUE EDOUARD PAILLERON",
+      "cp": "75019",
+      "idpw": "PW0033",
+      "nombre_de_borne_wifi": 1,
+      "etat2": "Opérationnel",
+      "geo_shape": {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [
+            2.376545106225318,
+            48.880406153498065
+          ],
+          "type": "Point"
+        },
+        "properties": {}
+      },
+      "geo_point_2d": {
+        "lon": 2.376545106225318,
+        "lat": 48.880406153498065
+      }
+    },
+    {
+      "nom_site": "HOTEL DE VILLE 3EME",
+      "arc_adresse": "4 PLACE DE L HOTEL DE VILLE",
+      "cp": "75004",
+      "idpw": "PW0122-4",
+      "nombre_de_borne_wifi": 3,
+      "etat2": "Opérationnel",
+      "geo_shape": {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [
+            2.3529017859850048,
+            48.856328013556855
+          ],
+          "type": "Point"
+        },
+        "properties": {}
+      },
+      "geo_point_2d": {
+        "lon": 2.3529017859850048,
+        "lat": 48.856328013556855
+      }
+    },
+    {
+      "nom_site": "MUSEE D ART MODERNE",
+      "arc_adresse": "11 Avenue du Président Wilson",
+      "cp": "75016",
+      "idpw": "PW0211",
+      "nombre_de_borne_wifi": 13,
+      "etat2": "Opérationnel",
+      "geo_shape": {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [
+            2.296997336665014,
+            48.864710182344766
+          ],
+          "type": "Point"
+        },
+        "properties": {}
+      },
+      "geo_point_2d": {
+        "lon": 2.296997336665014,
+        "lat": 48.864710182344766
+      }
+    },
+    {
+      "nom_site": "FOURRIERE CHEVALERET",
+      "arc_adresse": "5 SQUARE DUNOIS",
+      "cp": "75013",
+      "idpw": "PW0225",
+      "nombre_de_borne_wifi": 1,
+      "etat2": "Opérationnel",
+      "geo_shape": {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [
+            2.366942112192092,
+            48.833753192433
+          ],
+          "type": "Point"
+        },
+        "properties": {}
+      },
+      "geo_point_2d": {
+        "lon": 2.366942112192092,
+        "lat": 48.833753192433
+      }
+    },
+    {
+      "nom_site": "PERMIS DE CONSTRUIRE - USAGER",
+      "arc_adresse": "6 PLACE LEVI STRAUSS",
+      "cp": "75013",
+      "idpw": "PW0223",
+      "nombre_de_borne_wifi": 1,
+      "etat2": "Opérationnel",
+      "geo_shape": {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [
+            2.3752863240245206,
+            48.830418305303915
+          ],
+          "type": "Point"
+        },
+        "properties": {}
+      },
+      "geo_point_2d": {
+        "lon": 2.3752863240245206,
+        "lat": 48.830418305303915
+      }
+    },
+    {
+      "nom_site": "MUSEE GALLIERA",
+      "arc_adresse": "10 Avenue Pierre Ier de Serbie",
+      "cp": "75016",
+      "idpw": "PW0229",
+      "nombre_de_borne_wifi": 17,
+      "etat2": "Opérationnel",
+      "geo_shape": {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [
+            2.296493860761189,
+            48.865911786560694
+          ],
+          "type": "Point"
+        },
+        "properties": {}
+      },
+      "geo_point_2d": {
+        "lon": 2.296493860761189,
+        "lat": 48.865911786560694
+      }
+    },
+    {
+      "nom_site": "GYMNASE VIGNOLES EST",
+      "arc_adresse": "83-91 RUE DES HAIES",
+      "cp": "75020",
+      "idpw": "PW0073",
+      "nombre_de_borne_wifi": 1,
+      "etat2": "Opérationnel",
+      "geo_shape": {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [
+            2.4039028856049716,
+            48.85524049982196
+          ],
+          "type": "Point"
+        },
+        "properties": {}
+      },
+      "geo_point_2d": {
+        "lon": 2.4039028856049716,
+        "lat": 48.85524049982196
+      }
+    },
+    {
+      "nom_site": "CS JACQUELINE AURIOL",
+      "arc_adresse": "7 ALLEE LOUIS DE FUNES",
+      "cp": "75008",
+      "idpw": "PW0095",
+      "nombre_de_borne_wifi": 1,
+      "etat2": "Opérationnel",
+      "geo_shape": {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [
+            2.3046267190218033,
+            48.87536457154314
+          ],
+          "type": "Point"
+        },
+        "properties": {}
+      },
+      "geo_point_2d": {
+        "lon": 2.3046267190218033,
+        "lat": 48.87536457154314
+      }
+    },
+    {
+      "nom_site": "BIBLIOTHEQUE AIME CESAIRE",
+      "arc_adresse": "5 RUE DE RIDDER",
+      "cp": "75014",
+      "idpw": "PW0053",
+      "nombre_de_borne_wifi": 3,
+      "etat2": "Opérationnel",
+      "geo_shape": {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [
+            2.311662332111939,
+            48.83123124818045
+          ],
+          "type": "Point"
+        },
+        "properties": {}
+      },
+      "geo_point_2d": {
+        "lon": 2.311662332111939,
+        "lat": 48.83123124818045
+      }
+    },
+    {
+      "nom_site": "BIBLIOTHEQUE ASSIA DJEBARD",
+      "arc_adresse": "1 RUE REYNALDO HAHN",
+      "cp": "75020",
+      "idpw": "PW0144",
+      "nombre_de_borne_wifi": 6,
+      "etat2": "Opérationnel",
+      "geo_shape": {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [
+            2.4120981583353163,
+            48.8492339971869
+          ],
+          "type": "Point"
+        },
+        "properties": {}
+      },
+      "geo_point_2d": {
+        "lon": 2.4120981583353163,
+        "lat": 48.8492339971869
+      }
+    },
+    {
+      "nom_site": "JARDIN D EOLE - 1",
+      "arc_adresse": "18B RUE DU DEPARTEMENT",
+      "cp": "75018",
+      "idpw": "PW0170",
+      "nombre_de_borne_wifi": 2,
+      "etat2": "Opérationnel",
+      "geo_shape": {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [
+            2.36547579719454,
+            48.88645056943661
+          ],
+          "type": "Point"
+        },
+        "properties": {}
+      },
+      "geo_point_2d": {
+        "lon": 2.36547579719454,
+        "lat": 48.88645056943661
+      }
+    },
+    {
+      "nom_site": "MAIRIE DU 2 EME",
+      "arc_adresse": "8 Rue de la Banque",
+      "cp": "75002",
+      "idpw": "PW0034",
+      "nombre_de_borne_wifi": 0,
+      "etat2": "Non opérationnel",
+      "geo_shape": {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [
+            2.3404507998913706,
+            48.86683452754676
+          ],
+          "type": "Point"
+        },
+        "properties": {}
+      },
+      "geo_point_2d": {
+        "lon": 2.3404507998913706,
+        "lat": 48.86683452754676
+      }
+    },
+    {
+      "nom_site": "MAIRIE DU 6 EME",
+      "arc_adresse": "78 Rue Bonaparte",
+      "cp": "75006",
+      "idpw": "PW0128",
+      "nombre_de_borne_wifi": 6,
+      "etat2": "Opérationnel",
+      "geo_shape": {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [
+            2.33261137019337,
+            48.850536526897756
+          ],
+          "type": "Point"
+        },
+        "properties": {}
+      },
+      "geo_point_2d": {
+        "lon": 2.33261137019337,
+        "lat": 48.850536526897756
+      }
+    },
+    {
+      "nom_site": "PARC DE BELLEVILLE - 1",
+      "arc_adresse": "45 RUE DES COURONNES",
+      "cp": "75020",
+      "idpw": "PW0057",
+      "nombre_de_borne_wifi": 1,
+      "etat2": "Opérationnel",
+      "geo_shape": {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [
+            2.384237750061386,
+            48.87059046386752
+          ],
+          "type": "Point"
+        },
+        "properties": {}
+      },
+      "geo_point_2d": {
+        "lon": 2.384237750061386,
+        "lat": 48.87059046386752
+      }
+    },
+    {
+      "nom_site": "PARC DE BERCY (TERRASSE BERCY)",
+      "arc_adresse": "1 COUR CHAMONARD",
+      "cp": "75012",
+      "idpw": "PW0058-3",
+      "nombre_de_borne_wifi": 2,
+      "etat2": "Opérationnel",
+      "geo_shape": {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [
+            2.3823502436999653,
+            48.836810713488546
+          ],
+          "type": "Point"
+        },
+        "properties": {}
+      },
+      "geo_point_2d": {
+        "lon": 2.3823502436999653,
+        "lat": 48.836810713488546
+      }
+    },
+    {
+      "nom_site": "BERGES RIVE DROITE - PONT D ARCOLE",
+      "arc_adresse": "BERGE DE SEINE RIVE DROITE - QUAI DE GESVRES",
+      "cp": "75004",
+      "idpw": "PW0156",
+      "nombre_de_borne_wifi": 1,
+      "etat2": "Opérationnel",
+      "geo_shape": {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [
+            2.350834661285839,
+            48.8558319847793
+          ],
+          "type": "Point"
+        },
+        "properties": {}
+      },
+      "geo_point_2d": {
+        "lon": 2.350834661285839,
+        "lat": 48.8558319847793
+      }
+    },
+    {
+      "nom_site": "SQUARE HENRI CADIOU",
+      "arc_adresse": "69 BOULEVARD ARAGO",
+      "cp": "75013",
+      "idpw": "PW0172",
+      "nombre_de_borne_wifi": 2,
+      "etat2": "Opérationnel",
+      "geo_shape": {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [
+            2.342222542830244,
+            48.834649048099344
+          ],
+          "type": "Point"
+        },
+        "properties": {}
+      },
+      "geo_point_2d": {
+        "lon": 2.342222542830244,
+        "lat": 48.834649048099344
+      }
+    },
+    {
+      "nom_site": "HOTEL DE VILLE 2EME",
+      "arc_adresse": "3 Rue de Lobau",
+      "cp": "75004",
+      "idpw": "PW0122-3",
+      "nombre_de_borne_wifi": 5,
+      "etat2": "Opérationnel",
+      "geo_shape": {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [
+            2.352685785891045,
+            48.856026090464944
+          ],
+          "type": "Point"
+        },
+        "properties": {}
+      },
+      "geo_point_2d": {
+        "lon": 2.352685785891045,
+        "lat": 48.856026090464944
+      }
+    },
+    {
+      "nom_site": "POINT PARIS EMPLOI",
+      "arc_adresse": "12 RUE PIERRE CASTAGNOU",
+      "cp": "75014",
+      "idpw": "PW0195",
+      "nombre_de_borne_wifi": 1,
+      "etat2": "Opérationnel",
+      "geo_shape": {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [
+            2.325814319838129,
+            48.83252306871405
+          ],
+          "type": "Point"
+        },
+        "properties": {}
+      },
+      "geo_point_2d": {
+        "lon": 2.325814319838129,
+        "lat": 48.83252306871405
+      }
+    },
+    {
+      "nom_site": "LES CATACOMBES DE PARIS",
+      "arc_adresse": "1 TER PLACE DENFERT ROCHEREAU",
+      "cp": "75014",
+      "idpw": "PW0239",
+      "nombre_de_borne_wifi": 2,
+      "etat2": "Opérationnel",
+      "geo_shape": {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [
+            2.332369291641684,
+            48.83379546023932
+          ],
+          "type": "Point"
+        },
+        "properties": {}
+      },
+      "geo_point_2d": {
+        "lon": 2.332369291641684,
+        "lat": 48.83379546023932
+      }
+    },
+    {
+      "nom_site": "GYMNASE ALTHEA GIBSON",
+      "arc_adresse": "15 Rue Baron Le Roy",
+      "cp": "75012",
+      "idpw": "PW0294",
+      "nombre_de_borne_wifi": 0,
+      "etat2": "Non opérationnel",
+      "geo_shape": {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [
+            2.3875042240537474,
+            48.83518753753399
+          ],
+          "type": "Point"
+        },
+        "properties": {}
+      },
+      "geo_point_2d": {
+        "lon": 2.3875042240537474,
+        "lat": 48.83518753753399
+      }
+    },
+    {
+      "nom_site": "CENTRE SPORTIF POLIVEAU",
+      "arc_adresse": "39 B RUE POLIVEAU",
+      "cp": "75005",
+      "idpw": "PW0090",
+      "nombre_de_borne_wifi": 1,
+      "etat2": "Opérationnel",
+      "geo_shape": {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [
+            2.357480751841144,
+            48.839812146078
+          ],
+          "type": "Point"
+        },
+        "properties": {}
+      },
+      "geo_point_2d": {
+        "lon": 2.357480751841144,
+        "lat": 48.839812146078
+      }
+    },
+    {
+      "nom_site": "BIBLIOTHEQUE CLAUDE LEVI STRAUSS",
+      "arc_adresse": "35-45 AVENUE DE FLANDRE",
+      "cp": "75019",
+      "idpw": "PW0002",
+      "nombre_de_borne_wifi": 2,
+      "etat2": "Opérationnel",
+      "geo_shape": {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [
+            2.371473050466415,
+            48.88676697087046
+          ],
+          "type": "Point"
+        },
+        "properties": {}
+      },
+      "geo_point_2d": {
+        "lon": 2.371473050466415,
+        "lat": 48.88676697087046
+      }
+    },
+    {
+      "nom_site": "BIBLIOTHEQUE VAUGIRARD",
+      "arc_adresse": "154 RUE LECOURBE",
+      "cp": "75015",
+      "idpw": "PW0137",
+      "nombre_de_borne_wifi": 2,
+      "etat2": "Opérationnel",
+      "geo_shape": {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [
+            2.2993503219976077,
+            48.84170750668818
+          ],
+          "type": "Point"
+        },
+        "properties": {}
+      },
+      "geo_point_2d": {
+        "lon": 2.2993503219976077,
+        "lat": 48.84170750668818
+      }
+    },
+    {
+      "nom_site": "MAIRIE DU 10 EME",
+      "arc_adresse": "72 Rue du Faubourg Saint-Martin",
+      "cp": "75010",
+      "idpw": "PW0010",
+      "nombre_de_borne_wifi": 11,
+      "etat2": "Opérationnel",
+      "geo_shape": {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [
+            2.3573826449486224,
+            48.871784511903044
+          ],
+          "type": "Point"
+        },
+        "properties": {}
+      },
+      "geo_point_2d": {
+        "lon": 2.3573826449486224,
+        "lat": 48.871784511903044
+      }
+    },
+    {
+      "nom_site": "SQUARE JEAN XXIII - 1",
+      "arc_adresse": "RUE DU CLOITRE NOTRE DAME",
+      "cp": "75004",
+      "idpw": null,
+      "nombre_de_borne_wifi": 1,
+      "etat2": "Fermé pour travaux",
+      "geo_shape": {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [
+            2.3506706078141533,
+            48.852442001347775
+          ],
+          "type": "Point"
+        },
+        "properties": {}
+      },
+      "geo_point_2d": {
+        "lon": 2.3506706078141533,
+        "lat": 48.852442001347775
+      }
+    },
+    {
+      "nom_site": "MAIRIE DU 8 EME",
+      "arc_adresse": "3 Rue de Lisbonne",
+      "cp": "75008",
+      "idpw": "PW0024",
+      "nombre_de_borne_wifi": 2,
+      "etat2": "Opérationnel",
+      "geo_shape": {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [
+            2.3174864787234464,
+            48.87775138401691
+          ],
+          "type": "Point"
+        },
+        "properties": {}
+      },
+      "geo_point_2d": {
+        "lon": 2.3174864787234464,
+        "lat": 48.87775138401691
+      }
+    },
+    {
+      "nom_site": "MAISON DE LA VIE ASSOCIATIVE ET CITOYENNE  8",
+      "arc_adresse": "28 RUE LAURE DIEBOLD",
+      "cp": "75008",
+      "idpw": "PW0047",
+      "nombre_de_borne_wifi": 2,
+      "etat2": "Opérationnel",
+      "geo_shape": {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [
+            2.304784825574433,
+            48.87602928391507
+          ],
+          "type": "Point"
+        },
+        "properties": {}
+      },
+      "geo_point_2d": {
+        "lon": 2.304784825574433,
+        "lat": 48.87602928391507
+      }
+    },
+    {
+      "nom_site": "MAISON DES ACTEURS DU PARIS DURABLE",
+      "arc_adresse": "21 Rue des Blancs Manteaux",
+      "cp": "75004",
+      "idpw": "PW0192",
+      "nombre_de_borne_wifi": 3,
+      "etat2": "Opérationnel",
+      "geo_shape": {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [
+            2.356872775538012,
+            48.859049656740694
+          ],
+          "type": "Point"
+        },
+        "properties": {}
+      },
+      "geo_point_2d": {
+        "lon": 2.356872775538012,
+        "lat": 48.859049656740694
+      }
+    },
+    {
+      "nom_site": "MUSEE DE LA LIBERATION",
+      "arc_adresse": "4 Avenue du Colonel Henri Rol-Tanguy",
+      "cp": "75014",
+      "idpw": "PW0201",
+      "nombre_de_borne_wifi": 6,
+      "etat2": "Opérationnel",
+      "geo_shape": {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [
+            2.332014460030507,
+            48.833990634788535
+          ],
+          "type": "Point"
+        },
+        "properties": {}
+      },
+      "geo_point_2d": {
+        "lon": 2.332014460030507,
+        "lat": 48.833990634788535
+      }
+    },
+    {
+      "nom_site": "PREFOURRIERE BALARD",
+      "arc_adresse": "1 Rue Ernest Hemingway",
+      "cp": "75015",
+      "idpw": "PW0228",
+      "nombre_de_borne_wifi": 0,
+      "etat2": "Non opérationnel",
+      "geo_shape": {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [
+            2.2751760071556393,
+            48.83759553433299
+          ],
+          "type": "Point"
+        },
+        "properties": {}
+      },
+      "geo_point_2d": {
+        "lon": 2.2751760071556393,
+        "lat": 48.83759553433299
+      }
+    },
+    {
+      "nom_site": "EPI FLANDRE",
+      "arc_adresse": "114 AVENUE DE FLANDRE",
+      "cp": "75019",
+      "idpw": "PW0234",
+      "nombre_de_borne_wifi": 1,
+      "etat2": "Opérationnel",
+      "geo_shape": {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [
+            2.3789180285666114,
+            48.8919537187792
+          ],
+          "type": "Point"
+        },
+        "properties": {}
+      },
+      "geo_point_2d": {
+        "lon": 2.3789180285666114,
+        "lat": 48.8919537187792
+      }
+    },
+    {
+      "nom_site": "LABORATOIRE D'HYGIENE EASTMAN",
+      "arc_adresse": "11 Rue George Eastman",
+      "cp": "75013",
+      "idpw": "PW0259",
+      "nombre_de_borne_wifi": 3,
+      "etat2": "Opérationnel",
+      "geo_shape": {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [
+            2.3591420121130295,
+            48.82884914255054
+          ],
+          "type": "Point"
+        },
+        "properties": {}
+      },
+      "geo_point_2d": {
+        "lon": 2.3591420121130295,
+        "lat": 48.82884914255054
+      }
+    },
+    {
+      "nom_site": "PISCINE VALLEREY",
+      "arc_adresse": "148 Avenue Gambetta",
+      "cp": "75020",
+      "idpw": "PW0263",
+      "nombre_de_borne_wifi": 6,
+      "etat2": "Opérationnel",
+      "geo_shape": {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [
+            2.4062592567964183,
+            48.87541407168812
+          ],
+          "type": "Point"
+        },
+        "properties": {}
+      },
+      "geo_point_2d": {
+        "lon": 2.4062592567964183,
+        "lat": 48.87541407168812
+      }
+    },
+    {
+      "nom_site": "CHAI DE BERCY",
+      "arc_adresse": "40 Rue Paul Belmondo",
+      "cp": "75012",
+      "idpw": "PW0288",
+      "nombre_de_borne_wifi": 3,
+      "etat2": "Opérationnel",
+      "geo_shape": {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [
+            2.382689370106918,
+            48.836233491894454
+          ],
+          "type": "Point"
+        },
+        "properties": {}
+      },
+      "geo_point_2d": {
+        "lon": 2.382689370106918,
+        "lat": 48.836233491894454
+      }
+    },
+    {
+      "nom_site": "ATELIER DES BEAUX ARTS LA CHAPELLE",
+      "arc_adresse": "7 Rue Pierre Mauroy",
+      "cp": "75018",
+      "idpw": "PW0290",
+      "nombre_de_borne_wifi": 2,
+      "etat2": "Opérationnel",
+      "geo_shape": {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [
+            2.3580098679702894,
+            48.89541729979819
+          ],
+          "type": "Point"
+        },
+        "properties": {}
+      },
+      "geo_point_2d": {
+        "lon": 2.3580098679702894,
+        "lat": 48.89541729979819
+      }
+    },
+    {
+      "nom_site": "CONSERVATOIRE MUNICIPAL CLAUDE DEBUSSY (CMA17-JONQUIERE)",
+      "arc_adresse": "88 Rue de la Jonquière",
+      "cp": "75017",
+      "idpw": "PW0299",
+      "nombre_de_borne_wifi": 2,
+      "etat2": "Opérationnel",
+      "geo_shape": {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [
+            2.319075735670779,
+            48.894745739226295
+          ],
+          "type": "Point"
+        },
+        "properties": {}
+      },
+      "geo_point_2d": {
+        "lon": 2.319075735670779,
+        "lat": 48.894745739226295
+      }
+    }
+  ]
+}

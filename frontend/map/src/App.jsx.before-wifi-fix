@@ -1,0 +1,435 @@
+import { useEffect, useRef, useState } from "react";
+import * as maplibregl from "maplibre-gl";
+import "maplibre-gl/dist/maplibre-gl.css";
+
+const PARIS = [2.3522, 48.8566];
+
+function App() {
+  const mapContainer = useRef(null);
+  const mapRef = useRef(null);
+
+  const [siteCount, setSiteCount] = useState(0);
+  const [status, setStatus] = useState("Chargement...");
+
+  useEffect(() => {
+    if (mapRef.current) return;
+
+    const map = new maplibregl.Map({
+      container: mapContainer.current,
+      center: PARIS,
+      zoom: 11,
+      style: {
+        version: 8,
+
+        sources: {
+          osm: {
+            type: "raster",
+            tiles: [
+              "https://tile.openstreetmap.org/{z}/{x}/{y}.png"
+            ],
+            tileSize: 256,
+            attribution: "© OpenStreetMap contributors"
+          }
+        },
+
+        layers: [
+          {
+            id: "osm",
+            type: "raster",
+            source: "osm"
+          }
+        ]
+      }
+    });
+
+    mapRef.current = map;
+
+    map.addControl(
+      new maplibregl.NavigationControl(),
+      "top-right"
+    );
+
+    map.on("load", async () => {
+      try {
+        const response = await fetch(
+          "/data/paris_wifi_sites.geojson"
+        );
+
+        if (!response.ok) {
+          throw new Error(
+            `Erreur HTTP ${response.status}`
+          );
+        }
+
+        const geojson = await response.json();
+
+        const features =
+          Array.isArray(geojson.features)
+            ? geojson.features
+            : [];
+
+        setSiteCount(features.length);
+        setStatus("Données chargées");
+
+        map.addSource("paris-wifi", {
+          type: "geojson",
+          data: geojson,
+          cluster: true,
+          clusterRadius: 45,
+          clusterMaxZoom: 14
+        });
+
+        // Clusters
+        map.addLayer({
+          id: "wifi-clusters",
+          type: "circle",
+          source: "paris-wifi",
+
+          filter: [
+            "has",
+            "point_count"
+          ],
+
+          paint: {
+            "circle-color": [
+              "step",
+              ["get", "point_count"],
+              "#2563eb",
+              15,
+              "#7c3aed",
+              30,
+              "#dc2626"
+            ],
+
+            "circle-radius": [
+              "step",
+              ["get", "point_count"],
+              18,
+              15,
+              24,
+              30,
+              30
+            ],
+
+            "circle-stroke-width": 2,
+            "circle-stroke-color": "#ffffff"
+          }
+        });
+
+        // Nombre dans le cluster
+        map.addLayer({
+          id: "wifi-cluster-count",
+          type: "symbol",
+          source: "paris-wifi",
+
+          filter: [
+            "has",
+            "point_count"
+          ],
+
+          layout: {
+            "text-field":
+              "{point_count_abbreviated}",
+
+            "text-size": 13
+          },
+
+          paint: {
+            "text-color": "#ffffff"
+          }
+        });
+
+        // Points Wi-Fi individuels
+        map.addLayer({
+          id: "wifi-points",
+          type: "circle",
+          source: "paris-wifi",
+
+          filter: [
+            "!",
+            ["has", "point_count"]
+          ],
+
+          paint: {
+            "circle-radius": 7,
+            "circle-color": "#16a34a",
+            "circle-stroke-width": 2,
+            "circle-stroke-color": "#ffffff"
+          }
+        });
+
+        // Zoom sur un cluster
+        map.on(
+          "click",
+          "wifi-clusters",
+          async (event) => {
+            const feature =
+              event.features?.[0];
+
+            if (!feature) return;
+
+            const clusterId =
+              feature.properties.cluster_id;
+
+            const source =
+              map.getSource("paris-wifi");
+
+            const zoom =
+              await source.getClusterExpansionZoom(
+                clusterId
+              );
+
+            map.easeTo({
+              center:
+                feature.geometry.coordinates,
+              zoom
+            });
+          }
+        );
+
+        // Popup site Wi-Fi
+        map.on(
+          "click",
+          "wifi-points",
+          (event) => {
+            const feature =
+              event.features?.[0];
+
+            if (!feature) return;
+
+            const p =
+              feature.properties ?? {};
+
+            const coordinates =
+              feature.geometry.coordinates.slice();
+
+            new maplibregl.Popup({
+              offset: 12
+            })
+              .setLngLat(coordinates)
+              .setHTML(`
+                <div class="wifi-popup">
+
+                  <div class="popup-badge">
+                    PARIS WI-FI
+                  </div>
+
+                  <h3>
+                    ${p.name ?? "Site Wi-Fi"}
+                  </h3>
+
+                  <p>
+                    <strong>Adresse</strong><br>
+                    ${p.address ?? "N/A"}
+                    ${p.postal_code ?? ""}
+                  </p>
+
+                  <p>
+                    <strong>État</strong><br>
+                    ${p.status ?? "N/A"}
+                  </p>
+
+                  <p>
+                    <strong>Bornes Wi-Fi</strong><br>
+                    ${p.wifi_access_points ?? "N/A"}
+                  </p>
+
+                  <p>
+                    <strong>Source</strong><br>
+                    ${p.source ?? "Paris Open Data"}
+                  </p>
+
+                  <p>
+                    <strong>Coordonnées</strong><br>
+                    ${coordinates[1].toFixed(5)},
+                    ${coordinates[0].toFixed(5)}
+                  </p>
+
+                </div>
+              `)
+              .addTo(map);
+          }
+        );
+
+        // Curseur interactif
+        for (const layer of [
+          "wifi-points",
+          "wifi-clusters"
+        ]) {
+          map.on(
+            "mouseenter",
+            layer,
+            () => {
+              map.getCanvas().style.cursor =
+                "pointer";
+            }
+          );
+
+          map.on(
+            "mouseleave",
+            layer,
+            () => {
+              map.getCanvas().style.cursor =
+                "";
+            }
+          );
+        }
+
+        // Zoom automatique sur l'ensemble
+        // des points de Paris
+        const bounds =
+          new maplibregl.LngLatBounds();
+
+        features.forEach((feature) => {
+          if (
+            feature.geometry?.type ===
+            "Point"
+          ) {
+            bounds.extend(
+              feature.geometry.coordinates
+            );
+          }
+        });
+
+        if (!bounds.isEmpty()) {
+          map.fitBounds(bounds, {
+            padding: 50,
+            maxZoom: 12.8,
+            duration: 1200
+          });
+        }
+
+      } catch (error) {
+        console.error(error);
+
+        setStatus(
+          "Erreur de chargement"
+        );
+      }
+    });
+
+    return () => {
+      map.remove();
+      mapRef.current = null;
+    };
+  }, []);
+
+  return (
+    <div className="app">
+
+      <header className="topbar">
+
+        <div>
+          <div className="eyebrow">
+            NETWORK INTELLIGENCE
+          </div>
+
+          <h1>
+            NetGuardian Paris
+          </h1>
+        </div>
+
+        <div className="system-status">
+
+          <span className="green-dot" />
+
+          <div>
+            <strong>
+              {status}
+            </strong>
+
+            <small>
+              {siteCount} sites Wi-Fi
+            </small>
+          </div>
+
+        </div>
+
+      </header>
+
+      <main className="workspace">
+
+        <aside className="sidebar">
+
+          <h2>
+            Network Layers
+          </h2>
+
+          <div className="layer active">
+            📶
+
+            <div>
+              <strong>
+                Paris Wi-Fi
+              </strong>
+
+              <small>
+                {siteCount} sites
+              </small>
+            </div>
+          </div>
+
+          <div className="layer future">
+            📡 Antennes ANFR
+          </div>
+
+          <div className="layer future">
+            📱 ARCEP Mobile
+          </div>
+
+          <div className="layer future">
+            🌐 RIPE Atlas
+          </div>
+
+          <div className="layer future">
+            🏢 PeeringDB
+          </div>
+
+          <div className="layer future">
+            🔀 France-IX
+          </div>
+
+          <div className="layer future">
+            🧭 BGP / RIPEstat
+          </div>
+
+          <div className="legend">
+
+            <h3>
+              Data provenance
+            </h3>
+
+            <p>
+              🟢 Public declaration
+            </p>
+
+            <p>
+              🔵 Observed
+            </p>
+
+            <p>
+              🟠 Inferred
+            </p>
+
+            <p>
+              🟣 Simulated
+            </p>
+
+          </div>
+
+        </aside>
+
+        <section className="map-area">
+          <div
+            ref={mapContainer}
+            className="map"
+          />
+        </section>
+
+      </main>
+
+    </div>
+  );
+}
+
+export default App;
