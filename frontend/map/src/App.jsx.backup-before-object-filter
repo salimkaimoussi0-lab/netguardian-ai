@@ -14,9 +14,7 @@ function safe(value, fallback = "Non disponible") {
 
 function arrayText(value) {
   if (Array.isArray(value)) {
-    return value.length
-      ? value.join(", ")
-      : "Non disponible";
+    return value.length ? value.join(", ") : "Non disponible";
   }
 
   if (typeof value === "string") {
@@ -50,16 +48,6 @@ function App() {
 
   const [wifiVisible, setWifiVisible] = useState(true);
   const [anfrVisible, setAnfrVisible] = useState(true);
-
-  /*
-   * all
-   * wifi
-   * anfr-legacy
-   * anfr-5g
-   */
-  const [objectFilter, setObjectFilter] = useState("all");
-
-  const [objectsOpen, setObjectsOpen] = useState(false);
 
   const [status, setStatus] = useState("Chargement...");
 
@@ -211,9 +199,7 @@ function App() {
 
                 <div class="popup-row">
                   <strong>État</strong>
-                  <span>
-                    ${safe(p.status)}
-                  </span>
+                  <span>${safe(p.status)}</span>
                 </div>
 
                 <div class="popup-row">
@@ -255,8 +241,7 @@ function App() {
 
           wifiMarkersRef.current.push({
             marker,
-            element: markerElement,
-            category: "wifi"
+            element: markerElement
           });
 
           bounds.extend([
@@ -340,23 +325,21 @@ function App() {
           const statuses =
             arrayText(p.statuses);
 
-          const has5G =
-            generations
-              .toUpperCase()
-              .includes("5G");
-
-          const category =
-            has5G
-              ? "anfr-5g"
-              : "anfr-legacy";
-
           const markerElement =
             document.createElement("div");
 
           markerElement.className =
             "network-marker anfr-marker";
 
-          if (has5G) {
+          /*
+           * Si présence 5G, marqueur spécial.
+           */
+
+          if (
+            generations
+              .toUpperCase()
+              .includes("5G")
+          ) {
             markerElement.classList.add(
               "anfr-5g"
             );
@@ -370,7 +353,7 @@ function App() {
               <div class="network-popup">
 
                 <div class="popup-badge anfr-badge">
-                  ${has5G ? "ANFR 5G SITE" : "ANFR MOBILE SITE"}
+                  ANFR MOBILE SITE
                 </div>
 
                 <h3>
@@ -379,30 +362,22 @@ function App() {
 
                 <div class="popup-row">
                   <strong>Opérateur(s)</strong>
-                  <span>
-                    ${operators}
-                  </span>
+                  <span>${operators}</span>
                 </div>
 
                 <div class="popup-row">
                   <strong>Technologies</strong>
-                  <span>
-                    ${generations}
-                  </span>
+                  <span>${generations}</span>
                 </div>
 
                 <div class="popup-row">
                   <strong>Systèmes</strong>
-                  <span>
-                    ${systems}
-                  </span>
+                  <span>${systems}</span>
                 </div>
 
                 <div class="popup-row">
                   <strong>Statut</strong>
-                  <span>
-                    ${statuses}
-                  </span>
+                  <span>${statuses}</span>
                 </div>
 
                 <div class="popup-row">
@@ -459,8 +434,7 @@ function App() {
 
           anfrMarkersRef.current.push({
             marker,
-            element: markerElement,
-            category
+            element: markerElement
           });
 
           bounds.extend([
@@ -472,6 +446,10 @@ function App() {
         }
 
         setAnfrCount(validAnfr);
+
+        /*
+         * Zoom automatique sur toutes les données.
+         */
 
         if (!bounds.isEmpty()) {
           map.fitBounds(
@@ -516,7 +494,7 @@ function App() {
 
   /*
    * ==========================================
-   * FILTRAGE DES OBJETS RÉSEAU
+   * VISIBILITÉ WI-FI
    * ==========================================
    */
 
@@ -525,82 +503,30 @@ function App() {
       const item
       of wifiMarkersRef.current
     ) {
-      const filterAllows =
-        objectFilter === "all" ||
-        objectFilter === "wifi";
-
       item.element.style.display =
-        wifiVisible && filterAllows
+        wifiVisible
           ? "block"
           : "none";
     }
+  }, [wifiVisible]);
 
+  /*
+   * ==========================================
+   * VISIBILITÉ ANFR
+   * ==========================================
+   */
+
+  useEffect(() => {
     for (
       const item
       of anfrMarkersRef.current
     ) {
-      const filterAllows =
-        objectFilter === "all" ||
-        objectFilter === item.category;
-
       item.element.style.display =
-        anfrVisible && filterAllows
+        anfrVisible
           ? "block"
           : "none";
     }
-  }, [
-    objectFilter,
-    wifiVisible,
-    anfrVisible,
-    wifiCount,
-    anfrCount
-  ]);
-
-  /*
-   * Quand on choisit un Network Object,
-   * on active automatiquement sa couche
-   * et on masque les autres.
-   */
-
-  function selectObjectFilter(filter) {
-    setObjectFilter(filter);
-
-    if (filter === "all") {
-      setWifiVisible(true);
-      setAnfrVisible(true);
-    }
-
-    if (filter === "wifi") {
-      setWifiVisible(true);
-      setAnfrVisible(false);
-    }
-
-    if (
-      filter === "anfr-legacy" ||
-      filter === "anfr-5g"
-    ) {
-      setWifiVisible(false);
-      setAnfrVisible(true);
-    }
-
-    setObjectsOpen(false);
-  }
-
-  function getFilterLabel() {
-    switch (objectFilter) {
-      case "wifi":
-        return "Paris Wi-Fi";
-
-      case "anfr-legacy":
-        return "ANFR 2G/3G/4G";
-
-      case "anfr-5g":
-        return "ANFR 5G";
-
-      default:
-        return "Tous";
-    }
-  }
+  }, [anfrVisible]);
 
   return (
     <div className="app">
@@ -727,112 +653,26 @@ function App() {
             🧭 BGP / RIPEstat
           </div>
 
-          {/*
-            ==========================================
-            NETWORK OBJECT FILTER
-            ==========================================
-          */}
+          <div className="legend">
 
-          <div className="network-object-section">
+            <h3>
+              Network objects
+            </h3>
 
-            <button
-              className="network-object-header"
-              onClick={() =>
-                setObjectsOpen(
-                  !objectsOpen
-                )
-              }
-            >
-              <span>
-                NETWORK OBJECTS
-              </span>
+            <p>
+              <span className="legend-symbol wifi-symbol" />
+              Paris Wi-Fi
+            </p>
 
-              <span className="network-object-current">
-                {getFilterLabel()}
-              </span>
+            <p>
+              <span className="legend-symbol anfr-symbol" />
+              ANFR 2G/3G/4G
+            </p>
 
-              <span className="network-object-arrow">
-                {objectsOpen ? "▲" : "▼"}
-              </span>
-            </button>
-
-            {objectsOpen && (
-              <div className="network-object-menu">
-
-                <button
-                  className={
-                    objectFilter === "all"
-                      ? "object-option selected"
-                      : "object-option"
-                  }
-                  onClick={() =>
-                    selectObjectFilter("all")
-                  }
-                >
-                  <span className="object-icon all-symbol" />
-
-                  <span>
-                    Tous les objets
-                  </span>
-                </button>
-
-                <button
-                  className={
-                    objectFilter === "wifi"
-                      ? "object-option selected"
-                      : "object-option"
-                  }
-                  onClick={() =>
-                    selectObjectFilter("wifi")
-                  }
-                >
-                  <span className="object-icon wifi-symbol" />
-
-                  <span>
-                    Paris Wi-Fi
-                  </span>
-                </button>
-
-                <button
-                  className={
-                    objectFilter === "anfr-legacy"
-                      ? "object-option selected"
-                      : "object-option"
-                  }
-                  onClick={() =>
-                    selectObjectFilter(
-                      "anfr-legacy"
-                    )
-                  }
-                >
-                  <span className="object-icon anfr-symbol" />
-
-                  <span>
-                    ANFR 2G / 3G / 4G
-                  </span>
-                </button>
-
-                <button
-                  className={
-                    objectFilter === "anfr-5g"
-                      ? "object-option selected"
-                      : "object-option"
-                  }
-                  onClick={() =>
-                    selectObjectFilter(
-                      "anfr-5g"
-                    )
-                  }
-                >
-                  <span className="object-icon anfr5-symbol" />
-
-                  <span>
-                    ANFR 5G
-                  </span>
-                </button>
-
-              </div>
-            )}
+            <p>
+              <span className="legend-symbol anfr5-symbol" />
+              ANFR avec 5G
+            </p>
 
           </div>
 

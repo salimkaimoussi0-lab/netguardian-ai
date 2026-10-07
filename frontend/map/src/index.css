@@ -295,3 +295,349 @@ body {
 
   z-index: 1000;
 }
+
+/* ==========================================================
+   NetGuardian network layers
+   ========================================================== */
+
+.network-marker {
+  cursor: pointer;
+
+  border-radius: 50%;
+
+  transition:
+    transform 0.15s ease,
+    opacity 0.15s ease;
+
+  box-shadow:
+    0 2px 8px rgba(0, 0, 0, 0.45);
+}
+
+.network-marker:hover {
+  transform: scale(1.6);
+  z-index: 9999;
+}
+
+/* Paris Wi-Fi */
+
+.wifi-marker {
+  width: 15px;
+  height: 15px;
+
+  background: #ef4444;
+
+  border: 3px solid #ffffff;
+}
+
+/* ANFR */
+
+.anfr-marker {
+  width: 13px;
+  height: 13px;
+
+  background: #2563eb;
+
+  border: 2px solid #ffffff;
+}
+
+/* Site contenant de la 5G */
+
+.anfr-marker.anfr-5g {
+  width: 16px;
+  height: 16px;
+
+  background: #a855f7;
+
+  border: 3px solid #ffffff;
+
+  box-shadow:
+    0 0 0 3px rgba(168, 85, 247, 0.22),
+    0 3px 10px rgba(0, 0, 0, 0.5);
+}
+
+/* Boutons layers */
+
+.layer-button {
+  width: 100%;
+
+  border: 1px solid transparent;
+
+  color: inherit;
+
+  text-align: left;
+
+  cursor: pointer;
+
+  background: transparent;
+}
+
+.layer-button:hover {
+  background:
+    rgba(148, 163, 184, 0.08);
+}
+
+.layer-button.anfr-active {
+  background:
+    rgba(37, 99, 235, 0.18);
+
+  border:
+    1px solid rgba(59, 130, 246, 0.4);
+}
+
+.layer-state {
+  margin-left: auto;
+
+  padding: 2px 6px;
+
+  border-radius: 5px;
+
+  font-size: 9px;
+
+  font-weight: 800;
+
+  background:
+    rgba(34, 197, 94, 0.15);
+
+  color: #4ade80;
+}
+
+/* Legend */
+
+.legend-symbol {
+  display: inline-block;
+
+  width: 10px;
+  height: 10px;
+
+  margin-right: 7px;
+
+  border-radius: 50%;
+
+  vertical-align: middle;
+}
+
+.wifi-symbol {
+  background: #ef4444;
+}
+
+.anfr-symbol {
+  background: #2563eb;
+}
+
+.anfr5-symbol {
+  background: #a855f7;
+}
+
+/* Popup */
+
+.network-popup {
+  max-width: 340px;
+}
+
+.network-popup h3 {
+  margin:
+    9px
+    0
+    14px;
+
+  font-size: 16px;
+}
+
+.popup-row {
+  display: grid;
+
+  grid-template-columns:
+    110px 1fr;
+
+  gap: 8px;
+
+  padding:
+    7px
+    0;
+
+  border-top:
+    1px solid #e2e8f0;
+
+  font-size: 11px;
+}
+
+.popup-row strong {
+  color: #475569;
+}
+
+.popup-row span {
+  color: #0f172a;
+
+  word-break: break-word;
+}
+
+.anfr-badge {
+  background: #dbeafe;
+  color: #1e40af;
+}
+
+.wifi-badge {
+  background: #dcfce7;
+  color: #166534;
+}
+
+/* ==========================================================
+   Network Object selector
+   ========================================================== */
+
+.network-object-section {
+  margin-top: 28px;
+
+  padding-top: 18px;
+
+  border-top:
+    1px solid rgba(148, 163, 184, 0.15);
+}
+
+.network-object-header {
+  width: 100%;
+
+  display: grid;
+
+  grid-template-columns:
+    1fr auto auto;
+
+  align-items: center;
+
+  gap: 8px;
+
+  padding: 9px 4px;
+
+  color: #7890b4;
+
+  background: transparent;
+
+  border: 0;
+
+  cursor: pointer;
+
+  text-align: left;
+
+  font-size: 11px;
+
+  font-weight: 700;
+
+  letter-spacing: 0.12em;
+}
+
+.network-object-header:hover {
+  color: #cbd5e1;
+}
+
+.network-object-current {
+  padding: 3px 7px;
+
+  border-radius: 5px;
+
+  background:
+    rgba(59, 130, 246, 0.12);
+
+  color: #60a5fa;
+
+  font-size: 9px;
+
+  letter-spacing: 0;
+}
+
+.network-object-arrow {
+  color: #64748b;
+
+  font-size: 9px;
+}
+
+.network-object-menu {
+  display: flex;
+
+  flex-direction: column;
+
+  gap: 4px;
+
+  margin-top: 8px;
+}
+
+.object-option {
+  width: 100%;
+
+  min-height: 40px;
+
+  display: flex;
+
+  align-items: center;
+
+  gap: 10px;
+
+  padding: 8px 10px;
+
+  border:
+    1px solid transparent;
+
+  border-radius: 7px;
+
+  background: transparent;
+
+  color: #94a3b8;
+
+  cursor: pointer;
+
+  text-align: left;
+
+  font-size: 12px;
+}
+
+.object-option:hover {
+  background:
+    rgba(148, 163, 184, 0.08);
+
+  color: #e2e8f0;
+}
+
+.object-option.selected {
+  background:
+    rgba(37, 99, 235, 0.16);
+
+  border-color:
+    rgba(96, 165, 250, 0.3);
+
+  color: #ffffff;
+}
+
+.object-icon {
+  width: 11px;
+  height: 11px;
+
+  display: inline-block;
+
+  flex: 0 0 auto;
+
+  border-radius: 50%;
+}
+
+.all-symbol {
+  background:
+    linear-gradient(
+      135deg,
+      #ef4444 0%,
+      #ef4444 32%,
+      #2563eb 33%,
+      #2563eb 65%,
+      #a855f7 66%,
+      #a855f7 100%
+    );
+}
+
+.wifi-symbol {
+  background: #ef4444;
+}
+
+.anfr-symbol {
+  background: #2563eb;
+}
+
+.anfr5-symbol {
+  background: #a855f7;
+}
