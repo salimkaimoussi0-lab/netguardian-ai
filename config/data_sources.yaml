@@ -1,0 +1,45 @@
+project:
+  name: NetGuardian Paris
+  type: Network Intelligence & Cyber-Resilience Digital Twin
+
+sources:
+
+  paris_wifi:
+    provider: Paris Open Data
+    category: public_wifi
+    status: planned
+
+  anfr:
+    provider: ANFR
+    category: mobile_antennas
+    status: planned
+
+  arcep_mobile:
+    provider: ARCEP
+    category: mobile_coverage
+    status: planned
+
+  arcep_fixed:
+    provider: ARCEP
+    category: fixed_network
+    status: planned
+
+  ripe_atlas:
+    provider: RIPE NCC
+    category: internet_measurements
+    status: planned
+
+  peeringdb:
+    provider: PeeringDB
+    category: datacenters_peering
+    status: planned
+
+  france_ix:
+    provider: France-IX
+    category: internet_exchange
+    status: planned
+
+  ripestat:
+    provider: RIPE NCC
+    category: bgp_asn
+    status: planned
