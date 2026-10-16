@@ -1,0 +1,43 @@
+{
+  "messages": [
+    [
+      "info",
+      "Query time has been set to the latest available time (2026-10-16 00:00 UTC)"
+    ]
+  ],
+  "see_also": [],
+  "version": "3.2",
+  "data_call_name": "asn-neighbours",
+  "data_call_status": "supported",
+  "cached": false,
+  "query_id": "20261016111801-f33affa0-4b87-485b-8dd1-2eb17d51e02e",
+  "process_time": 157,
+  "server_id": "app167",
+  "build_version": "v0.11.23-2026.10.12",
+  "pipeline": "1460464",
+  "status": "ok",
+  "status_code": 200,
+  "time": "2026-10-16T11:18:01.688729",
+  "data": {
+    "resource": "199064",
+    "query_starttime": "2026-10-16T00:00:00",
+    "query_endtime": "2026-10-16T00:00:00",
+    "latest_time": "2026-10-16T00:00:00",
+    "earliest_time": "2019-09-03T00:00:00",
+    "neighbour_counts": {
+      "left": 1,
+      "right": 0,
+      "unique": 1,
+      "uncertain": 0
+    },
+    "neighbours": [
+      {
+        "asn": 16276,
+        "type": "left",
+        "power": 267,
+        "v4_peers": 357,
+        "v6_peers": 0
+      }
+    ]
+  }
+}

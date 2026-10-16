@@ -1,0 +1,237 @@
+{
+  "messages": [
+    [
+      "info",
+      "Results exclude routes with very low visibility (less than 10 RIS full-feed peers seeing)."
+    ]
+  ],
+  "see_also": [],
+  "version": "1.2",
+  "data_call_name": "announced-prefixes",
+  "data_call_status": "supported",
+  "cached": false,
+  "query_id": "20261016110852-0dd15d5d-2f63-439b-a77e-f6c1e734251b",
+  "process_time": 100,
+  "server_id": "app169",
+  "build_version": "v0.11.23-2026.10.12",
+  "pipeline": "1460464",
+  "status": "ok",
+  "status_code": 200,
+  "time": "2026-10-16T11:08:52.243097",
+  "data": {
+    "prefixes": [
+      {
+        "prefix": "193.56.241.0/24",
+        "timelines": [
+          {
+            "starttime": "2026-10-02T08:00:00",
+            "endtime": "2026-10-16T08:00:00"
+          }
+        ]
+      },
+      {
+        "prefix": "80.78.8.0/24",
+        "timelines": [
+          {
+            "starttime": "2026-10-02T08:00:00",
+            "endtime": "2026-10-16T08:00:00"
+          }
+        ]
+      },
+      {
+        "prefix": "193.28.205.0/24",
+        "timelines": [
+          {
+            "starttime": "2026-10-02T08:00:00",
+            "endtime": "2026-10-16T08:00:00"
+          }
+        ]
+      },
+      {
+        "prefix": "129.185.224.0/20",
+        "timelines": [
+          {
+            "starttime": "2026-10-02T08:00:00",
+            "endtime": "2026-10-16T08:00:00"
+          }
+        ]
+      },
+      {
+        "prefix": "80.78.3.0/24",
+        "timelines": [
+          {
+            "starttime": "2026-10-02T08:00:00",
+            "endtime": "2026-10-16T08:00:00"
+          }
+        ]
+      },
+      {
+        "prefix": "80.78.13.0/24",
+        "timelines": [
+          {
+            "starttime": "2026-10-02T08:00:00",
+            "endtime": "2026-10-16T08:00:00"
+          }
+        ]
+      },
+      {
+        "prefix": "80.78.14.0/24",
+        "timelines": [
+          {
+            "starttime": "2026-10-02T08:00:00",
+            "endtime": "2026-10-16T08:00:00"
+          }
+        ]
+      },
+      {
+        "prefix": "193.164.148.0/24",
+        "timelines": [
+          {
+            "starttime": "2026-10-02T08:00:00",
+            "endtime": "2026-10-16T08:00:00"
+          }
+        ]
+      },
+      {
+        "prefix": "80.78.15.0/24",
+        "timelines": [
+          {
+            "starttime": "2026-10-02T08:00:00",
+            "endtime": "2026-10-16T08:00:00"
+          }
+        ]
+      },
+      {
+        "prefix": "193.56.114.0/24",
+        "timelines": [
+          {
+            "starttime": "2026-10-02T08:00:00",
+            "endtime": "2026-10-16T08:00:00"
+          }
+        ]
+      },
+      {
+        "prefix": "80.78.9.0/24",
+        "timelines": [
+          {
+            "starttime": "2026-10-02T08:00:00",
+            "endtime": "2026-10-16T08:00:00"
+          }
+        ]
+      },
+      {
+        "prefix": "80.78.4.0/24",
+        "timelines": [
+          {
+            "starttime": "2026-10-02T08:00:00",
+            "endtime": "2026-10-16T08:00:00"
+          }
+        ]
+      },
+      {
+        "prefix": "80.78.10.0/24",
+        "timelines": [
+          {
+            "starttime": "2026-10-02T08:00:00",
+            "endtime": "2026-10-16T08:00:00"
+          }
+        ]
+      },
+      {
+        "prefix": "80.78.1.0/24",
+        "timelines": [
+          {
+            "starttime": "2026-10-02T08:00:00",
+            "endtime": "2026-10-16T08:00:00"
+          }
+        ]
+      },
+      {
+        "prefix": "80.78.12.0/24",
+        "timelines": [
+          {
+            "starttime": "2026-10-02T08:00:00",
+            "endtime": "2026-10-16T08:00:00"
+          }
+        ]
+      },
+      {
+        "prefix": "80.78.6.0/24",
+        "timelines": [
+          {
+            "starttime": "2026-10-02T08:00:00",
+            "endtime": "2026-10-16T08:00:00"
+          }
+        ]
+      },
+      {
+        "prefix": "80.78.11.0/24",
+        "timelines": [
+          {
+            "starttime": "2026-10-02T08:00:00",
+            "endtime": "2026-10-16T08:00:00"
+          }
+        ]
+      },
+      {
+        "prefix": "80.78.5.0/24",
+        "timelines": [
+          {
+            "starttime": "2026-10-02T08:00:00",
+            "endtime": "2026-10-16T08:00:00"
+          }
+        ]
+      },
+      {
+        "prefix": "80.78.7.0/24",
+        "timelines": [
+          {
+            "starttime": "2026-10-02T08:00:00",
+            "endtime": "2026-10-16T08:00:00"
+          }
+        ]
+      },
+      {
+        "prefix": "80.78.2.0/24",
+        "timelines": [
+          {
+            "starttime": "2026-10-02T08:00:00",
+            "endtime": "2026-10-16T08:00:00"
+          }
+        ]
+      },
+      {
+        "prefix": "80.78.0.0/24",
+        "timelines": [
+          {
+            "starttime": "2026-10-02T08:00:00",
+            "endtime": "2026-10-16T08:00:00"
+          }
+        ]
+      },
+      {
+        "prefix": "129.185.224.0/24",
+        "timelines": [
+          {
+            "starttime": "2026-10-02T08:00:00",
+            "endtime": "2026-10-16T08:00:00"
+          }
+        ]
+      },
+      {
+        "prefix": "129.185.226.0/24",
+        "timelines": [
+          {
+            "starttime": "2026-10-02T08:00:00",
+            "endtime": "2026-10-16T08:00:00"
+          }
+        ]
+      }
+    ],
+    "query_starttime": "2026-10-02T08:00:00",
+    "query_endtime": "2026-10-16T08:00:00",
+    "resource": "21000",
+    "latest_time": "2026-10-16T08:00:00",
+    "earliest_time": "2000-08-01T00:00:00"
+  }
+}

@@ -1,0 +1,91 @@
+{
+  "retrieved_at": "2026-10-16T10:09:36.847108+00:00",
+  "records": [
+    {
+      "id": 359,
+      "org_id": 752,
+      "name": "France-IX Paris",
+      "aka": "",
+      "name_long": "FranceIX Paris",
+      "city": "Paris",
+      "country": "FR",
+      "region_continent": "Europe",
+      "media": "Ethernet",
+      "notes": "Equinix PA4 and PA5 datacenters can reach our PoP at Equinix PA3 or PA6 transparently through extended cross-connects at no extra cost.\n\nDigital Realty PAR1/PAR3 datacenters can reach our PoP at Digital Realty PAR2/PAR5 transparently through extended cross-connects at no extra cost.\n\nmax-prefix ipv4 : 350000\n\nmax-prefix ipv6 : 150000\n\nPeering LAN MTU is 1500, but all physical ports are 9k capable for other services.",
+      "proto_unicast": true,
+      "proto_multicast": false,
+      "proto_ipv6": true,
+      "website": "https://www.franceix.net/en/infrastructure/our-exchange-points-in-france/france-ix-paris/",
+      "social_media": [
+        {
+          "service": "website",
+          "identifier": "https://www.franceix.net/en/infrastructure/our-exchange-points-in-france/france-ix-paris/"
+        }
+      ],
+      "url_stats": "https://www.franceix.net/en/infrastructure/statistics/?region=par",
+      "tech_email": "noc@franceix.net",
+      "tech_phone": "",
+      "policy_email": "l2-support@franceix.net",
+      "policy_phone": "",
+      "sales_phone": "",
+      "sales_email": "sales@franceix.net",
+      "net_count": 454,
+      "fac_count": 10,
+      "ixf_net_count": 0,
+      "ixf_last_import": null,
+      "ixf_import_request": null,
+      "ixf_import_request_status": "queued",
+      "service_level": "24/7 Support",
+      "terms": "Recurring Fees",
+      "status_dashboard": "",
+      "logo": null,
+      "created": "2010-07-29T00:00:00Z",
+      "updated": "2026-10-14T13:19:26Z",
+      "status": "ok",
+      "_service": "Plus"
+    },
+    {
+      "id": 5040,
+      "org_id": 752,
+      "name": "France-IX Paris Essentiel",
+      "aka": "",
+      "name_long": "",
+      "city": "Paris",
+      "country": "FR",
+      "region_continent": "Europe",
+      "media": "Ethernet",
+      "notes": "Order your port directly via the [France-IX Portal](https://portal.franceix.net) \n\nFor the main France-IX Paris peering LAN, please check [France-IX Paris](https://www.peeringdb.com/ix/359).",
+      "proto_unicast": true,
+      "proto_multicast": false,
+      "proto_ipv6": true,
+      "website": "https://www.franceix.net/en/services/peering/peering-essentiel/",
+      "social_media": [
+        {
+          "service": "website",
+          "identifier": "https://www.franceix.net/en/services/peering/peering-essentiel/"
+        }
+      ],
+      "url_stats": "",
+      "tech_email": "noc@franceix.net",
+      "tech_phone": "",
+      "policy_email": "l2-support@franceix.net",
+      "policy_phone": "",
+      "sales_phone": "",
+      "sales_email": "sales@franceix.net",
+      "net_count": 6,
+      "fac_count": 1,
+      "ixf_net_count": 0,
+      "ixf_last_import": null,
+      "ixf_import_request": null,
+      "ixf_import_request_status": "queued",
+      "service_level": "Not Disclosed",
+      "terms": "Not Disclosed",
+      "status_dashboard": "",
+      "logo": null,
+      "created": "2026-06-18T09:43:04Z",
+      "updated": "2026-07-06T16:29:13Z",
+      "status": "ok",
+      "_service": "Essentiel"
+    }
+  ]
+}

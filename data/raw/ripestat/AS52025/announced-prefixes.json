@@ -1,0 +1,768 @@
+{
+  "messages": [
+    [
+      "info",
+      "Results exclude routes with very low visibility (less than 10 RIS full-feed peers seeing)."
+    ]
+  ],
+  "see_also": [],
+  "version": "1.2",
+  "data_call_name": "announced-prefixes",
+  "data_call_status": "supported",
+  "cached": false,
+  "query_id": "20261016111540-a4d20627-797a-4c3b-9be5-62488ba04aae",
+  "process_time": 151,
+  "server_id": "app181",
+  "build_version": "v0.11.23-2026.10.12",
+  "pipeline": "1460464",
+  "status": "ok",
+  "status_code": 200,
+  "time": "2026-10-16T11:15:40.443326",
+  "data": {
+    "prefixes": [
+      {
+        "prefix": "2a05:dfc4:816::/48",
+        "timelines": [
+          {
+            "starttime": "2026-10-02T08:00:00",
+            "endtime": "2026-10-16T08:00:00"
+          }
+        ]
+      },
+      {
+        "prefix": "136.148.70.0/24",
+        "timelines": [
+          {
+            "starttime": "2026-10-02T08:00:00",
+            "endtime": "2026-10-16T08:00:00"
+          }
+        ]
+      },
+      {
+        "prefix": "2602:fa7e:17::/48",
+        "timelines": [
+          {
+            "starttime": "2026-10-02T08:00:00",
+            "endtime": "2026-10-16T08:00:00"
+          }
+        ]
+      },
+      {
+        "prefix": "2a05:dfc4:a22::/48",
+        "timelines": [
+          {
+            "starttime": "2026-10-02T08:00:00",
+            "endtime": "2026-10-16T08:00:00"
+          }
+        ]
+      },
+      {
+        "prefix": "2a05:dfc4:2126::/48",
+        "timelines": [
+          {
+            "starttime": "2026-10-02T08:00:00",
+            "endtime": "2026-10-16T08:00:00"
+          }
+        ]
+      },
+      {
+        "prefix": "2a05:dfc4:11::/48",
+        "timelines": [
+          {
+            "starttime": "2026-10-02T08:00:00",
+            "endtime": "2026-10-16T08:00:00"
+          }
+        ]
+      },
+      {
+        "prefix": "2a05:dfc4:1819::/48",
+        "timelines": [
+          {
+            "starttime": "2026-10-02T08:00:00",
+            "endtime": "2026-10-16T08:00:00"
+          }
+        ]
+      },
+      {
+        "prefix": "2602:fa7e:12::/48",
+        "timelines": [
+          {
+            "starttime": "2026-10-02T08:00:00",
+            "endtime": "2026-10-16T08:00:00"
+          }
+        ]
+      },
+      {
+        "prefix": "2a05:dfc4:1431::/48",
+        "timelines": [
+          {
+            "starttime": "2026-10-02T08:00:00",
+            "endtime": "2026-10-16T08:00:00"
+          }
+        ]
+      },
+      {
+        "prefix": "2a05:dfc4:2a39::/48",
+        "timelines": [
+          {
+            "starttime": "2026-10-02T08:00:00",
+            "endtime": "2026-10-16T08:00:00"
+          }
+        ]
+      },
+      {
+        "prefix": "2a05:dfc4:45::/48",
+        "timelines": [
+          {
+            "starttime": "2026-10-02T08:00:00",
+            "endtime": "2026-10-16T08:00:00"
+          }
+        ]
+      },
+      {
+        "prefix": "188.65.164.0/24",
+        "timelines": [
+          {
+            "starttime": "2026-10-02T08:00:00",
+            "endtime": "2026-10-16T08:00:00"
+          }
+        ]
+      },
+      {
+        "prefix": "169.128.220.0/24",
+        "timelines": [
+          {
+            "starttime": "2026-10-02T08:00:00",
+            "endtime": "2026-10-16T08:00:00"
+          }
+        ]
+      },
+      {
+        "prefix": "2602:fa7e:11::/48",
+        "timelines": [
+          {
+            "starttime": "2026-10-02T08:00:00",
+            "endtime": "2026-10-16T08:00:00"
+          }
+        ]
+      },
+      {
+        "prefix": "2a05:dfc4:2024::/48",
+        "timelines": [
+          {
+            "starttime": "2026-10-02T08:00:00",
+            "endtime": "2026-10-16T08:00:00"
+          }
+        ]
+      },
+      {
+        "prefix": "2a05:dfc4:191c::/48",
+        "timelines": [
+          {
+            "starttime": "2026-10-02T08:00:00",
+            "endtime": "2026-10-16T08:00:00"
+          }
+        ]
+      },
+      {
+        "prefix": "148.59.164.0/24",
+        "timelines": [
+          {
+            "starttime": "2026-10-02T08:00:00",
+            "endtime": "2026-10-16T08:00:00"
+          }
+        ]
+      },
+      {
+        "prefix": "2a05:dfc4:2533::/48",
+        "timelines": [
+          {
+            "starttime": "2026-10-02T08:00:00",
+            "endtime": "2026-10-16T08:00:00"
+          }
+        ]
+      },
+      {
+        "prefix": "2a05:dfc4:1d2f::/48",
+        "timelines": [
+          {
+            "starttime": "2026-10-02T08:00:00",
+            "endtime": "2026-10-16T08:00:00"
+          }
+        ]
+      },
+      {
+        "prefix": "2a05:dfc1:500::/40",
+        "timelines": [
+          {
+            "starttime": "2026-10-02T08:00:00",
+            "endtime": "2026-10-16T08:00:00"
+          }
+        ]
+      },
+      {
+        "prefix": "2a0f:b241:3::/48",
+        "timelines": [
+          {
+            "starttime": "2026-10-02T08:00:00",
+            "endtime": "2026-10-16T08:00:00"
+          }
+        ]
+      },
+      {
+        "prefix": "2a05:dfc4:1ee::/48",
+        "timelines": [
+          {
+            "starttime": "2026-10-02T08:00:00",
+            "endtime": "2026-10-16T08:00:00"
+          }
+        ]
+      },
+      {
+        "prefix": "2602:fa7e:10::/48",
+        "timelines": [
+          {
+            "starttime": "2026-10-02T08:00:00",
+            "endtime": "2026-10-16T08:00:00"
+          }
+        ]
+      },
+      {
+        "prefix": "2a05:dfc4:1517::/48",
+        "timelines": [
+          {
+            "starttime": "2026-10-02T08:00:00",
+            "endtime": "2026-10-16T08:00:00"
+          }
+        ]
+      },
+      {
+        "prefix": "2a05:dfc4:f1e::/48",
+        "timelines": [
+          {
+            "starttime": "2026-10-02T08:00:00",
+            "endtime": "2026-10-16T08:00:00"
+          }
+        ]
+      },
+      {
+        "prefix": "104.153.151.0/24",
+        "timelines": [
+          {
+            "starttime": "2026-10-02T08:00:00",
+            "endtime": "2026-10-16T08:00:00"
+          }
+        ]
+      },
+      {
+        "prefix": "2a05:dfc4::/48",
+        "timelines": [
+          {
+            "starttime": "2026-10-02T08:00:00",
+            "endtime": "2026-10-16T08:00:00"
+          }
+        ]
+      },
+      {
+        "prefix": "2a05:dfc4:2837::/48",
+        "timelines": [
+          {
+            "starttime": "2026-10-02T08:00:00",
+            "endtime": "2026-10-16T08:00:00"
+          }
+        ]
+      },
+      {
+        "prefix": "2602:fa7e:13::/48",
+        "timelines": [
+          {
+            "starttime": "2026-10-02T08:00:00",
+            "endtime": "2026-10-16T08:00:00"
+          }
+        ]
+      },
+      {
+        "prefix": "2602:fa7e:14::/48",
+        "timelines": [
+          {
+            "starttime": "2026-10-02T08:00:00",
+            "endtime": "2026-10-16T08:00:00"
+          }
+        ]
+      },
+      {
+        "prefix": "2a05:dfc4:24::/48",
+        "timelines": [
+          {
+            "starttime": "2026-10-02T08:00:00",
+            "endtime": "2026-10-16T08:00:00"
+          }
+        ]
+      },
+      {
+        "prefix": "2a05:dfc4:c1b::/48",
+        "timelines": [
+          {
+            "starttime": "2026-10-02T08:00:00",
+            "endtime": "2026-10-16T08:00:00"
+          }
+        ]
+      },
+      {
+        "prefix": "2a05:dfc4:1a1d::/48",
+        "timelines": [
+          {
+            "starttime": "2026-10-02T08:00:00",
+            "endtime": "2026-10-16T08:00:00"
+          }
+        ]
+      },
+      {
+        "prefix": "2a05:dfc4:9bf::/48",
+        "timelines": [
+          {
+            "starttime": "2026-10-02T08:00:00",
+            "endtime": "2026-10-16T08:00:00"
+          }
+        ]
+      },
+      {
+        "prefix": "23.154.8.0/24",
+        "timelines": [
+          {
+            "starttime": "2026-10-02T08:00:00",
+            "endtime": "2026-10-16T08:00:00"
+          }
+        ]
+      },
+      {
+        "prefix": "192.67.33.0/24",
+        "timelines": [
+          {
+            "starttime": "2026-10-02T08:00:00",
+            "endtime": "2026-10-16T08:00:00"
+          }
+        ]
+      },
+      {
+        "prefix": "2a05:dfc4:232b::/48",
+        "timelines": [
+          {
+            "starttime": "2026-10-02T08:00:00",
+            "endtime": "2026-10-16T08:00:00"
+          }
+        ]
+      },
+      {
+        "prefix": "2a05:dfc4:1f23::/48",
+        "timelines": [
+          {
+            "starttime": "2026-10-02T08:00:00",
+            "endtime": "2026-10-16T08:00:00"
+          }
+        ]
+      },
+      {
+        "prefix": "2a05:dfc4:9cf::/48",
+        "timelines": [
+          {
+            "starttime": "2026-10-02T08:00:00",
+            "endtime": "2026-10-16T08:00:00"
+          }
+        ]
+      },
+      {
+        "prefix": "2a05:dfc4:57::/48",
+        "timelines": [
+          {
+            "starttime": "2026-10-02T08:00:00",
+            "endtime": "2026-10-16T08:00:00"
+          }
+        ]
+      },
+      {
+        "prefix": "2602:fa7e:24::/48",
+        "timelines": [
+          {
+            "starttime": "2026-10-02T08:00:00",
+            "endtime": "2026-10-16T08:00:00"
+          }
+        ]
+      },
+      {
+        "prefix": "169.128.221.0/24",
+        "timelines": [
+          {
+            "starttime": "2026-10-02T08:00:00",
+            "endtime": "2026-10-16T08:00:00"
+          }
+        ]
+      },
+      {
+        "prefix": "2a05:dfc4:1415::/48",
+        "timelines": [
+          {
+            "starttime": "2026-10-02T08:00:00",
+            "endtime": "2026-10-16T08:00:00"
+          }
+        ]
+      },
+      {
+        "prefix": "2a05:dfc4:1214::/48",
+        "timelines": [
+          {
+            "starttime": "2026-10-02T08:00:00",
+            "endtime": "2026-10-16T08:00:00"
+          }
+        ]
+      },
+      {
+        "prefix": "2a05:dfc4:534::/48",
+        "timelines": [
+          {
+            "starttime": "2026-10-02T08:00:00",
+            "endtime": "2026-10-16T08:00:00"
+          }
+        ]
+      },
+      {
+        "prefix": "2602:fa7e:18::/48",
+        "timelines": [
+          {
+            "starttime": "2026-10-02T08:00:00",
+            "endtime": "2026-10-16T08:00:00"
+          }
+        ]
+      },
+      {
+        "prefix": "2a05:dfc4:2b3a::/48",
+        "timelines": [
+          {
+            "starttime": "2026-10-02T08:00:00",
+            "endtime": "2026-10-16T08:00:00"
+          }
+        ]
+      },
+      {
+        "prefix": "2a05:dfc4:721::/48",
+        "timelines": [
+          {
+            "starttime": "2026-10-02T08:00:00",
+            "endtime": "2026-10-16T08:00:00"
+          }
+        ]
+      },
+      {
+        "prefix": "2602:fa7e:20::/48",
+        "timelines": [
+          {
+            "starttime": "2026-10-02T08:00:00",
+            "endtime": "2026-10-16T08:00:00"
+          }
+        ]
+      },
+      {
+        "prefix": "2a05:dfc4:12::/48",
+        "timelines": [
+          {
+            "starttime": "2026-10-02T08:00:00",
+            "endtime": "2026-10-16T08:00:00"
+          }
+        ]
+      },
+      {
+        "prefix": "2602:fa7e:21::/48",
+        "timelines": [
+          {
+            "starttime": "2026-10-02T08:00:00",
+            "endtime": "2026-10-16T08:00:00"
+          }
+        ]
+      },
+      {
+        "prefix": "2a05:dfc4:79f::/48",
+        "timelines": [
+          {
+            "starttime": "2026-10-02T08:00:00",
+            "endtime": "2026-10-16T08:00:00"
+          }
+        ]
+      },
+      {
+        "prefix": "172.99.233.0/24",
+        "timelines": [
+          {
+            "starttime": "2026-10-02T08:00:00",
+            "endtime": "2026-10-16T08:00:00"
+          }
+        ]
+      },
+      {
+        "prefix": "2a05:dfc4:2635::/48",
+        "timelines": [
+          {
+            "starttime": "2026-10-02T08:00:00",
+            "endtime": "2026-10-16T08:00:00"
+          }
+        ]
+      },
+      {
+        "prefix": "2a05:dfc4:242d::/48",
+        "timelines": [
+          {
+            "starttime": "2026-10-02T08:00:00",
+            "endtime": "2026-10-16T08:00:00"
+          }
+        ]
+      },
+      {
+        "prefix": "2a05:dfc4:2c3b::/48",
+        "timelines": [
+          {
+            "starttime": "2026-10-02T08:00:00",
+            "endtime": "2026-10-16T08:00:00"
+          }
+        ]
+      },
+      {
+        "prefix": "2a05:dfc4:171a::/48",
+        "timelines": [
+          {
+            "starttime": "2026-10-02T08:00:00",
+            "endtime": "2026-10-16T08:00:00"
+          }
+        ]
+      },
+      {
+        "prefix": "2a05:dfc4:1618::/48",
+        "timelines": [
+          {
+            "starttime": "2026-10-02T08:00:00",
+            "endtime": "2026-10-16T08:00:00"
+          }
+        ]
+      },
+      {
+        "prefix": "2a05:dfc4:1b1f::/48",
+        "timelines": [
+          {
+            "starttime": "2026-10-02T08:00:00",
+            "endtime": "2026-10-16T08:00:00"
+          }
+        ]
+      },
+      {
+        "prefix": "185.121.25.0/24",
+        "timelines": [
+          {
+            "starttime": "2026-10-02T08:00:00",
+            "endtime": "2026-10-16T08:00:00"
+          }
+        ]
+      },
+      {
+        "prefix": "2a05:dfc4:9c::/48",
+        "timelines": [
+          {
+            "starttime": "2026-10-02T08:00:00",
+            "endtime": "2026-10-16T08:00:00"
+          }
+        ]
+      },
+      {
+        "prefix": "2a05:dfc4:36::/48",
+        "timelines": [
+          {
+            "starttime": "2026-10-02T08:00:00",
+            "endtime": "2026-10-16T08:00:00"
+          }
+        ]
+      },
+      {
+        "prefix": "2602:fa7e:19::/48",
+        "timelines": [
+          {
+            "starttime": "2026-10-02T08:00:00",
+            "endtime": "2026-10-16T08:00:00"
+          }
+        ]
+      },
+      {
+        "prefix": "2a05:dfc4:9b::/48",
+        "timelines": [
+          {
+            "starttime": "2026-10-02T08:00:00",
+            "endtime": "2026-10-16T08:00:00"
+          }
+        ]
+      },
+      {
+        "prefix": "2a05:dfc4:1013::/48",
+        "timelines": [
+          {
+            "starttime": "2026-10-02T08:00:00",
+            "endtime": "2026-10-16T08:00:00"
+          }
+        ]
+      },
+      {
+        "prefix": "2a06:a005:1da0::/44",
+        "timelines": [
+          {
+            "starttime": "2026-10-02T08:00:00",
+            "endtime": "2026-10-16T08:00:00"
+          }
+        ]
+      },
+      {
+        "prefix": "2a05:dfc1:400::/40",
+        "timelines": [
+          {
+            "starttime": "2026-10-02T08:00:00",
+            "endtime": "2026-10-16T08:00:00"
+          }
+        ]
+      },
+      {
+        "prefix": "2a05:dfc4:79::/48",
+        "timelines": [
+          {
+            "starttime": "2026-10-02T08:00:00",
+            "endtime": "2026-10-16T08:00:00"
+          }
+        ]
+      },
+      {
+        "prefix": "2a05:dfc4:2736::/48",
+        "timelines": [
+          {
+            "starttime": "2026-10-02T08:00:00",
+            "endtime": "2026-10-16T08:00:00"
+          }
+        ]
+      },
+      {
+        "prefix": "23.154.9.0/24",
+        "timelines": [
+          {
+            "starttime": "2026-10-02T08:00:00",
+            "endtime": "2026-10-16T08:00:00"
+          }
+        ]
+      },
+      {
+        "prefix": "23.156.200.0/24",
+        "timelines": [
+          {
+            "starttime": "2026-10-02T08:00:00",
+            "endtime": "2026-10-16T08:00:00"
+          }
+        ]
+      },
+      {
+        "prefix": "185.121.24.0/24",
+        "timelines": [
+          {
+            "starttime": "2026-10-02T08:00:00",
+            "endtime": "2026-10-16T08:00:00"
+          }
+        ]
+      },
+      {
+        "prefix": "2602:fa7e:22::/48",
+        "timelines": [
+          {
+            "starttime": "2026-10-02T08:00:00",
+            "endtime": "2026-10-16T08:00:00"
+          }
+        ]
+      },
+      {
+        "prefix": "2a05:dfc4:712::/48",
+        "timelines": [
+          {
+            "starttime": "2026-10-02T08:00:00",
+            "endtime": "2026-10-16T08:00:00"
+          }
+        ]
+      },
+      {
+        "prefix": "2a05:dfc4:112e::/48",
+        "timelines": [
+          {
+            "starttime": "2026-10-02T08:00:00",
+            "endtime": "2026-10-16T08:00:00"
+          }
+        ]
+      },
+      {
+        "prefix": "2a05:dfc4:df::/48",
+        "timelines": [
+          {
+            "starttime": "2026-10-02T08:00:00",
+            "endtime": "2026-10-16T08:00:00"
+          }
+        ]
+      },
+      {
+        "prefix": "2a06:a005:5b8::/48",
+        "timelines": [
+          {
+            "starttime": "2026-10-02T08:00:00",
+            "endtime": "2026-10-16T08:00:00"
+          }
+        ]
+      },
+      {
+        "prefix": "2a05:dfc4:e2c::/48",
+        "timelines": [
+          {
+            "starttime": "2026-10-02T08:00:00",
+            "endtime": "2026-10-16T08:00:00"
+          }
+        ]
+      },
+      {
+        "prefix": "2602:fa7e:23::/48",
+        "timelines": [
+          {
+            "starttime": "2026-10-02T08:00:00",
+            "endtime": "2026-10-16T08:00:00"
+          }
+        ]
+      },
+      {
+        "prefix": "2602:fa7e:15::/48",
+        "timelines": [
+          {
+            "starttime": "2026-10-02T08:00:00",
+            "endtime": "2026-10-16T08:00:00"
+          }
+        ]
+      },
+      {
+        "prefix": "148.59.165.0/24",
+        "timelines": [
+          {
+            "starttime": "2026-10-02T08:00:00",
+            "endtime": "2026-10-16T08:00:00"
+          }
+        ]
+      },
+      {
+        "prefix": "2a05:dfc4:bd::/48",
+        "timelines": [
+          {
+            "starttime": "2026-10-02T08:00:00",
+            "endtime": "2026-10-16T08:00:00"
+          }
+        ]
+      }
+    ],
+    "query_starttime": "2026-10-02T08:00:00",
+    "query_endtime": "2026-10-16T08:00:00",
+    "resource": "52025",
+    "latest_time": "2026-10-16T08:00:00",
+    "earliest_time": "2000-08-01T00:00:00"
+  }
+}

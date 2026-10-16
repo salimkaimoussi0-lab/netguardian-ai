@@ -1,0 +1,363 @@
+{
+  "messages": [
+    [
+      "info",
+      "Results exclude routes with very low visibility (less than 10 RIS full-feed peers seeing)."
+    ]
+  ],
+  "see_also": [],
+  "version": "1.2",
+  "data_call_name": "announced-prefixes",
+  "data_call_status": "supported",
+  "cached": false,
+  "query_id": "20261016110458-990dbbfb-4a86-4e84-b048-24892c05823c",
+  "process_time": 132,
+  "server_id": "app186",
+  "build_version": "v0.11.23-2026.10.12",
+  "pipeline": "1460464",
+  "status": "ok",
+  "status_code": 200,
+  "time": "2026-10-16T11:04:58.955323",
+  "data": {
+    "prefixes": [
+      {
+        "prefix": "151.106.249.0/24",
+        "timelines": [
+          {
+            "starttime": "2026-10-02T00:00:00",
+            "endtime": "2026-10-16T00:00:00"
+          }
+        ]
+      },
+      {
+        "prefix": "185.40.64.0/24",
+        "timelines": [
+          {
+            "starttime": "2026-10-02T00:00:00",
+            "endtime": "2026-10-16T00:00:00"
+          }
+        ]
+      },
+      {
+        "prefix": "104.160.156.0/24",
+        "timelines": [
+          {
+            "starttime": "2026-10-02T00:00:00",
+            "endtime": "2026-10-16T00:00:00"
+          }
+        ]
+      },
+      {
+        "prefix": "151.106.247.0/24",
+        "timelines": [
+          {
+            "starttime": "2026-10-02T00:00:00",
+            "endtime": "2026-10-16T00:00:00"
+          }
+        ]
+      },
+      {
+        "prefix": "2a04:82c0::/29",
+        "timelines": [
+          {
+            "starttime": "2026-10-02T00:00:00",
+            "endtime": "2026-10-16T00:00:00"
+          }
+        ]
+      },
+      {
+        "prefix": "151.106.250.0/23",
+        "timelines": [
+          {
+            "starttime": "2026-10-02T00:00:00",
+            "endtime": "2026-10-16T00:00:00"
+          }
+        ]
+      },
+      {
+        "prefix": "162.249.75.0/24",
+        "timelines": [
+          {
+            "starttime": "2026-10-02T00:00:00",
+            "endtime": "2026-10-16T00:00:00"
+          }
+        ]
+      },
+      {
+        "prefix": "43.229.64.0/22",
+        "timelines": [
+          {
+            "starttime": "2026-10-02T00:00:00",
+            "endtime": "2026-10-16T00:00:00"
+          }
+        ]
+      },
+      {
+        "prefix": "138.0.14.0/24",
+        "timelines": [
+          {
+            "starttime": "2026-10-02T00:00:00",
+            "endtime": "2026-10-16T00:00:00"
+          }
+        ]
+      },
+      {
+        "prefix": "162.249.72.0/22",
+        "timelines": [
+          {
+            "starttime": "2026-10-02T00:00:00",
+            "endtime": "2026-10-16T00:00:00"
+          }
+        ]
+      },
+      {
+        "prefix": "104.160.128.0/19",
+        "timelines": [
+          {
+            "starttime": "2026-10-02T00:00:00",
+            "endtime": "2026-10-16T00:00:00"
+          }
+        ]
+      },
+      {
+        "prefix": "162.249.76.0/22",
+        "timelines": [
+          {
+            "starttime": "2026-10-02T00:00:00",
+            "endtime": "2026-10-16T00:00:00"
+          }
+        ]
+      },
+      {
+        "prefix": "45.7.36.0/22",
+        "timelines": [
+          {
+            "starttime": "2026-10-02T00:00:00",
+            "endtime": "2026-10-16T00:00:00"
+          }
+        ]
+      },
+      {
+        "prefix": "45.250.208.0/22",
+        "timelines": [
+          {
+            "starttime": "2026-10-02T00:00:00",
+            "endtime": "2026-10-16T00:00:00"
+          }
+        ]
+      },
+      {
+        "prefix": "138.0.12.0/24",
+        "timelines": [
+          {
+            "starttime": "2026-10-02T00:00:00",
+            "endtime": "2026-10-16T00:00:00"
+          }
+        ]
+      },
+      {
+        "prefix": "151.106.248.0/24",
+        "timelines": [
+          {
+            "starttime": "2026-10-02T00:00:00",
+            "endtime": "2026-10-16T00:00:00"
+          }
+        ]
+      },
+      {
+        "prefix": "151.106.252.0/24",
+        "timelines": [
+          {
+            "starttime": "2026-10-02T00:00:00",
+            "endtime": "2026-10-16T00:00:00"
+          }
+        ]
+      },
+      {
+        "prefix": "151.106.254.0/24",
+        "timelines": [
+          {
+            "starttime": "2026-10-02T00:00:00",
+            "endtime": "2026-10-16T00:00:00"
+          }
+        ]
+      },
+      {
+        "prefix": "103.219.128.0/22",
+        "timelines": [
+          {
+            "starttime": "2026-10-02T00:00:00",
+            "endtime": "2026-10-16T00:00:00"
+          }
+        ]
+      },
+      {
+        "prefix": "45.7.39.0/24",
+        "timelines": [
+          {
+            "starttime": "2026-10-02T00:00:00",
+            "endtime": "2026-10-16T00:00:00"
+          }
+        ]
+      },
+      {
+        "prefix": "138.0.12.0/23",
+        "timelines": [
+          {
+            "starttime": "2026-10-02T00:00:00",
+            "endtime": "2026-10-16T00:00:00"
+          }
+        ]
+      },
+      {
+        "prefix": "192.64.168.0/21",
+        "timelines": [
+          {
+            "starttime": "2026-10-02T00:00:00",
+            "endtime": "2026-10-16T00:00:00"
+          }
+        ]
+      },
+      {
+        "prefix": "192.64.171.0/24",
+        "timelines": [
+          {
+            "starttime": "2026-10-02T00:00:00",
+            "endtime": "2026-10-16T00:00:00"
+          }
+        ]
+      },
+      {
+        "prefix": "151.106.246.0/24",
+        "timelines": [
+          {
+            "starttime": "2026-10-02T00:00:00",
+            "endtime": "2026-10-16T00:00:00"
+          }
+        ]
+      },
+      {
+        "prefix": "162.249.72.0/21",
+        "timelines": [
+          {
+            "starttime": "2026-10-02T00:00:00",
+            "endtime": "2026-10-16T00:00:00"
+          }
+        ]
+      },
+      {
+        "prefix": "103.240.224.0/22",
+        "timelines": [
+          {
+            "starttime": "2026-10-02T00:00:00",
+            "endtime": "2026-10-16T00:00:00"
+          }
+        ]
+      },
+      {
+        "prefix": "45.7.37.0/24",
+        "timelines": [
+          {
+            "starttime": "2026-10-02T00:00:00",
+            "endtime": "2026-10-16T00:00:00"
+          }
+        ]
+      },
+      {
+        "prefix": "43.229.65.0/24",
+        "timelines": [
+          {
+            "starttime": "2026-10-02T00:00:00",
+            "endtime": "2026-10-16T00:00:00"
+          }
+        ]
+      },
+      {
+        "prefix": "151.106.253.0/24",
+        "timelines": [
+          {
+            "starttime": "2026-10-02T00:00:00",
+            "endtime": "2026-10-16T00:00:00"
+          }
+        ]
+      },
+      {
+        "prefix": "45.7.38.0/24",
+        "timelines": [
+          {
+            "starttime": "2026-10-02T00:00:00",
+            "endtime": "2026-10-16T00:00:00"
+          }
+        ]
+      },
+      {
+        "prefix": "185.40.64.0/22",
+        "timelines": [
+          {
+            "starttime": "2026-10-02T00:00:00",
+            "endtime": "2026-10-16T00:00:00"
+          }
+        ]
+      },
+      {
+        "prefix": "162.249.72.0/24",
+        "timelines": [
+          {
+            "starttime": "2026-10-02T00:00:00",
+            "endtime": "2026-10-16T00:00:00"
+          }
+        ]
+      },
+      {
+        "prefix": "45.7.36.0/24",
+        "timelines": [
+          {
+            "starttime": "2026-10-02T00:00:00",
+            "endtime": "2026-10-16T00:00:00"
+          }
+        ]
+      },
+      {
+        "prefix": "192.64.173.0/24",
+        "timelines": [
+          {
+            "starttime": "2026-10-02T00:00:00",
+            "endtime": "2026-10-16T00:00:00"
+          }
+        ]
+      },
+      {
+        "prefix": "192.207.0.0/24",
+        "timelines": [
+          {
+            "starttime": "2026-10-02T00:00:00",
+            "endtime": "2026-10-16T00:00:00"
+          }
+        ]
+      },
+      {
+        "prefix": "138.0.15.0/24",
+        "timelines": [
+          {
+            "starttime": "2026-10-02T00:00:00",
+            "endtime": "2026-10-16T00:00:00"
+          }
+        ]
+      },
+      {
+        "prefix": "192.64.170.0/24",
+        "timelines": [
+          {
+            "starttime": "2026-10-02T00:00:00",
+            "endtime": "2026-10-16T00:00:00"
+          }
+        ]
+      }
+    ],
+    "query_starttime": "2026-10-02T00:00:00",
+    "query_endtime": "2026-10-16T00:00:00",
+    "resource": "6507",
+    "latest_time": "2026-10-16T00:00:00",
+    "earliest_time": "2000-08-01T00:00:00"
+  }
+}

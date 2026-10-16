@@ -1,0 +1,225 @@
+{
+  "messages": [
+    [
+      "info",
+      "Query time has been set to the latest available time (2026-10-16 00:00 UTC)"
+    ]
+  ],
+  "see_also": [],
+  "version": "3.2",
+  "data_call_name": "asn-neighbours",
+  "data_call_status": "supported",
+  "cached": true,
+  "query_id": "20261016110548-5f6ab183-c76a-4aa5-a1fe-3b108cc4081c",
+  "process_time": 24,
+  "server_id": "app191",
+  "build_version": "v0.11.23-2026.10.12",
+  "pipeline": "1460464",
+  "status": "ok",
+  "status_code": 200,
+  "time": "2026-10-16T11:05:48.737775",
+  "data": {
+    "resource": "8346",
+    "query_starttime": "2026-10-16T00:00:00",
+    "query_endtime": "2026-10-16T00:00:00",
+    "latest_time": "2026-10-16T00:00:00",
+    "earliest_time": "2019-08-28T00:00:00",
+    "neighbour_counts": {
+      "left": 5,
+      "right": 22,
+      "unique": 27,
+      "uncertain": 0
+    },
+    "neighbours": [
+      {
+        "asn": 174,
+        "type": "left",
+        "power": 2295,
+        "v4_peers": 25942,
+        "v6_peers": 750
+      },
+      {
+        "asn": 5511,
+        "type": "left",
+        "power": 4964,
+        "v4_peers": 54330,
+        "v6_peers": 1716
+      },
+      {
+        "asn": 6453,
+        "type": "left",
+        "power": 3882,
+        "v4_peers": 29820,
+        "v6_peers": 3052
+      },
+      {
+        "asn": 6762,
+        "type": "left",
+        "power": 764,
+        "v4_peers": 10948,
+        "v6_peers": 591
+      },
+      {
+        "asn": 6939,
+        "type": "left",
+        "power": 27,
+        "v4_peers": 30,
+        "v6_peers": 0
+      },
+      {
+        "asn": 12684,
+        "type": "right",
+        "power": 585,
+        "v4_peers": 2642,
+        "v6_peers": 0
+      },
+      {
+        "asn": 13335,
+        "type": "right",
+        "power": 380,
+        "v4_peers": 333,
+        "v6_peers": 332
+      },
+      {
+        "asn": 21271,
+        "type": "right",
+        "power": 376,
+        "v4_peers": 1538,
+        "v6_peers": 0
+      },
+      {
+        "asn": 25250,
+        "type": "right",
+        "power": 264,
+        "v4_peers": 351,
+        "v6_peers": 0
+      },
+      {
+        "asn": 28683,
+        "type": "right",
+        "power": 1282,
+        "v4_peers": 5542,
+        "v6_peers": 0
+      },
+      {
+        "asn": 30985,
+        "type": "right",
+        "power": 1831,
+        "v4_peers": 9141,
+        "v6_peers": 1471
+      },
+      {
+        "asn": 327809,
+        "type": "right",
+        "power": 261,
+        "v4_peers": 995,
+        "v6_peers": 0
+      },
+      {
+        "asn": 328140,
+        "type": "right",
+        "power": 262,
+        "v4_peers": 1666,
+        "v6_peers": 0
+      },
+      {
+        "asn": 328253,
+        "type": "right",
+        "power": 260,
+        "v4_peers": 331,
+        "v6_peers": 0
+      },
+      {
+        "asn": 328259,
+        "type": "right",
+        "power": 16,
+        "v4_peers": 84,
+        "v6_peers": 0
+      },
+      {
+        "asn": 328558,
+        "type": "right",
+        "power": 298,
+        "v4_peers": 996,
+        "v6_peers": 0
+      },
+      {
+        "asn": 328650,
+        "type": "right",
+        "power": 261,
+        "v4_peers": 332,
+        "v6_peers": 0
+      },
+      {
+        "asn": 329407,
+        "type": "right",
+        "power": 629,
+        "v4_peers": 2642,
+        "v6_peers": 330
+      },
+      {
+        "asn": 329726,
+        "type": "right",
+        "power": 161,
+        "v4_peers": 203,
+        "v6_peers": 0
+      },
+      {
+        "asn": 37094,
+        "type": "right",
+        "power": 521,
+        "v4_peers": 1657,
+        "v6_peers": 0
+      },
+      {
+        "asn": 37164,
+        "type": "right",
+        "power": 20,
+        "v4_peers": 28,
+        "v6_peers": 0
+      },
+      {
+        "asn": 37323,
+        "type": "right",
+        "power": 292,
+        "v4_peers": 2975,
+        "v6_peers": 0
+      },
+      {
+        "asn": 37461,
+        "type": "right",
+        "power": 1425,
+        "v4_peers": 9285,
+        "v6_peers": 329
+      },
+      {
+        "asn": 37508,
+        "type": "right",
+        "power": 14,
+        "v4_peers": 14,
+        "v6_peers": 0
+      },
+      {
+        "asn": 37524,
+        "type": "right",
+        "power": 260,
+        "v4_peers": 331,
+        "v6_peers": 0
+      },
+      {
+        "asn": 37541,
+        "type": "right",
+        "power": 258,
+        "v4_peers": 4345,
+        "v6_peers": 0
+      },
+      {
+        "asn": 37559,
+        "type": "right",
+        "power": 917,
+        "v4_peers": 2632,
+        "v6_peers": 0
+      }
+    ]
+  }
+}

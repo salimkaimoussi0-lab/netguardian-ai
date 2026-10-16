@@ -1,0 +1,11 @@
+﻿metric,value
+analysed_franceix_asns,454
+announced_prefixes,105910
+ipv4_prefixes,80853
+ipv6_prefixes,25057
+raw_neighbour_observations,261554
+unique_bgp_edges,180950
+franceix_internal_bgp_edges,17324
+external_neighbour_asns,26609
+graph_nodes,27063
+graph_edges,180950

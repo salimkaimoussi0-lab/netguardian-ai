@@ -1,0 +1,255 @@
+{
+  "messages": [
+    [
+      "info",
+      "Results exclude routes with very low visibility (less than 10 RIS full-feed peers seeing)."
+    ]
+  ],
+  "see_also": [],
+  "version": "1.2",
+  "data_call_name": "announced-prefixes",
+  "data_call_status": "supported",
+  "cached": false,
+  "query_id": "20261016110509-fbd6fbcf-c7d1-4de2-bf04-7a0ed7fde3d5",
+  "process_time": 117,
+  "server_id": "app193",
+  "build_version": "v0.11.23-2026.10.12",
+  "pipeline": "1460464",
+  "status": "ok",
+  "status_code": 200,
+  "time": "2026-10-16T11:05:09.580159",
+  "data": {
+    "prefixes": [
+      {
+        "prefix": "102.176.130.0/24",
+        "timelines": [
+          {
+            "starttime": "2026-10-02T00:00:00",
+            "endtime": "2026-10-16T00:00:00"
+          }
+        ]
+      },
+      {
+        "prefix": "2001:9b8:2::/48",
+        "timelines": [
+          {
+            "starttime": "2026-10-02T00:00:00",
+            "endtime": "2026-10-16T00:00:00"
+          }
+        ]
+      },
+      {
+        "prefix": "213.137.139.0/24",
+        "timelines": [
+          {
+            "starttime": "2026-10-02T00:00:00",
+            "endtime": "2026-10-16T00:00:00"
+          }
+        ]
+      },
+      {
+        "prefix": "94.102.175.0/24",
+        "timelines": [
+          {
+            "starttime": "2026-10-02T00:00:00",
+            "endtime": "2026-10-16T00:00:00"
+          }
+        ]
+      },
+      {
+        "prefix": "102.176.129.0/24",
+        "timelines": [
+          {
+            "starttime": "2026-10-02T00:00:00",
+            "endtime": "2026-10-16T00:00:00"
+          }
+        ]
+      },
+      {
+        "prefix": "80.84.31.0/24",
+        "timelines": [
+          {
+            "starttime": "2026-10-02T00:00:00",
+            "endtime": "2026-10-16T00:00:00"
+          }
+        ]
+      },
+      {
+        "prefix": "213.137.158.0/24",
+        "timelines": [
+          {
+            "starttime": "2026-10-02T00:00:00",
+            "endtime": "2026-10-16T00:00:00"
+          }
+        ]
+      },
+      {
+        "prefix": "102.176.139.0/24",
+        "timelines": [
+          {
+            "starttime": "2026-10-02T00:00:00",
+            "endtime": "2026-10-16T00:00:00"
+          }
+        ]
+      },
+      {
+        "prefix": "213.137.134.0/24",
+        "timelines": [
+          {
+            "starttime": "2026-10-02T00:00:00",
+            "endtime": "2026-10-16T00:00:00"
+          }
+        ]
+      },
+      {
+        "prefix": "213.137.136.0/24",
+        "timelines": [
+          {
+            "starttime": "2026-10-02T00:00:00",
+            "endtime": "2026-10-16T00:00:00"
+          }
+        ]
+      },
+      {
+        "prefix": "102.176.130.0/23",
+        "timelines": [
+          {
+            "starttime": "2026-10-02T00:00:00",
+            "endtime": "2026-10-16T00:00:00"
+          }
+        ]
+      },
+      {
+        "prefix": "102.176.128.0/19",
+        "timelines": [
+          {
+            "starttime": "2026-10-02T00:00:00",
+            "endtime": "2026-10-16T00:00:00"
+          }
+        ]
+      },
+      {
+        "prefix": "213.137.137.0/24",
+        "timelines": [
+          {
+            "starttime": "2026-10-02T00:00:00",
+            "endtime": "2026-10-16T00:00:00"
+          }
+        ]
+      },
+      {
+        "prefix": "80.84.16.0/20",
+        "timelines": [
+          {
+            "starttime": "2026-10-02T00:00:00",
+            "endtime": "2026-10-16T00:00:00"
+          }
+        ]
+      },
+      {
+        "prefix": "213.137.128.0/21",
+        "timelines": [
+          {
+            "starttime": "2026-10-02T00:00:00",
+            "endtime": "2026-10-16T00:00:00"
+          }
+        ]
+      },
+      {
+        "prefix": "213.137.135.0/24",
+        "timelines": [
+          {
+            "starttime": "2026-10-02T00:00:00",
+            "endtime": "2026-10-16T00:00:00"
+          }
+        ]
+      },
+      {
+        "prefix": "102.176.140.0/24",
+        "timelines": [
+          {
+            "starttime": "2026-10-02T00:00:00",
+            "endtime": "2026-10-16T00:00:00"
+          }
+        ]
+      },
+      {
+        "prefix": "94.102.160.0/20",
+        "timelines": [
+          {
+            "starttime": "2026-10-02T00:00:00",
+            "endtime": "2026-10-16T00:00:00"
+          }
+        ]
+      },
+      {
+        "prefix": "213.137.138.0/24",
+        "timelines": [
+          {
+            "starttime": "2026-10-02T00:00:00",
+            "endtime": "2026-10-16T00:00:00"
+          }
+        ]
+      },
+      {
+        "prefix": "195.234.24.0/24",
+        "timelines": [
+          {
+            "starttime": "2026-10-02T00:00:00",
+            "endtime": "2026-10-16T00:00:00"
+          }
+        ]
+      },
+      {
+        "prefix": "80.231.53.0/24",
+        "timelines": [
+          {
+            "starttime": "2026-10-02T00:00:00",
+            "endtime": "2026-10-16T00:00:00"
+          }
+        ]
+      },
+      {
+        "prefix": "80.84.29.0/24",
+        "timelines": [
+          {
+            "starttime": "2026-10-02T00:00:00",
+            "endtime": "2026-10-16T00:00:00"
+          }
+        ]
+      },
+      {
+        "prefix": "102.176.128.0/24",
+        "timelines": [
+          {
+            "starttime": "2026-10-02T00:00:00",
+            "endtime": "2026-10-16T00:00:00"
+          }
+        ]
+      },
+      {
+        "prefix": "80.84.30.0/24",
+        "timelines": [
+          {
+            "starttime": "2026-10-02T00:00:00",
+            "endtime": "2026-10-16T00:00:00"
+          }
+        ]
+      },
+      {
+        "prefix": "2001:9b8::/32",
+        "timelines": [
+          {
+            "starttime": "2026-10-02T00:00:00",
+            "endtime": "2026-10-16T00:00:00"
+          }
+        ]
+      }
+    ],
+    "query_starttime": "2026-10-02T00:00:00",
+    "query_endtime": "2026-10-16T00:00:00",
+    "resource": "6774",
+    "latest_time": "2026-10-16T00:00:00",
+    "earliest_time": "2000-08-01T00:00:00"
+  }
+}

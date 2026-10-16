@@ -1,0 +1,10 @@
+﻿facility_id,name,organization,address1,address2,city,postal_code,country,latitude,longitude,services,colocated_member_count,matched_netguardian_peeringdb,relation_type,source,evidence_type
+53,Telehouse - Paris 2 (Voltaire - Léon Frot),Telehouse - Global Data Centers,137 Boulevard Voltaire,65 Rue Léon Frot,Paris,75011,FR,48.856654,2.38532,Essentiel | Plus,207,True,IX_PRESENT_AT_FACILITY,PeeringDB,PUBLIC_DECLARATION
+72,"Equinix PA7 - Paris, Energy Park","Equinix, Inc.",130-136 Boulevard de Verdun,Energy Park 9,Paris,92413,FR,48.904891,2.259202,Plus,39,True,IX_PRESENT_AT_FACILITY,PeeringDB,PUBLIC_DECLARATION
+75,Digital Realty Paris PAR2,Digital Realty,20 Rue des Gardinoux,Aubervilliers,Paris,93300,FR,48.906617,2.370417,Plus,29,True,IX_PRESENT_AT_FACILITY,PeeringDB,PUBLIC_DECLARATION
+636,Telehouse - Paris 3 (Magny),Telehouse - Global Data Centers,1 Rue Pablo Picasso,,Magny-les-Hameaux,78114,FR,48.726927,2.081473,Plus,35,True,IX_PRESENT_AT_FACILITY,PeeringDB,PUBLIC_DECLARATION
+655,OPCORE - DC2 / PAR2,OPCORE,29 RUE ÉDITH CAVELL,,Vitry-sur-Seine,94400,FR,48.794768,2.411851,Plus,29,True,IX_PRESENT_AT_FACILITY,PeeringDB,PUBLIC_DECLARATION
+714,Digital Realty Paris PAR5,Digital Realty,11-13 Avenue des Arts et Metiers,Saint Denis,Paris,93200,FR,48.914183,2.362402,Plus,42,True,IX_PRESENT_AT_FACILITY,PeeringDB,PUBLIC_DECLARATION
+717,"Equinix PA3 - Paris, Saint-Denis","Equinix, Inc.","Rue Ambroise Croizat, 114",Saint-Denis,Paris,93200,FR,48.927166,2.350664,Plus,59,True,IX_PRESENT_AT_FACILITY,PeeringDB,PUBLIC_DECLARATION
+842,"Equinix PA6 - Paris, Condorcet","Equinix, Inc.",10 Rue Waldeck Rochet,Batiment 520,Paris,93300,FR,48.910255,2.368248,Plus,32,True,IX_PRESENT_AT_FACILITY,PeeringDB,PUBLIC_DECLARATION
+1402,OPCORE - DC3 / PAR3,OPCORE,61 RUE JULIAN GRIMAU,,Vitry-sur-Seine,94400,FR,48.775278,2.379971,Plus,17,True,IX_PRESENT_AT_FACILITY,PeeringDB,PUBLIC_DECLARATION

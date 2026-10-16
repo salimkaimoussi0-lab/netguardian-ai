@@ -1,0 +1,455 @@
+﻿asn,name,franceix_member,prefix_count,ipv4_prefix_count,ipv6_prefix_count,neighbour_count,capacity_gbps,route_server_peer,network_type,source
+42,PCH AS42,True,404,198,206,373,10.0,True,Educational/Research,RIPEstat / RIPE RIS
+702,France-IX Paris,True,463,442,21,219,30.0,False,,RIPEstat / RIPE RIS
+714,Apple Inc.,True,2031,1580,451,277,200.0,False,Content,RIPEstat / RIPE RIS
+1301,EDF Group,True,11,10,1,50,20.0,True,,RIPEstat / RIPE RIS
+1828,Unitas Global,True,153,122,31,2841,10.0,True,NSP,RIPEstat / RIPE RIS
+2027,MilkyWan,True,8,5,3,613,20.0,True,Cable/DSL/ISP,RIPEstat / RIPE RIS
+2200,RENATER,True,78,76,2,111,20.0,True,Educational/Research,RIPEstat / RIPE RIS
+2484,FR-NIC-DNS-ANYCAST (AFNIC > NIC-FR > Anycast DNS),True,2,1,1,127,1.0,True,Non-Profit,RIPEstat / RIPE RIS
+2486,FR-NIC-DNS-UNICAST (AFNIC > NIC-FR > Unicast DNS),True,8,3,5,55,1.0,True,Non-Profit,RIPEstat / RIPE RIS
+2602,France-IX Paris,True,9,8,1,66,0.1,True,,RIPEstat / RIPE RIS
+2613,France-IX Paris,True,3,2,1,41,0.1,True,,RIPEstat / RIPE RIS
+2635,Automattic,True,203,155,48,264,100.0,True,Content,RIPEstat / RIPE RIS
+2686,France-IX Paris,True,170,169,1,293,20.0,False,,RIPEstat / RIPE RIS
+2906,Netflix,True,523,250,273,336,200.0,True,Content,RIPEstat / RIPE RIS
+3225,France-IX Paris,True,185,184,1,30,2.0,True,,RIPEstat / RIPE RIS
+3299,France-IX Paris,True,25,25,0,4,20.0,True,,RIPEstat / RIPE RIS
+3856,France-IX Paris,True,2,1,1,258,1.0,False,,RIPEstat / RIPE RIS
+3920,PUSHPKT-OU,True,7,3,4,141,100.0,True,NSP,RIPEstat / RIPE RIS
+4455,BSO,True,61,46,15,2237,10.0,True,NSP,RIPEstat / RIPE RIS
+4601,DaKnObNET,True,4,2,2,149,0.2,True,Non-Profit,RIPEstat / RIPE RIS
+4637,Telstra (International),True,771,666,105,620,10.0,False,NSP,RIPEstat / RIPE RIS
+5400,BT,True,126,86,40,165,210.0,False,NSP,RIPEstat / RIPE RIS
+5405,Inter.link,True,61,11,50,2698,400.0,True,NSP,RIPEstat / RIPE RIS
+5410,Bouygues Telecom ISP,True,22,20,2,66,400.0,False,Cable/DSL/ISP,RIPEstat / RIPE RIS
+6057,France-IX Paris,True,602,576,26,3188,3.0,True,,RIPEstat / RIPE RIS
+6461,Zayo,True,250,237,13,2847,100.0,False,NSP,RIPEstat / RIPE RIS
+6507,Riot Games,True,37,36,1,265,100.0,True,Content,RIPEstat / RIPE RIS
+6661,Post Group Luxembourg,True,20,18,2,193,40.0,True,Cable/DSL/ISP,RIPEstat / RIPE RIS
+6738,DRI,True,12,12,0,44,10.0,True,Content,RIPEstat / RIPE RIS
+6752,France-IX Paris,True,119,118,1,53,10.0,True,,RIPEstat / RIPE RIS
+6758,Monaco Telecom,True,22,17,5,402,20.0,True,Cable/DSL/ISP,RIPEstat / RIPE RIS
+6774,BICS,True,25,23,2,238,40.0,False,NSP,RIPEstat / RIPE RIS
+6775,Fink Telecom Services GmbH,True,11,6,5,2,10.0,True,Cable/DSL/ISP,RIPEstat / RIPE RIS
+6866,France-IX Paris,True,161,142,19,181,80.0,True,,RIPEstat / RIPE RIS
+6939,Hurricane Electric,True,278,237,41,11013,200.0,True,NSP,RIPEstat / RIPE RIS
+7500,France-IX Paris,True,5,4,1,119,1.0,True,,RIPEstat / RIPE RIS
+7552,France-IX Paris,True,8140,4096,4044,161,40.0,True,,RIPEstat / RIPE RIS
+7713,France-IX Paris,True,4004,3599,405,1800,30.0,True,,RIPEstat / RIPE RIS
+8075,Microsoft,True,1350,1226,124,285,400.0,False,Content,RIPEstat / RIPE RIS
+8218,Zayo Europe,True,23,19,4,2895,100.0,True,NSP,RIPEstat / RIPE RIS
+8220,Colt,True,173,154,19,1853,200.0,False,NSP,RIPEstat / RIPE RIS
+8262,France-IX Paris,True,36,34,2,269,1.0,True,,RIPEstat / RIPE RIS
+8283,France-IX Paris,True,4,3,1,246,0.1,True,,RIPEstat / RIPE RIS
+8298,IPng Networks GmbH,True,6,3,3,2267,0.2,True,Network Services,RIPEstat / RIPE RIS
+8304,Ecritel,True,49,45,4,170,20.0,True,NSP,RIPEstat / RIPE RIS
+8309,Sipartech,True,15,8,7,199,100.0,True,NSP,RIPEstat / RIPE RIS
+8310,PacWan,True,0,0,0,0,0.1,False,Cable/DSL/ISP,RIPEstat / RIPE RIS
+8346,France-IX Paris,True,233,222,11,27,20.0,True,,RIPEstat / RIPE RIS
+8368,DSTNY,True,105,91,14,196,40.0,True,NSP,RIPEstat / RIPE RIS
+8399,Sewan SAS,True,36,32,4,154,200.0,True,Cable/DSL/ISP,RIPEstat / RIPE RIS
+8400,France-IX Paris,True,91,88,3,268,14.0,True,,RIPEstat / RIPE RIS
+8426,Claranet,True,105,87,18,483,20.0,False,Cable/DSL/ISP,RIPEstat / RIPE RIS
+8487,Phibee Telecom,True,14,12,2,57,10.0,False,NSP,RIPEstat / RIPE RIS
+8529,France-IX Paris,True,39,30,9,2018,30.0,True,,RIPEstat / RIPE RIS
+8554,TAS France,True,10,9,1,62,10.0,False,NSP,RIPEstat / RIPE RIS
+8560,IONOS SE,True,543,523,20,206,100.0,True,NSP,RIPEstat / RIPE RIS
+8565,BlueGIX,True,5,5,0,1,1.0,False,Cable/DSL/ISP,RIPEstat / RIPE RIS
+8632,France-IX Paris,True,13,12,1,157,10.0,True,,RIPEstat / RIPE RIS
+8674,France-IX Paris,True,26,16,10,297,10.0,True,,RIPEstat / RIPE RIS
+8723,Integra,True,35,34,1,49,10.0,False,NSP,RIPEstat / RIPE RIS
+8784,Prosodie Cap Gemini,True,25,25,0,4,1.0,False,Content,RIPEstat / RIPE RIS
+8801,Rocket Fibre (AS8801),True,9,7,2,203,10.0,True,Cable/DSL/ISP,RIPEstat / RIPE RIS
+8839,SdV,True,5,4,1,129,10.0,True,Content,RIPEstat / RIPE RIS
+8966,France-IX Paris,True,56,49,7,903,100.0,False,,RIPEstat / RIPE RIS
+9002,RETN,True,19,18,1,3173,100.0,False,NSP,RIPEstat / RIPE RIS
+9036,Neuronnexion,True,3,2,1,132,0.2,True,Cable/DSL/ISP,RIPEstat / RIPE RIS
+9153,Burstfire Networks Ltd,True,4,3,1,80,1.0,False,NSP,RIPEstat / RIPE RIS
+9299,France-IX Paris,True,534,520,14,374,10.0,True,,RIPEstat / RIPE RIS
+9304,France-IX Paris,True,2090,2021,69,761,1.0,False,,RIPEstat / RIPE RIS
+9583,France-IX Paris,True,2225,2191,34,651,1.0,False,,RIPEstat / RIPE RIS
+10099,France-IX Paris,True,96,87,9,273,10.0,True,,RIPEstat / RIPE RIS
+10122,NETSTAR,True,232,226,6,215,100.0,True,Content,RIPEstat / RIPE RIS
+10310,Yahoo,True,110,88,22,305,100.0,True,Content,RIPEstat / RIPE RIS
+12322,Free SAS,True,1065,538,527,116,200.0,True,Cable/DSL/ISP,RIPEstat / RIPE RIS
+12400,France-IX Paris,True,326,315,11,275,20.0,True,,RIPEstat / RIPE RIS
+12409,Trustteam,True,2,1,1,49,10.0,True,Cable/DSL/ISP,RIPEstat / RIPE RIS
+12654,France-IX Paris,True,82,24,58,150,1.0,True,,RIPEstat / RIPE RIS
+12684,France-IX Paris,True,181,178,3,196,10.0,True,,RIPEstat / RIPE RIS
+12696,France-IX Paris,True,118,118,0,43,1.0,False,,RIPEstat / RIPE RIS
+12727,Vialis Colmar,True,10,8,2,49,100.0,True,Cable/DSL/ISP,RIPEstat / RIPE RIS
+12779,IT.Gate,True,31,25,6,2091,10.0,True,NSP,RIPEstat / RIPE RIS
+12826,Cyllene,True,18,17,1,46,10.0,True,Cable/DSL/ISP,RIPEstat / RIPE RIS
+12850,Retelit S.p.A. (formerly Enter),True,10,9,1,119,10.0,True,Cable/DSL/ISP,RIPEstat / RIPE RIS
+12876,Scaleway,True,30,22,8,153,600.0,True,Content,RIPEstat / RIPE RIS
+13002,France-IX Paris,True,11,7,4,191,0.1,True,,RIPEstat / RIPE RIS
+13030,Init7,True,90,69,21,915,10.0,False,NSP,RIPEstat / RIPE RIS
+13150,Cato Networks,True,257,257,0,321,200.0,True,,RIPEstat / RIPE RIS
+13237,euNetworks Group,True,52,31,21,2351,10.0,True,NSP,RIPEstat / RIPE RIS
+13273,Alter Way - OPS,True,17,16,1,48,10.0,True,Content,RIPEstat / RIPE RIS
+13285,France-IX Paris,True,99,94,5,166,20.0,True,,RIPEstat / RIPE RIS
+13335,Cloudflare,True,5776,2696,3080,1546,900.0,True,Content,RIPEstat / RIPE RIS
+14340,Salesforce.com,True,40,37,3,84,10.0,False,Content,RIPEstat / RIPE RIS
+14537,Continent 8 Technologies,True,197,185,12,261,100.0,True,NSP,RIPEstat / RIPE RIS
+15169,Google LLC,True,1413,1237,176,324,40.0,False,Content,RIPEstat / RIPE RIS
+15401,Orange Business - La Fabrique,True,25,24,1,60,10.0,True,NSP,RIPEstat / RIPE RIS
+15412,FLAG Telecom,True,20,19,1,407,10.0,False,NSP,RIPEstat / RIPE RIS
+15422,PPR,True,5,5,0,45,10.0,False,Content,RIPEstat / RIPE RIS
+15436,France-IX Paris,True,16,11,5,53,1.0,True,,RIPEstat / RIPE RIS
+15547,France-IX Paris,True,40,37,3,1400,10.0,True,,RIPEstat / RIPE RIS
+15557,SFR Group,True,159,147,12,166,200.0,False,Cable/DSL/ISP,RIPEstat / RIPE RIS
+15695,Expereo International bv,True,276,215,61,274,20.0,True,NSP,RIPEstat / RIPE RIS
+15826,France-IX Paris,True,3,2,1,42,2.0,True,,RIPEstat / RIPE RIS
+15830,France-IX Paris,True,1303,1086,217,1110,200.0,True,,RIPEstat / RIPE RIS
+15965,France-IX Paris,True,9,8,1,131,1.0,True,,RIPEstat / RIPE RIS
+16080,Dalenys,True,2,1,1,54,10.0,True,NSP,RIPEstat / RIPE RIS
+16101,ORDIPAT,True,2,1,1,41,0.2,True,Content,RIPEstat / RIPE RIS
+16128,AGARIK,True,8,7,1,50,10.0,True,Cable/DSL/ISP,RIPEstat / RIPE RIS
+16189,KLEE,True,5,3,2,48,20.0,True,Network Services,RIPEstat / RIPE RIS
+16276,OVHcloud,True,781,737,44,553,400.0,True,Content,RIPEstat / RIPE RIS
+16347,adista - inherent,True,172,156,16,1050,400.0,True,Cable/DSL/ISP,RIPEstat / RIPE RIS
+16363,Axialys,True,6,5,1,3,1.0,False,Content,RIPEstat / RIPE RIS
+16509,Amazon.com,True,26940,20876,6064,464,400.0,False,Enterprise,RIPEstat / RIPE RIS
+16552,DigiCert DNS,True,182,88,94,239,10.0,True,Content,RIPEstat / RIPE RIS
+19551,Thales/Imperva,True,1650,919,731,467,10.0,True,Content,RIPEstat / RIPE RIS
+19679,Dropbox,True,71,41,30,171,100.0,False,Content,RIPEstat / RIPE RIS
+20473,The Constant Company,True,2945,1904,1041,1729,100.0,True,NSP,RIPEstat / RIPE RIS
+20485,France-IX Paris,True,87,85,2,1939,20.0,False,,RIPEstat / RIPE RIS
+20562,Open Peering,True,0,0,0,1370,100.0,True,NSP,RIPEstat / RIPE RIS
+20565,Netalis,True,8,7,1,50,10.0,True,Cable/DSL/ISP,RIPEstat / RIPE RIS
+20756,Nameshield,True,14,9,5,51,0.0,True,Enterprise,RIPEstat / RIPE RIS
+20764,France-IX Paris,True,7,5,2,1713,10.0,True,,RIPEstat / RIPE RIS
+20766,Association Gitoyen,True,11,6,5,842,10.0,True,Non-Profit,RIPEstat / RIPE RIS
+20804,France-IX Paris,True,17,16,1,501,10.0,True,,RIPEstat / RIPE RIS
+20900,InterMeDiaSud,True,26,25,1,39,10.0,True,Cable/DSL/ISP,RIPEstat / RIPE RIS
+20940,Akamai Technologies,True,4739,3966,773,481,600.0,True,Content,RIPEstat / RIPE RIS
+21000,France-IX Paris,True,23,23,0,4,1.0,False,,RIPEstat / RIPE RIS
+21056,France-IX Paris,True,44,43,1,168,10.0,True,,RIPEstat / RIPE RIS
+21101,France-IX Paris,True,20,20,0,54,1.0,True,,RIPEstat / RIPE RIS
+21215,France-IX Paris,True,11,10,1,878,100.0,True,,RIPEstat / RIPE RIS
+21247,IP SYNERGIES,True,2,1,1,42,10.0,False,,RIPEstat / RIPE RIS
+21351,Canal+ Telecom,True,42,23,19,99,20.0,True,Cable/DSL/ISP,RIPEstat / RIPE RIS
+21409,Ikoula,True,19,17,2,149,20.0,True,NSP,RIPEstat / RIPE RIS
+21859,Zenlayer Edge Cloud Network - AS21859,True,1898,1731,167,532,40.0,True,Content,RIPEstat / RIPE RIS
+22697,ROBLOX,True,64,49,15,228,200.0,True,Content,RIPEstat / RIPE RIS
+23764,CTGNet,True,213,184,29,570,100.0,True,NSP,RIPEstat / RIPE RIS
+24429,Alibaba Cloud CDN,True,950,649,301,342,20.0,True,Content,RIPEstat / RIPE RIS
+24482,SG.GS,True,49,45,4,10228,10.0,True,NSP,RIPEstat / RIPE RIS
+24611,France-IX Paris,True,17,16,1,55,10.0,True,,RIPEstat / RIPE RIS
+24691,Togocom,True,66,63,3,110,10.0,True,Cable/DSL/ISP,RIPEstat / RIPE RIS
+24776,Infoclip,True,8,7,1,42,20.0,True,NSP,RIPEstat / RIPE RIS
+24904,"KWAOO, K-NET",True,35,34,1,128,100.0,True,Cable/DSL/ISP,RIPEstat / RIPE RIS
+24940,Hetzner Online,True,96,91,5,263,100.0,True,Content,RIPEstat / RIPE RIS
+25091,IP-Max SA,True,32,25,7,3679,20.0,True,NSP,RIPEstat / RIPE RIS
+25152,France-IX Paris,True,6,3,3,0,0.2,True,,RIPEstat / RIPE RIS
+25160,Vorboss Limited,True,37,33,4,1767,10.0,True,Cable/DSL/ISP,RIPEstat / RIPE RIS
+25215,France-IX Paris,True,60,60,0,5,20.0,False,,RIPEstat / RIPE RIS
+25369,Hydra Communications Ltd (EU),True,329,311,18,243,100.0,False,Content,RIPEstat / RIPE RIS
+25428,Colruyt Group Services,True,7,6,1,96,1.0,True,Enterprise,RIPEstat / RIPE RIS
+25540,Alphalink,True,89,83,6,61,100.0,True,Cable/DSL/ISP,RIPEstat / RIPE RIS
+25593,France-IX Paris,True,0,0,0,0,1.0,False,,RIPEstat / RIPE RIS
+25595,France-IX Paris,True,0,0,0,0,0.0,True,,RIPEstat / RIPE RIS
+26415,France-IX Paris,True,1,1,0,232,10.0,True,,RIPEstat / RIPE RIS
+28855,France-IX Paris,True,12,7,5,48,10.0,True,,RIPEstat / RIPE RIS
+29075,IELO,True,28,23,5,2234,100.0,True,NSP,RIPEstat / RIPE RIS
+29104,Thales Services Numériques,True,14,13,1,38,10.0,True,Enterprise,RIPEstat / RIPE RIS
+29169,Gandi,True,10,8,2,187,100.0,False,NSP,RIPEstat / RIPE RIS
+29246,Optilian,True,3,2,1,41,1.0,True,NSP,RIPEstat / RIPE RIS
+29283,Hub One SA,True,16,15,1,50,100.0,True,Cable/DSL/ISP,RIPEstat / RIPE RIS
+29286,Eutelsat - Skylogic,True,271,259,12,125,20.0,True,Cable/DSL/ISP,RIPEstat / RIPE RIS
+29467,LuxNetwork,True,23,21,2,192,100.0,True,NSP,RIPEstat / RIPE RIS
+29513,Foliateam,True,11,9,2,41,10.0,False,Network Services,RIPEstat / RIPE RIS
+29605,France-IX Paris,True,19,18,1,4,1.0,True,,RIPEstat / RIPE RIS
+29608,OVEA,True,22,18,4,59,10.0,True,NSP,RIPEstat / RIPE RIS
+30781,Free Pro,True,94,82,12,544,400.0,False,NSP,RIPEstat / RIPE RIS
+30919,France-IX Paris,True,7,4,3,2,1.0,False,,RIPEstat / RIPE RIS
+30972,Bedrock,True,8,5,3,69,100.0,True,Content,RIPEstat / RIPE RIS
+30990,France-IX Paris,True,70,68,2,47,10.0,False,,RIPEstat / RIPE RIS
+31019,France-IX Paris,True,2,1,1,125,0.2,True,,RIPEstat / RIPE RIS
+31167,Axione,True,14,13,1,29,10.0,False,NSP,RIPEstat / RIPE RIS
+31178,France-IX Paris,True,21,16,5,44,1.0,True,,RIPEstat / RIPE RIS
+31424,France-IX Paris,True,21,15,6,122,1.0,True,,RIPEstat / RIPE RIS
+31449,France-IX Paris,True,2,2,0,132,0.25,True,,RIPEstat / RIPE RIS
+31564,Hexaglobe,True,3,2,1,67,200.0,True,Content,RIPEstat / RIPE RIS
+31638,France-IX Paris,True,113,111,2,178,10.0,True,,RIPEstat / RIPE RIS
+32590,Valve Corporation,True,78,45,33,272,100.0,True,Content,RIPEstat / RIPE RIS
+32787,France-IX Paris,True,387,309,78,990,0.0,False,,RIPEstat / RIPE RIS
+32934,Meta,True,567,240,327,333,200.0,False,Content,RIPEstat / RIPE RIS
+33353,Sony Interactive Entertainment,True,145,81,64,249,100.0,True,Content,RIPEstat / RIPE RIS
+33835,Infosat Telecom,True,4,3,1,57,1.0,False,,RIPEstat / RIPE RIS
+33891,Core-Backbone,True,0,0,0,2548,100.0,False,NSP,RIPEstat / RIPE RIS
+33930,Cloud Temple,True,8,6,2,54,20.0,True,NSP,RIPEstat / RIPE RIS
+34019,Hivane,True,9,6,3,2061,10.0,True,Non-Profit,RIPEstat / RIPE RIS
+34177,CELESTE,True,98,90,8,1897,200.0,True,Cable/DSL/ISP,RIPEstat / RIPE RIS
+34288,France-IX Paris,True,7,5,2,1906,1.0,True,,RIPEstat / RIPE RIS
+34422,France-IX Paris,True,3,2,1,42,0.0,True,,RIPEstat / RIPE RIS
+34572,France-IX Paris,True,12,11,1,51,10.0,True,,RIPEstat / RIPE RIS
+34659,Bouygues Telecom Pro KEYYO,True,24,22,2,62,100.0,True,NSP,RIPEstat / RIPE RIS
+34781,France-IX Paris,True,3,3,0,3,2.0,True,,RIPEstat / RIPE RIS
+34863,Hexanet,True,20,17,3,62,100.0,True,Cable/DSL/ISP,RIPEstat / RIPE RIS
+34927,France-IX Paris,True,181,33,148,2992,10.0,True,,RIPEstat / RIPE RIS
+35280,F5 Inc.,True,64,59,5,6494,100.0,True,Content,RIPEstat / RIPE RIS
+35360,France-IX Paris,True,4,3,1,1115,0.2,True,,RIPEstat / RIPE RIS
+35393,Magic OnLine,True,1,1,0,1,10.0,True,Content,RIPEstat / RIPE RIS
+35426,Nextmap,True,2,1,1,378,10.0,True,Content,RIPEstat / RIPE RIS
+35432,France-IX Paris,True,35,34,1,172,20.0,True,,RIPEstat / RIPE RIS
+35598,France-IX Paris,True,29,28,1,1734,10.0,True,,RIPEstat / RIPE RIS
+35600,Vedege,True,12,8,4,535,10.0,True,Network Services,RIPEstat / RIPE RIS
+35625,Eurofiber France,True,55,44,11,918,100.0,True,NSP,RIPEstat / RIPE RIS
+35661,VIRTUASYS.EU,True,48,30,18,232,20.0,True,NSP,RIPEstat / RIPE RIS
+35676,Groupe La Poste France,True,25,4,21,2,20.0,True,Enterprise,RIPEstat / RIPE RIS
+35793,Acronis EMEA,True,35,27,8,174,10.0,True,,RIPEstat / RIPE RIS
+36236,NetActuate,True,263,196,67,7539,0.0,True,Cable/DSL/ISP,RIPEstat / RIPE RIS
+36692,Cisco Umbrella,True,835,663,172,232,100.0,True,Content,RIPEstat / RIPE RIS
+36864,Afribone Mali,True,14,13,1,125,20.0,True,Cable/DSL/ISP,RIPEstat / RIPE RIS
+37002,REUNICABLE SAS,True,49,48,1,73,20.0,True,Cable/DSL/ISP,RIPEstat / RIPE RIS
+37054,TELMA,True,186,185,1,125,10.0,True,Cable/DSL/ISP,RIPEstat / RIPE RIS
+37100,France-IX Paris,True,13,10,3,1814,100.0,False,,RIPEstat / RIPE RIS
+37529,Gestor de Infraestructuras de Telecomunicaciones de Guinea Ecuatorial,True,5,4,1,39,2.0,True,NSP,RIPEstat / RIPE RIS
+37613,DOLPHIN TELECOMMUNICATION LIMITED,True,9,8,1,180,100.0,False,NSP,RIPEstat / RIPE RIS
+37693,Ooredoo Tunisia,True,696,353,343,15,20.0,False,Cable/DSL/ISP,RIPEstat / RIPE RIS
+37721,Virtual Technologies and Solutions,True,159,62,97,4989,10.0,True,Cable/DSL/ISP,RIPEstat / RIPE RIS
+39063,France-IX Paris,True,12,2,10,217,1.0,True,,RIPEstat / RIPE RIS
+39072,Axess OWS,True,0,0,0,0,1.0,False,Content,RIPEstat / RIPE RIS
+39104,OXEVA,True,7,6,1,44,10.0,False,Content,RIPEstat / RIPE RIS
+39120,France-IX Paris,True,42,38,4,2234,5.0,True,,RIPEstat / RIPE RIS
+39180,LASOTEL,True,12,10,2,131,2.0,True,NSP,RIPEstat / RIPE RIS
+39271,France-IX Paris,True,11,11,0,35,0.01,False,,RIPEstat / RIPE RIS
+39305,Groupe Convergence.com,True,43,39,4,104,100.0,True,NSP,RIPEstat / RIPE RIS
+39351,31173 Services,True,74,53,21,2755,20.0,True,NSP,RIPEstat / RIPE RIS
+39386,France-IX Paris,True,16,15,1,288,200.0,False,,RIPEstat / RIPE RIS
+39444,Owentis,True,10,9,1,45,10.0,False,Cable/DSL/ISP,RIPEstat / RIPE RIS
+39533,France-IX Paris,True,0,0,0,2,10.0,True,,RIPEstat / RIPE RIS
+39605,Iguane Solutions,True,10,8,2,52,110.0,True,Content,RIPEstat / RIPE RIS
+39636,France-IX Paris,True,4,3,1,45,10.0,True,,RIPEstat / RIPE RIS
+39781,Diabolocom,True,13,7,6,56,20.0,True,Network Services,RIPEstat / RIPE RIS
+39801,France-IX L3 Services,True,5,3,2,173,40.0,True,NSP,RIPEstat / RIPE RIS
+39899,France-IX Paris,True,0,0,0,0,20.0,False,,RIPEstat / RIPE RIS
+39931,IPTelecom,True,4,3,1,42,10.0,True,Content,RIPEstat / RIPE RIS
+40934,France-IX Paris,True,362,353,9,195,10.0,True,,RIPEstat / RIPE RIS
+41044,France-IX Paris,True,4,3,1,44,0.2,True,,RIPEstat / RIPE RIS
+41090,France-IX Paris,True,9,7,2,94,10.0,True,,RIPEstat / RIPE RIS
+41114,Orne THD,True,23,16,7,131,20.0,True,Cable/DSL/ISP,RIPEstat / RIPE RIS
+41191,Mappy,True,1,1,0,39,1.0,True,,RIPEstat / RIPE RIS
+41327,France-IX Paris,True,24,22,2,3053,10.0,True,,RIPEstat / RIPE RIS
+41405,France-IX Paris,True,5,4,1,97,10.0,True,,RIPEstat / RIPE RIS
+41652,Acrib - Asolta - SHPV,True,9,7,2,46,10.0,True,Cable/DSL/ISP,RIPEstat / RIPE RIS
+41653,Aqua Ray,True,12,10,2,51,10.0,True,Content,RIPEstat / RIPE RIS
+42275,France-IX Paris,True,11,7,4,43,0.2,True,,RIPEstat / RIPE RIS
+42369,France-IX Paris,True,3,2,1,12,10.0,True,,RIPEstat / RIPE RIS
+42411,France-IX Paris,True,1,1,0,1,10.0,True,,RIPEstat / RIPE RIS
+42473,Anexia,True,435,298,137,909,10.0,True,Content,RIPEstat / RIPE RIS
+42487,Vialis Moselle,True,17,10,7,44,100.0,True,Cable/DSL/ISP,RIPEstat / RIPE RIS
+42687,IzarLink,True,9,8,1,43,2.0,True,Cable/DSL/ISP,RIPEstat / RIPE RIS
+42845,Bretagne Telecom,True,43,42,1,59,20.0,True,Cable/DSL/ISP,RIPEstat / RIPE RIS
+42929,Artefact - Artewan,True,7,6,1,50,10.0,True,Cable/DSL/ISP,RIPEstat / RIPE RIS
+43142,Adeli,True,28,14,14,71,10.0,True,Cable/DSL/ISP,RIPEstat / RIPE RIS
+43436,France-IX Paris,True,2,2,0,2,1.0,False,,RIPEstat / RIPE RIS
+43858,Webaxys,True,10,7,3,51,10.0,True,Cable/DSL/ISP,RIPEstat / RIPE RIS
+43930,FTVDN,True,6,6,0,5,100.0,False,Content,RIPEstat / RIPE RIS
+44000,Net1C,True,2,1,1,42,10.0,True,Content,RIPEstat / RIPE RIS
+44097,Clément Cavadore,True,5,3,2,510,10.0,True,Cable/DSL/ISP,RIPEstat / RIPE RIS
+44141,Devclic,True,4,4,0,64,10.0,True,Content,RIPEstat / RIPE RIS
+44219,France-IX Paris,True,9,8,1,40,1.0,False,,RIPEstat / RIPE RIS
+44295,France-IX Paris,True,3,2,1,40,0.1,False,,RIPEstat / RIPE RIS
+44334,M6 Distribution Digital,True,2,1,1,39,1.0,True,NSP,RIPEstat / RIPE RIS
+44407,Linkt,True,49,47,2,70,200.0,True,Network Services,RIPEstat / RIPE RIS
+44444,Forcepoint Cloud,True,200,198,2,139,10.0,False,NSP,RIPEstat / RIPE RIS
+44842,France-IX Paris,True,2,2,0,36,1.0,True,,RIPEstat / RIPE RIS
+44902,Covage Networks,True,14,14,0,45,1.0,False,NSP,RIPEstat / RIPE RIS
+45009,France-IX Paris,True,8,4,4,150,0.2,True,,RIPEstat / RIPE RIS
+45102,Alibaba,True,1306,1169,137,185,100.0,True,Content,RIPEstat / RIPE RIS
+45430,Advanced Wireless Network Co. Ltd.(IIG),True,83,58,25,231,110.0,True,Cable/DSL/ISP,RIPEstat / RIPE RIS
+45899,France-IX Paris,True,3749,3416,333,281,10.0,False,,RIPEstat / RIPE RIS
+47127,TELEMAQUE,True,3,2,1,43,1.0,True,,RIPEstat / RIPE RIS
+47406,France-IX Paris,True,6,6,0,36,1.0,True,,RIPEstat / RIPE RIS
+47583,Hostinger International,True,3542,3414,128,163,40.0,True,Content,RIPEstat / RIPE RIS
+47600,RUBIX DATACENTER,True,10,9,1,51,100.0,True,Cable/DSL/ISP,RIPEstat / RIPE RIS
+47608,Gigalis,True,5,4,1,56,100.0,True,NSP,RIPEstat / RIPE RIS
+47648,NOREST SERVICES,True,5,4,1,48,1.0,True,Cable/DSL/ISP,RIPEstat / RIPE RIS
+47833,AGORA CALYCE,True,3,3,0,34,10.0,True,Content,RIPEstat / RIPE RIS
+47866,iBrowse SARL,True,10,10,0,40,12.0,True,Cable/DSL/ISP,RIPEstat / RIPE RIS
+47957,Ingenico Solutions and Transaction Services,True,20,20,0,152,100.0,True,Enterprise,RIPEstat / RIPE RIS
+48213,ABICOM,True,4,3,1,50,2.0,True,Cable/DSL/ISP,RIPEstat / RIPE RIS
+48237,France-IX Paris,True,0,0,0,305,10.0,False,,RIPEstat / RIPE RIS
+48305,Noraina,True,12,7,5,96,20.0,True,Content,RIPEstat / RIPE RIS
+48310,IMS Dynamics,True,0,0,0,0,0.2,False,NSP,RIPEstat / RIPE RIS
+48519,France-IX Paris,True,14,8,6,103,0.1,False,,RIPEstat / RIPE RIS
+48702,France-IX Paris,True,0,0,0,0,10.0,False,,RIPEstat / RIPE RIS
+48732,PEERES-TELECOM,True,2,1,1,44,10.0,True,Non-Profit,RIPEstat / RIPE RIS
+48817,PRIZZ TELECOM,True,5,4,1,45,100.0,True,,RIPEstat / RIPE RIS
+49028,D-LAKE AS49028,True,12,8,4,83,10.0,True,Cable/DSL/ISP,RIPEstat / RIPE RIS
+49121,IN8INITY EU,True,28,20,8,181,10.0,True,NSP,RIPEstat / RIPE RIS
+49434,FBW Networks,True,28,22,6,1787,100.0,True,NSP,RIPEstat / RIPE RIS
+49463,France-IX Paris,True,12,10,2,97,2.0,False,,RIPEstat / RIPE RIS
+49544,i3D.net,True,190,138,52,6509,100.0,False,NSP,RIPEstat / RIPE RIS
+49584,EASYTEAM (ex DATAXION),True,13,9,4,49,10.0,True,NSP,RIPEstat / RIPE RIS
+49690,SAINT-GOBAIN,True,4,3,1,43,100.0,True,Enterprise,RIPEstat / RIPE RIS
+49763,Leboncoin,True,1,1,0,36,10.0,True,Enterprise,RIPEstat / RIPE RIS
+49920,Flowbird,True,5,3,2,57,10.0,True,Enterprise,RIPEstat / RIPE RIS
+50124,EASIO-COM,True,4,3,1,58,100.0,True,NSP,RIPEstat / RIPE RIS
+50293,France-IX Paris,True,8,7,1,96,1.0,True,,RIPEstat / RIPE RIS
+50414,France-IX Paris,True,4,1,3,80,0.2,True,,RIPEstat / RIPE RIS
+50446,Datacampus,True,4,3,1,49,10.0,True,Content,RIPEstat / RIPE RIS
+50620,Blue Networks Technologies,True,3,2,1,56,0.2,True,Cable/DSL/ISP,RIPEstat / RIPE RIS
+50624,Outscale,True,19,19,0,49,200.0,True,NSP,RIPEstat / RIPE RIS
+50628,Leonix Telecom,True,16,11,5,446,100.0,True,NSP,RIPEstat / RIPE RIS
+50812,France-IX Paris,True,22,22,0,41,10.0,True,,RIPEstat / RIPE RIS
+50858,SOLUTIONS INFORMATIQUES SERVICES SAS,True,5,3,2,98,1.0,True,Cable/DSL/ISP,RIPEstat / RIPE RIS
+50903,TRINAPS,True,5,4,1,47,10.0,True,Cable/DSL/ISP,RIPEstat / RIPE RIS
+51154,pCloud,True,16,16,0,190,100.0,True,Content,RIPEstat / RIPE RIS
+51185,France-IX Paris,True,45,24,21,5211,0.0,True,,RIPEstat / RIPE RIS
+51269,Hexatom,True,23,20,3,6,10.0,True,NSP,RIPEstat / RIPE RIS
+51326,W3TEL,True,2,1,1,48,10.0,True,NSP,RIPEstat / RIPE RIS
+51405,France-IX Paris,True,1,1,0,1,0.1,True,,RIPEstat / RIPE RIS
+51468,One.com,True,21,18,3,176,100.0,True,Content,RIPEstat / RIPE RIS
+51706,France-IX Paris,True,0,0,0,27,40.0,True,,RIPEstat / RIPE RIS
+51826,evroc,True,10,7,3,62,20.0,True,Content,RIPEstat / RIPE RIS
+52025,ParadoxNetworks Limited,True,82,14,68,522,0.25,True,NSP,RIPEstat / RIPE RIS
+52075,Wifirst,True,28,18,10,176,100.0,True,Cable/DSL/ISP,RIPEstat / RIPE RIS
+53264,France-IX Paris,True,22,21,1,19,0.1,True,,RIPEstat / RIPE RIS
+53589,PlanetHoster,True,24,24,0,59,100.0,True,Content,RIPEstat / RIPE RIS
+54113,"Fastly, Inc.",True,1816,610,1206,372,200.0,True,Content,RIPEstat / RIPE RIS
+54994,meteversecloud,True,1273,1108,165,384,20.0,True,NSP,RIPEstat / RIPE RIS
+55195,CIRA-CLOUD1,True,28,10,18,168,10.0,True,Network Services,RIPEstat / RIPE RIS
+55256,Netskope,True,622,622,0,326,300.0,True,Network Services,RIPEstat / RIPE RIS
+56630,France-IX Paris,True,159,147,12,292,0.0,True,,RIPEstat / RIPE RIS
+56665,Proximus Luxembourg,True,34,25,9,197,20.0,True,Cable/DSL/ISP,RIPEstat / RIPE RIS
+56911,WARIAN,True,39,26,13,857,10.0,True,NSP,RIPEstat / RIPE RIS
+56987,Abaclouda,True,5,4,1,1914,10.0,True,NSP,RIPEstat / RIPE RIS
+57119,NAITWAYS SAS,True,11,9,2,45,100.0,False,NSP,RIPEstat / RIPE RIS
+57344,Telehouse,True,105,104,1,387,100.0,True,Cable/DSL/ISP,RIPEstat / RIPE RIS
+57468,AZA TELECOM,True,11,11,0,39,20.0,True,Cable/DSL/ISP,RIPEstat / RIPE RIS
+57642,France-IX Paris,True,3,3,0,39,10.0,True,,RIPEstat / RIPE RIS
+57734,France-IX Paris,True,3,2,1,44,110.0,True,,RIPEstat / RIPE RIS
+57797,France-IX Paris,True,3,1,2,54,1.0,True,,RIPEstat / RIPE RIS
+57809,unyc,True,0,0,0,0,100.0,True,Cable/DSL/ISP,RIPEstat / RIPE RIS
+57965,France-IX Paris,True,2,1,1,69,0.1,True,,RIPEstat / RIPE RIS
+57976,Blizzard Entertainment,True,176,145,31,293,100.0,True,Content,RIPEstat / RIPE RIS
+58011,CHEOPS TECHNOLOGY FRANCE S.A.,True,3,2,1,55,1.0,True,,RIPEstat / RIPE RIS
+58308,Cusae,True,3,2,1,350,0.2,True,Content,RIPEstat / RIPE RIS
+58453,China Mobile International,True,81,76,5,717,20.0,True,NSP,RIPEstat / RIPE RIS
+58511,Swoop,True,12,10,2,213,10.0,True,NSP,RIPEstat / RIPE RIS
+59689,Code40,True,3,2,1,61,0.2,True,Content,RIPEstat / RIPE RIS
+59842,Believe Digital,True,0,0,0,0,40.0,True,Content,RIPEstat / RIPE RIS
+60132,Zoréole Group,True,5,3,2,57,100.0,True,Network Services,RIPEstat / RIPE RIS
+60171,AFR-IX Telecom,True,43,33,10,2620,100.0,True,NSP,RIPEstat / RIPE RIS
+60350,Veepee (former VENTE-PRIVEE.COM),True,25,24,1,152,10.0,True,Content,RIPEstat / RIPE RIS
+60427,System-Net SAS,True,9,8,1,48,1.0,True,Cable/DSL/ISP,RIPEstat / RIPE RIS
+60456,REVTELECOM,True,3,2,1,45,1.0,True,Cable/DSL/ISP,RIPEstat / RIPE RIS
+60497,France-IX Paris,True,5,4,1,8,0.0,False,,RIPEstat / RIPE RIS
+60983,France-IX Paris,True,7,4,3,14,0.2,True,,RIPEstat / RIPE RIS
+61205,INFOMIL,True,32,31,1,46,2.0,False,,RIPEstat / RIPE RIS
+61955,France-IX Paris,True,15,9,6,169,10.0,False,,RIPEstat / RIPE RIS
+62000,moji-netrix edge network,True,29,21,8,884,410.0,True,Content,RIPEstat / RIPE RIS
+62044,Zscaler AS62044,True,555,513,42,230,600.0,True,Network Services,RIPEstat / RIPE RIS
+62119,root.fr,True,5,4,1,50,10.0,True,NSP,RIPEstat / RIPE RIS
+63741,France-IX Paris,True,22,19,3,173,1.0,True,,RIPEstat / RIPE RIS
+64289,Macarne - AS64289,True,12,6,6,116,100.0,True,NSP,RIPEstat / RIPE RIS
+132337,France-IX Paris,True,77,32,45,105,0.2,True,,RIPEstat / RIPE RIS
+132876,France-IX Paris,True,3,3,0,156,1.0,True,,RIPEstat / RIPE RIS
+136907,Huawei Cloud Global,True,661,568,93,242,20.0,True,Content,RIPEstat / RIPE RIS
+139341,ACE CDN,True,1287,1060,227,386,100.0,True,Content,RIPEstat / RIPE RIS
+196983,France-IX Paris,True,24,24,0,15,0.1,True,,RIPEstat / RIPE RIS
+197000,France-IX Paris,True,6,3,3,166,0.2,True,,RIPEstat / RIPE RIS
+197133,MEDIACTIVE NETWORK FR-EU,True,28,26,2,6,10.0,True,Network Services,RIPEstat / RIPE RIS
+197205,1000mercis,True,6,5,1,45,20.0,True,,RIPEstat / RIPE RIS
+197422,France-IX Paris,True,10,6,4,51,10.0,True,,RIPEstat / RIPE RIS
+197551,AMEOS,True,2,2,0,42,0.1,False,Content,RIPEstat / RIPE RIS
+197692,France-IX Paris,True,4,3,1,45,1.0,True,,RIPEstat / RIPE RIS
+197696,Evolix,True,13,8,5,45,0.2,True,Enterprise,RIPEstat / RIPE RIS
+197922,Techcrea Solutions,True,31,30,1,43,10.0,True,NSP,RIPEstat / RIPE RIS
+197981,InterCloud,True,5,4,1,11,12.0,True,NSP,RIPEstat / RIPE RIS
+198034,SENSOTELECOM,True,9,8,1,44,10.0,True,Content,RIPEstat / RIPE RIS
+198290,France-IX Paris,True,9,8,1,100,0.1,True,,RIPEstat / RIPE RIS
+198335,TRANSATEL EUROPE,True,9,8,1,113,100.0,True,Cable/DSL/ISP,RIPEstat / RIPE RIS
+198385,France-IX Paris,True,11,9,2,1028,10.0,True,,RIPEstat / RIPE RIS
+198507,Quantic Telecom,True,12,9,3,5,10.0,True,Cable/DSL/ISP,RIPEstat / RIPE RIS
+198545,FLEX NETWORK,True,50,46,4,52,100.0,True,Cable/DSL/ISP,RIPEstat / RIPE RIS
+198551,Societe Atlantique de Telephonie et Communication SARL,True,23,19,4,48,10.0,False,Cable/DSL/ISP,RIPEstat / RIPE RIS
+199064,France-IX Paris,True,1,1,0,1,1.0,True,,RIPEstat / RIPE RIS
+199116,REZEL,True,3,2,1,46,0.2,True,Non-Profit,RIPEstat / RIPE RIS
+199121,France-IX Paris,True,2,1,1,63,0.1,False,,RIPEstat / RIPE RIS
+199125,France-IX Paris,True,2,2,0,40,1.0,True,,RIPEstat / RIPE RIS
+199248,NUMLOG,True,8,7,1,58,10.0,True,Cable/DSL/ISP,RIPEstat / RIPE RIS
+199396,Association SamesWireless,True,2,1,1,34,0.1,False,Non-Profit,RIPEstat / RIPE RIS
+199483,NXO France WAN,True,16,13,3,134,100.0,True,Cable/DSL/ISP,RIPEstat / RIPE RIS
+199524,Gcore,True,592,455,137,4817,100.0,True,Content,RIPEstat / RIPE RIS
+199660,Cloudata,True,7,6,1,49,10.0,False,NSP,RIPEstat / RIPE RIS
+199758,France-IX Paris,True,15,13,2,40,10.0,True,,RIPEstat / RIPE RIS
+199839,France-IX Paris,True,4,2,2,49,10.0,False,,RIPEstat / RIPE RIS
+199917,France-IX Paris,True,2,2,0,2,1.0,True,,RIPEstat / RIPE RIS
+200129,France-IX Paris,True,5,3,2,41,0.1,True,,RIPEstat / RIPE RIS
+200653,PROVECTIO,True,3,3,0,43,10.0,True,Cable/DSL/ISP,RIPEstat / RIPE RIS
+200748,grandorlyseinebievre,True,3,2,1,43,10.0,True,,RIPEstat / RIPE RIS
+201080,SCANI,True,11,9,2,39,0.2,True,Non-Profit,RIPEstat / RIPE RIS
+201228,France-IX Paris,True,8,6,2,127,2.0,True,,RIPEstat / RIPE RIS
+201647,France-IX Paris,True,10,10,0,41,20.0,True,,RIPEstat / RIPE RIS
+201675,Saclak Network,True,7,6,1,53,100.0,True,Cable/DSL/ISP,RIPEstat / RIPE RIS
+201808,Blue Infra,True,7,4,3,1,1.0,True,Cable/DSL/ISP,RIPEstat / RIPE RIS
+201868,PROSOLUCE SAS,True,13,13,0,43,100.0,True,Content,RIPEstat / RIPE RIS
+202140,DIRECT INFO SERVICE,True,0,0,0,0,0.2,True,NSP,RIPEstat / RIPE RIS
+202321,France-IX Paris,True,4,4,0,45,10.0,True,,RIPEstat / RIPE RIS
+203547,NEXT2i,True,4,3,1,43,10.0,True,NSP,RIPEstat / RIPE RIS
+203554,France-IX Paris,True,5,5,0,38,20.0,True,,RIPEstat / RIPE RIS
+203683,France-IX Paris,True,1,1,0,2,10.0,False,,RIPEstat / RIPE RIS
+203724,France-IX Paris,True,96,95,1,199,60.0,True,,RIPEstat / RIPE RIS
+203885,France-IX Paris,True,10,10,0,41,40.0,False,,RIPEstat / RIPE RIS
+204207,France-IX Paris,True,1,1,0,48,2.0,True,,RIPEstat / RIPE RIS
+204279,France-IX Paris,True,8,7,1,12,10.0,False,,RIPEstat / RIPE RIS
+204403,France-IX Paris,True,2,1,1,12,10.0,True,,RIPEstat / RIPE RIS
+205010,France-IX Paris,True,2,1,1,23,10.0,True,,RIPEstat / RIPE RIS
+205344,Unixo,True,4,3,1,48,10.0,True,Cable/DSL/ISP,RIPEstat / RIPE RIS
+205555,VSC Technologies,True,10,8,2,49,2.0,True,Enterprise,RIPEstat / RIPE RIS
+205684,Algathia,True,4,3,1,53,20.0,True,NSP,RIPEstat / RIPE RIS
+205801,Synalabs,True,1,1,0,1,1.0,True,Content,RIPEstat / RIPE RIS
+205845,PLANISWARE EUROPE,True,9,3,6,81,10.0,True,Content,RIPEstat / RIPE RIS
+206002,Scalair SAS,True,8,6,2,39,10.0,True,NSP,RIPEstat / RIPE RIS
+206014,RdemSystems,True,2,1,1,138,0.2,True,Enterprise,RIPEstat / RIPE RIS
+206059,France-IX Paris,True,2,1,1,34,10.0,True,,RIPEstat / RIPE RIS
+206120,KOESIO NETWORKS (KIX),True,2,1,1,47,100.0,True,Network Services,RIPEstat / RIPE RIS
+206342,Air Liquide IT,True,1,1,0,1,4.0,False,Enterprise,RIPEstat / RIPE RIS
+206610,Mixvoip AS206610,True,59,44,15,15,0.1,False,NSP,RIPEstat / RIPE RIS
+206720,France-IX Paris,True,11,11,0,4,10.0,True,,RIPEstat / RIPE RIS
+206782,GPLExpert,True,1,1,0,2,0.1,False,,RIPEstat / RIPE RIS
+208414,France-IX Paris,True,117,10,107,120,10.0,True,,RIPEstat / RIPE RIS
+208420,France-IX Paris,True,1,1,0,38,10.0,True,,RIPEstat / RIPE RIS
+209097,France-IX Paris,True,22,10,12,46,10.0,True,,RIPEstat / RIPE RIS
+209323,Geneanet,True,2,1,1,42,10.0,True,Content,RIPEstat / RIPE RIS
+209428,DSCW,True,3,2,1,4,0.2,True,Enterprise,RIPEstat / RIPE RIS
+209532,INFORMATIQUE MAINTENANCE SERVICES SAS,True,6,5,1,3,0.2,True,Cable/DSL/ISP,RIPEstat / RIPE RIS
+209823,Enki Multimedia,True,10,3,7,1969,0.2,True,Content,RIPEstat / RIPE RIS
+210036,France-IX Paris,True,6,3,3,125,0.1,True,,RIPEstat / RIPE RIS
+210165,France-IX Paris,True,3,2,1,55,10.0,True,,RIPEstat / RIPE RIS
+210232,France-IX Paris,True,6,5,1,41,10.0,True,,RIPEstat / RIPE RIS
+210732,Kamatari Online,True,6,4,2,38,10.0,True,,RIPEstat / RIPE RIS
+210834,France-IX Paris,True,15,8,7,17,0.1,True,,RIPEstat / RIPE RIS
+210890,France-IX Paris,True,9,2,7,72,0.1,True,,RIPEstat / RIPE RIS
+211113,BDF,True,2,2,0,1,20.0,False,,RIPEstat / RIPE RIS
+211448,WEBCONEX,True,8,5,3,69,100.0,True,Enterprise,RIPEstat / RIPE RIS
+211733,Atlas IP,True,4,3,1,50,10.0,True,Cable/DSL/ISP,RIPEstat / RIPE RIS
+211882,Aquilenet Paris,True,2,1,1,57,10.0,True,Non-Profit,RIPEstat / RIPE RIS
+212037,France-IX Paris,True,1,0,1,1,0.2,True,,RIPEstat / RIPE RIS
+212232,France-IX Paris,True,4,0,4,69,0.1,True,,RIPEstat / RIPE RIS
+212321,PC A LA CARTE,True,4,1,3,51,10.0,True,Enterprise,RIPEstat / RIPE RIS
+212579,IPEXIA,True,0,0,0,0,1.0,True,Cable/DSL/ISP,RIPEstat / RIPE RIS
+212815,★ Dyjix SAS,True,7,6,1,138,100.0,True,Cable/DSL/ISP,RIPEstat / RIPE RIS
+212895,ROUTE64.ORG,True,102,5,97,467,0.2,True,NSP,RIPEstat / RIPE RIS
+213317,France-IX Paris,True,2,1,1,43,10.0,True,,RIPEstat / RIPE RIS
+213432,Aevoo,True,2,1,1,1,10.0,True,,RIPEstat / RIPE RIS
+214708,France-IX Paris,True,5,5,0,3,10.0,False,,RIPEstat / RIPE RIS
+215234,UBIZWAN,True,3,2,1,37,10.0,True,Cable/DSL/ISP,RIPEstat / RIPE RIS
+215248,215248 - Bastiaan Mathijs Brink,True,12,5,7,213,0.2,True,Educational/Research,RIPEstat / RIPE RIS
+215250,France-IX Paris,True,2,1,1,7,0.2,False,,RIPEstat / RIPE RIS
+215596,KISSGROUP SAS,True,11,10,1,197,100.0,True,Cable/DSL/ISP,RIPEstat / RIPE RIS
+216239,PRINTEMPS,True,1,1,0,38,20.0,False,Enterprise,RIPEstat / RIPE RIS
+216302,Kaminot,True,4,2,2,70,10.0,False,,RIPEstat / RIPE RIS
+219062,Nera,True,4,4,0,112,100.0,True,NSP,RIPEstat / RIPE RIS
+219524,France-IX Paris Essentiel,True,0,0,0,0,40.0,True,,RIPEstat / RIPE RIS
+327814,Ecoband,True,23,23,0,109,1.0,True,NSP,RIPEstat / RIPE RIS
+328107,GUILAB,True,3,2,1,15,5.0,True,Enterprise,RIPEstat / RIPE RIS
+328411,Gulfsat Madagascar,True,46,44,2,43,1.0,True,Cable/DSL/ISP,RIPEstat / RIPE RIS
+396986,ByteDance,True,351,241,110,340,100.0,False,Content,RIPEstat / RIPE RIS
+397601,France-IX Paris,True,0,0,0,0,1.0,False,,RIPEstat / RIPE RIS
+401690,France-IX Paris,True,0,0,0,0,0.1,True,,RIPEstat / RIPE RIS

@@ -1,0 +1,239 @@
+{
+  "messages": [
+    [
+      "info",
+      "Query time has been set to the latest available time (2026-10-16 00:00 UTC)"
+    ]
+  ],
+  "see_also": [],
+  "version": "3.2",
+  "data_call_name": "asn-neighbours",
+  "data_call_status": "supported",
+  "cached": false,
+  "query_id": "20261016111149-2e357578-36b5-49e1-91e2-fdb5f1c07448",
+  "process_time": 233,
+  "server_id": "app182",
+  "build_version": "v0.11.23-2026.10.12",
+  "pipeline": "1460464",
+  "status": "ok",
+  "status_code": 200,
+  "time": "2026-10-16T11:11:49.314927",
+  "data": {
+    "resource": "31167",
+    "query_starttime": "2026-10-16T00:00:00",
+    "query_endtime": "2026-10-16T00:00:00",
+    "latest_time": "2026-10-16T00:00:00",
+    "earliest_time": "2019-08-28T00:00:00",
+    "neighbour_counts": {
+      "left": 10,
+      "right": 7,
+      "unique": 29,
+      "uncertain": 12
+    },
+    "neighbours": [
+      {
+        "asn": 137409,
+        "type": "left",
+        "power": 2,
+        "v4_peers": 0,
+        "v6_peers": 2
+      },
+      {
+        "asn": 14840,
+        "type": "left",
+        "power": 4,
+        "v4_peers": 0,
+        "v6_peers": 10
+      },
+      {
+        "asn": 209920,
+        "type": "left",
+        "power": 252,
+        "v4_peers": 328,
+        "v6_peers": 0
+      },
+      {
+        "asn": 22356,
+        "type": "left",
+        "power": 2,
+        "v4_peers": 0,
+        "v6_peers": 2
+      },
+      {
+        "asn": 34019,
+        "type": "left",
+        "power": 8,
+        "v4_peers": 59,
+        "v6_peers": 9
+      },
+      {
+        "asn": 35280,
+        "type": "left",
+        "power": 4,
+        "v4_peers": 0,
+        "v6_peers": 4
+      },
+      {
+        "asn": 4455,
+        "type": "left",
+        "power": 2,
+        "v4_peers": 0,
+        "v6_peers": 2
+      },
+      {
+        "asn": 5511,
+        "type": "left",
+        "power": 535,
+        "v4_peers": 1837,
+        "v6_peers": 121
+      },
+      {
+        "asn": 6939,
+        "type": "left",
+        "power": 109,
+        "v4_peers": 0,
+        "v6_peers": 134
+      },
+      {
+        "asn": 8218,
+        "type": "left",
+        "power": 1224,
+        "v4_peers": 5083,
+        "v6_peers": 388
+      },
+      {
+        "asn": 199485,
+        "type": "right",
+        "power": 95,
+        "v4_peers": 378,
+        "v6_peers": 0
+      },
+      {
+        "asn": 202089,
+        "type": "right",
+        "power": 256,
+        "v4_peers": 661,
+        "v6_peers": 0
+      },
+      {
+        "asn": 206874,
+        "type": "right",
+        "power": 127,
+        "v4_peers": 330,
+        "v6_peers": 0
+      },
+      {
+        "asn": 211858,
+        "type": "right",
+        "power": 488,
+        "v4_peers": 510,
+        "v6_peers": 360
+      },
+      {
+        "asn": 34572,
+        "type": "right",
+        "power": 263,
+        "v4_peers": 345,
+        "v6_peers": 0
+      },
+      {
+        "asn": 39509,
+        "type": "right",
+        "power": 200,
+        "v4_peers": 270,
+        "v6_peers": 0
+      },
+      {
+        "asn": 57943,
+        "type": "right",
+        "power": 88,
+        "v4_peers": 375,
+        "v6_peers": 0
+      },
+      {
+        "asn": 15547,
+        "type": "uncertain",
+        "power": 1,
+        "v4_peers": 0,
+        "v6_peers": 3
+      },
+      {
+        "asn": 1828,
+        "type": "uncertain",
+        "power": 2,
+        "v4_peers": 0,
+        "v6_peers": 2
+      },
+      {
+        "asn": 198150,
+        "type": "uncertain",
+        "power": 2,
+        "v4_peers": 0,
+        "v6_peers": 2
+      },
+      {
+        "asn": 199524,
+        "type": "uncertain",
+        "power": 2,
+        "v4_peers": 0,
+        "v6_peers": 2
+      },
+      {
+        "asn": 2027,
+        "type": "uncertain",
+        "power": 4,
+        "v4_peers": 15,
+        "v6_peers": 2
+      },
+      {
+        "asn": 212483,
+        "type": "uncertain",
+        "power": 2,
+        "v4_peers": 0,
+        "v6_peers": 4
+      },
+      {
+        "asn": 24482,
+        "type": "uncertain",
+        "power": 2,
+        "v4_peers": 0,
+        "v6_peers": 8
+      },
+      {
+        "asn": 29075,
+        "type": "uncertain",
+        "power": 2,
+        "v4_peers": 0,
+        "v6_peers": 2
+      },
+      {
+        "asn": 34177,
+        "type": "uncertain",
+        "power": 2,
+        "v4_peers": 0,
+        "v6_peers": 2
+      },
+      {
+        "asn": 35600,
+        "type": "uncertain",
+        "power": 4,
+        "v4_peers": 15,
+        "v6_peers": 2
+      },
+      {
+        "asn": 36236,
+        "type": "uncertain",
+        "power": 2,
+        "v4_peers": 0,
+        "v6_peers": 2
+      },
+      {
+        "asn": 44097,
+        "type": "uncertain",
+        "power": 3,
+        "v4_peers": 12,
+        "v6_peers": 2
+      }
+    ]
+  }
+}

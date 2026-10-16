@@ -1,6 +1,11 @@
 import { useEffect, useRef, useState } from "react";
 import * as maplibregl from "maplibre-gl";
+import maplibreWorkerUrl from "maplibre-gl/dist/maplibre-gl-worker.mjs?worker&url";
 import "maplibre-gl/dist/maplibre-gl.css";
+
+maplibregl.setWorkerUrl(maplibreWorkerUrl);
+
+import BgpTopology from "./BgpTopology";
 
 const PARIS_CENTER = [2.3522, 48.8566];
 
@@ -106,22 +111,36 @@ function App() {
   const anfrMarkersRef = useRef([]);
   const ripeMarkersRef = useRef([]);
   const peeringMarkersRef = useRef([]);
+  const franceIxMarkersRef = useRef([]);
 
   const [wifiCount, setWifiCount] = useState(0);
   const [anfrCount, setAnfrCount] = useState(0);
   const [ripeCount, setRipeCount] = useState(0);
   const [anchorCount, setAnchorCount] = useState(0);
   const [peeringCount, setPeeringCount] = useState(0);
+  const [franceIxCount, setFranceIxCount] = useState(0);
 
   const [wifiVisible, setWifiVisible] = useState(true);
   const [anfrVisible, setAnfrVisible] = useState(true);
   const [ripeVisible, setRipeVisible] = useState(true);
   const [peeringVisible, setPeeringVisible] = useState(true);
+  const [franceIxVisible, setFranceIxVisible] = useState(true);
+
+  const [arcepVisible, setArcepVisible] = useState(true);
+  const [arcepCount, setArcepCount] = useState(0);
+
+  const [arcepOperator, setArcepOperator] = useState("all");
+  const [arcepTechnology, setArcepTechnology] = useState("all");
+
+  const [arcepOnly3500, setArcepOnly3500] = useState(false);
+  const [arcepOnlyAnfr, setArcepOnlyAnfr] = useState(false);
 
   const [objectFilter, setObjectFilter] = useState("all");
   const [objectsOpen, setObjectsOpen] = useState(false);
 
   const [status, setStatus] = useState("Chargement...");
+
+  const [bgpVisible, setBgpVisible] = useState(false);
 
   useEffect(() => {
     if (mapRef.current) {
@@ -176,6 +195,8 @@ function App() {
       }),
       "bottom-right"
     );
+
+    mapRef.current = map;
 
     map.on("load", async () => {
       try {
@@ -436,6 +457,513 @@ function App() {
         }
 
         setAnfrCount(validAnfr);
+
+
+        /*
+         * ==================================================
+         * ARCEP MOBILE WEBGL
+         * ==================================================
+         */
+
+        console.log(
+          "[ARCEP] chargement GeoJSON..."
+        );
+
+
+        const arcepResponse =
+          await fetch(
+            "/data/arcep_mobile_sites.geojson"
+          );
+
+
+        if (!arcepResponse.ok) {
+          throw new Error(
+            `ARCEP HTTP ${arcepResponse.status}`
+          );
+        }
+
+
+        const arcepData =
+          await arcepResponse.json();
+
+
+        const arcepFeatures =
+          Array.isArray(
+            arcepData.features
+          )
+            ? arcepData.features
+            : [];
+
+
+        console.log(
+          "[ARCEP] features:",
+          arcepFeatures.length
+        );
+
+
+        setArcepCount(
+          arcepFeatures.length
+        );
+
+
+        /*
+         * Nettoyage défensif.
+         *
+         * On ne garde que les vrais Point
+         * avec longitude / latitude numériques.
+         */
+
+        const validArcepFeatures =
+          arcepFeatures.filter(
+            feature => {
+
+              const coordinates =
+                feature
+                  ?.geometry
+                  ?.coordinates;
+
+
+              if (
+                feature?.geometry?.type
+                !== "Point"
+              ) {
+                return false;
+              }
+
+
+              if (
+                !Array.isArray(
+                  coordinates
+                )
+                ||
+                coordinates.length < 2
+              ) {
+                return false;
+              }
+
+
+              const lon =
+                Number(
+                  coordinates[0]
+                );
+
+              const lat =
+                Number(
+                  coordinates[1]
+                );
+
+
+              return (
+                Number.isFinite(lon)
+                &&
+                Number.isFinite(lat)
+                &&
+                lon >= -180
+                &&
+                lon <= 180
+                &&
+                lat >= -90
+                &&
+                lat <= 90
+              );
+            }
+          );
+
+
+        console.log(
+          "[ARCEP] valid points:",
+          validArcepFeatures.length
+        );
+
+
+        const cleanArcepData = {
+          type:
+            "FeatureCollection",
+
+          features:
+            validArcepFeatures
+        };
+
+
+        /*
+         * SOURCE
+         */
+
+        if (
+          map.getSource(
+            "arcep-mobile"
+          )
+        ) {
+          map.removeSource(
+            "arcep-mobile"
+          );
+        }
+
+
+        map.addSource(
+          "arcep-mobile",
+          {
+            type:
+              "geojson",
+
+            data:
+              cleanArcepData
+          }
+        );
+
+
+        /*
+         * LAYER
+         *
+         * Important :
+         * aucune propriété tableau n'est utilisée
+         * pour le rendu.
+         *
+         * Seulement :
+         * - has_5g_3500
+         * - has_5g
+         * - has_4g
+         * - anfr_match
+         */
+
+        map.addLayer({
+          id:
+            "arcep-mobile-sites",
+
+          type:
+            "circle",
+
+          source:
+            "arcep-mobile",
+
+          minzoom:
+            0,
+
+          maxzoom:
+            24,
+
+          layout: {
+            visibility:
+              "visible"
+          },
+
+          paint: {
+
+            "circle-radius": [
+              "interpolate",
+              ["linear"],
+              ["zoom"],
+
+              5, 1,
+              7, 1.3,
+              9, 1.8,
+              11, 2.6,
+              13, 3.8,
+              15, 5.5,
+              17, 7
+            ],
+
+
+            "circle-color": [
+              "case",
+
+              [
+                "==",
+                [
+                  "get",
+                  "has_5g_3500"
+                ],
+                true
+              ],
+              "#d946ef",
+
+              [
+                "==",
+                [
+                  "get",
+                  "has_5g"
+                ],
+                true
+              ],
+              "#8b5cf6",
+
+              [
+                "==",
+                [
+                  "get",
+                  "has_4g"
+                ],
+                true
+              ],
+              "#06b6d4",
+
+              "#f59e0b"
+            ],
+
+
+            "circle-opacity":
+              0.68,
+
+
+            "circle-stroke-width": [
+              "case",
+
+              [
+                "==",
+                [
+                  "get",
+                  "anfr_match"
+                ],
+                true
+              ],
+              1.5,
+
+              0.5
+            ],
+
+
+            "circle-stroke-color":
+              "#ffffff",
+
+
+            "circle-stroke-opacity":
+              0.9
+          }
+        });
+
+
+
+        /*
+         * Force la couche au sommet du style.
+         */
+
+        map.moveLayer(
+          "arcep-mobile-sites"
+        );
+
+
+        console.log(
+          "[ARCEP] source:",
+          Boolean(
+            map.getSource(
+              "arcep-mobile"
+            )
+          )
+        );
+
+
+        console.log(
+          "[ARCEP] layer:",
+          Boolean(
+            map.getLayer(
+              "arcep-mobile-sites"
+            )
+          )
+        );
+
+
+        /*
+         * POPUP
+         */
+
+        map.on(
+          "click",
+          "arcep-mobile-sites",
+          event => {
+
+            const feature =
+              event.features?.[0];
+
+
+            if (!feature) {
+              return;
+            }
+
+
+            const p =
+              feature.properties ?? {};
+
+
+            const yes =
+              value =>
+                value === true
+                ||
+                value === "true";
+
+
+            const technologies = [
+              yes(p.has_2g)
+                ? "2G"
+                : null,
+
+              yes(p.has_3g)
+                ? "3G"
+                : null,
+
+              yes(p.has_4g)
+                ? "4G"
+                : null,
+
+              yes(p.has_5g)
+                ? "5G"
+                : null
+            ]
+              .filter(Boolean)
+              .join(" / ");
+
+
+            const coordinates =
+              feature.geometry
+                ?.coordinates;
+
+
+            if (
+              !Array.isArray(
+                coordinates
+              )
+            ) {
+              return;
+            }
+
+
+            new maplibregl.Popup({
+              maxWidth:
+                "420px"
+            })
+              .setLngLat(
+                coordinates
+              )
+              .setHTML(`
+                <div class="network-popup">
+
+                  <div class="popup-badge arcep-badge">
+                    ARCEP MOBILE
+                  </div>
+
+                  <h3>
+                    ${esc(
+                      p.operator,
+                      "Site mobile"
+                    )}
+                  </h3>
+
+
+                  <div class="popup-row">
+                    <strong>
+                      Technologies
+                    </strong>
+
+                    <span>
+                      ${esc(
+                        technologies,
+                        "—"
+                      )}
+                    </span>
+                  </div>
+
+
+                  <div class="popup-row">
+                    <strong>
+                      5G 3500 MHz
+                    </strong>
+
+                    <span>
+                      ${
+                        yes(
+                          p.has_5g_3500
+                        )
+                          ? "Oui"
+                          : "Non"
+                      }
+                    </span>
+                  </div>
+
+
+                  <div class="popup-row">
+                    <strong>
+                      Correspondance ANFR
+                    </strong>
+
+                    <span>
+                      ${
+                        yes(
+                          p.anfr_match
+                        )
+                          ? "Oui"
+                          : "Non"
+                      }
+                    </span>
+                  </div>
+
+
+                  <div class="popup-row">
+                    <strong>
+                      Commune
+                    </strong>
+
+                    <span>
+                      ${esc(
+                        p.cities,
+                        "—"
+                      )}
+                    </span>
+                  </div>
+
+
+                  <div class="popup-row">
+                    <strong>
+                      Ouverture 5G
+                    </strong>
+
+                    <span>
+                      ${esc(
+                        p.first_5g_opening_date,
+                        "—"
+                      )}
+                    </span>
+                  </div>
+
+
+                  <div class="popup-row">
+                    <strong>
+                      Source
+                    </strong>
+
+                    <span>
+                      ARCEP - Mon Réseau Mobile
+                    </span>
+                  </div>
+
+                </div>
+              `)
+              .addTo(
+                map
+              );
+          }
+        );
+
+
+        map.on(
+          "mouseenter",
+          "arcep-mobile-sites",
+          () => {
+            map.getCanvas()
+              .style.cursor =
+                "pointer";
+          }
+        );
+
+
+        map.on(
+          "mouseleave",
+          "arcep-mobile-sites",
+          () => {
+            map.getCanvas()
+              .style.cursor =
+                "";
+          }
+        );
+
 
         /*
          * ==================================================
@@ -799,6 +1327,211 @@ function App() {
 
         /*
          * ==================================================
+         * FRANCE-IX
+         * ==================================================
+         */
+
+        const franceIxFeatures =
+          await fetchGeoJSON(
+            "/data/france_ix_paris_pops.geojson",
+            "France-IX"
+          );
+
+        let validFranceIx = 0;
+
+        for (const feature of franceIxFeatures) {
+          const point = validPoint(feature);
+
+          if (!point) {
+            continue;
+          }
+
+          const {
+            longitude,
+            latitude
+          } = point;
+
+          const p =
+            feature.properties ?? {};
+
+          const memberCount =
+            Number(
+              p.colocated_member_count
+            ) || 0;
+
+          const services =
+            arrayText(
+              p.services,
+              10
+            );
+
+          const element =
+            document.createElement("div");
+
+          element.className =
+            "network-marker franceix-marker";
+
+          /*
+           * On augmente légèrement la taille
+           * selon le nombre de réseaux
+           * colocalisés au PoP.
+           */
+          const size = Math.max(
+            18,
+            Math.min(
+              34,
+              18 +
+              Math.log2(
+                memberCount + 1
+              ) * 2
+            )
+          );
+
+          element.style.width =
+            `${size}px`;
+
+          element.style.height =
+            `${size}px`;
+
+          element.title =
+            `France-IX - ${p.name ?? "PoP"}`;
+
+          const matched =
+            p.matched_netguardian_peeringdb === true ||
+            p.matched_netguardian_peeringdb === "true";
+
+          const popup =
+            new maplibregl.Popup({
+              offset: 24,
+              maxWidth: "430px"
+            }).setHTML(`
+              <div class="network-popup">
+
+                <div class="popup-badge franceix-badge">
+                  FRANCE-IX POP
+                </div>
+
+                <h3>
+                  ${esc(p.name, "France-IX PoP")}
+                </h3>
+
+                <div class="popup-row">
+                  <strong>Facility ID</strong>
+                  <span>
+                    ${esc(p.facility_id)}
+                  </span>
+                </div>
+
+                <div class="popup-row">
+                  <strong>Organisation</strong>
+                  <span>
+                    ${esc(p.organization)}
+                  </span>
+                </div>
+
+                <div class="popup-row">
+                  <strong>Ville</strong>
+                  <span>
+                    ${esc(p.city)}
+                    ${esc(p.postal_code, "")}
+                  </span>
+                </div>
+
+                <div class="popup-row">
+                  <strong>Adresse</strong>
+                  <span>
+                    ${esc(p.address1)}
+                    ${esc(p.address2, "")}
+                  </span>
+                </div>
+
+                <div class="popup-row">
+                  <strong>Service France-IX</strong>
+                  <span>
+                    ${esc(services)}
+                  </span>
+                </div>
+
+                <div class="popup-row">
+                  <strong>Réseaux colocalisés</strong>
+                  <span>
+                    ${memberCount}
+                  </span>
+                </div>
+
+                <div class="popup-row">
+                  <strong>PeeringDB match</strong>
+                  <span>
+                    ${matched ? "Oui" : "Non"}
+                  </span>
+                </div>
+
+                <div class="popup-row">
+                  <strong>Relation</strong>
+                  <span>
+                    ${esc(
+                      p.relation_type,
+                      "IX_PRESENT_AT_FACILITY"
+                    )}
+                  </span>
+                </div>
+
+                <div class="popup-row">
+                  <strong>Source</strong>
+                  <span>
+                    ${esc(
+                      p.source,
+                      "PeeringDB / France-IX"
+                    )}
+                  </span>
+                </div>
+
+                <div class="popup-row">
+                  <strong>Preuve</strong>
+                  <span>
+                    ${esc(
+                      p.evidence_type,
+                      "PUBLIC_DECLARATION"
+                    )}
+                  </span>
+                </div>
+
+              </div>
+            `);
+
+          const franceIxMarker =
+            new maplibregl.Marker({
+              element,
+              anchor: "center"
+            })
+              .setLngLat([
+                longitude,
+                latitude
+              ])
+              .setPopup(popup)
+              .addTo(map);
+
+          franceIxMarkersRef.current.push({
+            marker: franceIxMarker,
+            element,
+            category:
+              "franceix-pop"
+          });
+
+          bounds.extend([
+            longitude,
+            latitude
+          ]);
+
+          validFranceIx += 1;
+        }
+
+        setFranceIxCount(
+          validFranceIx
+        );
+
+        /*
+         * ==================================================
          * INITIAL MAP FIT
          * ==================================================
          */
@@ -841,6 +1574,11 @@ function App() {
         console.log(
           "[NetGuardian] PeeringDB facilities:",
           validPeering
+        );
+
+        console.log(
+          "[NetGuardian] France-IX PoPs:",
+          validFranceIx
         );
 
       } catch (error) {
@@ -925,16 +1663,33 @@ function App() {
           : "none";
     }
 
+    for (
+      const item
+      of franceIxMarkersRef.current
+    ) {
+      const allowed =
+        objectFilter === "all" ||
+        objectFilter ===
+          "franceix-pop";
+
+      item.element.style.display =
+        franceIxVisible && allowed
+          ? "block"
+          : "none";
+    }
+
   }, [
     objectFilter,
     wifiVisible,
     anfrVisible,
     ripeVisible,
     peeringVisible,
+    franceIxVisible,
     wifiCount,
     anfrCount,
     ripeCount,
-    peeringCount
+    peeringCount,
+    franceIxCount
   ]);
 
   function selectObjectFilter(filter) {
@@ -945,6 +1700,7 @@ function App() {
       setAnfrVisible(true);
       setRipeVisible(true);
       setPeeringVisible(true);
+      setFranceIxVisible(true);
     }
 
     if (filter === "wifi") {
@@ -952,6 +1708,7 @@ function App() {
       setAnfrVisible(false);
       setRipeVisible(false);
       setPeeringVisible(false);
+      setFranceIxVisible(false);
     }
 
     if (
@@ -962,6 +1719,7 @@ function App() {
       setAnfrVisible(true);
       setRipeVisible(false);
       setPeeringVisible(false);
+      setFranceIxVisible(false);
     }
 
     if (
@@ -972,6 +1730,7 @@ function App() {
       setAnfrVisible(false);
       setRipeVisible(true);
       setPeeringVisible(false);
+      setFranceIxVisible(false);
     }
 
     if (
@@ -982,6 +1741,17 @@ function App() {
       setAnfrVisible(false);
       setRipeVisible(false);
       setPeeringVisible(true);
+      setFranceIxVisible(false);
+    }
+
+    if (
+      filter === "franceix-pop"
+    ) {
+      setWifiVisible(false);
+      setAnfrVisible(false);
+      setRipeVisible(false);
+      setPeeringVisible(false);
+      setFranceIxVisible(true);
     }
 
     setObjectsOpen(false);
@@ -1007,6 +1777,12 @@ function App() {
       case "peeringdb-facility":
         return "PeeringDB";
 
+      case "franceix-pop":
+        return "France-IX";
+
+      case "arcep-mobile":
+        return "ARCEP Mobile";
+
       default:
         return "Tous";
     }
@@ -1016,7 +1792,173 @@ function App() {
     wifiCount +
     anfrCount +
     ripeCount +
-    peeringCount;
+    peeringCount +
+    franceIxCount +
+    arcepCount;
+
+  /*
+   * ==========================================================
+   * ARCEP MOBILE - VISIBILITY + FILTERS
+   * ==========================================================
+   */
+
+  useEffect(() => {
+
+    const map =
+      mapRef.current;
+
+
+    if (!map) {
+      return;
+    }
+
+
+    const layerId =
+      "arcep-mobile-sites";
+
+
+    if (
+      !map.getLayer(
+        layerId
+      )
+    ) {
+      return;
+    }
+
+
+    /*
+     * VISIBILITY
+     */
+
+    const objectAllowed =
+      objectFilter === "all"
+      ||
+      objectFilter ===
+        "arcep-mobile";
+
+
+    const visible =
+      arcepVisible
+      &&
+      objectAllowed;
+
+
+    map.setLayoutProperty(
+      layerId,
+      "visibility",
+      visible
+        ? "visible"
+        : "none"
+    );
+
+
+    /*
+     * FILTERS
+     */
+
+    const conditions = [];
+
+
+    if (
+      arcepOperator !== "all"
+    ) {
+      conditions.push([
+        "==",
+        [
+          "get",
+          "operator"
+        ],
+        arcepOperator
+      ]);
+    }
+
+
+    if (
+      arcepTechnology !== "all"
+    ) {
+
+      const field =
+        `has_${arcepTechnology.toLowerCase()}`;
+
+
+      conditions.push([
+        "==",
+        [
+          "get",
+          field
+        ],
+        true
+      ]);
+    }
+
+
+    if (
+      arcepOnly3500
+    ) {
+      conditions.push([
+        "==",
+        [
+          "get",
+          "has_5g_3500"
+        ],
+        true
+      ]);
+    }
+
+
+    if (
+      arcepOnlyAnfr
+    ) {
+      conditions.push([
+        "==",
+        [
+          "get",
+          "anfr_match"
+        ],
+        true
+      ]);
+    }
+
+
+    const filter =
+      conditions.length
+        ? [
+            "all",
+            ...conditions
+          ]
+        : null;
+
+
+    map.setFilter(
+      layerId,
+      filter
+    );
+
+
+    /*
+     * Toujours garder ARCEP au-dessus.
+     */
+
+    if (visible) {
+      map.moveLayer(
+        layerId
+      );
+    }
+
+
+  }, [
+    objectFilter,
+    arcepVisible,
+    arcepOperator,
+    arcepTechnology,
+    arcepOnly3500,
+    arcepOnlyAnfr
+  ]);
+
+
+
+
+
 
   return (
     <div className="app">
@@ -1171,17 +2113,228 @@ function App() {
             </span>
           </button>
 
-          <div className="layer future">
-            📱 ARCEP Mobile
-          </div>
+          <button
+            className={
+              arcepVisible
+                ? "layer layer-button arcep-active"
+                : "layer layer-button"
+            }
+            onClick={() =>
+              setArcepVisible(
+                !arcepVisible
+              )
+            }
+          >
+            <span>📱</span>
 
-          <div className="layer future">
-            🔀 France-IX
-          </div>
+            <div>
+              <strong>
+                ARCEP Mobile
+              </strong>
 
-          <div className="layer future">
-            🧭 BGP / RIPEstat
-          </div>
+              <small>
+                {arcepCount} sites opérateur
+              </small>
+            </div>
+
+            <span className="layer-state">
+              {arcepVisible
+                ? "ON"
+                : "OFF"}
+            </span>
+          </button>
+
+
+          {arcepVisible && (
+            <div className="arcep-controls">
+
+              <div className="arcep-control">
+
+                <label>
+                  Opérateur
+                </label>
+
+                <select
+                  value={arcepOperator}
+                  onChange={
+                    event =>
+                      setArcepOperator(
+                        event.target.value
+                      )
+                  }
+                >
+                  <option value="all">
+                    Tous
+                  </option>
+
+                  <option value="Orange">
+                    Orange
+                  </option>
+
+                  <option value="SFR">
+                    SFR
+                  </option>
+
+                  <option value="Bouygues Telecom">
+                    Bouygues Telecom
+                  </option>
+
+                  <option value="Free Mobile">
+                    Free Mobile
+                  </option>
+                </select>
+
+              </div>
+
+
+              <div className="arcep-control">
+
+                <label>
+                  Technologie
+                </label>
+
+                <select
+                  value={arcepTechnology}
+                  onChange={
+                    event =>
+                      setArcepTechnology(
+                        event.target.value
+                      )
+                  }
+                >
+                  <option value="all">
+                    Toutes
+                  </option>
+
+                  <option value="2G">
+                    2G
+                  </option>
+
+                  <option value="3G">
+                    3G
+                  </option>
+
+                  <option value="4G">
+                    4G
+                  </option>
+
+                  <option value="5G">
+                    5G
+                  </option>
+                </select>
+
+              </div>
+
+
+              <label className="arcep-check">
+
+                <input
+                  type="checkbox"
+                  checked={arcepOnly3500}
+                  onChange={
+                    event =>
+                      setArcepOnly3500(
+                        event.target.checked
+                      )
+                  }
+                />
+
+                5G 3500 MHz uniquement
+
+              </label>
+
+
+              <label className="arcep-check">
+
+                <input
+                  type="checkbox"
+                  checked={arcepOnlyAnfr}
+                  onChange={
+                    event =>
+                      setArcepOnlyAnfr(
+                        event.target.checked
+                      )
+                  }
+                />
+
+                Correspondance ANFR uniquement
+
+              </label>
+
+
+              <button
+                type="button"
+                className="arcep-reset"
+                onClick={() => {
+                  setArcepOperator("all");
+                  setArcepTechnology("all");
+                  setArcepOnly3500(false);
+                  setArcepOnlyAnfr(false);
+                }}
+              >
+                Réinitialiser les filtres
+              </button>
+
+            </div>
+          )}
+
+          <button
+            className={
+              franceIxVisible
+                ? "layer layer-button franceix-active"
+                : "layer layer-button"
+            }
+            onClick={() =>
+              setFranceIxVisible(
+                !franceIxVisible
+              )
+            }
+          >
+            <span>🔀</span>
+
+            <div>
+              <strong>
+                France-IX
+              </strong>
+
+              <small>
+                {franceIxCount} PoPs
+              </small>
+            </div>
+
+            <span className="layer-state">
+              {franceIxVisible ? "ON" : "OFF"}
+            </span>
+          </button>
+
+          <button
+            className={
+              bgpVisible
+                ? "layer layer-button bgp-active"
+                : "layer layer-button"
+            }
+            onClick={() =>
+              setBgpVisible(
+                !bgpVisible
+              )
+            }
+          >
+            <span>🧭</span>
+
+            <div>
+              <strong>
+                BGP / RIPEstat
+              </strong>
+
+              <small>
+                Logical topology
+              </small>
+            </div>
+
+            <span className="layer-state">
+              {bgpVisible ? "ON" : "OFF"}
+            </span>
+          </button>
 
           <div className="network-object-section">
 
@@ -1317,6 +2470,46 @@ function App() {
                   PeeringDB Facilities
                 </button>
 
+                <button
+                  className={
+                    objectFilter === "franceix-pop"
+                      ? "object-option selected"
+                      : "object-option"
+                  }
+                  onClick={() =>
+                    selectObjectFilter(
+                      "franceix-pop"
+                    )
+                  }
+                >
+                  <span className="object-icon franceix-symbol" />
+                  France-IX PoPs
+                </button>
+
+                <button
+                  className={
+                    objectFilter ===
+                      "arcep-mobile"
+                      ? "object-option selected"
+                      : "object-option"
+                  }
+                  onClick={() => {
+                    setObjectFilter(
+                      "arcep-mobile"
+                    );
+
+                    setObjectsOpen(
+                      false
+                    );
+                  }}
+                >
+                  <span
+                    className="object-icon arcep-symbol"
+                  />
+
+                  ARCEP Mobile
+                </button>
+
               </div>
             )}
 
@@ -1358,6 +2551,16 @@ function App() {
               PeeringDB Facility
             </p>
 
+            <p>
+              <span className="legend-diamond franceix-symbol" />
+              France-IX PoP
+            </p>
+
+            <p>
+              <span className="legend-circle arcep-symbol" />
+              ARCEP Mobile
+            </p>
+
           </div>
 
           <div className="legend">
@@ -1385,6 +2588,13 @@ function App() {
         </section>
 
       </main>
+
+      <BgpTopology
+        visible={bgpVisible}
+        onClose={() =>
+          setBgpVisible(false)
+        }
+      />
 
     </div>
   );

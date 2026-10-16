@@ -4,3 +4,4 @@ telemetry/pcap/
 __pycache__/
 *.pyc
 *.pyo
+*.backup-*

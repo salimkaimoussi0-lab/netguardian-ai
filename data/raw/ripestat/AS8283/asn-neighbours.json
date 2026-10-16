@@ -1,0 +1,2164 @@
+{
+  "messages": [
+    [
+      "info",
+      "Query time has been set to the latest available time (2026-10-16 00:00 UTC)"
+    ]
+  ],
+  "see_also": [],
+  "version": "3.2",
+  "data_call_name": "asn-neighbours",
+  "data_call_status": "supported",
+  "cached": true,
+  "query_id": "20261016110537-e34d1444-4359-4f5c-8506-b2253ec47d15",
+  "process_time": 31,
+  "server_id": "app189",
+  "build_version": "v0.11.23-2026.10.12",
+  "pipeline": "1460464",
+  "status": "ok",
+  "status_code": 200,
+  "time": "2026-10-16T11:05:37.555789",
+  "data": {
+    "resource": "8283",
+    "query_starttime": "2026-10-16T00:00:00",
+    "query_endtime": "2026-10-16T00:00:00",
+    "latest_time": "2026-10-16T00:00:00",
+    "earliest_time": "2019-08-28T00:00:00",
+    "neighbour_counts": {
+      "left": 88,
+      "right": 78,
+      "unique": 246,
+      "uncertain": 138
+    },
+    "neighbours": [
+      {
+        "asn": 1031,
+        "type": "left",
+        "power": 18,
+        "v4_peers": 28,
+        "v6_peers": 0
+      },
+      {
+        "asn": 1136,
+        "type": "left",
+        "power": 1,
+        "v4_peers": 0,
+        "v6_peers": 1
+      },
+      {
+        "asn": 12552,
+        "type": "left",
+        "power": 4,
+        "v4_peers": 3,
+        "v6_peers": 9
+      },
+      {
+        "asn": 12577,
+        "type": "left",
+        "power": 35,
+        "v4_peers": 36,
+        "v6_peers": 32
+      },
+      {
+        "asn": 12637,
+        "type": "left",
+        "power": 33,
+        "v4_peers": 29,
+        "v6_peers": 46
+      },
+      {
+        "asn": 12779,
+        "type": "left",
+        "power": 50,
+        "v4_peers": 146,
+        "v6_peers": 164
+      },
+      {
+        "asn": 12956,
+        "type": "left",
+        "power": 90,
+        "v4_peers": 7,
+        "v6_peers": 123
+      },
+      {
+        "asn": 13030,
+        "type": "left",
+        "power": 43,
+        "v4_peers": 152,
+        "v6_peers": 199
+      },
+      {
+        "asn": 14840,
+        "type": "left",
+        "power": 53,
+        "v4_peers": 143,
+        "v6_peers": 169
+      },
+      {
+        "asn": 15576,
+        "type": "left",
+        "power": 1,
+        "v4_peers": 0,
+        "v6_peers": 1
+      },
+      {
+        "asn": 15958,
+        "type": "left",
+        "power": 16,
+        "v4_peers": 26,
+        "v6_peers": 0
+      },
+      {
+        "asn": 1764,
+        "type": "left",
+        "power": 31,
+        "v4_peers": 28,
+        "v6_peers": 41
+      },
+      {
+        "asn": 1836,
+        "type": "left",
+        "power": 24,
+        "v4_peers": 36,
+        "v6_peers": 0
+      },
+      {
+        "asn": 20326,
+        "type": "left",
+        "power": 3,
+        "v4_peers": 1,
+        "v6_peers": 3
+      },
+      {
+        "asn": 203291,
+        "type": "left",
+        "power": 1,
+        "v4_peers": 1,
+        "v6_peers": 1
+      },
+      {
+        "asn": 20485,
+        "type": "left",
+        "power": 67,
+        "v4_peers": 89,
+        "v6_peers": 22
+      },
+      {
+        "asn": 205103,
+        "type": "left",
+        "power": 31,
+        "v4_peers": 29,
+        "v6_peers": 33
+      },
+      {
+        "asn": 209022,
+        "type": "left",
+        "power": 30,
+        "v4_peers": 0,
+        "v6_peers": 37
+      },
+      {
+        "asn": 209090,
+        "type": "left",
+        "power": 4,
+        "v4_peers": 0,
+        "v6_peers": 5
+      },
+      {
+        "asn": 212024,
+        "type": "left",
+        "power": 1,
+        "v4_peers": 1,
+        "v6_peers": 0
+      },
+      {
+        "asn": 22356,
+        "type": "left",
+        "power": 24,
+        "v4_peers": 28,
+        "v6_peers": 20
+      },
+      {
+        "asn": 24785,
+        "type": "left",
+        "power": 1668,
+        "v4_peers": 2071,
+        "v6_peers": 1120
+      },
+      {
+        "asn": 24961,
+        "type": "left",
+        "power": 61,
+        "v4_peers": 57,
+        "v6_peers": 72
+      },
+      {
+        "asn": 25091,
+        "type": "left",
+        "power": 50,
+        "v4_peers": 110,
+        "v6_peers": 126
+      },
+      {
+        "asn": 28716,
+        "type": "left",
+        "power": 20,
+        "v4_peers": 31,
+        "v6_peers": 0
+      },
+      {
+        "asn": 28917,
+        "type": "left",
+        "power": 34,
+        "v4_peers": 37,
+        "v6_peers": 61
+      },
+      {
+        "asn": 29075,
+        "type": "left",
+        "power": 31,
+        "v4_peers": 29,
+        "v6_peers": 32
+      },
+      {
+        "asn": 29208,
+        "type": "left",
+        "power": 1,
+        "v4_peers": 1,
+        "v6_peers": 0
+      },
+      {
+        "asn": 29222,
+        "type": "left",
+        "power": 60,
+        "v4_peers": 34,
+        "v6_peers": 79
+      },
+      {
+        "asn": 29632,
+        "type": "left",
+        "power": 90,
+        "v4_peers": 0,
+        "v6_peers": 142
+      },
+      {
+        "asn": 29691,
+        "type": "left",
+        "power": 41,
+        "v4_peers": 38,
+        "v6_peers": 46
+      },
+      {
+        "asn": 30844,
+        "type": "left",
+        "power": 21,
+        "v4_peers": 29,
+        "v6_peers": 3
+      },
+      {
+        "asn": 3216,
+        "type": "left",
+        "power": 4,
+        "v4_peers": 4,
+        "v6_peers": 0
+      },
+      {
+        "asn": 3320,
+        "type": "left",
+        "power": 107,
+        "v4_peers": 85,
+        "v6_peers": 222
+      },
+      {
+        "asn": 33891,
+        "type": "left",
+        "power": 5,
+        "v4_peers": 6,
+        "v6_peers": 0
+      },
+      {
+        "asn": 34019,
+        "type": "left",
+        "power": 53,
+        "v4_peers": 105,
+        "v6_peers": 102
+      },
+      {
+        "asn": 34177,
+        "type": "left",
+        "power": 59,
+        "v4_peers": 62,
+        "v6_peers": 53
+      },
+      {
+        "asn": 34549,
+        "type": "left",
+        "power": 84,
+        "v4_peers": 105,
+        "v6_peers": 45
+      },
+      {
+        "asn": 3491,
+        "type": "left",
+        "power": 29,
+        "v4_peers": 42,
+        "v6_peers": 41
+      },
+      {
+        "asn": 35280,
+        "type": "left",
+        "power": 34,
+        "v4_peers": 30,
+        "v6_peers": 43
+      },
+      {
+        "asn": 37100,
+        "type": "left",
+        "power": 35,
+        "v4_peers": 52,
+        "v6_peers": 0
+      },
+      {
+        "asn": 37468,
+        "type": "left",
+        "power": 45,
+        "v4_peers": 56,
+        "v6_peers": 26
+      },
+      {
+        "asn": 37497,
+        "type": "left",
+        "power": 36,
+        "v4_peers": 56,
+        "v6_peers": 0
+      },
+      {
+        "asn": 38930,
+        "type": "left",
+        "power": 36,
+        "v4_peers": 44,
+        "v6_peers": 0
+      },
+      {
+        "asn": 39249,
+        "type": "left",
+        "power": 1,
+        "v4_peers": 0,
+        "v6_peers": 1
+      },
+      {
+        "asn": 39351,
+        "type": "left",
+        "power": 27,
+        "v4_peers": 28,
+        "v6_peers": 24
+      },
+      {
+        "asn": 401753,
+        "type": "left",
+        "power": 27,
+        "v4_peers": 27,
+        "v6_peers": 35
+      },
+      {
+        "asn": 41327,
+        "type": "left",
+        "power": 39,
+        "v4_peers": 58,
+        "v6_peers": 1
+      },
+      {
+        "asn": 41913,
+        "type": "left",
+        "power": 1,
+        "v4_peers": 0,
+        "v6_peers": 2
+      },
+      {
+        "asn": 4230,
+        "type": "left",
+        "power": 41,
+        "v4_peers": 61,
+        "v6_peers": 1
+      },
+      {
+        "asn": 4455,
+        "type": "left",
+        "power": 2,
+        "v4_peers": 1,
+        "v6_peers": 2
+      },
+      {
+        "asn": 4601,
+        "type": "left",
+        "power": 23,
+        "v4_peers": 0,
+        "v6_peers": 29
+      },
+      {
+        "asn": 47147,
+        "type": "left",
+        "power": 64,
+        "v4_peers": 122,
+        "v6_peers": 172
+      },
+      {
+        "asn": 48362,
+        "type": "left",
+        "power": 59,
+        "v4_peers": 120,
+        "v6_peers": 104
+      },
+      {
+        "asn": 48646,
+        "type": "left",
+        "power": 23,
+        "v4_peers": 0,
+        "v6_peers": 29
+      },
+      {
+        "asn": 49127,
+        "type": "left",
+        "power": 2100,
+        "v4_peers": 1041,
+        "v6_peers": 3460
+      },
+      {
+        "asn": 50304,
+        "type": "left",
+        "power": 98,
+        "v4_peers": 112,
+        "v6_peers": 89
+      },
+      {
+        "asn": 50581,
+        "type": "left",
+        "power": 1,
+        "v4_peers": 0,
+        "v6_peers": 1
+      },
+      {
+        "asn": 50673,
+        "type": "left",
+        "power": 36,
+        "v4_peers": 3,
+        "v6_peers": 49
+      },
+      {
+        "asn": 5405,
+        "type": "left",
+        "power": 47,
+        "v4_peers": 53,
+        "v6_peers": 39
+      },
+      {
+        "asn": 55850,
+        "type": "left",
+        "power": 19,
+        "v4_peers": 29,
+        "v6_peers": 0
+      },
+      {
+        "asn": 56584,
+        "type": "left",
+        "power": 19,
+        "v4_peers": 0,
+        "v6_peers": 26
+      },
+      {
+        "asn": 56655,
+        "type": "left",
+        "power": 19,
+        "v4_peers": 0,
+        "v6_peers": 21
+      },
+      {
+        "asn": 57118,
+        "type": "left",
+        "power": 1,
+        "v4_peers": 1,
+        "v6_peers": 1
+      },
+      {
+        "asn": 57866,
+        "type": "left",
+        "power": 807,
+        "v4_peers": 1070,
+        "v6_peers": 779
+      },
+      {
+        "asn": 58057,
+        "type": "left",
+        "power": 45,
+        "v4_peers": 74,
+        "v6_peers": 145
+      },
+      {
+        "asn": 58115,
+        "type": "left",
+        "power": 3,
+        "v4_peers": 0,
+        "v6_peers": 9
+      },
+      {
+        "asn": 60144,
+        "type": "left",
+        "power": 2,
+        "v4_peers": 1,
+        "v6_peers": 1
+      },
+      {
+        "asn": 60171,
+        "type": "left",
+        "power": 35,
+        "v4_peers": 28,
+        "v6_peers": 47
+      },
+      {
+        "asn": 61049,
+        "type": "left",
+        "power": 1,
+        "v4_peers": 1,
+        "v6_peers": 1
+      },
+      {
+        "asn": 6204,
+        "type": "left",
+        "power": 17,
+        "v4_peers": 27,
+        "v6_peers": 0
+      },
+      {
+        "asn": 6453,
+        "type": "left",
+        "power": 16,
+        "v4_peers": 12,
+        "v6_peers": 6
+      },
+      {
+        "asn": 6461,
+        "type": "left",
+        "power": 119,
+        "v4_peers": 314,
+        "v6_peers": 8
+      },
+      {
+        "asn": 6663,
+        "type": "left",
+        "power": 18,
+        "v4_peers": 27,
+        "v6_peers": 1
+      },
+      {
+        "asn": 6696,
+        "type": "left",
+        "power": 28,
+        "v4_peers": 38,
+        "v6_peers": 0
+      },
+      {
+        "asn": 6758,
+        "type": "left",
+        "power": 45,
+        "v4_peers": 36,
+        "v6_peers": 63
+      },
+      {
+        "asn": 6762,
+        "type": "left",
+        "power": 34,
+        "v4_peers": 29,
+        "v6_peers": 12
+      },
+      {
+        "asn": 6797,
+        "type": "left",
+        "power": 30,
+        "v4_peers": 58,
+        "v6_peers": 80
+      },
+      {
+        "asn": 6939,
+        "type": "left",
+        "power": 637,
+        "v4_peers": 259,
+        "v6_peers": 794
+      },
+      {
+        "asn": 7195,
+        "type": "left",
+        "power": 2,
+        "v4_peers": 0,
+        "v6_peers": 2
+      },
+      {
+        "asn": 7713,
+        "type": "left",
+        "power": 24,
+        "v4_peers": 34,
+        "v6_peers": 0
+      },
+      {
+        "asn": 8218,
+        "type": "left",
+        "power": 63,
+        "v4_peers": 247,
+        "v6_peers": 359
+      },
+      {
+        "asn": 8298,
+        "type": "left",
+        "power": 19502,
+        "v4_peers": 92138,
+        "v6_peers": 49542
+      },
+      {
+        "asn": 8359,
+        "type": "left",
+        "power": 38,
+        "v4_peers": 25,
+        "v6_peers": 39
+      },
+      {
+        "asn": 8758,
+        "type": "left",
+        "power": 2,
+        "v4_peers": 2,
+        "v6_peers": 0
+      },
+      {
+        "asn": 8966,
+        "type": "left",
+        "power": 3,
+        "v4_peers": 2,
+        "v6_peers": 2
+      },
+      {
+        "asn": 9002,
+        "type": "left",
+        "power": 15,
+        "v4_peers": 0,
+        "v6_peers": 60
+      },
+      {
+        "asn": 9044,
+        "type": "left",
+        "power": 2,
+        "v4_peers": 2,
+        "v6_peers": 2
+      },
+      {
+        "asn": 1257,
+        "type": "right",
+        "power": 354,
+        "v4_peers": 1342,
+        "v6_peers": 378
+      },
+      {
+        "asn": 12956,
+        "type": "right",
+        "power": 3142,
+        "v4_peers": 9922,
+        "v6_peers": 2934
+      },
+      {
+        "asn": 19679,
+        "type": "right",
+        "power": 3,
+        "v4_peers": 2,
+        "v6_peers": 3
+      },
+      {
+        "asn": 197754,
+        "type": "right",
+        "power": 307,
+        "v4_peers": 347,
+        "v6_peers": 174
+      },
+      {
+        "asn": 198378,
+        "type": "right",
+        "power": 181,
+        "v4_peers": 0,
+        "v6_peers": 969
+      },
+      {
+        "asn": 198834,
+        "type": "right",
+        "power": 225,
+        "v4_peers": 0,
+        "v6_peers": 300
+      },
+      {
+        "asn": 200449,
+        "type": "right",
+        "power": 2,
+        "v4_peers": 6,
+        "v6_peers": 0
+      },
+      {
+        "asn": 200998,
+        "type": "right",
+        "power": 394,
+        "v4_peers": 2429,
+        "v6_peers": 357
+      },
+      {
+        "asn": 201616,
+        "type": "right",
+        "power": 120,
+        "v4_peers": 0,
+        "v6_peers": 164
+      },
+      {
+        "asn": 201623,
+        "type": "right",
+        "power": 180,
+        "v4_peers": 0,
+        "v6_peers": 242
+      },
+      {
+        "asn": 201723,
+        "type": "right",
+        "power": 72,
+        "v4_peers": 0,
+        "v6_peers": 97
+      },
+      {
+        "asn": 204003,
+        "type": "right",
+        "power": 115,
+        "v4_peers": 114,
+        "v6_peers": 286
+      },
+      {
+        "asn": 205079,
+        "type": "right",
+        "power": 109,
+        "v4_peers": 0,
+        "v6_peers": 436
+      },
+      {
+        "asn": 206218,
+        "type": "right",
+        "power": 389,
+        "v4_peers": 347,
+        "v6_peers": 355
+      },
+      {
+        "asn": 206763,
+        "type": "right",
+        "power": 299,
+        "v4_peers": 339,
+        "v6_peers": 220
+      },
+      {
+        "asn": 207036,
+        "type": "right",
+        "power": 125,
+        "v4_peers": 173,
+        "v6_peers": 0
+      },
+      {
+        "asn": 207487,
+        "type": "right",
+        "power": 254,
+        "v4_peers": 174,
+        "v6_peers": 434
+      },
+      {
+        "asn": 209845,
+        "type": "right",
+        "power": 383,
+        "v4_peers": 347,
+        "v6_peers": 355
+      },
+      {
+        "asn": 209990,
+        "type": "right",
+        "power": 293,
+        "v4_peers": 80,
+        "v6_peers": 1697
+      },
+      {
+        "asn": 210225,
+        "type": "right",
+        "power": 161,
+        "v4_peers": 0,
+        "v6_peers": 216
+      },
+      {
+        "asn": 210320,
+        "type": "right",
+        "power": 16,
+        "v4_peers": 34,
+        "v6_peers": 1
+      },
+      {
+        "asn": 211024,
+        "type": "right",
+        "power": 40,
+        "v4_peers": 0,
+        "v6_peers": 105
+      },
+      {
+        "asn": 211321,
+        "type": "right",
+        "power": 290,
+        "v4_peers": 35,
+        "v6_peers": 767
+      },
+      {
+        "asn": 211826,
+        "type": "right",
+        "power": 2,
+        "v4_peers": 4,
+        "v6_peers": 0
+      },
+      {
+        "asn": 211840,
+        "type": "right",
+        "power": 252,
+        "v4_peers": 0,
+        "v6_peers": 343
+      },
+      {
+        "asn": 212855,
+        "type": "right",
+        "power": 140,
+        "v4_peers": 305,
+        "v6_peers": 78
+      },
+      {
+        "asn": 212980,
+        "type": "right",
+        "power": 2,
+        "v4_peers": 8,
+        "v6_peers": 0
+      },
+      {
+        "asn": 213052,
+        "type": "right",
+        "power": 42,
+        "v4_peers": 43,
+        "v6_peers": 68
+      },
+      {
+        "asn": 213100,
+        "type": "right",
+        "power": 271,
+        "v4_peers": 346,
+        "v6_peers": 0
+      },
+      {
+        "asn": 213333,
+        "type": "right",
+        "power": 395,
+        "v4_peers": 1041,
+        "v6_peers": 355
+      },
+      {
+        "asn": 213576,
+        "type": "right",
+        "power": 264,
+        "v4_peers": 0,
+        "v6_peers": 387
+      },
+      {
+        "asn": 214445,
+        "type": "right",
+        "power": 275,
+        "v4_peers": 347,
+        "v6_peers": 0
+      },
+      {
+        "asn": 214729,
+        "type": "right",
+        "power": 3,
+        "v4_peers": 0,
+        "v6_peers": 3
+      },
+      {
+        "asn": 214810,
+        "type": "right",
+        "power": 382,
+        "v4_peers": 347,
+        "v6_peers": 355
+      },
+      {
+        "asn": 214958,
+        "type": "right",
+        "power": 262,
+        "v4_peers": 0,
+        "v6_peers": 354
+      },
+      {
+        "asn": 215131,
+        "type": "right",
+        "power": 207,
+        "v4_peers": 0,
+        "v6_peers": 276
+      },
+      {
+        "asn": 215737,
+        "type": "right",
+        "power": 141,
+        "v4_peers": 160,
+        "v6_peers": 72
+      },
+      {
+        "asn": 215842,
+        "type": "right",
+        "power": 212,
+        "v4_peers": 0,
+        "v6_peers": 460
+      },
+      {
+        "asn": 218506,
+        "type": "right",
+        "power": 98,
+        "v4_peers": 0,
+        "v6_peers": 140
+      },
+      {
+        "asn": 218634,
+        "type": "right",
+        "power": 382,
+        "v4_peers": 347,
+        "v6_peers": 355
+      },
+      {
+        "asn": 218772,
+        "type": "right",
+        "power": 196,
+        "v4_peers": 239,
+        "v6_peers": 56
+      },
+      {
+        "asn": 218836,
+        "type": "right",
+        "power": 143,
+        "v4_peers": 158,
+        "v6_peers": 100
+      },
+      {
+        "asn": 219265,
+        "type": "right",
+        "power": 145,
+        "v4_peers": 182,
+        "v6_peers": 119
+      },
+      {
+        "asn": 219279,
+        "type": "right",
+        "power": 384,
+        "v4_peers": 347,
+        "v6_peers": 355
+      },
+      {
+        "asn": 22611,
+        "type": "right",
+        "power": 3,
+        "v4_peers": 30,
+        "v6_peers": 12
+      },
+      {
+        "asn": 24785,
+        "type": "right",
+        "power": 327,
+        "v4_peers": 1806,
+        "v6_peers": 432
+      },
+      {
+        "asn": 24875,
+        "type": "right",
+        "power": 3,
+        "v4_peers": 0,
+        "v6_peers": 6
+      },
+      {
+        "asn": 263998,
+        "type": "right",
+        "power": 17,
+        "v4_peers": 2,
+        "v6_peers": 27
+      },
+      {
+        "asn": 29028,
+        "type": "right",
+        "power": 2,
+        "v4_peers": 14,
+        "v6_peers": 0
+      },
+      {
+        "asn": 2914,
+        "type": "right",
+        "power": 1172,
+        "v4_peers": 6709,
+        "v6_peers": 903
+      },
+      {
+        "asn": 29314,
+        "type": "right",
+        "power": 2,
+        "v4_peers": 6,
+        "v6_peers": 0
+      },
+      {
+        "asn": 30875,
+        "type": "right",
+        "power": 384,
+        "v4_peers": 347,
+        "v6_peers": 357
+      },
+      {
+        "asn": 31500,
+        "type": "right",
+        "power": 3,
+        "v4_peers": 0,
+        "v6_peers": 6
+      },
+      {
+        "asn": 3320,
+        "type": "right",
+        "power": 249,
+        "v4_peers": 1280,
+        "v6_peers": 126
+      },
+      {
+        "asn": 3491,
+        "type": "right",
+        "power": 2659,
+        "v4_peers": 20876,
+        "v6_peers": 5242
+      },
+      {
+        "asn": 38930,
+        "type": "right",
+        "power": 382,
+        "v4_peers": 942,
+        "v6_peers": 3807
+      },
+      {
+        "asn": 38970,
+        "type": "right",
+        "power": 383,
+        "v4_peers": 347,
+        "v6_peers": 355
+      },
+      {
+        "asn": 43996,
+        "type": "right",
+        "power": 5,
+        "v4_peers": 20,
+        "v6_peers": 18
+      },
+      {
+        "asn": 45009,
+        "type": "right",
+        "power": 388,
+        "v4_peers": 439,
+        "v6_peers": 576
+      },
+      {
+        "asn": 47065,
+        "type": "right",
+        "power": 565,
+        "v4_peers": 557,
+        "v6_peers": 377
+      },
+      {
+        "asn": 47674,
+        "type": "right",
+        "power": 3,
+        "v4_peers": 0,
+        "v6_peers": 3
+      },
+      {
+        "asn": 48185,
+        "type": "right",
+        "power": 11,
+        "v4_peers": 150,
+        "v6_peers": 36
+      },
+      {
+        "asn": 48408,
+        "type": "right",
+        "power": 22,
+        "v4_peers": 72,
+        "v6_peers": 27
+      },
+      {
+        "asn": 49127,
+        "type": "right",
+        "power": 7001,
+        "v4_peers": 33963,
+        "v6_peers": 22514
+      },
+      {
+        "asn": 51345,
+        "type": "right",
+        "power": 109,
+        "v4_peers": 104,
+        "v6_peers": 58
+      },
+      {
+        "asn": 5400,
+        "type": "right",
+        "power": 298,
+        "v4_peers": 2080,
+        "v6_peers": 276
+      },
+      {
+        "asn": 54113,
+        "type": "right",
+        "power": 2,
+        "v4_peers": 88,
+        "v6_peers": 0
+      },
+      {
+        "asn": 57048,
+        "type": "right",
+        "power": 49,
+        "v4_peers": 0,
+        "v6_peers": 61
+      },
+      {
+        "asn": 57866,
+        "type": "right",
+        "power": 1882,
+        "v4_peers": 6918,
+        "v6_peers": 8824
+      },
+      {
+        "asn": 57984,
+        "type": "right",
+        "power": 398,
+        "v4_peers": 347,
+        "v6_peers": 353
+      },
+      {
+        "asn": 60439,
+        "type": "right",
+        "power": 3,
+        "v4_peers": 0,
+        "v6_peers": 3
+      },
+      {
+        "asn": 61421,
+        "type": "right",
+        "power": 86,
+        "v4_peers": 0,
+        "v6_peers": 122
+      },
+      {
+        "asn": 6453,
+        "type": "right",
+        "power": 944,
+        "v4_peers": 4275,
+        "v6_peers": 3090
+      },
+      {
+        "asn": 6461,
+        "type": "right",
+        "power": 2,
+        "v4_peers": 8,
+        "v6_peers": 0
+      },
+      {
+        "asn": 6762,
+        "type": "right",
+        "power": 848,
+        "v4_peers": 1221,
+        "v6_peers": 779
+      },
+      {
+        "asn": 6830,
+        "type": "right",
+        "power": 107,
+        "v4_peers": 259,
+        "v6_peers": 60
+      },
+      {
+        "asn": 8298,
+        "type": "right",
+        "power": 78,
+        "v4_peers": 116,
+        "v6_peers": 239
+      },
+      {
+        "asn": 8529,
+        "type": "right",
+        "power": 18,
+        "v4_peers": 102,
+        "v6_peers": 0
+      },
+      {
+        "asn": 1103,
+        "type": "uncertain",
+        "power": 27,
+        "v4_peers": 28,
+        "v6_peers": 29
+      },
+      {
+        "asn": 1140,
+        "type": "uncertain",
+        "power": 37,
+        "v4_peers": 31,
+        "v6_peers": 46
+      },
+      {
+        "asn": 12307,
+        "type": "uncertain",
+        "power": 38,
+        "v4_peers": 35,
+        "v6_peers": 48
+      },
+      {
+        "asn": 1257,
+        "type": "uncertain",
+        "power": 45,
+        "v4_peers": 49,
+        "v6_peers": 49
+      },
+      {
+        "asn": 12859,
+        "type": "uncertain",
+        "power": 26,
+        "v4_peers": 28,
+        "v6_peers": 61
+      },
+      {
+        "asn": 12969,
+        "type": "uncertain",
+        "power": 19,
+        "v4_peers": 29,
+        "v6_peers": 0
+      },
+      {
+        "asn": 13237,
+        "type": "uncertain",
+        "power": 20,
+        "v4_peers": 30,
+        "v6_peers": 0
+      },
+      {
+        "asn": 142271,
+        "type": "uncertain",
+        "power": 25,
+        "v4_peers": 36,
+        "v6_peers": 0
+      },
+      {
+        "asn": 14630,
+        "type": "uncertain",
+        "power": 19,
+        "v4_peers": 29,
+        "v6_peers": 0
+      },
+      {
+        "asn": 14907,
+        "type": "uncertain",
+        "power": 37,
+        "v4_peers": 36,
+        "v6_peers": 37
+      },
+      {
+        "asn": 15547,
+        "type": "uncertain",
+        "power": 35,
+        "v4_peers": 62,
+        "v6_peers": 125
+      },
+      {
+        "asn": 15605,
+        "type": "uncertain",
+        "power": 33,
+        "v4_peers": 29,
+        "v6_peers": 44
+      },
+      {
+        "asn": 15623,
+        "type": "uncertain",
+        "power": 37,
+        "v4_peers": 34,
+        "v6_peers": 46
+      },
+      {
+        "asn": 16347,
+        "type": "uncertain",
+        "power": 28,
+        "v4_peers": 35,
+        "v6_peers": 9
+      },
+      {
+        "asn": 17639,
+        "type": "uncertain",
+        "power": 41,
+        "v4_peers": 38,
+        "v6_peers": 42
+      },
+      {
+        "asn": 18106,
+        "type": "uncertain",
+        "power": 19,
+        "v4_peers": 28,
+        "v6_peers": 1
+      },
+      {
+        "asn": 1828,
+        "type": "uncertain",
+        "power": 33,
+        "v4_peers": 30,
+        "v6_peers": 43
+      },
+      {
+        "asn": 196621,
+        "type": "uncertain",
+        "power": 39,
+        "v4_peers": 37,
+        "v6_peers": 48
+      },
+      {
+        "asn": 198150,
+        "type": "uncertain",
+        "power": 25,
+        "v4_peers": 26,
+        "v6_peers": 23
+      },
+      {
+        "asn": 198249,
+        "type": "uncertain",
+        "power": 33,
+        "v4_peers": 0,
+        "v6_peers": 49
+      },
+      {
+        "asn": 198385,
+        "type": "uncertain",
+        "power": 43,
+        "v4_peers": 40,
+        "v6_peers": 50
+      },
+      {
+        "asn": 199524,
+        "type": "uncertain",
+        "power": 48,
+        "v4_peers": 68,
+        "v6_peers": 102
+      },
+      {
+        "asn": 199938,
+        "type": "uncertain",
+        "power": 36,
+        "v4_peers": 30,
+        "v6_peers": 51
+      },
+      {
+        "asn": 202032,
+        "type": "uncertain",
+        "power": 23,
+        "v4_peers": 35,
+        "v6_peers": 0
+      },
+      {
+        "asn": 202365,
+        "type": "uncertain",
+        "power": 20,
+        "v4_peers": 30,
+        "v6_peers": 0
+      },
+      {
+        "asn": 2027,
+        "type": "uncertain",
+        "power": 27,
+        "v4_peers": 28,
+        "v6_peers": 33
+      },
+      {
+        "asn": 204092,
+        "type": "uncertain",
+        "power": 24,
+        "v4_peers": 27,
+        "v6_peers": 22
+      },
+      {
+        "asn": 205112,
+        "type": "uncertain",
+        "power": 42,
+        "v4_peers": 34,
+        "v6_peers": 50
+      },
+      {
+        "asn": 205206,
+        "type": "uncertain",
+        "power": 26,
+        "v4_peers": 3,
+        "v6_peers": 29
+      },
+      {
+        "asn": 20612,
+        "type": "uncertain",
+        "power": 32,
+        "v4_peers": 58,
+        "v6_peers": 78
+      },
+      {
+        "asn": 206356,
+        "type": "uncertain",
+        "power": 24,
+        "v4_peers": 35,
+        "v6_peers": 0
+      },
+      {
+        "asn": 20932,
+        "type": "uncertain",
+        "power": 37,
+        "v4_peers": 31,
+        "v6_peers": 54
+      },
+      {
+        "asn": 209823,
+        "type": "uncertain",
+        "power": 35,
+        "v4_peers": 37,
+        "v6_peers": 30
+      },
+      {
+        "asn": 210937,
+        "type": "uncertain",
+        "power": 32,
+        "v4_peers": 33,
+        "v6_peers": 27
+      },
+      {
+        "asn": 21232,
+        "type": "uncertain",
+        "power": 40,
+        "v4_peers": 37,
+        "v6_peers": 49
+      },
+      {
+        "asn": 212483,
+        "type": "uncertain",
+        "power": 40,
+        "v4_peers": 56,
+        "v6_peers": 100
+      },
+      {
+        "asn": 213151,
+        "type": "uncertain",
+        "power": 36,
+        "v4_peers": 34,
+        "v6_peers": 46
+      },
+      {
+        "asn": 24482,
+        "type": "uncertain",
+        "power": 50,
+        "v4_peers": 326,
+        "v6_peers": 328
+      },
+      {
+        "asn": 25160,
+        "type": "uncertain",
+        "power": 38,
+        "v4_peers": 29,
+        "v6_peers": 53
+      },
+      {
+        "asn": 263152,
+        "type": "uncertain",
+        "power": 18,
+        "v4_peers": 28,
+        "v6_peers": 0
+      },
+      {
+        "asn": 264479,
+        "type": "uncertain",
+        "power": 25,
+        "v4_peers": 34,
+        "v6_peers": 5
+      },
+      {
+        "asn": 271253,
+        "type": "uncertain",
+        "power": 36,
+        "v4_peers": 27,
+        "v6_peers": 53
+      },
+      {
+        "asn": 29140,
+        "type": "uncertain",
+        "power": 37,
+        "v4_peers": 31,
+        "v6_peers": 54
+      },
+      {
+        "asn": 31510,
+        "type": "uncertain",
+        "power": 39,
+        "v4_peers": 37,
+        "v6_peers": 46
+      },
+      {
+        "asn": 3212,
+        "type": "uncertain",
+        "power": 41,
+        "v4_peers": 39,
+        "v6_peers": 45
+      },
+      {
+        "asn": 3333,
+        "type": "uncertain",
+        "power": 35,
+        "v4_peers": 30,
+        "v6_peers": 49
+      },
+      {
+        "asn": 3399,
+        "type": "uncertain",
+        "power": 35,
+        "v4_peers": 33,
+        "v6_peers": 31
+      },
+      {
+        "asn": 34288,
+        "type": "uncertain",
+        "power": 34,
+        "v4_peers": 30,
+        "v6_peers": 42
+      },
+      {
+        "asn": 34927,
+        "type": "uncertain",
+        "power": 35,
+        "v4_peers": 57,
+        "v6_peers": 40
+      },
+      {
+        "asn": 35360,
+        "type": "uncertain",
+        "power": 41,
+        "v4_peers": 36,
+        "v6_peers": 49
+      },
+      {
+        "asn": 35426,
+        "type": "uncertain",
+        "power": 45,
+        "v4_peers": 37,
+        "v6_peers": 61
+      },
+      {
+        "asn": 35598,
+        "type": "uncertain",
+        "power": 17,
+        "v4_peers": 27,
+        "v6_peers": 0
+      },
+      {
+        "asn": 35600,
+        "type": "uncertain",
+        "power": 43,
+        "v4_peers": 37,
+        "v6_peers": 55
+      },
+      {
+        "asn": 35710,
+        "type": "uncertain",
+        "power": 24,
+        "v4_peers": 70,
+        "v6_peers": 0
+      },
+      {
+        "asn": 36236,
+        "type": "uncertain",
+        "power": 29,
+        "v4_peers": 29,
+        "v6_peers": 38
+      },
+      {
+        "asn": 37721,
+        "type": "uncertain",
+        "power": 28,
+        "v4_peers": 27,
+        "v6_peers": 28
+      },
+      {
+        "asn": 39122,
+        "type": "uncertain",
+        "power": 30,
+        "v4_peers": 27,
+        "v6_peers": 32
+      },
+      {
+        "asn": 41666,
+        "type": "uncertain",
+        "power": 33,
+        "v4_peers": 30,
+        "v6_peers": 32
+      },
+      {
+        "asn": 42541,
+        "type": "uncertain",
+        "power": 32,
+        "v4_peers": 30,
+        "v6_peers": 41
+      },
+      {
+        "asn": 44097,
+        "type": "uncertain",
+        "power": 27,
+        "v4_peers": 27,
+        "v6_peers": 33
+      },
+      {
+        "asn": 44901,
+        "type": "uncertain",
+        "power": 22,
+        "v4_peers": 32,
+        "v6_peers": 2
+      },
+      {
+        "asn": 45489,
+        "type": "uncertain",
+        "power": 32,
+        "v4_peers": 27,
+        "v6_peers": 42
+      },
+      {
+        "asn": 47692,
+        "type": "uncertain",
+        "power": 38,
+        "v4_peers": 73,
+        "v6_peers": 90
+      },
+      {
+        "asn": 48185,
+        "type": "uncertain",
+        "power": 36,
+        "v4_peers": 95,
+        "v6_peers": 131
+      },
+      {
+        "asn": 48919,
+        "type": "uncertain",
+        "power": 31,
+        "v4_peers": 29,
+        "v6_peers": 43
+      },
+      {
+        "asn": 49434,
+        "type": "uncertain",
+        "power": 49,
+        "v4_peers": 40,
+        "v6_peers": 58
+      },
+      {
+        "asn": 49544,
+        "type": "uncertain",
+        "power": 24,
+        "v4_peers": 56,
+        "v6_peers": 27
+      },
+      {
+        "asn": 49605,
+        "type": "uncertain",
+        "power": 27,
+        "v4_peers": 29,
+        "v6_peers": 23
+      },
+      {
+        "asn": 50300,
+        "type": "uncertain",
+        "power": 36,
+        "v4_peers": 29,
+        "v6_peers": 46
+      },
+      {
+        "asn": 50628,
+        "type": "uncertain",
+        "power": 46,
+        "v4_peers": 76,
+        "v6_peers": 130
+      },
+      {
+        "asn": 50629,
+        "type": "uncertain",
+        "power": 35,
+        "v4_peers": 33,
+        "v6_peers": 32
+      },
+      {
+        "asn": 50763,
+        "type": "uncertain",
+        "power": 35,
+        "v4_peers": 31,
+        "v6_peers": 49
+      },
+      {
+        "asn": 51088,
+        "type": "uncertain",
+        "power": 30,
+        "v4_peers": 33,
+        "v6_peers": 39
+      },
+      {
+        "asn": 51184,
+        "type": "uncertain",
+        "power": 32,
+        "v4_peers": 58,
+        "v6_peers": 82
+      },
+      {
+        "asn": 51185,
+        "type": "uncertain",
+        "power": 44,
+        "v4_peers": 71,
+        "v6_peers": 42
+      },
+      {
+        "asn": 51873,
+        "type": "uncertain",
+        "power": 44,
+        "v4_peers": 39,
+        "v6_peers": 61
+      },
+      {
+        "asn": 553,
+        "type": "uncertain",
+        "power": 39,
+        "v4_peers": 37,
+        "v6_peers": 46
+      },
+      {
+        "asn": 559,
+        "type": "uncertain",
+        "power": 37,
+        "v4_peers": 30,
+        "v6_peers": 52
+      },
+      {
+        "asn": 56662,
+        "type": "uncertain",
+        "power": 42,
+        "v4_peers": 0,
+        "v6_peers": 68
+      },
+      {
+        "asn": 56987,
+        "type": "uncertain",
+        "power": 35,
+        "v4_peers": 31,
+        "v6_peers": 42
+      },
+      {
+        "asn": 57777,
+        "type": "uncertain",
+        "power": 37,
+        "v4_peers": 35,
+        "v6_peers": 45
+      },
+      {
+        "asn": 58299,
+        "type": "uncertain",
+        "power": 32,
+        "v4_peers": 32,
+        "v6_peers": 33
+      },
+      {
+        "asn": 58308,
+        "type": "uncertain",
+        "power": 36,
+        "v4_peers": 34,
+        "v6_peers": 46
+      },
+      {
+        "asn": 59414,
+        "type": "uncertain",
+        "power": 39,
+        "v4_peers": 37,
+        "v6_peers": 48
+      },
+      {
+        "asn": 59890,
+        "type": "uncertain",
+        "power": 38,
+        "v4_peers": 68,
+        "v6_peers": 94
+      },
+      {
+        "asn": 59891,
+        "type": "uncertain",
+        "power": 23,
+        "v4_peers": 35,
+        "v6_peers": 0
+      },
+      {
+        "asn": 60326,
+        "type": "uncertain",
+        "power": 30,
+        "v4_peers": 0,
+        "v6_peers": 37
+      },
+      {
+        "asn": 61573,
+        "type": "uncertain",
+        "power": 32,
+        "v4_peers": 28,
+        "v6_peers": 42
+      },
+      {
+        "asn": 62167,
+        "type": "uncertain",
+        "power": 42,
+        "v4_peers": 76,
+        "v6_peers": 76
+      },
+      {
+        "asn": 6424,
+        "type": "uncertain",
+        "power": 32,
+        "v4_peers": 31,
+        "v6_peers": 30
+      },
+      {
+        "asn": 64475,
+        "type": "uncertain",
+        "power": 41,
+        "v4_peers": 38,
+        "v6_peers": 46
+      },
+      {
+        "asn": 680,
+        "type": "uncertain",
+        "power": 34,
+        "v4_peers": 32,
+        "v6_peers": 42
+      },
+      {
+        "asn": 8529,
+        "type": "uncertain",
+        "power": 45,
+        "v4_peers": 70,
+        "v6_peers": 69
+      },
+      {
+        "asn": 8888,
+        "type": "uncertain",
+        "power": 25,
+        "v4_peers": 35,
+        "v6_peers": 2
+      },
+      {
+        "asn": 197754,
+        "type": "uncertain",
+        "power": 1,
+        "v4_peers": 4,
+        "v6_peers": 4
+      },
+      {
+        "asn": 198378,
+        "type": "uncertain",
+        "power": 1,
+        "v4_peers": 0,
+        "v6_peers": 16
+      },
+      {
+        "asn": 198834,
+        "type": "uncertain",
+        "power": 1,
+        "v4_peers": 0,
+        "v6_peers": 4
+      },
+      {
+        "asn": 200998,
+        "type": "uncertain",
+        "power": 1,
+        "v4_peers": 28,
+        "v6_peers": 4
+      },
+      {
+        "asn": 201616,
+        "type": "uncertain",
+        "power": 1,
+        "v4_peers": 0,
+        "v6_peers": 3
+      },
+      {
+        "asn": 201623,
+        "type": "uncertain",
+        "power": 1,
+        "v4_peers": 0,
+        "v6_peers": 4
+      },
+      {
+        "asn": 201723,
+        "type": "uncertain",
+        "power": 1,
+        "v4_peers": 0,
+        "v6_peers": 1
+      },
+      {
+        "asn": 204003,
+        "type": "uncertain",
+        "power": 1,
+        "v4_peers": 3,
+        "v6_peers": 8
+      },
+      {
+        "asn": 205079,
+        "type": "uncertain",
+        "power": 1,
+        "v4_peers": 0,
+        "v6_peers": 12
+      },
+      {
+        "asn": 206218,
+        "type": "uncertain",
+        "power": 1,
+        "v4_peers": 4,
+        "v6_peers": 4
+      },
+      {
+        "asn": 206763,
+        "type": "uncertain",
+        "power": 1,
+        "v4_peers": 4,
+        "v6_peers": 4
+      },
+      {
+        "asn": 207036,
+        "type": "uncertain",
+        "power": 1,
+        "v4_peers": 4,
+        "v6_peers": 0
+      },
+      {
+        "asn": 207487,
+        "type": "uncertain",
+        "power": 2,
+        "v4_peers": 3,
+        "v6_peers": 12
+      },
+      {
+        "asn": 209845,
+        "type": "uncertain",
+        "power": 1,
+        "v4_peers": 4,
+        "v6_peers": 4
+      },
+      {
+        "asn": 209990,
+        "type": "uncertain",
+        "power": 1,
+        "v4_peers": 3,
+        "v6_peers": 30
+      },
+      {
+        "asn": 210225,
+        "type": "uncertain",
+        "power": 1,
+        "v4_peers": 0,
+        "v6_peers": 4
+      },
+      {
+        "asn": 210320,
+        "type": "uncertain",
+        "power": 1,
+        "v4_peers": 2,
+        "v6_peers": 0
+      },
+      {
+        "asn": 211024,
+        "type": "uncertain",
+        "power": 1,
+        "v4_peers": 0,
+        "v6_peers": 4
+      },
+      {
+        "asn": 211321,
+        "type": "uncertain",
+        "power": 1,
+        "v4_peers": 1,
+        "v6_peers": 10
+      },
+      {
+        "asn": 211840,
+        "type": "uncertain",
+        "power": 1,
+        "v4_peers": 0,
+        "v6_peers": 3
+      },
+      {
+        "asn": 212855,
+        "type": "uncertain",
+        "power": 1,
+        "v4_peers": 6,
+        "v6_peers": 3
+      },
+      {
+        "asn": 213100,
+        "type": "uncertain",
+        "power": 1,
+        "v4_peers": 4,
+        "v6_peers": 0
+      },
+      {
+        "asn": 213333,
+        "type": "uncertain",
+        "power": 1,
+        "v4_peers": 12,
+        "v6_peers": 4
+      },
+      {
+        "asn": 213576,
+        "type": "uncertain",
+        "power": 1,
+        "v4_peers": 0,
+        "v6_peers": 5
+      },
+      {
+        "asn": 214445,
+        "type": "uncertain",
+        "power": 1,
+        "v4_peers": 4,
+        "v6_peers": 0
+      },
+      {
+        "asn": 214810,
+        "type": "uncertain",
+        "power": 1,
+        "v4_peers": 4,
+        "v6_peers": 4
+      },
+      {
+        "asn": 214958,
+        "type": "uncertain",
+        "power": 1,
+        "v4_peers": 0,
+        "v6_peers": 4
+      },
+      {
+        "asn": 215131,
+        "type": "uncertain",
+        "power": 1,
+        "v4_peers": 0,
+        "v6_peers": 4
+      },
+      {
+        "asn": 215737,
+        "type": "uncertain",
+        "power": 1,
+        "v4_peers": 3,
+        "v6_peers": 1
+      },
+      {
+        "asn": 215842,
+        "type": "uncertain",
+        "power": 1,
+        "v4_peers": 0,
+        "v6_peers": 8
+      },
+      {
+        "asn": 218506,
+        "type": "uncertain",
+        "power": 1,
+        "v4_peers": 0,
+        "v6_peers": 4
+      },
+      {
+        "asn": 218634,
+        "type": "uncertain",
+        "power": 1,
+        "v4_peers": 4,
+        "v6_peers": 4
+      },
+      {
+        "asn": 218772,
+        "type": "uncertain",
+        "power": 1,
+        "v4_peers": 4,
+        "v6_peers": 2
+      },
+      {
+        "asn": 218836,
+        "type": "uncertain",
+        "power": 1,
+        "v4_peers": 3,
+        "v6_peers": 3
+      },
+      {
+        "asn": 219265,
+        "type": "uncertain",
+        "power": 1,
+        "v4_peers": 4,
+        "v6_peers": 4
+      },
+      {
+        "asn": 219279,
+        "type": "uncertain",
+        "power": 1,
+        "v4_peers": 4,
+        "v6_peers": 4
+      },
+      {
+        "asn": 30875,
+        "type": "uncertain",
+        "power": 1,
+        "v4_peers": 4,
+        "v6_peers": 4
+      },
+      {
+        "asn": 38970,
+        "type": "uncertain",
+        "power": 1,
+        "v4_peers": 4,
+        "v6_peers": 4
+      },
+      {
+        "asn": 45009,
+        "type": "uncertain",
+        "power": 1,
+        "v4_peers": 4,
+        "v6_peers": 4
+      },
+      {
+        "asn": 47065,
+        "type": "uncertain",
+        "power": 4,
+        "v4_peers": 3,
+        "v6_peers": 1
+      },
+      {
+        "asn": 51345,
+        "type": "uncertain",
+        "power": 1,
+        "v4_peers": 1,
+        "v6_peers": 1
+      },
+      {
+        "asn": 57048,
+        "type": "uncertain",
+        "power": 1,
+        "v4_peers": 0,
+        "v6_peers": 2
+      },
+      {
+        "asn": 57984,
+        "type": "uncertain",
+        "power": 1,
+        "v4_peers": 2,
+        "v6_peers": 2
+      },
+      {
+        "asn": 61421,
+        "type": "uncertain",
+        "power": 1,
+        "v4_peers": 0,
+        "v6_peers": 2
+      }
+    ]
+  }
+}

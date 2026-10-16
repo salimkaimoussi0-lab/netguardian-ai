@@ -1,0 +1,292 @@
+{
+  "type": "FeatureCollection",
+  "name": "NetGuardian France-IX Paris PoPs",
+  "metadata": {
+    "source": "PeeringDB / France-IX",
+    "retrieved_at": "2026-10-16T10:19:20.081466+00:00",
+    "note": "France-IX PoPs are PeeringDB facilities where France-IX has a declared presence.",
+    "feature_count": 9
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "id": "franceix-pop-53",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.38532,
+          48.856654
+        ]
+      },
+      "properties": {
+        "facility_id": 53,
+        "name": "Telehouse - Paris 2 (Voltaire - Léon Frot)",
+        "organization": "Telehouse - Global Data Centers",
+        "address1": "137 Boulevard Voltaire",
+        "address2": "65 Rue Léon Frot",
+        "city": "Paris",
+        "postal_code": "75011",
+        "country": "FR",
+        "latitude": 48.856654,
+        "longitude": 2.38532,
+        "services": [
+          "Essentiel",
+          "Plus"
+        ],
+        "colocated_member_count": 207,
+        "matched_netguardian_peeringdb": true,
+        "relation_type": "IX_PRESENT_AT_FACILITY",
+        "source": "PeeringDB",
+        "evidence_type": "PUBLIC_DECLARATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "franceix-pop-72",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.259202,
+          48.904891
+        ]
+      },
+      "properties": {
+        "facility_id": 72,
+        "name": "Equinix PA7 - Paris, Energy Park",
+        "organization": "Equinix, Inc.",
+        "address1": "130-136 Boulevard de Verdun",
+        "address2": "Energy Park 9",
+        "city": "Paris",
+        "postal_code": "92413",
+        "country": "FR",
+        "latitude": 48.904891,
+        "longitude": 2.259202,
+        "services": [
+          "Plus"
+        ],
+        "colocated_member_count": 39,
+        "matched_netguardian_peeringdb": true,
+        "relation_type": "IX_PRESENT_AT_FACILITY",
+        "source": "PeeringDB",
+        "evidence_type": "PUBLIC_DECLARATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "franceix-pop-75",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.370417,
+          48.906617
+        ]
+      },
+      "properties": {
+        "facility_id": 75,
+        "name": "Digital Realty Paris PAR2",
+        "organization": "Digital Realty",
+        "address1": "20 Rue des Gardinoux",
+        "address2": "Aubervilliers",
+        "city": "Paris",
+        "postal_code": "93300",
+        "country": "FR",
+        "latitude": 48.906617,
+        "longitude": 2.370417,
+        "services": [
+          "Plus"
+        ],
+        "colocated_member_count": 29,
+        "matched_netguardian_peeringdb": true,
+        "relation_type": "IX_PRESENT_AT_FACILITY",
+        "source": "PeeringDB",
+        "evidence_type": "PUBLIC_DECLARATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "franceix-pop-636",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.081473,
+          48.726927
+        ]
+      },
+      "properties": {
+        "facility_id": 636,
+        "name": "Telehouse - Paris 3 (Magny)",
+        "organization": "Telehouse - Global Data Centers",
+        "address1": "1 Rue Pablo Picasso",
+        "address2": "",
+        "city": "Magny-les-Hameaux",
+        "postal_code": "78114",
+        "country": "FR",
+        "latitude": 48.726927,
+        "longitude": 2.081473,
+        "services": [
+          "Plus"
+        ],
+        "colocated_member_count": 35,
+        "matched_netguardian_peeringdb": true,
+        "relation_type": "IX_PRESENT_AT_FACILITY",
+        "source": "PeeringDB",
+        "evidence_type": "PUBLIC_DECLARATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "franceix-pop-655",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.411851,
+          48.794768
+        ]
+      },
+      "properties": {
+        "facility_id": 655,
+        "name": "OPCORE - DC2 / PAR2",
+        "organization": "OPCORE",
+        "address1": "29 RUE ÉDITH CAVELL",
+        "address2": "",
+        "city": "Vitry-sur-Seine",
+        "postal_code": "94400",
+        "country": "FR",
+        "latitude": 48.794768,
+        "longitude": 2.411851,
+        "services": [
+          "Plus"
+        ],
+        "colocated_member_count": 29,
+        "matched_netguardian_peeringdb": true,
+        "relation_type": "IX_PRESENT_AT_FACILITY",
+        "source": "PeeringDB",
+        "evidence_type": "PUBLIC_DECLARATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "franceix-pop-714",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.362402,
+          48.914183
+        ]
+      },
+      "properties": {
+        "facility_id": 714,
+        "name": "Digital Realty Paris PAR5",
+        "organization": "Digital Realty",
+        "address1": "11-13 Avenue des Arts et Metiers",
+        "address2": "Saint Denis",
+        "city": "Paris",
+        "postal_code": "93200",
+        "country": "FR",
+        "latitude": 48.914183,
+        "longitude": 2.362402,
+        "services": [
+          "Plus"
+        ],
+        "colocated_member_count": 42,
+        "matched_netguardian_peeringdb": true,
+        "relation_type": "IX_PRESENT_AT_FACILITY",
+        "source": "PeeringDB",
+        "evidence_type": "PUBLIC_DECLARATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "franceix-pop-717",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.350664,
+          48.927166
+        ]
+      },
+      "properties": {
+        "facility_id": 717,
+        "name": "Equinix PA3 - Paris, Saint-Denis",
+        "organization": "Equinix, Inc.",
+        "address1": "Rue Ambroise Croizat, 114",
+        "address2": "Saint-Denis",
+        "city": "Paris",
+        "postal_code": "93200",
+        "country": "FR",
+        "latitude": 48.927166,
+        "longitude": 2.350664,
+        "services": [
+          "Plus"
+        ],
+        "colocated_member_count": 59,
+        "matched_netguardian_peeringdb": true,
+        "relation_type": "IX_PRESENT_AT_FACILITY",
+        "source": "PeeringDB",
+        "evidence_type": "PUBLIC_DECLARATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "franceix-pop-842",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.368248,
+          48.910255
+        ]
+      },
+      "properties": {
+        "facility_id": 842,
+        "name": "Equinix PA6 - Paris, Condorcet",
+        "organization": "Equinix, Inc.",
+        "address1": "10 Rue Waldeck Rochet",
+        "address2": "Batiment 520",
+        "city": "Paris",
+        "postal_code": "93300",
+        "country": "FR",
+        "latitude": 48.910255,
+        "longitude": 2.368248,
+        "services": [
+          "Plus"
+        ],
+        "colocated_member_count": 32,
+        "matched_netguardian_peeringdb": true,
+        "relation_type": "IX_PRESENT_AT_FACILITY",
+        "source": "PeeringDB",
+        "evidence_type": "PUBLIC_DECLARATION"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "franceix-pop-1402",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.379971,
+          48.775278
+        ]
+      },
+      "properties": {
+        "facility_id": 1402,
+        "name": "OPCORE - DC3 / PAR3",
+        "organization": "OPCORE",
+        "address1": "61 RUE JULIAN GRIMAU",
+        "address2": "",
+        "city": "Vitry-sur-Seine",
+        "postal_code": "94400",
+        "country": "FR",
+        "latitude": 48.775278,
+        "longitude": 2.379971,
+        "services": [
+          "Plus"
+        ],
+        "colocated_member_count": 17,
+        "matched_netguardian_peeringdb": true,
+        "relation_type": "IX_PRESENT_AT_FACILITY",
+        "source": "PeeringDB",
+        "evidence_type": "PUBLIC_DECLARATION"
+      }
+    }
+  ]
+}

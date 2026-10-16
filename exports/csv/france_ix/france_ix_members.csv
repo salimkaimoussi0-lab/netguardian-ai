@@ -1,0 +1,455 @@
+﻿net_id,asn,name,organization_id,network_type,scope,traffic,peering_policy,website,services,connection_count,capacity_mbps,capacity_gbps,ipv4_addresses,ipv6_addresses,route_server_peer,operational,source,exchange
+4224,13335,Cloudflare,4715,Content,Global,,Open,https://www.cloudflare.com,Essentiel | Plus,3,900000,900.0,37.49.237.49 | 37.49.238.59 | 77.95.66.14,2001:7f8:54::1:49 | 2001:7f8:54::2:59 | 2001:7f8:54:e5b4::14,True,True,PeeringDB,France-IX Paris
+2,20940,Akamai Technologies,14,Content,Global,100+Tbps,Open,https://www.akamai.com/,Plus,2,600000,600.0,37.49.236.168 | 37.49.238.87,2001:7f8:54::168 | 2001:7f8:54::2:87,True,True,PeeringDB,France-IX Paris
+5849,12876,Scaleway,8168,Content,Europe,1-5Tbps,Selective,https://www.scaleway.com,Plus,2,600000,600.0,37.49.237.111 | 37.49.237.27,2001:7f8:54::1:111 | 2001:7f8:54::1:27,True,True,PeeringDB,France-IX Paris
+8663,62044,Zscaler AS62044,12297,Network Services,Regional,,Open,http://www.zscaler.com,Plus,4,600000,600.0,37.49.237.105 | 37.49.237.88 | 37.49.238.123 | 37.49.238.124,2001:7f8:54::1:105 | 2001:7f8:54::1:88 | 2001:7f8:54::2:123 | 2001:7f8:54::2:124,True,True,PeeringDB,France-IX Paris
+7479,62000,moji-netrix edge network,10854,Content,Global,1-5Tbps,Open,https://as62000.net,Plus,2,410000,410.0,37.49.237.216 | 37.49.238.93,2001:7f8:54::1:216 | 2001:7f8:54::2:93,True,True,PeeringDB,France-IX Paris
+1418,16509,Amazon.com,1520,Enterprise,Global,,Selective,https://www.amazon.com,Plus,2,400000,400.0,37.49.236.118 | 37.49.237.166,2001:7f8:54::118 | 2001:7f8:54::1:166,False,True,PeeringDB,France-IX Paris
+29,5410,Bouygues Telecom ISP,72,Cable/DSL/ISP,Europe,10-20Tbps,Selective,http://www.bouyguestelecom.fr,Plus,1,400000,400.0,37.49.236.63,2001:7f8:54::63,False,True,PeeringDB,France-IX Paris
+731,30781,Free Pro,10596,NSP,Europe,300-500Gbps,Selective,https://www.freepro.com,Plus,1,400000,400.0,37.49.236.3,2001:7f8:54::3,False,True,PeeringDB,France-IX Paris
+28340,5405,Inter.link,30786,NSP,Global,,Selective,https://inter.link,Plus,1,400000,400.0,37.49.238.246,2001:7f8:54::2:246,True,True,PeeringDB,France-IX Paris
+694,8075,Microsoft,8896,Content,Global,,Selective,http://www.microsoft.com,Plus,2,400000,400.0,37.49.236.5 | 37.49.237.119,2001:7f8:54::1:119 | 2001:7f8:54::5,False,True,PeeringDB,France-IX Paris
+1264,16276,OVHcloud,1433,Content,Global,10-20Tbps,Open,https://www.ovhcloud.com,Plus,2,400000,400.0,37.49.236.100 | 37.49.236.144,2001:7f8:54::100 | 2001:7f8:54::144,True,True,PeeringDB,France-IX Paris
+3017,16347,adista - inherent,2433,Cable/DSL/ISP,Europe,100-200Gbps,Selective,https://www.adista.fr,Plus,1,400000,400.0,37.49.236.36,2001:7f8:54::36,True,True,PeeringDB,France-IX Paris
+10670,55256,Netskope,14525,Network Services,Global,,Open,https://www.netskope.com/,Plus,3,300000,300.0,37.49.236.39 | 37.49.238.43 | 37.49.238.83,2001:7f8:54::2:43 | 2001:7f8:54::2:83 | 2001:7f8:54::39,True,True,PeeringDB,France-IX Paris
+118,5400,BT,161,NSP,Europe,1-5Tbps,Restrictive,http://www.bt.net,Plus,3,210000,210.0,37.49.237.2 | 37.49.238.190 | 37.49.238.196,2001:7f8:54::1:2 | 2001:7f8:54::2:190 | 2001:7f8:54::2:196,False,True,PeeringDB,France-IX Paris
+3554,714,Apple Inc.,8418,Content,Global,,Selective,https://www.apple.com/support/systemstatus/,Plus,2,200000,200.0,37.49.237.176 | 37.49.237.179,2001:7f8:54::1:176 | 2001:7f8:54::1:179,False,True,PeeringDB,France-IX Paris
+1964,34177,CELESTE,1865,Cable/DSL/ISP,Europe,,Open,https://www.celeste.fr,Plus,2,200000,200.0,37.49.236.32 | 37.49.237.234,2001:7f8:54::1:234 | 2001:7f8:54::32,True,True,PeeringDB,France-IX Paris
+11851,13150,Cato Networks,15597,,Not Disclosed,,Open,https://www.catonetworks.com,Plus,2,200000,200.0,37.49.237.72 | 37.49.238.230,,True,True,PeeringDB,France-IX Paris
+91,8220,Colt,118,NSP,Global,1-5Tbps,Selective,https://www.colt.net,Plus,1,200000,200.0,37.49.236.58,2001:7f8:54::58,False,True,PeeringDB,France-IX Paris
+5520,54113,"Fastly, Inc.",12637,Content,Global,100+Tbps,Selective,https://www.fastly.com,Plus,2,200000,200.0,37.49.238.76 | 37.49.238.77,2001:7f8:54::2:76 | 2001:7f8:54::2:77,True,True,PeeringDB,France-IX Paris
+1282,15830,France-IX Paris,,,,,,,Plus,2,200000,200.0,37.49.236.89 | 37.49.238.128,2001:7f8:54::2:128 | 2001:7f8:54::89,True,True,PeeringDB,France-IX Paris
+3024,39386,France-IX Paris,,,,,,,Plus,2,200000,200.0,37.49.236.87 | 37.49.237.144,2001:7f8:54::1:144 | 2001:7f8:54::87,False,True,PeeringDB,France-IX Paris
+120,12322,Free SAS,164,Cable/DSL/ISP,Europe,20-50Tbps,Selective,http://www.free.fr/,Plus,1,200000,200.0,37.49.238.63,2001:7f8:54::2:63,True,True,PeeringDB,France-IX Paris
+4114,31564,Hexaglobe,4424,Content,Europe,100-200Gbps,Open,http://www.hexaglobe.com,Essentiel | Plus,2,200000,200.0,37.49.236.30 | 77.95.66.15,2001:7f8:54::30 | 2001:7f8:54:e5b4::15,True,True,PeeringDB,France-IX Paris
+291,6939,Hurricane Electric,396,NSP,Global,100+Tbps,Open,http://he.net,Plus,1,200000,200.0,37.49.236.10,2001:7f8:54::10,True,True,PeeringDB,France-IX Paris
+30621,44407,Linkt,32982,Network Services,Europe,100-200Gbps,Open,https://www.linkt.fr,Plus,2,200000,200.0,37.49.238.51 | 37.49.238.52,2001:7f8:54::2:51 | 2001:7f8:54::2:52,True,True,PeeringDB,France-IX Paris
+979,32934,Meta,9660,Content,Global,100+Tbps,Selective,https://www.meta.com/,Plus,2,200000,200.0,37.49.236.174 | 37.49.236.175,2001:7f8:54::174 | 2001:7f8:54::175,False,True,PeeringDB,France-IX Paris
+457,2906,Netflix,6483,Content,Global,,Open,https://openconnect.netflix.com,Plus,2,200000,200.0,37.49.236.194 | 37.49.237.50,2001:7f8:54::194 | 2001:7f8:54::1:50,True,True,PeeringDB,France-IX Paris
+12006,50624,Outscale,6720,NSP,,,Open,https://fr.outscale.com/,Plus,2,200000,200.0,37.49.237.118 | 37.49.237.193,,True,True,PeeringDB,France-IX Paris
+14578,22697,ROBLOX,17915,Content,Global,1-5Tbps,Open,https://www.roblox.com/,Plus,2,200000,200.0,37.49.236.217 | 37.49.237.218,2001:7f8:54::1:218 | 2001:7f8:54::217,True,True,PeeringDB,France-IX Paris
+450,15557,SFR Group,11780,Cable/DSL/ISP,Europe,10-20Tbps,Selective,http://alticefrance.com/,Plus,2,200000,200.0,37.49.237.65 | 37.49.238.111,2001:7f8:54::1:65 | 2001:7f8:54::2:111,False,True,PeeringDB,France-IX Paris
+1255,8399,Sewan SAS,13596,Cable/DSL/ISP,Europe,200-300Gbps,Open,https://www.sewan.eu/,Plus,2,200000,200.0,37.49.236.72 | 37.49.236.75,2001:7f8:54::72 | 2001:7f8:54::75,True,True,PeeringDB,France-IX Paris
+2099,45430,Advanced Wireless Network Co. Ltd.(IIG),11797,Cable/DSL/ISP,Global,1-5Tbps,Selective,https://www.awn.co.th/,Plus,2,110000,110.0,37.49.238.174 | 37.49.238.208,2001:7f8:54::2:174 | 2001:7f8:54::2:208,True,True,PeeringDB,France-IX Paris
+8267,57734,France-IX Paris,,,,,,,Plus,2,110000,110.0,37.49.236.241 | 37.49.236.242,2001:7f8:54::241 | 2001:7f8:54::242,True,True,PeeringDB,France-IX Paris
+2221,39605,Iguane Solutions,6975,Content,Europe,20-50Gbps,Open,http://www.iguanasolutionsusa.com,Essentiel | Plus,2,110000,110.0,37.49.236.40 | 77.95.66.11,2001:7f8:54::40 | 2001:7f8:54:e5b4::11,True,True,PeeringDB,France-IX Paris
+27572,139341,ACE CDN,30094,Content,Global,50-100Tbps,Open,https://peering.aceville.net,Plus,1,100000,100.0,37.49.238.82,2001:7f8:54::2:82,True,True,PeeringDB,France-IX Paris
+6572,60171,AFR-IX Telecom,12094,NSP,Africa,300-500Gbps,Selective,https://www.afr-ix.com/,Plus,1,100000,100.0,37.49.236.239,2001:7f8:54::239,True,True,PeeringDB,France-IX Paris
+6824,45102,Alibaba,11170,Content,Global,,Open,http://alibabagroup.com/,Plus,1,100000,100.0,37.49.238.223,2001:7f8:54::2:223,True,True,PeeringDB,France-IX Paris
+18511,25540,Alphalink,21622,Cable/DSL/ISP,Not Disclosed,20-50Gbps,Selective,http://www.alphalink.fr/,Plus,1,100000,100.0,37.49.238.189,2001:7f8:54::2:189,True,True,PeeringDB,France-IX Paris
+6460,2635,Automattic,12628,Content,Global,300-500Gbps,Open,https://automattic.com,Plus,1,100000,100.0,37.49.237.157,2001:7f8:54::1:157,True,True,PeeringDB,France-IX Paris
+213,30972,Bedrock,294,Content,Europe,500-1000Gbps,Open,https://www.bedrockstreaming.com,Plus,1,100000,100.0,37.49.236.182,2001:7f8:54::182,True,True,PeeringDB,France-IX Paris
+5886,57976,Blizzard Entertainment,10450,Content,Global,,Open,http://www.blizzard.com,Plus,1,100000,100.0,37.49.236.53,2001:7f8:54::53,True,True,PeeringDB,France-IX Paris
+2425,34659,Bouygues Telecom Pro KEYYO,2142,NSP,Europe,10-20Gbps,Open,https://www.keyyo.com,Plus,1,100000,100.0,37.49.236.99,2001:7f8:54::99,True,True,PeeringDB,France-IX Paris
+19428,396986,ByteDance,22493,Content,Global,,Selective,https://www.bytedance.com,Plus,1,100000,100.0,37.49.238.7,2001:7f8:54::2:7,False,True,PeeringDB,France-IX Paris
+17755,23764,CTGNet,425,NSP,Global,,Selective,https://www.chinatelecomglobal.com/,Plus,1,100000,100.0,37.49.238.60,2001:7f8:54::2:60,True,True,PeeringDB,France-IX Paris
+854,36692,Cisco Umbrella,4919,Content,Global,,Open,http://www.opendns.com/,Plus,1,100000,100.0,37.49.236.210,2001:7f8:54::210,True,True,PeeringDB,France-IX Paris
+3627,14537,Continent 8 Technologies,3256,NSP,Global,,Open,https://www.continent8.com,Plus,1,100000,100.0,37.49.238.3,2001:7f8:54::2:3,True,True,PeeringDB,France-IX Paris
+1599,33891,Core-Backbone,849,NSP,Global,10-20Tbps,Selective,https://www.core-backbone.com,Plus,1,100000,100.0,37.49.237.55,2001:7f8:54::1:55,False,True,PeeringDB,France-IX Paris
+10729,37613,DOLPHIN TELECOMMUNICATION LIMITED,14579,NSP,Global,,Selective,https://www.dolphintelecom.net,Plus,1,100000,100.0,37.49.238.23,2001:7f8:54::2:23,False,True,PeeringDB,France-IX Paris
+3502,19679,Dropbox,2962,Content,Global,,Open,http://www.dropbox.com,Plus,1,100000,100.0,37.49.237.147,2001:7f8:54::1:147,False,True,PeeringDB,France-IX Paris
+31953,50124,EASIO-COM,34219,NSP,Europe,10-20Gbps,Open,https://www.easio-com.com,Plus,1,100000,100.0,37.49.238.90,2001:7f8:54::2:90,True,True,PeeringDB,France-IX Paris
+2216,35625,Eurofiber France,2018,NSP,Europe,100-200Gbps,Open,https://www.eurofiber.com/fr-fr,Plus,1,100000,100.0,37.49.236.24,2001:7f8:54::24,True,True,PeeringDB,France-IX Paris
+10569,35280,F5 Inc.,14428,Content,Global,1-5Tbps,Selective,https://www.f5.com,Plus,1,100000,100.0,37.49.237.108,2001:7f8:54::1:108,True,True,PeeringDB,France-IX Paris
+18286,49434,FBW Networks,37134,NSP,Europe,500-1000Gbps,Open,https://as49434.net,Plus,1,100000,100.0,37.49.236.249,2001:7f8:54::249,True,True,PeeringDB,France-IX Paris
+5262,198545,FLEX NETWORK,8159,Cable/DSL/ISP,Europe,20-50Gbps,Open,https://www.flexnetwork.fr,Plus,1,100000,100.0,37.49.236.157,2001:7f8:54::157,True,True,PeeringDB,France-IX Paris
+13547,43930,FTVDN,15187,Content,Europe,10-20Gbps,Selective,http://www.francetelevisions.fr,Plus,1,100000,100.0,37.49.238.153,,False,True,PeeringDB,France-IX Paris
+763,8966,France-IX Paris,,,,,,,Plus,1,100000,100.0,37.49.236.178,2001:7f8:54::178,False,True,PeeringDB,France-IX Paris
+3900,37100,France-IX Paris,,,,,,,Plus,1,100000,100.0,37.49.236.67,2001:7f8:54::67,False,True,PeeringDB,France-IX Paris
+35736,21215,France-IX Paris,,,,,,,Plus,1,100000,100.0,37.49.236.150,2001:7f8:54::150,True,True,PeeringDB,France-IX Paris
+1279,29169,Gandi,1441,NSP,Global,5-10Gbps,Open,http://www.gandi.net,Plus,1,100000,100.0,37.49.236.154,2001:7f8:54::154,False,True,PeeringDB,France-IX Paris
+5499,199524,Gcore,13015,Content,Global,20-50Tbps,Selective,http://gcore.com/,Plus,1,100000,100.0,37.49.237.175,2001:7f8:54::1:175,True,True,PeeringDB,France-IX Paris
+7944,47608,Gigalis,10925,NSP,Regional,10-20Gbps,Open,https://gigalis.org/,Plus,1,100000,100.0,37.49.237.41,2001:7f8:54::1:41,True,True,PeeringDB,France-IX Paris
+21237,39305,Groupe Convergence.com,24178,NSP,Europe,,Open,https://www.groupe-convergence.com/,Plus,1,100000,100.0,37.49.237.186,2001:7f8:54::1:186,True,True,PeeringDB,France-IX Paris
+1766,24940,Hetzner Online,12507,Content,Europe,5-10Tbps,Open,https://www.hetzner.com,Plus,1,100000,100.0,37.49.237.197,2001:7f8:54::1:197,True,True,PeeringDB,France-IX Paris
+3992,34863,Hexanet,4264,Cable/DSL/ISP,Europe,10-20Gbps,Open,https://www.hexanet.fr,Plus,1,100000,100.0,37.49.236.113,2001:7f8:54::113,True,True,PeeringDB,France-IX Paris
+13539,29283,Hub One SA,17078,Cable/DSL/ISP,Global,,Selective,http://www.hubone.fr,Plus,1,100000,100.0,37.49.237.232,2001:7f8:54::1:232,True,True,PeeringDB,France-IX Paris
+2784,25369,Hydra Communications Ltd (EU),19591,Content,Europe,500-1000Gbps,Open,https://www.bandwidth.co.uk,Plus,1,100000,100.0,37.49.236.201,2001:7f8:54::201,False,True,PeeringDB,France-IX Paris
+2702,29075,IELO,2287,NSP,Europe,200-300Gbps,Open,https://www.ielo.net/,Plus,1,100000,100.0,37.49.236.205,2001:7f8:54::205,True,True,PeeringDB,France-IX Paris
+262,8560,IONOS SE,356,NSP,Global,1-5Tbps,Open,http://www.ionos.com,Plus,1,100000,100.0,37.49.236.42,2001:7f8:54::42,True,True,PeeringDB,France-IX Paris
+3387,47957,Ingenico Solutions and Transaction Services,2717,Enterprise,Global,,Open,https://worldline.com,Plus,1,100000,100.0,37.49.236.191,2001:7f8:54::191,True,True,PeeringDB,France-IX Paris
+35442,215596,KISSGROUP SAS,37518,Cable/DSL/ISP,Europe,10-20Gbps,Open,http://kissgroup.io,Plus,1,100000,100.0,37.49.238.117,2001:7f8:54::2:117,True,True,PeeringDB,France-IX Paris
+17749,206120,KOESIO NETWORKS (KIX),20910,Network Services,Regional,20-50Gbps,Selective,https://koesio.com,Plus,1,100000,100.0,37.49.237.152,2001:7f8:54::1:152,True,True,PeeringDB,France-IX Paris
+345,24904,"KWAOO, K-NET",8471,Cable/DSL/ISP,Regional,50-100Gbps,Selective,https://www.kwaoo.com/,Plus,1,100000,100.0,37.49.236.105,2001:7f8:54::105,True,True,PeeringDB,France-IX Paris
+16840,50628,Leonix Telecom,20040,NSP,Regional,10-20Gbps,Open,http://leonix.fr,Plus,1,100000,100.0,37.49.237.143,2001:7f8:54::1:143,True,True,PeeringDB,France-IX Paris
+5010,29467,LuxNetwork,8006,NSP,Europe,20-50Gbps,Open,https://luxnetwork.eu/,Plus,1,100000,100.0,37.49.236.227,2001:7f8:54::227,True,True,PeeringDB,France-IX Paris
+33838,64289,Macarne - AS64289,36012,NSP,Global,20-50Tbps,Open,https://macarne.com,Plus,1,100000,100.0,37.49.238.181,2001:7f8:54::2:181,True,True,PeeringDB,France-IX Paris
+4190,57119,NAITWAYS SAS,7919,NSP,Europe,50-100Gbps,Open,http://www.naitways.com,Plus,1,100000,100.0,37.49.236.117,2001:7f8:54::117,False,True,PeeringDB,France-IX Paris
+14606,10122,NETSTAR,22846,Content,Global,,Open,http://peering.netstartech.sg,Plus,1,100000,100.0,37.49.238.186,2001:7f8:54::2:18,True,True,PeeringDB,France-IX Paris
+12293,199483,NXO France WAN,15997,Cable/DSL/ISP,Europe,,Open,http://www.nxo.eu/,Plus,1,100000,100.0,37.49.237.120,2001:7f8:54::1:120,True,True,PeeringDB,France-IX Paris
+43630,219062,Nera,45353,NSP,Global,5-10Tbps,Open,https://nera.pl,Plus,1,100000,100.0,37.49.238.215,,True,True,PeeringDB,France-IX Paris
+3411,51468,One.com,7291,Content,Global,20-50Gbps,Open,http://www.one.com,Plus,1,100000,100.0,37.49.237.191,2001:7f8:54::1:191,True,True,PeeringDB,France-IX Paris
+821,20562,Open Peering,1060,NSP,Europe,200-300Gbps,Open,http://www.openpeering.nl,Plus,1,100000,100.0,37.49.236.68,2001:7f8:54::68,True,True,PeeringDB,France-IX Paris
+28121,48817,PRIZZ TELECOM,30622,,Europe,,Selective,https://www.prizz-telecom.fr/,Plus,1,100000,100.0,37.49.238.20,2001:7f8:54::2:20,True,True,PeeringDB,France-IX Paris
+39370,201868,PROSOLUCE SAS,41128,Content,Europe,5-10Gbps,Open,http://prosoluce.net,Plus,1,100000,100.0,37.49.238.140,2001:7f8:54::2:140,True,True,PeeringDB,France-IX Paris
+34186,3920,PUSHPKT-OU,43355,NSP,Europe,5-10Tbps,Open,https://www.pushpkt.com/,Plus,1,100000,100.0,37.49.238.237,2001:7f8:54::2:237,True,True,PeeringDB,France-IX Paris
+4994,53589,PlanetHoster,7282,Content,Global,10-20Gbps,Open,https://www.planethoster.com,Plus,1,100000,100.0,37.49.238.78,2001:7f8:54::2:78,True,True,PeeringDB,France-IX Paris
+124,9002,RETN,170,NSP,Global,20-50Tbps,Selective,http://www.retn.net/,Plus,1,100000,100.0,37.49.236.17,2001:7f8:54::17,False,True,PeeringDB,France-IX Paris
+34146,47600,RUBIX DATACENTER,36292,Cable/DSL/ISP,Regional,200-300Gbps,Open,https://www.rubix-datacenter.fr,Plus,1,100000,100.0,37.49.238.219,2001:7f8:54::2:219,True,True,PeeringDB,France-IX Paris
+5918,6507,Riot Games,12996,Content,Regional,500-1000Gbps,Selective,http://www.riotgames.com,Plus,1,100000,100.0,37.49.237.241,2001:7f8:54::1:241,True,True,PeeringDB,France-IX Paris
+8996,49690,SAINT-GOBAIN,12743,Enterprise,Global,5-10Gbps,Selective,https://www.saint-gobain.com/,Plus,1,100000,100.0,37.49.236.26,2001:7f8:54::26,True,True,PeeringDB,France-IX Paris
+13462,201675,Saclak Network,17008,Cable/DSL/ISP,Regional,1-5Gbps,Open,https://saclak-network.com,Plus,1,100000,100.0,37.49.236.106,2001:7f8:54::106,True,True,PeeringDB,France-IX Paris
+2405,8309,Sipartech,9326,NSP,Europe,50-100Gbps,Open,http://www.sipartech.com,Plus,1,100000,100.0,37.49.237.47,2001:7f8:54::1:47,True,True,PeeringDB,France-IX Paris
+3347,33353,Sony Interactive Entertainment,9267,Content,Global,,Selective,https://sonyinteractive.com/,Plus,1,100000,100.0,37.49.237.135,2001:7f8:54::1:135,True,True,PeeringDB,France-IX Paris
+4697,198335,TRANSATEL EUROPE,6289,Cable/DSL/ISP,Regional,,Open,http://www.transatel.com,Plus,1,100000,100.0,37.49.236.140,2001:7f8:54::140,True,True,PeeringDB,France-IX Paris
+4977,57344,Telehouse,15372,Cable/DSL/ISP,Global,300-500Gbps,Open,https://www.telehouse.bg,Plus,1,100000,100.0,37.49.236.167,2001:7f8:54::167,True,True,PeeringDB,France-IX Paris
+813,20473,The Constant Company,1051,NSP,Global,,Selective,http://www.vultr.com/,Plus,1,100000,100.0,37.49.237.90,2001:7f8:54::1:90,True,True,PeeringDB,France-IX Paris
+4782,32590,Valve Corporation,6295,Content,Global,50-100Tbps,Selective,http://www.valvesoftware.com,Plus,1,100000,100.0,37.49.237.57,2001:7f8:54::1:57,True,True,PeeringDB,France-IX Paris
+28852,12727,Vialis Colmar,31329,Cable/DSL/ISP,Europe,50-100Gbps,Open,https://www.vialis.net,Plus,1,100000,100.0,37.49.238.45,2001:7f8:54::2:45,True,True,PeeringDB,France-IX Paris
+28851,42487,Vialis Moselle,31329,Cable/DSL/ISP,Europe,50-100Gbps,Open,http://www.vialis.net,Plus,1,100000,100.0,37.49.238.46,2001:7f8:54::2:46,True,True,PeeringDB,France-IX Paris
+26795,211448,WEBCONEX,29382,Enterprise,Europe,10-20Gbps,Open,https://webconex.io,Plus,1,100000,100.0,37.49.238.61,2001:7f8:54::2:61,True,True,PeeringDB,France-IX Paris
+4109,52075,Wifirst,4805,Cable/DSL/ISP,Europe,500-1000Gbps,Open,https://www.wifirst.com,Plus,1,100000,100.0,37.49.236.120,2001:7f8:54::120,True,True,PeeringDB,France-IX Paris
+27,10310,Yahoo,69,Content,Global,,Selective,https://www.yahooinc.com/,Plus,1,100000,100.0,37.49.237.5,2001:7f8:54::1:5,True,True,PeeringDB,France-IX Paris
+541,6461,Zayo,6935,NSP,Global,20-50Tbps,Restrictive,http://www.zayo.com/,Plus,1,100000,100.0,37.49.237.180,2001:7f8:54::1:180,False,True,PeeringDB,France-IX Paris
+1479,8218,Zayo Europe,6935,NSP,Europe,300-500Gbps,Selective,https://www.zayoeurope.com,Plus,1,100000,100.0,37.49.236.1,2001:7f8:54::1,True,True,PeeringDB,France-IX Paris
+30887,60132,Zoréole Group,33237,Network Services,Europe,10-20Gbps,Selective,https://www.zoreole.com,Plus,1,100000,100.0,37.49.238.231,2001:7f8:54::2:231,True,True,PeeringDB,France-IX Paris
+2496,49544,i3D.net,9441,NSP,Global,5-10Tbps,Selective,https://www.i3d.net,Plus,1,100000,100.0,37.49.237.230,2001:7f8:54::1:230,False,True,PeeringDB,France-IX Paris
+24402,51154,pCloud,27137,Content,Europe,50-100Gbps,Open,https://www.pcloud.com/,Plus,1,100000,100.0,37.49.238.197,2001:7f8:54::2:197,True,True,PeeringDB,France-IX Paris
+5784,57809,unyc,8406,Cable/DSL/ISP,Europe,20-50Gbps,Open,http://www.unyc.io,Plus,1,100000,100.0,37.49.237.22,2001:7f8:54::1:22,True,True,PeeringDB,France-IX Paris
+24179,212815,★ Dyjix SAS,26925,Cable/DSL/ISP,Europe,20-50Gbps,Restrictive,https://dyjix.eu,Plus,1,100000,100.0,37.49.238.14,2001:7f8:54::2:14,True,True,PeeringDB,France-IX Paris
+4035,6866,France-IX Paris,,,,,,,Plus,1,80000,80.0,37.49.238.37,2001:7f8:54::2:37,True,True,PeeringDB,France-IX Paris
+9065,203724,France-IX Paris,,,,,,,Plus,4,60000,60.0,37.49.236.56 | 37.49.236.70 | 37.49.238.182 | 37.49.238.183,2001:7f8:54::2:182 | 2001:7f8:54::2:183 | 2001:7f8:54::56 | 2001:7f8:54::70,True,True,PeeringDB,France-IX Paris
+150,6774,BICS,209,NSP,Global,,Selective,http://www.bics.com,Plus,1,40000,40.0,37.49.236.57,2001:7f8:54::57,False,True,PeeringDB,France-IX Paris
+7675,59842,Believe Digital,10546,Content,Global,5-10Gbps,Open,http://www.believe.com,Plus,4,40000,40.0,37.49.236.82 | 37.49.237.146 | 37.49.237.210 | 37.49.238.21,2001:7f8:54::1:146 | 2001:7f8:54::1:210 | 2001:7f8:54::2:21 | 2001:7f8:54::82,True,True,PeeringDB,France-IX Paris
+3141,8368,DSTNY,2484,NSP,Europe,50-100Gbps,Selective,http://www.dstny.com,Plus,1,40000,40.0,37.49.238.94,2001:7f8:54::2:94,True,True,PeeringDB,France-IX Paris
+15256,39801,France-IX L3 Services,752,NSP,Europe,,Open,https://www.franceix.net/,Plus,2,40000,40.0,37.49.236.240 | 37.49.236.243,2001:7f8:54::240 | 2001:7f8:54::243,True,True,PeeringDB,France-IX Paris
+8126,51706,France-IX Paris,,,,,,,Plus,2,40000,40.0,37.49.236.250 | 37.49.236.251,2001:7f8:54::250 | 2001:7f8:54::251,True,True,PeeringDB,France-IX Paris
+17113,203885,France-IX Paris,,,,,,,Plus,1,40000,40.0,37.49.237.167,,False,True,PeeringDB,France-IX Paris
+1405,7552,France-IX Paris,,,,,,,Plus,1,40000,40.0,37.49.238.1,2001:7f8:54::2:1,True,True,PeeringDB,France-IX Paris
+42727,219524,France-IX Paris Essentiel,,,,,,,Essentiel,2,40000,40.0,77.95.66.1 | 77.95.66.2,2001:7f8:54:e5b4::1 | 2001:7f8:54:e5b4::2,True,True,PeeringDB,France-IX Paris
+433,15169,Google LLC,574,Content,Global,,Selective,https://about.google/intl/en/,Plus,2,40000,40.0,37.49.236.2 | 37.49.237.172,2001:7f8:54::1:172 | 2001:7f8:54::2,False,True,PeeringDB,France-IX Paris
+27920,47583,Hostinger International,30423,Content,Global,200-300Gbps,Open,https://www.hostinger.com/,Plus,4,40000,40.0,37.49.238.227 | 37.49.238.228 | 37.49.238.247 | 37.49.238.248,2001:7f8:54::2:227 | 2001:7f8:54::2:228 | 2001:7f8:54::2:247 | 2001:7f8:54::2:248,True,True,PeeringDB,France-IX Paris
+1955,6661,Post Group Luxembourg,8861,Cable/DSL/ISP,Europe,100-200Gbps,Selective,https://www.post.lu,Plus,1,40000,40.0,37.49.236.90,2001:7f8:54::90,True,True,PeeringDB,France-IX Paris
+1234,21859,Zenlayer Edge Cloud Network - AS21859,13291,Content,Global,10-20Tbps,Selective,http://www.zenlayer.com,Plus,1,40000,40.0,37.49.236.203,2001:7f8:54::203,True,True,PeeringDB,France-IX Paris
+2803,7713,France-IX Paris,,,,,,,Plus,1,30000,30.0,37.49.237.126,2001:7f8:54::1:126,True,True,PeeringDB,France-IX Paris
+341,702,France-IX Paris,,,,,,,Plus,1,30000,30.0,37.49.237.174,2001:7f8:54::1:174,False,True,PeeringDB,France-IX Paris
+2704,8529,France-IX Paris,,,,,,,Plus,1,30000,30.0,37.49.236.132,2001:7f8:54::132,True,True,PeeringDB,France-IX Paris
+28572,197205,1000mercis,31057,,Not Disclosed,,Open,https://numberly.com/,Plus,2,20000,20.0,37.49.238.12 | 37.49.238.163,2001:7f8:54::2:12 | 2001:7f8:54::2:163,True,True,PeeringDB,France-IX Paris
+6781,39351,31173 Services,9249,NSP,Europe,200-300Gbps,Open,http://www.31173.se,Plus,1,20000,20.0,37.49.237.171,2001:7f8:54::1:171,True,True,PeeringDB,France-IX Paris
+23859,57468,AZA TELECOM,26621,Cable/DSL/ISP,Regional,1-5Gbps,Open,http://www.azatelecom.com,Plus,2,20000,20.0,37.49.236.131 | 37.49.238.39,2001:7f8:54::131,True,True,PeeringDB,France-IX Paris
+20663,36864,Afribone Mali,23638,Cable/DSL/ISP,Africa,10-20Gbps,Open,http://www.afribone.com,Plus,2,20000,20.0,37.49.236.95 | 37.49.238.133,2001:7f8:54::2:133 | 2001:7f8:54::95,True,True,PeeringDB,France-IX Paris
+29752,205684,Algathia,32192,NSP,Europe,1-5Gbps,Open,https://algathia.fr/,Essentiel | Plus,2,20000,20.0,37.49.238.221 | 77.95.66.12,2001:7f8:54::2:221 | 2001:7f8:54:e5b4::12,True,True,PeeringDB,France-IX Paris
+16535,24429,Alibaba Cloud CDN,19745,Content,Global,20-50Tbps,Open,https://www.alibabacloud.com,Plus,1,20000,20.0,37.49.237.66,,True,True,PeeringDB,France-IX Paris
+36797,211113,BDF,38736,,Not Disclosed,,Restrictive,https://www.banque-france.fr/fr,Plus,2,20000,20.0,37.49.238.143 | 37.49.238.144,2001:7f8:54::2:143 | 2001:7f8:54::2:144,False,True,PeeringDB,France-IX Paris
+8268,42845,Bretagne Telecom,11626,Cable/DSL/ISP,Europe,10-20Gbps,Open,https://www.bt-blue.com/,Plus,2,20000,20.0,37.49.237.86 | 37.49.238.138,2001:7f8:54::1:86 | 2001:7f8:54::2:138,True,True,PeeringDB,France-IX Paris
+7875,21351,Canal+ Telecom,10818,Cable/DSL/ISP,Global,,Selective,http://www.canalplustelecom.com/,Plus,1,20000,20.0,37.49.237.94,2001:7f8:54::1:94,True,True,PeeringDB,France-IX Paris
+4338,58453,China Mobile International,5459,NSP,Global,10-20Tbps,Restrictive,https://cmi.chinamobile.com,Plus,1,20000,20.0,37.49.237.116,2001:7f8:54::1:116,True,True,PeeringDB,France-IX Paris
+116,8426,Claranet,156,Cable/DSL/ISP,Regional,50-100Gbps,Selective,http://www.clara.net,Plus,2,20000,20.0,37.49.236.60 | 37.49.236.61,2001:7f8:54::60 | 2001:7f8:54::61,False,True,PeeringDB,France-IX Paris
+3500,33930,Cloud Temple,6889,NSP,Europe,1-5Gbps,Open,http://www.cloud-temple.com,Plus,2,20000,20.0,37.49.236.193 | 37.49.236.86,,True,True,PeeringDB,France-IX Paris
+16197,39781,Diabolocom,19429,Network Services,Europe,1-5Gbps,Open,http://diabolocom.com,Plus,2,20000,20.0,37.49.237.173 | 37.49.238.40,2001:7f8:54::1:173 | 2001:7f8:54::2:40,True,True,PeeringDB,France-IX Paris
+17879,1301,EDF Group,21029,,Europe,,Open,https://www.edf.fr,Plus,1,20000,20.0,37.49.236.47,2001:7f8:54::47,True,True,PeeringDB,France-IX Paris
+3570,8304,Ecritel,3123,NSP,Global,1-5Gbps,Selective,https://www.ecritel.fr/fr/,Plus,2,20000,20.0,37.49.236.153 | 37.49.238.194,2001:7f8:54::153 | 2001:7f8:54::2:194,True,True,PeeringDB,France-IX Paris
+4288,29286,Eutelsat - Skylogic,4872,Cable/DSL/ISP,Global,20-50Gbps,Selective,https://www.eutelsat.com/,Plus,1,20000,20.0,37.49.236.29,2001:7f8:54::29,True,True,PeeringDB,France-IX Paris
+2113,15695,Expereo International bv,5206,NSP,Global,10-20Gbps,Open,http://www.expereo.com,Plus,1,20000,20.0,37.49.237.153,2001:7f8:54::1:153,True,True,PeeringDB,France-IX Paris
+721,13285,France-IX Paris,,,,,,,Plus,1,20000,20.0,37.49.237.3,2001:7f8:54::1:3,True,True,PeeringDB,France-IX Paris
+2430,20485,France-IX Paris,,,,,,,Plus,1,20000,20.0,37.49.237.23,2001:7f8:54::1:23,False,True,PeeringDB,France-IX Paris
+20162,12400,France-IX Paris,,,,,,,Plus,1,20000,20.0,37.49.237.45,2001:7f8:54::1:45,True,True,PeeringDB,France-IX Paris
+28753,25215,France-IX Paris,,,,,,,Plus,1,20000,20.0,37.49.237.64,2001:7f8:54::1:64,False,True,PeeringDB,France-IX Paris
+670,2686,France-IX Paris,,,,,,,Plus,1,20000,20.0,37.49.237.104,2001:7f8:54::1:104,False,True,PeeringDB,France-IX Paris
+26943,3299,France-IX Paris,,,,,,,Plus,2,20000,20.0,37.49.237.138 | 37.49.237.93,2001:7f8:54::1:138 | 2001:7f8:54::1:93,True,True,PeeringDB,France-IX Paris
+14833,203554,France-IX Paris,,,,,,,Plus,2,20000,20.0,37.49.237.140 | 37.49.238.222,2001:7f8:54::1:140 | 2001:7f8:54::2:222,True,True,PeeringDB,France-IX Paris
+17605,8346,France-IX Paris,,,,,,,Plus,1,20000,20.0,37.49.237.168,2001:7f8:54::1:168,True,True,PeeringDB,France-IX Paris
+13506,39899,France-IX Paris,,,,,,,Plus,1,20000,20.0,37.49.237.101,2001:7f8:54::1:101,False,True,PeeringDB,France-IX Paris
+35599,201647,France-IX Paris,,,,,,,Plus,2,20000,20.0,37.49.238.102 | 37.49.238.103,2001:7f8:54::2:102 | 2001:7f8:54::2:103,True,True,PeeringDB,France-IX Paris
+2957,35432,France-IX Paris,,,,,,,Plus,1,20000,20.0,37.49.238.187,2001:7f8:54::2:187,True,True,PeeringDB,France-IX Paris
+9228,35676,Groupe La Poste France,13023,Enterprise,Regional,20-50Gbps,Selective,https://www.lapostegroupe.com/fr,Plus,1,20000,20.0,37.49.238.73,2001:7f8:54::2:73,True,True,PeeringDB,France-IX Paris
+18382,136907,Huawei Cloud Global,31897,Content,Global,10-20Tbps,Selective,https://www.huaweicloud.com,Plus,2,20000,20.0,37.49.238.16 | 37.49.238.9,2001:7f8:54::2:16 | 2001:7f8:54::2:9,True,True,PeeringDB,France-IX Paris
+1452,25091,IP-Max SA,7476,NSP,Europe,50-100Gbps,Open,https://www.ip-max.net,Plus,1,20000,20.0,37.49.237.83,2001:7f8:54::1:83,True,True,PeeringDB,France-IX Paris
+456,21409,Ikoula,614,NSP,Europe,50-100Gbps,Selective,https://www.ikoula.com,Plus,1,20000,20.0,37.49.236.76,2001:7f8:54::76,True,True,PeeringDB,France-IX Paris
+189,24776,Infoclip,261,NSP,Regional,1-5Gbps,Open,https://www.groupe-infoclip.com,Plus,2,20000,20.0,37.49.236.41 | 37.49.238.204,2001:7f8:54::2:204 | 2001:7f8:54::41,True,True,PeeringDB,France-IX Paris
+26797,16189,KLEE,29385,Network Services,Europe,,Selective,http://www.kleegroup.com,Plus,2,20000,20.0,37.49.238.125 | 37.49.238.126,2001:7f8:54::2:125 | 2001:7f8:54::2:126,True,True,PeeringDB,France-IX Paris
+29398,2027,MilkyWan,19100,Cable/DSL/ISP,Europe,5-10Gbps,Open,https://milkywan.fr,Plus,2,20000,20.0,37.49.236.235 | 37.49.236.27,2001:7f8:54::235 | 2001:7f8:54::27,True,True,PeeringDB,France-IX Paris
+4632,6758,Monaco Telecom,7160,Cable/DSL/ISP,Europe,100-200Gbps,Open,https://www.monaco-telecom.mc,Plus,1,20000,20.0,37.49.236.214,2001:7f8:54::214,True,True,PeeringDB,France-IX Paris
+17353,48305,Noraina,20534,Content,Europe,5-10Gbps,Open,https://www.noraina.cloud,Plus,2,20000,20.0,37.49.238.169 | 37.49.238.179,2001:7f8:54::2:169 | 2001:7f8:54::2:179,True,True,PeeringDB,France-IX Paris
+7168,37693,Ooredoo Tunisia,10256,Cable/DSL/ISP,Global,300-500Gbps,Open,http://www.ooredoo.tn,Plus,1,20000,20.0,37.49.237.115,2001:7f8:54::1:115,False,True,PeeringDB,France-IX Paris
+18655,41114,Orne THD,21761,Cable/DSL/ISP,Europe,50-100Gbps,Open,https://ornethd.net,Plus,1,20000,20.0,37.49.237.185,2001:7f8:54::1:185,True,True,PeeringDB,France-IX Paris
+34710,216239,PRINTEMPS,36833,Enterprise,Europe,100-1000Mbps,Open,http://printemps.com,Plus,2,20000,20.0,37.49.238.104 | 37.49.238.105,,False,True,PeeringDB,France-IX Paris
+4430,56665,Proximus Luxembourg,8392,Cable/DSL/ISP,Regional,300-500Gbps,Selective,http://www.proximus.lu,Plus,1,20000,20.0,37.49.237.46,2001:7f8:54::1:46,True,True,PeeringDB,France-IX Paris
+3130,2200,RENATER,3593,Educational/Research,Europe,50-100Gbps,Open,http://www.renater.fr,Plus,1,20000,20.0,37.49.236.19,2001:7f8:54::19,True,True,PeeringDB,France-IX Paris
+6639,37002,REUNICABLE SAS,9044,Cable/DSL/ISP,,300-500Gbps,Open,http://www.zeop.re,Plus,2,20000,20.0,37.49.236.126 | 37.49.237.36,2001:7f8:54::126 | 2001:7f8:54::1:36,True,True,PeeringDB,France-IX Paris
+19185,35661,VIRTUASYS.EU,12224,NSP,Europe,5-10Gbps,Open,https://www.virtuasys.eu/,Plus,1,20000,20.0,37.49.236.103,2001:7f8:54::103,True,True,PeeringDB,France-IX Paris
+33780,51826,evroc,35957,Content,Europe,,Selective,https://evroc.com,Plus,2,20000,20.0,37.49.238.172 | 37.49.238.173,2001:7f8:54::2:172 | 2001:7f8:54::2:173,True,True,PeeringDB,France-IX Paris
+9470,54994,meteversecloud,13406,NSP,Global,20-50Tbps,Open,https://meteversecloud.com/,Plus,1,20000,20.0,37.49.237.155,2001:7f8:54::1:155,True,True,PeeringDB,France-IX Paris
+3167,8400,France-IX Paris,,,,,,,Plus,1,14000,14.0,37.49.237.76,2001:7f8:54::1:76,True,True,PeeringDB,France-IX Paris
+4345,197981,InterCloud,5074,NSP,Global,,Open,https://www.intercloud.com/,Plus,3,12000,12.0,37.49.236.114 | 37.49.236.115 | 37.49.238.171,2001:7f8:54::114 | 2001:7f8:54::115 | 2001:7f8:54::2:171,True,True,PeeringDB,France-IX Paris
+9949,47866,iBrowse SARL,13917,Cable/DSL/ISP,Europe,5-10Gbps,Selective,http://www.ibrowse.com,Plus,2,12000,12.0,37.49.236.204 | 37.49.236.45,2001:7f8:54::204 | 2001:7f8:54::45,True,True,PeeringDB,France-IX Paris
+3787,16128,AGARIK,10648,Cable/DSL/ISP,Europe,5-10Gbps,Selective,http://www.agarik.com/,Plus,1,10000,10.0,37.49.236.44,2001:7f8:54::44,True,True,PeeringDB,France-IX Paris
+40658,47833,AGORA CALYCE,42409,Content,Europe,20-50Gbps,Open,https://agoracalyce.com,Plus,1,10000,10.0,37.49.238.70,2001:7f8:54::2:70,True,True,PeeringDB,France-IX Paris
+31529,56987,Abaclouda,33810,NSP,Europe,50-100Gbps,Open,https://www.abaclouda.com/,Plus,1,10000,10.0,37.49.237.198,2001:7f8:54::1:198,True,True,PeeringDB,France-IX Paris
+16993,41652,Acrib - Asolta - SHPV,20191,Cable/DSL/ISP,Europe,1-5Gbps,Open,https://www.shpv.fr/,Plus,1,10000,10.0,37.49.236.161,2001:7f8:54::161,True,True,PeeringDB,France-IX Paris
+20674,35793,Acronis EMEA,16226,,Regional,,Open,https://www.acronis.com,Plus,1,10000,10.0,37.49.238.151,2001:7f8:54::2:151,True,True,PeeringDB,France-IX Paris
+5529,43142,Adeli,7786,Cable/DSL/ISP,Regional,1-5Gbps,Open,http://www.adeli.fr,Plus,1,10000,10.0,37.49.236.111,2001:7f8:54::111,True,True,PeeringDB,France-IX Paris
+40763,213432,Aevoo,42510,,Europe,5-10Gbps,Open,https://www.aevoo.fr,Plus,1,10000,10.0,37.49.238.201,2001:7f8:54::2:201,True,True,PeeringDB,France-IX Paris
+14338,13273,Alter Way - OPS,13837,Content,Europe,1-5Gbps,Open,https://www.alterway.fr/,Plus,1,10000,10.0,37.49.238.57,2001:7f8:54::2:57,True,True,PeeringDB,France-IX Paris
+3241,42473,Anexia,8155,Content,Global,,Selective,http://www.anexia.com,Plus,1,10000,10.0,37.49.236.85,2001:7f8:54::85,True,True,PeeringDB,France-IX Paris
+2514,41653,Aqua Ray,2187,Content,Europe,1-5Gbps,Open,https://www.aquaray.com,Plus,1,10000,10.0,37.49.237.151,2001:7f8:54::1:151,True,True,PeeringDB,France-IX Paris
+31482,211882,Aquilenet Paris,19941,Non-Profit,Regional,100-1000Mbps,Open,https://www.aquilenet.fr,Plus,1,10000,10.0,37.49.238.98,2001:7f8:54::2:98,True,True,PeeringDB,France-IX Paris
+3544,42929,Artefact - Artewan,7795,Cable/DSL/ISP,Europe,5-10Gbps,Open,http://www.artefact.fr,Plus,1,10000,10.0,37.49.236.224,2001:7f8:54::224,True,True,PeeringDB,France-IX Paris
+737,20766,Association Gitoyen,9883,Non-Profit,Europe,1-5Gbps,Open,https://www.gitoyen.net/,Plus,1,10000,10.0,37.49.236.190,2001:7f8:54::190,True,True,PeeringDB,France-IX Paris
+37009,211733,Atlas IP,38942,Cable/DSL/ISP,Europe,1-5Gbps,Open,https://www.atlasip.fr/,Plus,1,10000,10.0,37.49.238.155,2001:7f8:54::2:155,True,True,PeeringDB,France-IX Paris
+3235,31167,Axione,6355,NSP,Europe,1-5Gbps,Open,http://www.axione.fr,Plus,1,10000,10.0,37.49.236.107,2001:7f8:54::107,False,True,PeeringDB,France-IX Paris
+26704,4455,BSO,11200,NSP,Global,300-500Gbps,Open,https://www.bso.co,Plus,1,10000,10.0,37.49.236.192,2001:7f8:54::192,True,True,PeeringDB,France-IX Paris
+6591,55195,CIRA-CLOUD1,8965,Network Services,Global,1-5Gbps,Open,http://www.cira.ca,Plus,1,10000,10.0,37.49.238.107,2001:7f8:54::2:107,True,True,PeeringDB,France-IX Paris
+5426,199660,Cloudata,7602,NSP,Europe,100-1000Mbps,Open,http://www.cloudata.fr,Plus,1,10000,10.0,37.49.236.46,2001:7f8:54::46,False,True,PeeringDB,France-IX Paris
+24082,44097,Clément Cavadore,26829,Cable/DSL/ISP,Not Disclosed,,Open,http://www.as44097.net,Plus,1,10000,10.0,37.49.238.110,2001:7f8:54::2:110,True,True,PeeringDB,France-IX Paris
+1691,12826,Cyllene,1697,Cable/DSL/ISP,Europe,1-5Gbps,Selective,https://www.groupe-cyllene.com/,Plus,1,10000,10.0,37.49.236.88,2001:7f8:54::88,True,True,PeeringDB,France-IX Paris
+16406,49028,D-LAKE AS49028,19626,Cable/DSL/ISP,Europe,5-10Gbps,Selective,http://www.d-lake.fr,Plus,1,10000,10.0,37.49.238.10,2001:7f8:54::2:10,True,True,PeeringDB,France-IX Paris
+3822,6738,DRI,5677,Content,Europe,1-5Gbps,Open,https://www.dri.fr/,Plus,1,10000,10.0,37.49.236.48,,True,True,PeeringDB,France-IX Paris
+2977,16080,Dalenys,3339,NSP,Europe,,Selective,http://www.dalenys.com,Plus,1,10000,10.0,37.49.237.15,2001:7f8:54::1:15,True,True,PeeringDB,France-IX Paris
+15202,50446,Datacampus,18506,Content,Europe,,Open,https://www.datacampus.fr,Plus,1,10000,10.0,37.49.238.148,2001:7f8:54::2:148,True,True,PeeringDB,France-IX Paris
+1712,44141,Devclic,2583,Content,Europe,1-5Gbps,Open,https://www.devclic.fr,Plus,1,10000,10.0,37.49.236.50,,True,True,PeeringDB,France-IX Paris
+6020,16552,DigiCert DNS,8362,Content,Global,,Open,https://www.digicert.com/dns-trust-manager,Plus,1,10000,10.0,37.49.236.9,2001:7f8:54::9,True,True,PeeringDB,France-IX Paris
+29551,49584,EASYTEAM (ex DATAXION),21491,NSP,Regional,1-5Gbps,Open,https://www.easyteam.fr/,Plus,1,10000,10.0,37.49.238.26,2001:7f8:54::2:26,True,True,PeeringDB,France-IX Paris
+104,15412,FLAG Telecom,11051,NSP,Global,1-5Tbps,Restrictive,https://flagtel.com/,Plus,1,10000,10.0,37.49.236.173,2001:7f8:54::173,False,True,PeeringDB,France-IX Paris
+2630,6775,Fink Telecom Services GmbH,25220,Cable/DSL/ISP,Global,300-500Gbps,Open,http://www.fink-telecom.com,Plus,1,10000,10.0,37.49.237.226,2001:7f8:54::1:226,True,True,PeeringDB,France-IX Paris
+17973,49920,Flowbird,21118,Enterprise,Global,,Selective,https://www.flowbird.group,Plus,1,10000,10.0,37.49.237.137,2001:7f8:54::1:137,True,True,PeeringDB,France-IX Paris
+3552,29513,Foliateam,6321,Network Services,Europe,5-10Gbps,Open,https://www.foliateam.com,Plus,1,10000,10.0,37.49.236.13,2001:7f8:54::13,False,True,PeeringDB,France-IX Paris
+1764,44444,Forcepoint Cloud,13292,NSP,Global,,Selective,http://www.forcepoint.com,Plus,1,10000,10.0,37.49.236.119,2001:7f8:54::119,False,True,PeeringDB,France-IX Paris
+2798,28855,France-IX Paris,,,,,,,Plus,1,10000,10.0,37.49.236.94,2001:7f8:54::94,True,True,PeeringDB,France-IX Paris
+4402,8632,France-IX Paris,,,,,,,Plus,1,10000,10.0,37.49.236.127,2001:7f8:54::127,True,True,PeeringDB,France-IX Paris
+3707,15547,France-IX Paris,,,,,,,Plus,1,10000,10.0,37.49.236.156,2001:7f8:54::156,True,True,PeeringDB,France-IX Paris
+3986,197422,France-IX Paris,,,,,,,Plus,1,10000,10.0,37.49.236.233,2001:7f8:54::233,True,True,PeeringDB,France-IX Paris
+2732,39636,France-IX Paris,,,,,,,Plus,1,10000,10.0,37.49.236.211,,True,True,PeeringDB,France-IX Paris
+4168,41090,France-IX Paris,,,,,,,Plus,1,10000,10.0,37.49.237.33,2001:7f8:54::1:33,True,True,PeeringDB,France-IX Paris
+12339,50812,France-IX Paris,,,,,,,Plus,1,10000,10.0,37.49.237.6,,True,True,PeeringDB,France-IX Paris
+12076,30990,France-IX Paris,,,,,,,Plus,1,10000,10.0,37.49.237.130,2001:7f8:54::1:130,False,True,PeeringDB,France-IX Paris
+2971,8674,France-IX Paris,,,,,,,Plus,1,10000,10.0,37.49.237.134,2001:7f8:54::1:134,True,True,PeeringDB,France-IX Paris
+10020,41405,France-IX Paris,,,,,,,Plus,1,10000,10.0,37.49.236.202,2001:7f8:54::202,True,True,PeeringDB,France-IX Paris
+8038,198385,France-IX Paris,,,,,,,Plus,1,10000,10.0,37.49.237.156,2001:7f8:54::1:156,True,True,PeeringDB,France-IX Paris
+11452,34572,France-IX Paris,,,,,,,Plus,1,10000,10.0,37.49.237.84,2001:7f8:54::1:84,True,True,PeeringDB,France-IX Paris
+15920,57642,France-IX Paris,,,,,,,Plus,1,10000,10.0,37.49.237.67,,True,True,PeeringDB,France-IX Paris
+14012,42411,France-IX Paris,,,,,,,Plus,1,10000,10.0,37.49.236.169,2001:7f8:54::169,True,True,PeeringDB,France-IX Paris
+2501,20764,France-IX Paris,,,,,,,Plus,1,10000,10.0,37.49.237.141,2001:7f8:54::1:141,True,True,PeeringDB,France-IX Paris
+2918,12684,France-IX Paris,,,,,,,Plus,1,10000,10.0,37.49.236.135,2001:7f8:54::135,True,True,PeeringDB,France-IX Paris
+17096,202321,France-IX Paris,,,,,,,Plus,1,10000,10.0,37.49.237.195,,True,True,PeeringDB,France-IX Paris
+6724,61955,France-IX Paris,,,,,,,Plus,1,10000,10.0,37.49.237.214,2001:7f8:54::1:214,False,True,PeeringDB,France-IX Paris
+9897,26415,France-IX Paris,,,,,,,Plus,1,10000,10.0,37.49.237.81,2001:7f8:54::1:81,True,True,PeeringDB,France-IX Paris
+15291,39533,France-IX Paris,,,,,,,Plus,1,10000,10.0,37.49.237.228,2001:7f8:54::1:228,True,True,PeeringDB,France-IX Paris
+6350,20804,France-IX Paris,,,,,,,Plus,1,10000,10.0,37.49.236.215,2001:7f8:54::215,True,True,PeeringDB,France-IX Paris
+25211,210232,France-IX Paris,,,,,,,Plus,1,10000,10.0,37.49.237.110,2001:7f8:54::1:110,True,True,PeeringDB,France-IX Paris
+25957,48702,France-IX Paris,,,,,,,Plus,1,10000,10.0,37.49.237.159,,False,True,PeeringDB,France-IX Paris
+23983,199758,France-IX Paris,,,,,,,Plus,1,10000,10.0,37.49.238.30,2001:7f8:54::2:30,True,True,PeeringDB,France-IX Paris
+24338,205010,France-IX Paris,,,,,,,Plus,1,10000,10.0,37.49.238.24,2001:7f8:54::2:24,True,True,PeeringDB,France-IX Paris
+19494,209097,France-IX Paris,,,,,,,Plus,1,10000,10.0,37.49.238.34,2001:7f8:54::2:34,True,True,PeeringDB,France-IX Paris
+7408,24611,France-IX Paris,,,,,,,Plus,1,10000,10.0,37.49.236.128,2001:7f8:54::128,True,True,PeeringDB,France-IX Paris
+10647,45899,France-IX Paris,,,,,,,Plus,1,10000,10.0,37.49.236.51,2001:7f8:54::51,False,True,PeeringDB,France-IX Paris
+20933,41327,France-IX Paris,,,,,,,Plus,1,10000,10.0,37.49.238.47,2001:7f8:54::2:47,True,True,PeeringDB,France-IX Paris
+2222,42369,France-IX Paris,,,,,,,Plus,1,10000,10.0,37.49.238.44,2001:7f8:54::2:44,True,True,PeeringDB,France-IX Paris
+22072,204403,France-IX Paris,,,,,,,Plus,1,10000,10.0,37.49.238.64,2001:7f8:54::2:64,True,True,PeeringDB,France-IX Paris
+2595,48237,France-IX Paris,,,,,,,Plus,1,10000,10.0,37.49.238.71,2001:7f8:54::2:71,False,True,PeeringDB,France-IX Paris
+20759,35598,France-IX Paris,,,,,,,Plus,1,10000,10.0,37.49.238.75,2001:7f8:54::2:75,True,True,PeeringDB,France-IX Paris
+16000,206059,France-IX Paris,,,,,,,Plus,1,10000,10.0,37.49.238.6,2001:7f8:54::2:6,True,True,PeeringDB,France-IX Paris
+31913,208414,France-IX Paris,,,,,,,Plus,1,10000,10.0,37.49.238.97,2001:7f8:54::2:97,True,True,PeeringDB,France-IX Paris
+14854,6752,France-IX Paris,,,,,,,Plus,1,10000,10.0,37.49.238.115,2001:7f8:54::2:115,True,True,PeeringDB,France-IX Paris
+20164,34927,France-IX Paris,,,,,,,Plus,1,10000,10.0,37.49.238.139,2001:7f8:54::2:139,True,True,PeeringDB,France-IX Paris
+25888,40934,France-IX Paris,,,,,,,Plus,1,10000,10.0,37.49.238.137,2001:7f8:54::2:137,True,True,PeeringDB,France-IX Paris
+36906,214708,France-IX Paris,,,,,,,Plus,1,10000,10.0,37.49.238.152,2001:7f8:54::2:152,False,True,PeeringDB,France-IX Paris
+34623,210165,France-IX Paris,,,,,,,Plus,1,10000,10.0,37.49.238.146,2001:7f8:54::2:146,True,True,PeeringDB,France-IX Paris
+23168,213317,France-IX Paris,,,,,,,Plus,1,10000,10.0,37.49.238.156,2001:7f8:54::2:156,True,True,PeeringDB,France-IX Paris
+2533,21056,France-IX Paris,,,,,,,Plus,1,10000,10.0,37.49.238.160,2001:7f8:54::2:160,True,True,PeeringDB,France-IX Paris
+5493,31638,France-IX Paris,,,,,,,Plus,1,10000,10.0,37.49.238.199,2001:7f8:54::2:199,True,True,PeeringDB,France-IX Paris
+7268,10099,France-IX Paris,,,,,,,Plus,1,10000,10.0,37.49.238.205,2001:7f8:54::2:205,True,True,PeeringDB,France-IX Paris
+32293,199839,France-IX Paris,,,,,,,Plus,1,10000,10.0,37.49.238.217,2001:7f8:54::2:217,False,True,PeeringDB,France-IX Paris
+13605,206720,France-IX Paris,,,,,,,Plus,1,10000,10.0,37.49.238.188,2001:7f8:54::2:188,True,True,PeeringDB,France-IX Paris
+29336,208420,France-IX Paris,,,,,,,Plus,1,10000,10.0,37.49.238.229,,True,True,PeeringDB,France-IX Paris
+2617,9299,France-IX Paris,,,,,,,Plus,1,10000,10.0,37.49.238.242,2001:7f8:54::2:242,True,True,PeeringDB,France-IX Paris
+43702,204279,France-IX Paris,,,,,,,Plus,1,10000,10.0,37.49.238.249,2001:7f8:54::2:249,False,True,PeeringDB,France-IX Paris
+43446,203683,France-IX Paris,,,,,,,Plus,1,10000,10.0,37.49.237.247,,False,True,PeeringDB,France-IX Paris
+20013,209323,Geneanet,23050,Content,Global,100-1000Mbps,Open,http://www.geneanet.org,Plus,1,10000,10.0,37.49.237.205,2001:7f8:54::1:205,True,True,PeeringDB,France-IX Paris
+3957,51269,Hexatom,3952,NSP,Europe,1-5Gbps,Open,http://www.hexatom.fr,Plus,1,10000,10.0,37.49.236.101,2001:7f8:54::101,True,True,PeeringDB,France-IX Paris
+499,34019,Hivane,671,Non-Profit,Regional,1-5Gbps,Open,https://www.hivane.net/,Plus,1,10000,10.0,37.49.236.71,2001:7f8:54::71,True,True,PeeringDB,France-IX Paris
+24126,49121,IN8INITY EU,26871,NSP,Not Disclosed,,Open,https://in8inity.com,Plus,1,10000,10.0,37.49.238.170,2001:7f8:54::2:170,True,True,PeeringDB,France-IX Paris
+15875,21247,IP SYNERGIES,19120,,Not Disclosed,100-1000Mbps,Open,https://www.ipsyn.net/,Plus,1,10000,10.0,37.49.238.203,2001:7f8:54::2:203,False,True,PeeringDB,France-IX Paris
+6031,39931,IPTelecom,8430,Content,Europe,5-10Gbps,Open,https://www.iptelecom.fr,Plus,1,10000,10.0,37.49.236.229,2001:7f8:54::229,True,True,PeeringDB,France-IX Paris
+986,12779,IT.Gate,7507,NSP,Europe,100-200Gbps,Selective,http://www.itgate.it,Plus,1,10000,10.0,37.49.236.177,2001:7f8:54::177,True,True,PeeringDB,France-IX Paris
+163,13030,Init7,229,NSP,Global,,Open,http://www.init7.net/,Plus,1,10000,10.0,37.49.237.158,2001:7f8:54::1:158,False,True,PeeringDB,France-IX Paris
+1970,8723,Integra,1868,NSP,Europe,5-10Gbps,Selective,http://www.integra.fr,Plus,1,10000,10.0,37.49.236.22,2001:7f8:54::22,False,True,PeeringDB,France-IX Paris
+3468,20900,InterMeDiaSud,2900,Cable/DSL/ISP,Europe,1-5Gbps,Open,http://www.imsnetworks.com,Plus,1,10000,10.0,37.49.236.23,,True,True,PeeringDB,France-IX Paris
+28083,210732,Kamatari Online,30584,,Europe,1-5Gbps,Open,https://ecowan.fr,Essentiel,1,10000,10.0,77.95.66.17,2001:7f8:54:e5b4::17,True,True,PeeringDB,France-IX Paris
+34139,216302,Kaminot,36286,,Not Disclosed,,Open,http://kaminot.net,Plus,1,10000,10.0,37.49.238.99,2001:7f8:54::2:99,False,True,PeeringDB,France-IX Paris
+15874,49763,Leboncoin,19119,Enterprise,Europe,10-20Gbps,Open,https://leboncoin.fr,Plus,1,10000,10.0,37.49.237.160,2001:7f8:54::1:160,True,True,PeeringDB,France-IX Paris
+4359,197133,MEDIACTIVE NETWORK FR-EU,5087,Network Services,Global,10-20Gbps,Open,https://mediactivegroup.com,Plus,1,10000,10.0,37.49.236.121,2001:7f8:54::121,True,True,PeeringDB,France-IX Paris
+1492,35393,Magic OnLine,7614,Content,Europe,20-50Gbps,Open,http://www.magic.fr,Plus,1,10000,10.0,37.49.236.11,2001:7f8:54::11,True,True,PeeringDB,France-IX Paris
+10542,203547,NEXT2i,14400,NSP,Europe,10-20Gbps,Open,http://www.next2i.fr,Plus,1,10000,10.0,37.49.236.110,2001:7f8:54::110,True,True,PeeringDB,France-IX Paris
+6457,199248,NUMLOG,8787,Cable/DSL/ISP,Europe,100-1000Mbps,Open,http://www.numlog.fr,Plus,1,10000,10.0,37.49.237.181,2001:7f8:54::1:181,True,True,PeeringDB,France-IX Paris
+9153,44000,Net1C,12941,Content,Europe,1-5Gbps,Open,https://www.net1c.com,Plus,1,10000,10.0,37.49.236.52,2001:7f8:54::52,True,True,PeeringDB,France-IX Paris
+8661,20565,Netalis,12544,Cable/DSL/ISP,Europe,5-10Gbps,Open,https://www.netalis.fr/,Plus,1,10000,10.0,37.49.237.165,2001:7f8:54::1:165,True,True,PeeringDB,France-IX Paris
+19113,35426,Nextmap,22196,Content,Europe,1-5Gbps,Open,https://nextmap.io,Plus,1,10000,10.0,37.49.237.231,2001:7f8:54::1:231,True,True,PeeringDB,France-IX Paris
+190,29608,OVEA,263,NSP,Europe,5-10Gbps,Open,http://www.ovea.com,Plus,1,10000,10.0,37.49.236.31,2001:7f8:54::31,True,True,PeeringDB,France-IX Paris
+1237,39104,OXEVA,1415,Content,Regional,1-5Gbps,Open,http://www.oxeva.fr,Plus,1,10000,10.0,37.49.236.25,2001:7f8:54::25,False,True,PeeringDB,France-IX Paris
+5305,15401,Orange Business - La Fabrique,10116,NSP,Europe,,Open,https://lafabrique.orange-business.com,Plus,1,10000,10.0,37.49.237.30,2001:7f8:54::1:30,True,True,PeeringDB,France-IX Paris
+6709,39444,Owentis,9163,Cable/DSL/ISP,Europe,1-5Gbps,Open,https://www.groupeozitem.com,Plus,1,10000,10.0,37.49.237.28,2001:7f8:54::1:28,False,True,PeeringDB,France-IX Paris
+26086,212321,PC A LA CARTE,28713,Enterprise,Europe,20-100Mbps,Open,http://www.pcalacarte.fr,Plus,1,10000,10.0,37.49.237.85,2001:7f8:54::1:85,True,True,PeeringDB,France-IX Paris
+3924,42,PCH AS42,393,Educational/Research,Global,1-5Gbps,Open,http://www.pch.net/,Plus,1,10000,10.0,37.49.236.92,2001:7f8:54::92,True,True,PeeringDB,France-IX Paris
+29228,48732,PEERES-TELECOM,31704,Non-Profit,Europe,1-5Gbps,Open,https://peeres-telecom.fr,Plus,1,10000,10.0,37.49.238.236,2001:7f8:54::2:236,True,True,PeeringDB,France-IX Paris
+34012,205845,PLANISWARE EUROPE,36174,Content,Europe,1-5Gbps,Restrictive,http://planisware.com,Plus,1,10000,10.0,37.49.238.150,2001:7f8:54::2:150,True,True,PeeringDB,France-IX Paris
+322,15422,PPR,449,Content,Global,5-10Gbps,Open,http://www.kering.com,Plus,1,10000,10.0,37.49.236.64,,False,True,PeeringDB,France-IX Paris
+39716,200653,PROVECTIO,41470,Cable/DSL/ISP,Not Disclosed,,Open,https://www.provectio.fr/,Plus,1,10000,10.0,37.49.238.191,,True,True,PeeringDB,France-IX Paris
+1250,8487,Phibee Telecom,1424,NSP,Europe,5-10Gbps,Open,http://www.phibee-telecom.net,Plus,1,10000,10.0,37.49.236.12,2001:7f8:54::12,False,True,PeeringDB,France-IX Paris
+4958,198507,Quantic Telecom,6728,Cable/DSL/ISP,Europe,10-20Gbps,Open,https://www.quantic-telecom.net,Plus,1,10000,10.0,37.49.237.208,2001:7f8:54::1:208,True,True,PeeringDB,France-IX Paris
+702,12850,Retelit S.p.A. (formerly Enter),3172,Cable/DSL/ISP,Global,1-5Gbps,Open,https://retelit.it/,Plus,1,10000,10.0,37.49.236.186,2001:7f8:54::186,True,True,PeeringDB,France-IX Paris
+39635,8801,Rocket Fibre (AS8801),27974,Cable/DSL/ISP,Global,,Open,http://www.rocket-fibre.co.uk/wholesale,Plus,1,10000,10.0,37.49.238.195,2001:7f8:54::2:195,True,True,PeeringDB,France-IX Paris
+19420,198034,SENSOTELECOM,22495,Content,Europe,100-1000Mbps,Selective,https://www.voip-telecom.com,Plus,1,10000,10.0,37.49.237.39,2001:7f8:54::1:39,True,True,PeeringDB,France-IX Paris
+3608,24482,SG.GS,3395,NSP,Asia Pacific,500-1000Gbps,Open,http://www.sg.gs,Plus,1,10000,10.0,37.49.236.228,2001:7f8:54::228,True,True,PeeringDB,France-IX Paris
+1100,14340,Salesforce.com,1319,Content,Global,,Selective,http://www.salesforce.com,Plus,1,10000,10.0,37.49.237.154,2001:7f8:54::1:154,False,True,PeeringDB,France-IX Paris
+34414,206002,Scalair SAS,36535,NSP,Regional,1-5Gbps,Open,https://scalair.fr,Plus,1,10000,10.0,37.49.237.194,2001:7f8:54::1:194,True,True,PeeringDB,France-IX Paris
+316,8839,SdV,438,Content,Europe,10-20Gbps,Selective,https://sdv.fr,Plus,1,10000,10.0,37.49.236.162,2001:7f8:54::162,True,True,PeeringDB,France-IX Paris
+13153,198551,Societe Atlantique de Telephonie et Communication SARL,16716,Cable/DSL/ISP,Regional,10-20Gbps,Open,http://www.rezocean.fr,Plus,1,10000,10.0,37.49.237.11,2001:7f8:54::1:11,False,True,PeeringDB,France-IX Paris
+5483,58511,Swoop,9332,NSP,Global,100-200Gbps,Open,https://www.swoop.com.au/,Plus,1,10000,10.0,37.49.237.184,2001:7f8:54::1:184,True,True,PeeringDB,France-IX Paris
+320,8554,TAS France,178,NSP,Europe,5-10Gbps,Open,https://nubevia.com/,Plus,1,10000,10.0,37.49.236.49,2001:7f8:54::49,False,True,PeeringDB,France-IX Paris
+5047,37054,TELMA,6960,Cable/DSL/ISP,Global,20-50Gbps,Open,http://www.telma.mg/,Plus,1,10000,10.0,37.49.236.171,2001:7f8:54::171,True,True,PeeringDB,France-IX Paris
+6691,50903,TRINAPS,9130,Cable/DSL/ISP,Europe,1-5Gbps,Open,http://trinaps.com/,Plus,1,10000,10.0,37.49.237.16,2001:7f8:54::1:16,True,True,PeeringDB,France-IX Paris
+7040,197922,Techcrea Solutions,9690,NSP,Europe,20-50Gbps,Open,http://www.techcrea.fr,Plus,1,10000,10.0,37.49.237.51,2001:7f8:54::1:51,True,True,PeeringDB,France-IX Paris
+1459,4637,Telstra (International),10289,NSP,Global,10-20Tbps,Selective,http://www.telstrainternational.com,Plus,1,10000,10.0,37.49.238.119,2001:7f8:54::2:119,False,True,PeeringDB,France-IX Paris
+8779,29104,Thales Services Numériques,12439,Enterprise,Global,10-20Gbps,Open,http://www.thalesgroup.com,Plus,1,10000,10.0,37.49.237.131,2001:7f8:54::1:131,True,True,PeeringDB,France-IX Paris
+7063,19551,Thales/Imperva,9735,Content,Global,1-5Tbps,Open,https://www.imperva.com/,Plus,1,10000,10.0,37.49.238.168,2001:7f8:54::2:168,True,True,PeeringDB,France-IX Paris
+18232,24691,Togocom,25319,Cable/DSL/ISP,Not Disclosed,20-50Gbps,Open,http://www.yas.tg,Plus,1,10000,10.0,37.49.236.247,2001:7f8:54::247,True,True,PeeringDB,France-IX Paris
+38833,12409,Trustteam,40667,Cable/DSL/ISP,Europe,,Selective,https://www.trustteam.fr,Plus,1,10000,10.0,37.49.238.184,2001:7f8:54::2:184,True,True,PeeringDB,France-IX Paris
+35934,215234,UBIZWAN,37972,Cable/DSL/ISP,Not Disclosed,,Open,http://www.ubizwan.fr,Plus,1,10000,10.0,37.49.238.161,2001:7f8:54::2:161,True,True,PeeringDB,France-IX Paris
+4278,1828,Unitas Global,9217,NSP,Global,,Selective,https://www.packetfabric.com,Plus,1,10000,10.0,37.49.237.236,2001:7f8:54::1:236,True,True,PeeringDB,France-IX Paris
+15846,205344,Unixo,19093,Cable/DSL/ISP,Europe,1-5Gbps,Open,https://unixo.fr/,Plus,1,10000,10.0,37.49.237.161,2001:7f8:54::1:161,True,True,PeeringDB,France-IX Paris
+6108,35600,Vedege,8458,Network Services,Regional,,Open,https://bgp.tools/as/35600,Plus,1,10000,10.0,37.49.236.55,2001:7f8:54::55,True,True,PeeringDB,France-IX Paris
+10987,60350,Veepee (former VENTE-PRIVEE.COM),14816,Content,Europe,5-10Gbps,Selective,https://www.veepee.com,Plus,1,10000,10.0,37.49.237.35,2001:7f8:54::1:35,True,True,PeeringDB,France-IX Paris
+17969,37721,Virtual Technologies and Solutions,21114,Cable/DSL/ISP,Global,300-500Gbps,Open,http://www.vts.bf,Plus,1,10000,10.0,37.49.237.239,2001:7f8:54::1:239,True,True,PeeringDB,France-IX Paris
+4688,25160,Vorboss Limited,8874,Cable/DSL/ISP,Europe,50-100Gbps,Open,http://vorboss.com,Plus,1,10000,10.0,37.49.236.230,2001:7f8:54::230,True,True,PeeringDB,France-IX Paris
+14826,51326,W3TEL,18147,NSP,Global,100-1000Mbps,Open,http://www.w3tel.com,Plus,1,10000,10.0,37.49.237.139,2001:7f8:54::1:139,True,True,PeeringDB,France-IX Paris
+8180,56911,WARIAN,11341,NSP,Europe,100-200Gbps,Open,https://www.warian.net,Plus,1,10000,10.0,37.49.238.239,2001:7f8:54::2:239,True,True,PeeringDB,France-IX Paris
+5078,43858,Webaxys,9836,Cable/DSL/ISP,Europe,5-10Gbps,Open,http://www.webaxys.com,Plus,1,10000,10.0,37.49.237.98,2001:7f8:54::1:98,True,True,PeeringDB,France-IX Paris
+126,13237,euNetworks Group,8540,NSP,Europe,,Open,http://map.eunetworks.com,Plus,1,10000,10.0,37.49.237.163,2001:7f8:54::1:163,True,True,PeeringDB,France-IX Paris
+20498,200748,grandorlyseinebievre,23484,,Not Disclosed,,Open,http://www.grandorlyseinebievre.fr,Plus,1,10000,10.0,37.49.237.190,2001:7f8:54::1:190,True,True,PeeringDB,France-IX Paris
+29308,62119,root.fr,31784,NSP,Europe,100-1000Mbps,Open,https://root.fr,Plus,1,10000,10.0,37.49.238.101,2001:7f8:54::2:101,True,True,PeeringDB,France-IX Paris
+3838,39120,France-IX Paris,,,,,,,Plus,1,5000,5.0,37.49.238.67,2001:7f8:54::2:67,True,True,PeeringDB,France-IX Paris
+11811,328107,GUILAB,15560,Enterprise,Africa,20-50Gbps,Selective,http://www.guilab.com.gn,Plus,1,5000,5.0,37.49.238.8,,True,True,PeeringDB,France-IX Paris
+12633,206342,Air Liquide IT,16258,Enterprise,Global,1-5Gbps,Open,http://www.airliquide.com,Plus,2,4000,4.0,37.49.237.127 | 37.49.237.128,,False,True,PeeringDB,France-IX Paris
+1495,6057,France-IX Paris,,,,,,,Plus,1,3000,3.0,37.49.238.202,2001:7f8:54::2:202,True,True,PeeringDB,France-IX Paris
+29617,48213,ABICOM,28678,Cable/DSL/ISP,Europe,1-5Gbps,Open,https://www.abicom.fr,Plus,1,2000,2.0,37.49.238.22,2001:7f8:54::2:22,True,True,PeeringDB,France-IX Paris
+4915,49463,France-IX Paris,,,,,,,Plus,2,2000,2.0,37.49.236.145 | 37.49.236.146,2001:7f8:54::145 | 2001:7f8:54::146,False,True,PeeringDB,France-IX Paris
+8717,204207,France-IX Paris,,,,,,,Plus,1,2000,2.0,37.49.237.97,,True,True,PeeringDB,France-IX Paris
+3457,15826,France-IX Paris,,,,,,,Plus,1,2000,2.0,37.49.237.14,2001:7f8:54::1:14,True,True,PeeringDB,France-IX Paris
+1614,34781,France-IX Paris,,,,,,,Plus,1,2000,2.0,37.49.237.123,2001:7f8:54::1:123,True,True,PeeringDB,France-IX Paris
+5301,3225,France-IX Paris,,,,,,,Plus,1,2000,2.0,37.49.237.62,2001:7f8:54::1:62,True,True,PeeringDB,France-IX Paris
+31659,201228,France-IX Paris,,,,,,,Plus,2,2000,2.0,37.49.238.159 | 37.49.238.162,2001:7f8:54::2:159 | 2001:7f8:54::2:162,True,True,PeeringDB,France-IX Paris
+13940,37529,Gestor de Infraestructuras de Telecomunicaciones de Guinea Ecuatorial,17440,NSP,Africa,20-50Gbps,Open,http://www.gitge.com/,Plus,1,2000,2.0,37.49.238.164,2001:7f8:54::2:164,True,True,PeeringDB,France-IX Paris
+18021,61205,INFOMIL,21160,,Not Disclosed,,Open,https://www.infomil.com/,Plus,1,2000,2.0,37.49.237.79,2001:7f8:54::1:79,False,True,PeeringDB,France-IX Paris
+29361,42687,IzarLink,31839,Cable/DSL/ISP,Not Disclosed,1-5Gbps,Open,https://www.izarralde.com,Plus,1,2000,2.0,37.49.238.41,2001:7f8:54::2:41,True,True,PeeringDB,France-IX Paris
+2534,39180,LASOTEL,2198,NSP,Europe,20-50Gbps,Open,http://www.lasotel.fr,Plus,1,2000,2.0,37.49.236.16,2001:7f8:54::16,True,True,PeeringDB,France-IX Paris
+14960,205555,VSC Technologies,18270,Enterprise,Europe,1-5Gbps,Open,http://www.sncf-connect.com,Plus,1,2000,2.0,37.49.237.142,2001:7f8:54::1:142,True,True,PeeringDB,France-IX Paris
+8818,39072,Axess OWS,12485,Content,Global,100-1000Mbps,Selective,https://www.axess.fr/,Plus,1,1000,1.0,37.49.236.189,,False,True,PeeringDB,France-IX Paris
+5956,16363,Axialys,8291,Content,Europe,100-1000Mbps,Open,http://www.axialys.com,Plus,1,1000,1.0,37.49.237.17,2001:7f8:54::1:17,False,True,PeeringDB,France-IX Paris
+12383,201808,Blue Infra,16075,Cable/DSL/ISP,Not Disclosed,5-10Gbps,Open,https://www.blueinfra.fr,Plus,1,1000,1.0,37.49.237.112,2001:7f8:54::1:112,True,True,PeeringDB,France-IX Paris
+187,8565,BlueGIX,258,Cable/DSL/ISP,Europe,100-1000Mbps,Open,http://www.bluegix.com,Plus,1,1000,1.0,37.49.236.78,2001:7f8:54::78,False,True,PeeringDB,France-IX Paris
+139,9153,Burstfire Networks Ltd,194,NSP,Europe,5-10Gbps,Selective,http://www.burstfire.net,Plus,1,1000,1.0,37.49.236.152,2001:7f8:54::152,False,True,PeeringDB,France-IX Paris
+19048,58011,CHEOPS TECHNOLOGY FRANCE S.A.,22131,,Not Disclosed,,Open,https://www.cheops.fr/fr,Plus,1,1000,1.0,37.49.237.196,2001:7f8:54::1:196,True,True,PeeringDB,France-IX Paris
+21248,25428,Colruyt Group Services,24187,Enterprise,Europe,,Restrictive,http://www.colruytgroup.com,Plus,1,1000,1.0,37.49.237.19,2001:7f8:54::1:19,True,True,PeeringDB,France-IX Paris
+3403,44902,Covage Networks,12673,NSP,Europe,1-5Gbps,Selective,http://www.covage.com,Plus,1,1000,1.0,37.49.236.141,2001:7f8:54::141,False,True,PeeringDB,France-IX Paris
+13317,327814,Ecoband,16868,NSP,Africa,5-10Gbps,Open,https://www.ecoband.net,Plus,1,1000,1.0,37.49.237.170,2001:7f8:54::1:170,True,True,PeeringDB,France-IX Paris
+2858,2484,FR-NIC-DNS-ANYCAST (AFNIC > NIC-FR > Anycast DNS),2369,Non-Profit,Europe,100-1000Mbps,Open,http://www.afnic.fr/,Plus,1,1000,1.0,37.49.236.20,2001:7f8:54::20,True,True,PeeringDB,France-IX Paris
+14185,2486,FR-NIC-DNS-UNICAST (AFNIC > NIC-FR > Unicast DNS),2369,Non-Profit,Europe,100-1000Mbps,Open,http://www.afnic.fr/,Plus,1,1000,1.0,37.49.236.21,2001:7f8:54::21,True,True,PeeringDB,France-IX Paris
+817,15436,France-IX Paris,,,,,,,Plus,1,1000,1.0,37.49.236.59,2001:7f8:54::59,True,True,PeeringDB,France-IX Paris
+1539,25593,France-IX Paris,,,,,,,Plus,1,1000,1.0,37.49.236.79,2001:7f8:54::79,False,True,PeeringDB,France-IX Paris
+1990,21101,France-IX Paris,,,,,,,Plus,1,1000,1.0,37.49.236.179,,True,True,PeeringDB,France-IX Paris
+2536,9583,France-IX Paris,,,,,,,Plus,1,1000,1.0,,,False,True,PeeringDB,France-IX Paris
+286,3856,France-IX Paris,,,,,,,Plus,1,1000,1.0,37.49.236.91,2001:7f8:54::91,False,True,PeeringDB,France-IX Paris
+1503,43436,France-IX Paris,,,,,,,Plus,1,1000,1.0,37.49.236.155,,False,True,PeeringDB,France-IX Paris
+4566,197692,France-IX Paris,,,,,,,Plus,1,1000,1.0,37.49.236.133,2001:7f8:54::133,True,True,PeeringDB,France-IX Paris
+2961,8262,France-IX Paris,,,,,,,Plus,1,1000,1.0,37.49.236.199,2001:7f8:54::199,True,True,PeeringDB,France-IX Paris
+5856,29605,France-IX Paris,,,,,,,Plus,1,1000,1.0,37.49.237.34,2001:7f8:54::1:34,True,True,PeeringDB,France-IX Paris
+218,31424,France-IX Paris,,,,,,,Plus,1,1000,1.0,37.49.237.69,2001:7f8:54::1:69,True,True,PeeringDB,France-IX Paris
+7887,15965,France-IX Paris,,,,,,,Plus,1,1000,1.0,37.49.236.148,2001:7f8:54::148,True,True,PeeringDB,France-IX Paris
+8432,30919,France-IX Paris,,,,,,,Plus,1,1000,1.0,37.49.237.91,2001:7f8:54::1:91,False,True,PeeringDB,France-IX Paris
+8729,12696,France-IX Paris,,,,,,,Plus,1,1000,1.0,37.49.237.48,,False,True,PeeringDB,France-IX Paris
+825,7500,France-IX Paris,,,,,,,Plus,1,1000,1.0,37.49.237.106,2001:7f8:54::1:106,True,True,PeeringDB,France-IX Paris
+621,12654,France-IX Paris,,,,,,,Plus,1,1000,1.0,37.49.237.99,2001:7f8:54::1:99,True,True,PeeringDB,France-IX Paris
+487,9304,France-IX Paris,,,,,,,Plus,1,1000,1.0,37.49.236.221,2001:7f8:54::221,False,True,PeeringDB,France-IX Paris
+6186,132876,France-IX Paris,,,,,,,Plus,1,1000,1.0,37.49.236.248,2001:7f8:54::248,True,True,PeeringDB,France-IX Paris
+12043,199125,France-IX Paris,,,,,,,Plus,1,1000,1.0,37.49.236.160,,True,True,PeeringDB,France-IX Paris
+12436,47406,France-IX Paris,,,,,,,Plus,1,1000,1.0,37.49.236.66,2001:7f8:54::66,True,True,PeeringDB,France-IX Paris
+15317,199064,France-IX Paris,,,,,,,Plus,1,1000,1.0,37.49.236.134,,True,True,PeeringDB,France-IX Paris
+13222,39063,France-IX Paris,,,,,,,Plus,1,1000,1.0,37.49.236.98,2001:7f8:54::98,True,True,PeeringDB,France-IX Paris
+20355,31178,France-IX Paris,,,,,,,Plus,1,1000,1.0,37.49.237.209,2001:7f8:54::1:209,True,True,PeeringDB,France-IX Paris
+2716,44219,France-IX Paris,,,,,,,Plus,1,1000,1.0,37.49.236.196,,False,True,PeeringDB,France-IX Paris
+31184,397601,France-IX Paris,,,,,,,Plus,1,1000,1.0,37.49.238.72,2001:7f8:54::2:72,False,True,PeeringDB,France-IX Paris
+35837,21000,France-IX Paris,,,,,,,Plus,1,1000,1.0,37.49.236.137,2001:7f8:54::137,False,True,PeeringDB,France-IX Paris
+25386,44842,France-IX Paris,,,,,,,Plus,1,1000,1.0,37.49.238.141,,True,True,PeeringDB,France-IX Paris
+1163,34288,France-IX Paris,,,,,,,Plus,1,1000,1.0,37.49.238.193,2001:7f8:54::2:193,True,True,PeeringDB,France-IX Paris
+34861,63741,France-IX Paris,,,,,,,Plus,1,1000,1.0,37.49.237.254,2001:7f8:54::1:254,True,True,PeeringDB,France-IX Paris
+41065,199917,France-IX Paris,,,,,,,Plus,1,1000,1.0,37.49.238.175,,True,True,PeeringDB,France-IX Paris
+29442,57797,France-IX Paris,,,,,,,Plus,1,1000,1.0,37.49.238.243,2001:7f8:54::2:243,True,True,PeeringDB,France-IX Paris
+27080,50293,France-IX Paris,,,,,,,Plus,1,1000,1.0,37.49.238.240,2001:7f8:54::2:240,True,True,PeeringDB,France-IX Paris
+27397,328411,Gulfsat Madagascar,14439,Cable/DSL/ISP,Africa,,Open,https://www.blueline.mg,Plus,1,1000,1.0,37.49.236.62,2001:7f8:54::62,True,True,PeeringDB,France-IX Paris
+28268,212579,IPEXIA,30767,Cable/DSL/ISP,Europe,5-10Gbps,Open,https://www.ipexia.com,Plus,1,1000,1.0,37.49.237.162,,True,True,PeeringDB,France-IX Paris
+3362,33835,Infosat Telecom,2647,,Europe,100-1000Mbps,Open,https://www.weaccess.fr,Plus,1,1000,1.0,37.49.236.8,2001:7f8:54::8,False,True,PeeringDB,France-IX Paris
+3669,44334,M6 Distribution Digital,9331,NSP,Europe,1-5Gbps,Open,http://www.rtl.fr,Plus,1,1000,1.0,37.49.238.11,2001:7f8:54::2:11,True,True,PeeringDB,France-IX Paris
+32994,41191,Mappy,35221,,Europe,,Open,https://fr.mappy.com/,Plus,1,1000,1.0,37.49.237.103,,True,True,PeeringDB,France-IX Paris
+16931,47648,NOREST SERVICES,20132,Cable/DSL/ISP,Europe,100-1000Mbps,Open,http://www.norest-telecom.fr,Plus,1,1000,1.0,37.49.236.236,2001:7f8:54::236,True,True,PeeringDB,France-IX Paris
+1527,29246,Optilian,1596,NSP,Europe,,Open,http://www.optilian.com,Plus,1,1000,1.0,37.49.236.116,2001:7f8:54::116,True,True,PeeringDB,France-IX Paris
+1523,8784,Prosodie Cap Gemini,8795,Content,Europe,,Open,http://www.prosodie.com,Plus,1,1000,1.0,37.49.236.33,2001:7f8:54::33,False,True,PeeringDB,France-IX Paris
+26364,60456,REVTELECOM,28981,Cable/DSL/ISP,Europe,1-5Gbps,Open,https://www.revtelecom.net/,Plus,1,1000,1.0,37.49.238.80,2001:7f8:54::2:80,True,True,PeeringDB,France-IX Paris
+3513,50858,SOLUTIONS INFORMATIQUES SERVICES SAS,2997,Cable/DSL/ISP,Europe,1-5Gbps,Open,,Plus,1,1000,1.0,37.49.236.65,2001:7f8:54::65,True,True,PeeringDB,France-IX Paris
+13876,205801,Synalabs,17381,Content,Europe,,Open,http://www.synalabs.com,Plus,1,1000,1.0,37.49.237.75,2001:7f8:54::1:75,True,True,PeeringDB,France-IX Paris
+7190,60427,System-Net SAS,10543,Cable/DSL/ISP,Europe,100-1000Mbps,Open,http://www.system-net.fr,Plus,1,1000,1.0,37.49.237.203,2001:7f8:54::1:203,True,True,PeeringDB,France-IX Paris
+21484,47127,TELEMAQUE,24410,,Global,100-1000Mbps,Open,https://www.telemaque.fr,Plus,1,1000,1.0,37.49.236.218,2001:7f8:54::218,True,True,PeeringDB,France-IX Paris
+2625,31449,France-IX Paris,,,,,,,Plus,1,250,0.25,37.49.236.73,,True,True,PeeringDB,France-IX Paris
+32984,52025,ParadoxNetworks Limited,35213,NSP,Global,20-50Gbps,Selective,https://pdxnet.co.uk,Plus,1,250,0.25,37.49.238.135,2001:7f8:54::2:135,True,True,PeeringDB,France-IX Paris
+36405,215248,215248 - Bastiaan Mathijs Brink,38377,Educational/Research,Global,5-10Gbps,Open,https://as215248.net,Plus,1,200,0.2,37.49.238.214,2001:7f8:54::2:214,True,True,PeeringDB,France-IX Paris
+3177,50620,Blue Networks Technologies,2497,Cable/DSL/ISP,Europe,,Open,https://www.blnt.fr/,Plus,1,200,0.2,37.49.236.74,2001:7f8:54::74,True,True,PeeringDB,France-IX Paris
+5176,59689,Code40,7172,Content,Europe,20-100Mbps,Open,https://www.code40.com,Plus,1,200,0.2,37.49.236.188,2001:7f8:54::188,True,True,PeeringDB,France-IX Paris
+5033,58308,Cusae,6920,Content,Europe,20-100Mbps,Open,https://www.cusae.com,Plus,1,200,0.2,37.49.236.172,2001:7f8:54::172,True,True,PeeringDB,France-IX Paris
+12980,202140,DIRECT INFO SERVICE,16558,NSP,Europe,,Open,http://www.group-dis.com,Plus,1,200,0.2,37.49.237.87,2001:7f8:54::1:87,True,True,PeeringDB,France-IX Paris
+33215,209428,DSCW,24434,Enterprise,Europe,20-50Gbps,Open,https://dscw.io,Plus,1,200,0.2,37.49.238.15,2001:7f8:54::2:15,True,True,PeeringDB,France-IX Paris
+37658,4601,DaKnObNET,20778,Non-Profit,Europe,1-5Gbps,Open,https://daknob.net/,Plus,1,200,0.2,37.49.237.37,2001:7f8:54::1:37,True,True,PeeringDB,France-IX Paris
+31606,209823,Enki Multimedia,33879,Content,Europe,1-5Gbps,Open,https://enki-multimedia.eu,Plus,1,200,0.2,37.49.238.121,2001:7f8:54::2:121,True,True,PeeringDB,France-IX Paris
+5064,197696,Evolix,9574,Enterprise,Europe,100-1000Mbps,Open,https://evolix.com/,Plus,1,200,0.2,37.49.237.58,2001:7f8:54::1:58,True,True,PeeringDB,France-IX Paris
+1486,25152,France-IX Paris,,,,,,,Plus,1,200,0.2,37.49.236.77,2001:7f8:54::77,True,True,PeeringDB,France-IX Paris
+3859,197000,France-IX Paris,,,,,,,Plus,1,200,0.2,37.49.236.176,2001:7f8:54::176,True,True,PeeringDB,France-IX Paris
+27022,35360,France-IX Paris,,,,,,,Plus,1,200,0.2,37.49.236.34,2001:7f8:54::34,True,True,PeeringDB,France-IX Paris
+17004,41044,France-IX Paris,,,,,,,Plus,1,200,0.2,37.49.237.150,2001:7f8:54::1:150,True,True,PeeringDB,France-IX Paris
+20944,45009,France-IX Paris,,,,,,,Plus,1,200,0.2,37.49.238.28,2001:7f8:54::2:28,True,True,PeeringDB,France-IX Paris
+27437,42275,France-IX Paris,,,,,,,Plus,1,200,0.2,37.49.237.204,2001:7f8:54::1:204,True,True,PeeringDB,France-IX Paris
+24664,132337,France-IX Paris,,,,,,,Plus,1,200,0.2,37.49.238.56,2001:7f8:54::2:56,True,True,PeeringDB,France-IX Paris
+4070,31019,France-IX Paris,,,,,,,Plus,1,200,0.2,37.49.238.85,2001:7f8:54::2:85,True,True,PeeringDB,France-IX Paris
+35836,215250,France-IX Paris,,,,,,,Plus,1,200,0.2,,2001:7f8:54::2:129,False,True,PeeringDB,France-IX Paris
+25699,212037,France-IX Paris,,,,,,,Plus,1,200,0.2,37.49.238.132,2001:7f8:54::2:132,True,True,PeeringDB,France-IX Paris
+30053,50414,France-IX Paris,,,,,,,Plus,1,200,0.2,37.49.238.134,2001:7f8:54::2:134,True,True,PeeringDB,France-IX Paris
+5854,60983,France-IX Paris,,,,,,,Plus,1,200,0.2,37.49.238.158,2001:7f8:54::2:158,True,True,PeeringDB,France-IX Paris
+7743,48310,IMS Dynamics,10657,NSP,Europe,,Selective,http://www.ims-dynamics.com,Plus,1,200,0.2,37.49.237.60,2001:7f8:54::1:60,False,True,PeeringDB,France-IX Paris
+41421,209532,INFORMATIQUE MAINTENANCE SERVICES SAS,43169,Cable/DSL/ISP,Global,10-20Gbps,Restrictive,https://opteam-ip.fr,Plus,1,200,0.2,37.49.238.225,2001:7f8:54::2:225,True,True,PeeringDB,France-IX Paris
+28304,8298,IPng Networks GmbH,26870,Network Services,Europe,1-5Gbps,Open,https://ipng.ch/,Plus,1,200,0.2,37.49.238.25,2001:7f8:54::2:25,True,True,PeeringDB,France-IX Paris
+733,9036,Neuronnexion,973,Cable/DSL/ISP,Regional,1-5Gbps,Open,https://www.neuronnexion.coop,Plus,1,200,0.2,37.49.236.104,,True,True,PeeringDB,France-IX Paris
+32966,16101,ORDIPAT,35199,Content,Regional,500-1000Gbps,Selective,https://www.ordipat.fr,Plus,1,200,0.2,37.49.238.84,2001:7f8:54::2:84,True,True,PeeringDB,France-IX Paris
+32666,199116,REZEL,34906,Non-Profit,Not Disclosed,100-1000Mbps,Open,https://rezel.net,Plus,1,200,0.2,37.49.238.92,2001:7f8:54::2:92,True,True,PeeringDB,France-IX Paris
+24015,212895,ROUTE64.ORG,26767,NSP,Global,10-20Gbps,Open,http://www.route64.org,Plus,1,200,0.2,37.49.238.244,2001:7f8:54::2:244,True,True,PeeringDB,France-IX Paris
+38207,206014,RdemSystems,40069,Enterprise,Not Disclosed,,Open,https://www.rdem-systems.com,Plus,1,200,0.2,37.49.238.212,2001:7f8:54::2:212,True,True,PeeringDB,France-IX Paris
+9689,201080,SCANI,13650,Non-Profit,Regional,1-5Gbps,Open,http://www.scani.fr/,Plus,1,200,0.2,37.49.237.73,2001:7f8:54::1:73,True,True,PeeringDB,France-IX Paris
+6316,197551,AMEOS,8706,Content,Regional,20-100Mbps,Open,http://www.ameos.com,Plus,1,100,0.1,37.49.237.21,,False,True,PeeringDB,France-IX Paris
+6702,199396,Association SamesWireless,9687,Non-Profit,Europe,100-1000Mbps,Open,http://www.sameswireless.fr,Plus,1,100,0.1,37.49.236.84,2001:7f8:54::84,False,True,PeeringDB,France-IX Paris
+25568,212232,France-IX Paris,,,,,,,Plus,1,100,0.1,37.49.236.93,2001:7f8:54::93,True,True,PeeringDB,France-IX Paris
+4420,44295,France-IX Paris,,,,,,,Plus,1,100,0.1,37.49.236.130,,False,True,PeeringDB,France-IX Paris
+3979,51405,France-IX Paris,,,,,,,Plus,1,100,0.1,37.49.236.136,2001:7f8:54::136,True,True,PeeringDB,France-IX Paris
+4913,196983,France-IX Paris,,,,,,,Plus,1,100,0.1,37.49.236.222,2001:7f8:54::222,True,True,PeeringDB,France-IX Paris
+4840,2602,France-IX Paris,,,,,,,Plus,1,100,0.1,37.49.236.125,2001:7f8:54::125,True,True,PeeringDB,France-IX Paris
+5323,198290,France-IX Paris,,,,,,,Plus,1,100,0.1,37.49.236.123,2001:7f8:54::123,True,True,PeeringDB,France-IX Paris
+5431,199121,France-IX Paris,,,,,,,Plus,1,100,0.1,37.49.237.82,2001:7f8:54::1:82,False,True,PeeringDB,France-IX Paris
+14256,48519,France-IX Paris,,,,,,,Plus,1,100,0.1,37.49.237.114,2001:7f8:54::1:114,False,True,PeeringDB,France-IX Paris
+7843,53264,France-IX Paris,,,,,,,Plus,1,100,0.1,37.49.236.159,2001:7f8:54::159,True,True,PeeringDB,France-IX Paris
+9124,2613,France-IX Paris,,,,,,,Plus,1,100,0.1,37.49.236.246,2001:7f8:54::246,True,True,PeeringDB,France-IX Paris
+6073,200129,France-IX Paris,,,,,,,Plus,1,100,0.1,37.49.237.13,,True,True,PeeringDB,France-IX Paris
+1660,13002,France-IX Paris,,,,,,,Plus,1,100,0.1,37.49.236.245,2001:7f8:54::245,True,True,PeeringDB,France-IX Paris
+2969,8283,France-IX Paris,,,,,,,Plus,1,100,0.1,37.49.238.29,2001:7f8:54::2:29,True,True,PeeringDB,France-IX Paris
+18100,210036,France-IX Paris,,,,,,,Plus,1,100,0.1,37.49.238.32,2001:7f8:54::2:32,True,True,PeeringDB,France-IX Paris
+27817,210890,France-IX Paris,,,,,,,Plus,1,100,0.1,37.49.238.127,2001:7f8:54::2:127,True,True,PeeringDB,France-IX Paris
+32755,57965,France-IX Paris,,,,,,,Plus,1,100,0.1,37.49.238.176,2001:7f8:54::2:176,True,True,PeeringDB,France-IX Paris
+39768,401690,France-IX Paris,,,,,,,Plus,1,100,0.1,37.49.238.192,2001:7f8:54::2:192,True,True,PeeringDB,France-IX Paris
+29973,210834,France-IX Paris,,,,,,,Plus,1,100,0.1,37.49.238.238,2001:7f8:54::2:238,True,True,PeeringDB,France-IX Paris
+19845,206782,GPLExpert,22884,,Europe,100-1000Mbps,Selective,https://www.gplhost.com,Plus,1,100,0.1,37.49.236.180,2001:7f8:54::180,False,True,PeeringDB,France-IX Paris
+18664,206610,Mixvoip AS206610,23600,NSP,Europe,10-20Gbps,Selective,https://mixvoip.com,Plus,1,100,0.1,37.49.237.238,,False,True,PeeringDB,France-IX Paris
+8412,8310,PacWan,11943,Cable/DSL/ISP,Regional,5-10Gbps,Open,http://www.pacwan.fr,Plus,1,100,0.1,37.49.237.18,,False,True,PeeringDB,France-IX Paris
+20919,39271,France-IX Paris,,,,,,,Plus,1,10,0.01,37.49.237.211,2001:7f8:54::1:211,False,True,PeeringDB,France-IX Paris
+5799,60497,France-IX Paris,,,,,,,Plus,1,0,0.0,37.49.236.163,2001:7f8:54::163,False,True,PeeringDB,France-IX Paris
+3232,51185,France-IX Paris,,,,,,,Plus,1,0,0.0,37.49.236.122,2001:7f8:54::122,True,True,PeeringDB,France-IX Paris
+14967,34422,France-IX Paris,,,,,,,Plus,1,0,0.0,37.49.236.147,2001:7f8:54::147,True,True,PeeringDB,France-IX Paris
+576,32787,France-IX Paris,,,,,,,Plus,1,0,0.0,37.49.237.164,2001:7f8:54::1:164,False,True,PeeringDB,France-IX Paris
+11258,25595,France-IX Paris,,,,,,,Plus,1,0,0.0,37.49.237.133,2001:7f8:54::1:133,True,True,PeeringDB,France-IX Paris
+11217,56630,France-IX Paris,,,,,,,Plus,1,0,0.0,37.49.238.154,2001:7f8:54::2:154,True,True,PeeringDB,France-IX Paris
+41634,20756,Nameshield,42727,Enterprise,Not Disclosed,,Open,https://www.nameshield.com,Plus,1,0,0.0,37.49.238.68,2001:7f8:54::2:68,True,True,PeeringDB,France-IX Paris
+4549,36236,NetActuate,6738,Cable/DSL/ISP,Global,100+Tbps,Open,https://www.netactuate.com,Plus,1,0,0.0,37.49.236.112,2001:7f8:54::112,True,True,PeeringDB,France-IX Paris

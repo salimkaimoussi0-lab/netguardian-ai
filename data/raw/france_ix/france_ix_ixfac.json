@@ -1,0 +1,126 @@
+{
+  "retrieved_at": "2026-10-16T10:09:36.850372+00:00",
+  "records": [
+    {
+      "id": 314,
+      "name": "Telehouse - Paris 2 (Voltaire - Léon Frot)",
+      "city": "Paris",
+      "country": "FR",
+      "ix_id": 359,
+      "fac_id": 53,
+      "created": "2010-07-29T00:00:00Z",
+      "updated": "2016-03-14T20:48:56Z",
+      "status": "ok"
+    },
+    {
+      "id": 317,
+      "name": "Equinix PA7 - Paris, Energy Park",
+      "city": "Paris",
+      "country": "FR",
+      "ix_id": 359,
+      "fac_id": 72,
+      "created": "2010-07-29T00:00:00Z",
+      "updated": "2016-03-14T20:48:56Z",
+      "status": "ok"
+    },
+    {
+      "id": 318,
+      "name": "Digital Realty Paris PAR2",
+      "city": "Paris",
+      "country": "FR",
+      "ix_id": 359,
+      "fac_id": 75,
+      "created": "2010-07-29T00:00:00Z",
+      "updated": "2016-03-14T20:48:56Z",
+      "status": "ok"
+    },
+    {
+      "id": 856,
+      "name": "Telehouse - Paris 3 (Magny)",
+      "city": "Magny-les-Hameaux",
+      "country": "FR",
+      "ix_id": 359,
+      "fac_id": 636,
+      "created": "2015-08-31T00:00:00Z",
+      "updated": "2016-03-14T21:49:35Z",
+      "status": "ok"
+    },
+    {
+      "id": 827,
+      "name": "OPCORE - DC2 / PAR2",
+      "city": "Vitry-sur-Seine",
+      "country": "FR",
+      "ix_id": 359,
+      "fac_id": 655,
+      "created": "2015-06-06T00:00:00Z",
+      "updated": "2016-03-14T20:38:22Z",
+      "status": "ok"
+    },
+    {
+      "id": 319,
+      "name": "Digital Realty Paris PAR5",
+      "city": "Paris",
+      "country": "FR",
+      "ix_id": 359,
+      "fac_id": 714,
+      "created": "2010-07-29T00:00:00Z",
+      "updated": "2016-03-14T20:48:56Z",
+      "status": "ok"
+    },
+    {
+      "id": 7870,
+      "name": "Equinix PA3 - Paris, Saint-Denis",
+      "city": "Paris",
+      "country": "FR",
+      "ix_id": 359,
+      "fac_id": 717,
+      "created": "2026-10-14T13:19:04Z",
+      "updated": "2026-10-14T13:19:04Z",
+      "status": "ok"
+    },
+    {
+      "id": 1321,
+      "name": "Equinix PA6 - Paris, Condorcet",
+      "city": "Paris",
+      "country": "FR",
+      "ix_id": 359,
+      "fac_id": 842,
+      "created": "2017-01-27T11:18:25Z",
+      "updated": "2018-02-13T16:21:40Z",
+      "status": "ok"
+    },
+    {
+      "id": 828,
+      "name": "OPCORE - DC3 / PAR3",
+      "city": "Vitry-sur-Seine",
+      "country": "FR",
+      "ix_id": 359,
+      "fac_id": 1402,
+      "created": "2015-06-06T00:00:00Z",
+      "updated": "2016-03-14T20:25:44Z",
+      "status": "ok"
+    },
+    {
+      "id": 4797,
+      "name": "DATA4 Paris Marcoussis - PAR1",
+      "city": "Marcoussis",
+      "country": "FR",
+      "ix_id": 359,
+      "fac_id": 3342,
+      "created": "2022-09-13T10:14:52Z",
+      "updated": "2022-09-13T10:14:52Z",
+      "status": "ok"
+    },
+    {
+      "id": 7739,
+      "name": "Telehouse - Paris 2 (Voltaire - Léon Frot)",
+      "city": "Paris",
+      "country": "FR",
+      "ix_id": 5040,
+      "fac_id": 53,
+      "created": "2026-07-06T16:02:21Z",
+      "updated": "2026-07-06T16:02:21Z",
+      "status": "ok"
+    }
+  ]
+}

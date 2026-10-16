@@ -1,0 +1,85 @@
+{
+  "messages": [
+    [
+      "info",
+      "Query time has been set to the latest available time (2026-10-16 00:00 UTC)"
+    ]
+  ],
+  "see_also": [],
+  "version": "3.2",
+  "data_call_name": "asn-neighbours",
+  "data_call_status": "supported",
+  "cached": true,
+  "query_id": "20261016111519-ca1f0b8c-38b9-4b81-966e-1139946595be",
+  "process_time": 20,
+  "server_id": "app195",
+  "build_version": "v0.11.23-2026.10.12",
+  "pipeline": "1460464",
+  "status": "ok",
+  "status_code": 200,
+  "time": "2026-10-16T11:15:19.492192",
+  "data": {
+    "resource": "51269",
+    "query_starttime": "2026-10-16T00:00:00",
+    "query_endtime": "2026-10-16T00:00:00",
+    "latest_time": "2026-10-16T00:00:00",
+    "earliest_time": "2019-08-28T00:00:00",
+    "neighbour_counts": {
+      "left": 4,
+      "right": 3,
+      "unique": 6,
+      "uncertain": 0
+    },
+    "neighbours": [
+      {
+        "asn": 174,
+        "type": "left",
+        "power": 168,
+        "v4_peers": 2047,
+        "v6_peers": 50
+      },
+      {
+        "asn": 31221,
+        "type": "left",
+        "power": 276,
+        "v4_peers": 353,
+        "v6_peers": 0
+      },
+      {
+        "asn": 49434,
+        "type": "left",
+        "power": 567,
+        "v4_peers": 5226,
+        "v6_peers": 979
+      },
+      {
+        "asn": 62000,
+        "type": "left",
+        "power": 278,
+        "v4_peers": 4587,
+        "v6_peers": 34
+      },
+      {
+        "asn": 49434,
+        "type": "right",
+        "power": 9,
+        "v4_peers": 9,
+        "v6_peers": 0
+      },
+      {
+        "asn": 56992,
+        "type": "right",
+        "power": 269,
+        "v4_peers": 694,
+        "v6_peers": 0
+      },
+      {
+        "asn": 58065,
+        "type": "right",
+        "power": 253,
+        "v4_peers": 4578,
+        "v6_peers": 0
+      }
+    ]
+  }
+}

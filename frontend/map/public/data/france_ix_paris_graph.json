@@ -1,0 +1,7563 @@
+{
+  "metadata": {
+    "project": "NetGuardian Paris",
+    "retrieved_at": "2026-10-16T10:19:20.081868+00:00",
+    "source": "PeeringDB / France-IX"
+  },
+  "nodes": [
+    {
+      "id": "ix-franceix-paris",
+      "type": "internet_exchange",
+      "name": "France-IX Paris"
+    },
+    {
+      "id": "fac-53",
+      "type": "facility",
+      "name": "Telehouse - Paris 2 (Voltaire - Léon Frot)",
+      "latitude": 48.856654,
+      "longitude": 2.38532
+    },
+    {
+      "id": "fac-72",
+      "type": "facility",
+      "name": "Equinix PA7 - Paris, Energy Park",
+      "latitude": 48.904891,
+      "longitude": 2.259202
+    },
+    {
+      "id": "fac-75",
+      "type": "facility",
+      "name": "Digital Realty Paris PAR2",
+      "latitude": 48.906617,
+      "longitude": 2.370417
+    },
+    {
+      "id": "fac-636",
+      "type": "facility",
+      "name": "Telehouse - Paris 3 (Magny)",
+      "latitude": 48.726927,
+      "longitude": 2.081473
+    },
+    {
+      "id": "fac-655",
+      "type": "facility",
+      "name": "OPCORE - DC2 / PAR2",
+      "latitude": 48.794768,
+      "longitude": 2.411851
+    },
+    {
+      "id": "fac-714",
+      "type": "facility",
+      "name": "Digital Realty Paris PAR5",
+      "latitude": 48.914183,
+      "longitude": 2.362402
+    },
+    {
+      "id": "fac-717",
+      "type": "facility",
+      "name": "Equinix PA3 - Paris, Saint-Denis",
+      "latitude": 48.927166,
+      "longitude": 2.350664
+    },
+    {
+      "id": "fac-842",
+      "type": "facility",
+      "name": "Equinix PA6 - Paris, Condorcet",
+      "latitude": 48.910255,
+      "longitude": 2.368248
+    },
+    {
+      "id": "fac-1402",
+      "type": "facility",
+      "name": "OPCORE - DC3 / PAR3",
+      "latitude": 48.775278,
+      "longitude": 2.379971
+    },
+    {
+      "id": "asn-13335",
+      "type": "autonomous_system",
+      "asn": 13335,
+      "name": "Cloudflare"
+    },
+    {
+      "id": "asn-20940",
+      "type": "autonomous_system",
+      "asn": 20940,
+      "name": "Akamai Technologies"
+    },
+    {
+      "id": "asn-12876",
+      "type": "autonomous_system",
+      "asn": 12876,
+      "name": "Scaleway"
+    },
+    {
+      "id": "asn-62044",
+      "type": "autonomous_system",
+      "asn": 62044,
+      "name": "Zscaler AS62044"
+    },
+    {
+      "id": "asn-62000",
+      "type": "autonomous_system",
+      "asn": 62000,
+      "name": "moji-netrix edge network"
+    },
+    {
+      "id": "asn-16509",
+      "type": "autonomous_system",
+      "asn": 16509,
+      "name": "Amazon.com"
+    },
+    {
+      "id": "asn-5410",
+      "type": "autonomous_system",
+      "asn": 5410,
+      "name": "Bouygues Telecom ISP"
+    },
+    {
+      "id": "asn-30781",
+      "type": "autonomous_system",
+      "asn": 30781,
+      "name": "Free Pro"
+    },
+    {
+      "id": "asn-5405",
+      "type": "autonomous_system",
+      "asn": 5405,
+      "name": "Inter.link"
+    },
+    {
+      "id": "asn-8075",
+      "type": "autonomous_system",
+      "asn": 8075,
+      "name": "Microsoft"
+    },
+    {
+      "id": "asn-16276",
+      "type": "autonomous_system",
+      "asn": 16276,
+      "name": "OVHcloud"
+    },
+    {
+      "id": "asn-16347",
+      "type": "autonomous_system",
+      "asn": 16347,
+      "name": "adista - inherent"
+    },
+    {
+      "id": "asn-55256",
+      "type": "autonomous_system",
+      "asn": 55256,
+      "name": "Netskope"
+    },
+    {
+      "id": "asn-5400",
+      "type": "autonomous_system",
+      "asn": 5400,
+      "name": "BT"
+    },
+    {
+      "id": "asn-714",
+      "type": "autonomous_system",
+      "asn": 714,
+      "name": "Apple Inc."
+    },
+    {
+      "id": "asn-34177",
+      "type": "autonomous_system",
+      "asn": 34177,
+      "name": "CELESTE"
+    },
+    {
+      "id": "asn-13150",
+      "type": "autonomous_system",
+      "asn": 13150,
+      "name": "Cato Networks"
+    },
+    {
+      "id": "asn-8220",
+      "type": "autonomous_system",
+      "asn": 8220,
+      "name": "Colt"
+    },
+    {
+      "id": "asn-54113",
+      "type": "autonomous_system",
+      "asn": 54113,
+      "name": "Fastly, Inc."
+    },
+    {
+      "id": "asn-15830",
+      "type": "autonomous_system",
+      "asn": 15830,
+      "name": "France-IX Paris"
+    },
+    {
+      "id": "asn-39386",
+      "type": "autonomous_system",
+      "asn": 39386,
+      "name": "France-IX Paris"
+    },
+    {
+      "id": "asn-12322",
+      "type": "autonomous_system",
+      "asn": 12322,
+      "name": "Free SAS"
+    },
+    {
+      "id": "asn-31564",
+      "type": "autonomous_system",
+      "asn": 31564,
+      "name": "Hexaglobe"
+    },
+    {
+      "id": "asn-6939",
+      "type": "autonomous_system",
+      "asn": 6939,
+      "name": "Hurricane Electric"
+    },
+    {
+      "id": "asn-44407",
+      "type": "autonomous_system",
+      "asn": 44407,
+      "name": "Linkt"
+    },
+    {
+      "id": "asn-32934",
+      "type": "autonomous_system",
+      "asn": 32934,
+      "name": "Meta"
+    },
+    {
+      "id": "asn-2906",
+      "type": "autonomous_system",
+      "asn": 2906,
+      "name": "Netflix"
+    },
+    {
+      "id": "asn-50624",
+      "type": "autonomous_system",
+      "asn": 50624,
+      "name": "Outscale"
+    },
+    {
+      "id": "asn-22697",
+      "type": "autonomous_system",
+      "asn": 22697,
+      "name": "ROBLOX"
+    },
+    {
+      "id": "asn-15557",
+      "type": "autonomous_system",
+      "asn": 15557,
+      "name": "SFR Group"
+    },
+    {
+      "id": "asn-8399",
+      "type": "autonomous_system",
+      "asn": 8399,
+      "name": "Sewan SAS"
+    },
+    {
+      "id": "asn-45430",
+      "type": "autonomous_system",
+      "asn": 45430,
+      "name": "Advanced Wireless Network Co. Ltd.(IIG)"
+    },
+    {
+      "id": "asn-57734",
+      "type": "autonomous_system",
+      "asn": 57734,
+      "name": "France-IX Paris"
+    },
+    {
+      "id": "asn-39605",
+      "type": "autonomous_system",
+      "asn": 39605,
+      "name": "Iguane Solutions"
+    },
+    {
+      "id": "asn-139341",
+      "type": "autonomous_system",
+      "asn": 139341,
+      "name": "ACE CDN"
+    },
+    {
+      "id": "asn-60171",
+      "type": "autonomous_system",
+      "asn": 60171,
+      "name": "AFR-IX Telecom"
+    },
+    {
+      "id": "asn-45102",
+      "type": "autonomous_system",
+      "asn": 45102,
+      "name": "Alibaba"
+    },
+    {
+      "id": "asn-25540",
+      "type": "autonomous_system",
+      "asn": 25540,
+      "name": "Alphalink"
+    },
+    {
+      "id": "asn-2635",
+      "type": "autonomous_system",
+      "asn": 2635,
+      "name": "Automattic"
+    },
+    {
+      "id": "asn-30972",
+      "type": "autonomous_system",
+      "asn": 30972,
+      "name": "Bedrock"
+    },
+    {
+      "id": "asn-57976",
+      "type": "autonomous_system",
+      "asn": 57976,
+      "name": "Blizzard Entertainment"
+    },
+    {
+      "id": "asn-34659",
+      "type": "autonomous_system",
+      "asn": 34659,
+      "name": "Bouygues Telecom Pro KEYYO"
+    },
+    {
+      "id": "asn-396986",
+      "type": "autonomous_system",
+      "asn": 396986,
+      "name": "ByteDance"
+    },
+    {
+      "id": "asn-23764",
+      "type": "autonomous_system",
+      "asn": 23764,
+      "name": "CTGNet"
+    },
+    {
+      "id": "asn-36692",
+      "type": "autonomous_system",
+      "asn": 36692,
+      "name": "Cisco Umbrella"
+    },
+    {
+      "id": "asn-14537",
+      "type": "autonomous_system",
+      "asn": 14537,
+      "name": "Continent 8 Technologies"
+    },
+    {
+      "id": "asn-33891",
+      "type": "autonomous_system",
+      "asn": 33891,
+      "name": "Core-Backbone"
+    },
+    {
+      "id": "asn-37613",
+      "type": "autonomous_system",
+      "asn": 37613,
+      "name": "DOLPHIN TELECOMMUNICATION LIMITED"
+    },
+    {
+      "id": "asn-19679",
+      "type": "autonomous_system",
+      "asn": 19679,
+      "name": "Dropbox"
+    },
+    {
+      "id": "asn-50124",
+      "type": "autonomous_system",
+      "asn": 50124,
+      "name": "EASIO-COM"
+    },
+    {
+      "id": "asn-35625",
+      "type": "autonomous_system",
+      "asn": 35625,
+      "name": "Eurofiber France"
+    },
+    {
+      "id": "asn-35280",
+      "type": "autonomous_system",
+      "asn": 35280,
+      "name": "F5 Inc."
+    },
+    {
+      "id": "asn-49434",
+      "type": "autonomous_system",
+      "asn": 49434,
+      "name": "FBW Networks"
+    },
+    {
+      "id": "asn-198545",
+      "type": "autonomous_system",
+      "asn": 198545,
+      "name": "FLEX NETWORK"
+    },
+    {
+      "id": "asn-43930",
+      "type": "autonomous_system",
+      "asn": 43930,
+      "name": "FTVDN"
+    },
+    {
+      "id": "asn-8966",
+      "type": "autonomous_system",
+      "asn": 8966,
+      "name": "France-IX Paris"
+    },
+    {
+      "id": "asn-37100",
+      "type": "autonomous_system",
+      "asn": 37100,
+      "name": "France-IX Paris"
+    },
+    {
+      "id": "asn-21215",
+      "type": "autonomous_system",
+      "asn": 21215,
+      "name": "France-IX Paris"
+    },
+    {
+      "id": "asn-29169",
+      "type": "autonomous_system",
+      "asn": 29169,
+      "name": "Gandi"
+    },
+    {
+      "id": "asn-199524",
+      "type": "autonomous_system",
+      "asn": 199524,
+      "name": "Gcore"
+    },
+    {
+      "id": "asn-47608",
+      "type": "autonomous_system",
+      "asn": 47608,
+      "name": "Gigalis"
+    },
+    {
+      "id": "asn-39305",
+      "type": "autonomous_system",
+      "asn": 39305,
+      "name": "Groupe Convergence.com"
+    },
+    {
+      "id": "asn-24940",
+      "type": "autonomous_system",
+      "asn": 24940,
+      "name": "Hetzner Online"
+    },
+    {
+      "id": "asn-34863",
+      "type": "autonomous_system",
+      "asn": 34863,
+      "name": "Hexanet"
+    },
+    {
+      "id": "asn-29283",
+      "type": "autonomous_system",
+      "asn": 29283,
+      "name": "Hub One SA"
+    },
+    {
+      "id": "asn-25369",
+      "type": "autonomous_system",
+      "asn": 25369,
+      "name": "Hydra Communications Ltd (EU)"
+    },
+    {
+      "id": "asn-29075",
+      "type": "autonomous_system",
+      "asn": 29075,
+      "name": "IELO"
+    },
+    {
+      "id": "asn-8560",
+      "type": "autonomous_system",
+      "asn": 8560,
+      "name": "IONOS SE"
+    },
+    {
+      "id": "asn-47957",
+      "type": "autonomous_system",
+      "asn": 47957,
+      "name": "Ingenico Solutions and Transaction Services"
+    },
+    {
+      "id": "asn-215596",
+      "type": "autonomous_system",
+      "asn": 215596,
+      "name": "KISSGROUP SAS"
+    },
+    {
+      "id": "asn-206120",
+      "type": "autonomous_system",
+      "asn": 206120,
+      "name": "KOESIO NETWORKS (KIX)"
+    },
+    {
+      "id": "asn-24904",
+      "type": "autonomous_system",
+      "asn": 24904,
+      "name": "KWAOO, K-NET"
+    },
+    {
+      "id": "asn-50628",
+      "type": "autonomous_system",
+      "asn": 50628,
+      "name": "Leonix Telecom"
+    },
+    {
+      "id": "asn-29467",
+      "type": "autonomous_system",
+      "asn": 29467,
+      "name": "LuxNetwork"
+    },
+    {
+      "id": "asn-64289",
+      "type": "autonomous_system",
+      "asn": 64289,
+      "name": "Macarne - AS64289"
+    },
+    {
+      "id": "asn-57119",
+      "type": "autonomous_system",
+      "asn": 57119,
+      "name": "NAITWAYS SAS"
+    },
+    {
+      "id": "asn-10122",
+      "type": "autonomous_system",
+      "asn": 10122,
+      "name": "NETSTAR"
+    },
+    {
+      "id": "asn-199483",
+      "type": "autonomous_system",
+      "asn": 199483,
+      "name": "NXO France WAN"
+    },
+    {
+      "id": "asn-219062",
+      "type": "autonomous_system",
+      "asn": 219062,
+      "name": "Nera"
+    },
+    {
+      "id": "asn-51468",
+      "type": "autonomous_system",
+      "asn": 51468,
+      "name": "One.com"
+    },
+    {
+      "id": "asn-20562",
+      "type": "autonomous_system",
+      "asn": 20562,
+      "name": "Open Peering"
+    },
+    {
+      "id": "asn-48817",
+      "type": "autonomous_system",
+      "asn": 48817,
+      "name": "PRIZZ TELECOM"
+    },
+    {
+      "id": "asn-201868",
+      "type": "autonomous_system",
+      "asn": 201868,
+      "name": "PROSOLUCE SAS"
+    },
+    {
+      "id": "asn-3920",
+      "type": "autonomous_system",
+      "asn": 3920,
+      "name": "PUSHPKT-OU"
+    },
+    {
+      "id": "asn-53589",
+      "type": "autonomous_system",
+      "asn": 53589,
+      "name": "PlanetHoster"
+    },
+    {
+      "id": "asn-9002",
+      "type": "autonomous_system",
+      "asn": 9002,
+      "name": "RETN"
+    },
+    {
+      "id": "asn-47600",
+      "type": "autonomous_system",
+      "asn": 47600,
+      "name": "RUBIX DATACENTER"
+    },
+    {
+      "id": "asn-6507",
+      "type": "autonomous_system",
+      "asn": 6507,
+      "name": "Riot Games"
+    },
+    {
+      "id": "asn-49690",
+      "type": "autonomous_system",
+      "asn": 49690,
+      "name": "SAINT-GOBAIN"
+    },
+    {
+      "id": "asn-201675",
+      "type": "autonomous_system",
+      "asn": 201675,
+      "name": "Saclak Network"
+    },
+    {
+      "id": "asn-8309",
+      "type": "autonomous_system",
+      "asn": 8309,
+      "name": "Sipartech"
+    },
+    {
+      "id": "asn-33353",
+      "type": "autonomous_system",
+      "asn": 33353,
+      "name": "Sony Interactive Entertainment"
+    },
+    {
+      "id": "asn-198335",
+      "type": "autonomous_system",
+      "asn": 198335,
+      "name": "TRANSATEL EUROPE"
+    },
+    {
+      "id": "asn-57344",
+      "type": "autonomous_system",
+      "asn": 57344,
+      "name": "Telehouse"
+    },
+    {
+      "id": "asn-20473",
+      "type": "autonomous_system",
+      "asn": 20473,
+      "name": "The Constant Company"
+    },
+    {
+      "id": "asn-32590",
+      "type": "autonomous_system",
+      "asn": 32590,
+      "name": "Valve Corporation"
+    },
+    {
+      "id": "asn-12727",
+      "type": "autonomous_system",
+      "asn": 12727,
+      "name": "Vialis Colmar"
+    },
+    {
+      "id": "asn-42487",
+      "type": "autonomous_system",
+      "asn": 42487,
+      "name": "Vialis Moselle"
+    },
+    {
+      "id": "asn-211448",
+      "type": "autonomous_system",
+      "asn": 211448,
+      "name": "WEBCONEX"
+    },
+    {
+      "id": "asn-52075",
+      "type": "autonomous_system",
+      "asn": 52075,
+      "name": "Wifirst"
+    },
+    {
+      "id": "asn-10310",
+      "type": "autonomous_system",
+      "asn": 10310,
+      "name": "Yahoo"
+    },
+    {
+      "id": "asn-6461",
+      "type": "autonomous_system",
+      "asn": 6461,
+      "name": "Zayo"
+    },
+    {
+      "id": "asn-8218",
+      "type": "autonomous_system",
+      "asn": 8218,
+      "name": "Zayo Europe"
+    },
+    {
+      "id": "asn-60132",
+      "type": "autonomous_system",
+      "asn": 60132,
+      "name": "Zoréole Group"
+    },
+    {
+      "id": "asn-49544",
+      "type": "autonomous_system",
+      "asn": 49544,
+      "name": "i3D.net"
+    },
+    {
+      "id": "asn-51154",
+      "type": "autonomous_system",
+      "asn": 51154,
+      "name": "pCloud"
+    },
+    {
+      "id": "asn-57809",
+      "type": "autonomous_system",
+      "asn": 57809,
+      "name": "unyc"
+    },
+    {
+      "id": "asn-212815",
+      "type": "autonomous_system",
+      "asn": 212815,
+      "name": "★ Dyjix SAS"
+    },
+    {
+      "id": "asn-6866",
+      "type": "autonomous_system",
+      "asn": 6866,
+      "name": "France-IX Paris"
+    },
+    {
+      "id": "asn-203724",
+      "type": "autonomous_system",
+      "asn": 203724,
+      "name": "France-IX Paris"
+    },
+    {
+      "id": "asn-6774",
+      "type": "autonomous_system",
+      "asn": 6774,
+      "name": "BICS"
+    },
+    {
+      "id": "asn-59842",
+      "type": "autonomous_system",
+      "asn": 59842,
+      "name": "Believe Digital"
+    },
+    {
+      "id": "asn-8368",
+      "type": "autonomous_system",
+      "asn": 8368,
+      "name": "DSTNY"
+    },
+    {
+      "id": "asn-39801",
+      "type": "autonomous_system",
+      "asn": 39801,
+      "name": "France-IX L3 Services"
+    },
+    {
+      "id": "asn-51706",
+      "type": "autonomous_system",
+      "asn": 51706,
+      "name": "France-IX Paris"
+    },
+    {
+      "id": "asn-203885",
+      "type": "autonomous_system",
+      "asn": 203885,
+      "name": "France-IX Paris"
+    },
+    {
+      "id": "asn-7552",
+      "type": "autonomous_system",
+      "asn": 7552,
+      "name": "France-IX Paris"
+    },
+    {
+      "id": "asn-219524",
+      "type": "autonomous_system",
+      "asn": 219524,
+      "name": "France-IX Paris Essentiel"
+    },
+    {
+      "id": "asn-15169",
+      "type": "autonomous_system",
+      "asn": 15169,
+      "name": "Google LLC"
+    },
+    {
+      "id": "asn-47583",
+      "type": "autonomous_system",
+      "asn": 47583,
+      "name": "Hostinger International"
+    },
+    {
+      "id": "asn-6661",
+      "type": "autonomous_system",
+      "asn": 6661,
+      "name": "Post Group Luxembourg"
+    },
+    {
+      "id": "asn-21859",
+      "type": "autonomous_system",
+      "asn": 21859,
+      "name": "Zenlayer Edge Cloud Network - AS21859"
+    },
+    {
+      "id": "asn-7713",
+      "type": "autonomous_system",
+      "asn": 7713,
+      "name": "France-IX Paris"
+    },
+    {
+      "id": "asn-702",
+      "type": "autonomous_system",
+      "asn": 702,
+      "name": "France-IX Paris"
+    },
+    {
+      "id": "asn-8529",
+      "type": "autonomous_system",
+      "asn": 8529,
+      "name": "France-IX Paris"
+    },
+    {
+      "id": "asn-197205",
+      "type": "autonomous_system",
+      "asn": 197205,
+      "name": "1000mercis"
+    },
+    {
+      "id": "asn-39351",
+      "type": "autonomous_system",
+      "asn": 39351,
+      "name": "31173 Services"
+    },
+    {
+      "id": "asn-57468",
+      "type": "autonomous_system",
+      "asn": 57468,
+      "name": "AZA TELECOM"
+    },
+    {
+      "id": "asn-36864",
+      "type": "autonomous_system",
+      "asn": 36864,
+      "name": "Afribone Mali"
+    },
+    {
+      "id": "asn-205684",
+      "type": "autonomous_system",
+      "asn": 205684,
+      "name": "Algathia"
+    },
+    {
+      "id": "asn-24429",
+      "type": "autonomous_system",
+      "asn": 24429,
+      "name": "Alibaba Cloud CDN"
+    },
+    {
+      "id": "asn-211113",
+      "type": "autonomous_system",
+      "asn": 211113,
+      "name": "BDF"
+    },
+    {
+      "id": "asn-42845",
+      "type": "autonomous_system",
+      "asn": 42845,
+      "name": "Bretagne Telecom"
+    },
+    {
+      "id": "asn-21351",
+      "type": "autonomous_system",
+      "asn": 21351,
+      "name": "Canal+ Telecom"
+    },
+    {
+      "id": "asn-58453",
+      "type": "autonomous_system",
+      "asn": 58453,
+      "name": "China Mobile International"
+    },
+    {
+      "id": "asn-8426",
+      "type": "autonomous_system",
+      "asn": 8426,
+      "name": "Claranet"
+    },
+    {
+      "id": "asn-33930",
+      "type": "autonomous_system",
+      "asn": 33930,
+      "name": "Cloud Temple"
+    },
+    {
+      "id": "asn-39781",
+      "type": "autonomous_system",
+      "asn": 39781,
+      "name": "Diabolocom"
+    },
+    {
+      "id": "asn-1301",
+      "type": "autonomous_system",
+      "asn": 1301,
+      "name": "EDF Group"
+    },
+    {
+      "id": "asn-8304",
+      "type": "autonomous_system",
+      "asn": 8304,
+      "name": "Ecritel"
+    },
+    {
+      "id": "asn-29286",
+      "type": "autonomous_system",
+      "asn": 29286,
+      "name": "Eutelsat - Skylogic"
+    },
+    {
+      "id": "asn-15695",
+      "type": "autonomous_system",
+      "asn": 15695,
+      "name": "Expereo International bv"
+    },
+    {
+      "id": "asn-13285",
+      "type": "autonomous_system",
+      "asn": 13285,
+      "name": "France-IX Paris"
+    },
+    {
+      "id": "asn-20485",
+      "type": "autonomous_system",
+      "asn": 20485,
+      "name": "France-IX Paris"
+    },
+    {
+      "id": "asn-12400",
+      "type": "autonomous_system",
+      "asn": 12400,
+      "name": "France-IX Paris"
+    },
+    {
+      "id": "asn-25215",
+      "type": "autonomous_system",
+      "asn": 25215,
+      "name": "France-IX Paris"
+    },
+    {
+      "id": "asn-2686",
+      "type": "autonomous_system",
+      "asn": 2686,
+      "name": "France-IX Paris"
+    },
+    {
+      "id": "asn-3299",
+      "type": "autonomous_system",
+      "asn": 3299,
+      "name": "France-IX Paris"
+    },
+    {
+      "id": "asn-203554",
+      "type": "autonomous_system",
+      "asn": 203554,
+      "name": "France-IX Paris"
+    },
+    {
+      "id": "asn-8346",
+      "type": "autonomous_system",
+      "asn": 8346,
+      "name": "France-IX Paris"
+    },
+    {
+      "id": "asn-39899",
+      "type": "autonomous_system",
+      "asn": 39899,
+      "name": "France-IX Paris"
+    },
+    {
+      "id": "asn-201647",
+      "type": "autonomous_system",
+      "asn": 201647,
+      "name": "France-IX Paris"
+    },
+    {
+      "id": "asn-35432",
+      "type": "autonomous_system",
+      "asn": 35432,
+      "name": "France-IX Paris"
+    },
+    {
+      "id": "asn-35676",
+      "type": "autonomous_system",
+      "asn": 35676,
+      "name": "Groupe La Poste France"
+    },
+    {
+      "id": "asn-136907",
+      "type": "autonomous_system",
+      "asn": 136907,
+      "name": "Huawei Cloud Global"
+    },
+    {
+      "id": "asn-25091",
+      "type": "autonomous_system",
+      "asn": 25091,
+      "name": "IP-Max SA"
+    },
+    {
+      "id": "asn-21409",
+      "type": "autonomous_system",
+      "asn": 21409,
+      "name": "Ikoula"
+    },
+    {
+      "id": "asn-24776",
+      "type": "autonomous_system",
+      "asn": 24776,
+      "name": "Infoclip"
+    },
+    {
+      "id": "asn-16189",
+      "type": "autonomous_system",
+      "asn": 16189,
+      "name": "KLEE"
+    },
+    {
+      "id": "asn-2027",
+      "type": "autonomous_system",
+      "asn": 2027,
+      "name": "MilkyWan"
+    },
+    {
+      "id": "asn-6758",
+      "type": "autonomous_system",
+      "asn": 6758,
+      "name": "Monaco Telecom"
+    },
+    {
+      "id": "asn-48305",
+      "type": "autonomous_system",
+      "asn": 48305,
+      "name": "Noraina"
+    },
+    {
+      "id": "asn-37693",
+      "type": "autonomous_system",
+      "asn": 37693,
+      "name": "Ooredoo Tunisia"
+    },
+    {
+      "id": "asn-41114",
+      "type": "autonomous_system",
+      "asn": 41114,
+      "name": "Orne THD"
+    },
+    {
+      "id": "asn-216239",
+      "type": "autonomous_system",
+      "asn": 216239,
+      "name": "PRINTEMPS"
+    },
+    {
+      "id": "asn-56665",
+      "type": "autonomous_system",
+      "asn": 56665,
+      "name": "Proximus Luxembourg"
+    },
+    {
+      "id": "asn-2200",
+      "type": "autonomous_system",
+      "asn": 2200,
+      "name": "RENATER"
+    },
+    {
+      "id": "asn-37002",
+      "type": "autonomous_system",
+      "asn": 37002,
+      "name": "REUNICABLE SAS"
+    },
+    {
+      "id": "asn-35661",
+      "type": "autonomous_system",
+      "asn": 35661,
+      "name": "VIRTUASYS.EU"
+    },
+    {
+      "id": "asn-51826",
+      "type": "autonomous_system",
+      "asn": 51826,
+      "name": "evroc"
+    },
+    {
+      "id": "asn-54994",
+      "type": "autonomous_system",
+      "asn": 54994,
+      "name": "meteversecloud"
+    },
+    {
+      "id": "asn-8400",
+      "type": "autonomous_system",
+      "asn": 8400,
+      "name": "France-IX Paris"
+    },
+    {
+      "id": "asn-197981",
+      "type": "autonomous_system",
+      "asn": 197981,
+      "name": "InterCloud"
+    },
+    {
+      "id": "asn-47866",
+      "type": "autonomous_system",
+      "asn": 47866,
+      "name": "iBrowse SARL"
+    },
+    {
+      "id": "asn-16128",
+      "type": "autonomous_system",
+      "asn": 16128,
+      "name": "AGARIK"
+    },
+    {
+      "id": "asn-47833",
+      "type": "autonomous_system",
+      "asn": 47833,
+      "name": "AGORA CALYCE"
+    },
+    {
+      "id": "asn-56987",
+      "type": "autonomous_system",
+      "asn": 56987,
+      "name": "Abaclouda"
+    },
+    {
+      "id": "asn-41652",
+      "type": "autonomous_system",
+      "asn": 41652,
+      "name": "Acrib - Asolta - SHPV"
+    },
+    {
+      "id": "asn-35793",
+      "type": "autonomous_system",
+      "asn": 35793,
+      "name": "Acronis EMEA"
+    },
+    {
+      "id": "asn-43142",
+      "type": "autonomous_system",
+      "asn": 43142,
+      "name": "Adeli"
+    },
+    {
+      "id": "asn-213432",
+      "type": "autonomous_system",
+      "asn": 213432,
+      "name": "Aevoo"
+    },
+    {
+      "id": "asn-13273",
+      "type": "autonomous_system",
+      "asn": 13273,
+      "name": "Alter Way - OPS"
+    },
+    {
+      "id": "asn-42473",
+      "type": "autonomous_system",
+      "asn": 42473,
+      "name": "Anexia"
+    },
+    {
+      "id": "asn-41653",
+      "type": "autonomous_system",
+      "asn": 41653,
+      "name": "Aqua Ray"
+    },
+    {
+      "id": "asn-211882",
+      "type": "autonomous_system",
+      "asn": 211882,
+      "name": "Aquilenet Paris"
+    },
+    {
+      "id": "asn-42929",
+      "type": "autonomous_system",
+      "asn": 42929,
+      "name": "Artefact - Artewan"
+    },
+    {
+      "id": "asn-20766",
+      "type": "autonomous_system",
+      "asn": 20766,
+      "name": "Association Gitoyen"
+    },
+    {
+      "id": "asn-211733",
+      "type": "autonomous_system",
+      "asn": 211733,
+      "name": "Atlas IP"
+    },
+    {
+      "id": "asn-31167",
+      "type": "autonomous_system",
+      "asn": 31167,
+      "name": "Axione"
+    },
+    {
+      "id": "asn-4455",
+      "type": "autonomous_system",
+      "asn": 4455,
+      "name": "BSO"
+    },
+    {
+      "id": "asn-55195",
+      "type": "autonomous_system",
+      "asn": 55195,
+      "name": "CIRA-CLOUD1"
+    },
+    {
+      "id": "asn-199660",
+      "type": "autonomous_system",
+      "asn": 199660,
+      "name": "Cloudata"
+    },
+    {
+      "id": "asn-44097",
+      "type": "autonomous_system",
+      "asn": 44097,
+      "name": "Clément Cavadore"
+    },
+    {
+      "id": "asn-12826",
+      "type": "autonomous_system",
+      "asn": 12826,
+      "name": "Cyllene"
+    },
+    {
+      "id": "asn-49028",
+      "type": "autonomous_system",
+      "asn": 49028,
+      "name": "D-LAKE AS49028"
+    },
+    {
+      "id": "asn-6738",
+      "type": "autonomous_system",
+      "asn": 6738,
+      "name": "DRI"
+    },
+    {
+      "id": "asn-16080",
+      "type": "autonomous_system",
+      "asn": 16080,
+      "name": "Dalenys"
+    },
+    {
+      "id": "asn-50446",
+      "type": "autonomous_system",
+      "asn": 50446,
+      "name": "Datacampus"
+    },
+    {
+      "id": "asn-44141",
+      "type": "autonomous_system",
+      "asn": 44141,
+      "name": "Devclic"
+    },
+    {
+      "id": "asn-16552",
+      "type": "autonomous_system",
+      "asn": 16552,
+      "name": "DigiCert DNS"
+    },
+    {
+      "id": "asn-49584",
+      "type": "autonomous_system",
+      "asn": 49584,
+      "name": "EASYTEAM (ex DATAXION)"
+    },
+    {
+      "id": "asn-15412",
+      "type": "autonomous_system",
+      "asn": 15412,
+      "name": "FLAG Telecom"
+    },
+    {
+      "id": "asn-6775",
+      "type": "autonomous_system",
+      "asn": 6775,
+      "name": "Fink Telecom Services GmbH"
+    },
+    {
+      "id": "asn-49920",
+      "type": "autonomous_system",
+      "asn": 49920,
+      "name": "Flowbird"
+    },
+    {
+      "id": "asn-29513",
+      "type": "autonomous_system",
+      "asn": 29513,
+      "name": "Foliateam"
+    },
+    {
+      "id": "asn-44444",
+      "type": "autonomous_system",
+      "asn": 44444,
+      "name": "Forcepoint Cloud"
+    },
+    {
+      "id": "asn-28855",
+      "type": "autonomous_system",
+      "asn": 28855,
+      "name": "France-IX Paris"
+    },
+    {
+      "id": "asn-8632",
+      "type": "autonomous_system",
+      "asn": 8632,
+      "name": "France-IX Paris"
+    },
+    {
+      "id": "asn-15547",
+      "type": "autonomous_system",
+      "asn": 15547,
+      "name": "France-IX Paris"
+    },
+    {
+      "id": "asn-197422",
+      "type": "autonomous_system",
+      "asn": 197422,
+      "name": "France-IX Paris"
+    },
+    {
+      "id": "asn-39636",
+      "type": "autonomous_system",
+      "asn": 39636,
+      "name": "France-IX Paris"
+    },
+    {
+      "id": "asn-41090",
+      "type": "autonomous_system",
+      "asn": 41090,
+      "name": "France-IX Paris"
+    },
+    {
+      "id": "asn-50812",
+      "type": "autonomous_system",
+      "asn": 50812,
+      "name": "France-IX Paris"
+    },
+    {
+      "id": "asn-30990",
+      "type": "autonomous_system",
+      "asn": 30990,
+      "name": "France-IX Paris"
+    },
+    {
+      "id": "asn-8674",
+      "type": "autonomous_system",
+      "asn": 8674,
+      "name": "France-IX Paris"
+    },
+    {
+      "id": "asn-41405",
+      "type": "autonomous_system",
+      "asn": 41405,
+      "name": "France-IX Paris"
+    },
+    {
+      "id": "asn-198385",
+      "type": "autonomous_system",
+      "asn": 198385,
+      "name": "France-IX Paris"
+    },
+    {
+      "id": "asn-34572",
+      "type": "autonomous_system",
+      "asn": 34572,
+      "name": "France-IX Paris"
+    },
+    {
+      "id": "asn-57642",
+      "type": "autonomous_system",
+      "asn": 57642,
+      "name": "France-IX Paris"
+    },
+    {
+      "id": "asn-42411",
+      "type": "autonomous_system",
+      "asn": 42411,
+      "name": "France-IX Paris"
+    },
+    {
+      "id": "asn-20764",
+      "type": "autonomous_system",
+      "asn": 20764,
+      "name": "France-IX Paris"
+    },
+    {
+      "id": "asn-12684",
+      "type": "autonomous_system",
+      "asn": 12684,
+      "name": "France-IX Paris"
+    },
+    {
+      "id": "asn-202321",
+      "type": "autonomous_system",
+      "asn": 202321,
+      "name": "France-IX Paris"
+    },
+    {
+      "id": "asn-61955",
+      "type": "autonomous_system",
+      "asn": 61955,
+      "name": "France-IX Paris"
+    },
+    {
+      "id": "asn-26415",
+      "type": "autonomous_system",
+      "asn": 26415,
+      "name": "France-IX Paris"
+    },
+    {
+      "id": "asn-39533",
+      "type": "autonomous_system",
+      "asn": 39533,
+      "name": "France-IX Paris"
+    },
+    {
+      "id": "asn-20804",
+      "type": "autonomous_system",
+      "asn": 20804,
+      "name": "France-IX Paris"
+    },
+    {
+      "id": "asn-210232",
+      "type": "autonomous_system",
+      "asn": 210232,
+      "name": "France-IX Paris"
+    },
+    {
+      "id": "asn-48702",
+      "type": "autonomous_system",
+      "asn": 48702,
+      "name": "France-IX Paris"
+    },
+    {
+      "id": "asn-199758",
+      "type": "autonomous_system",
+      "asn": 199758,
+      "name": "France-IX Paris"
+    },
+    {
+      "id": "asn-205010",
+      "type": "autonomous_system",
+      "asn": 205010,
+      "name": "France-IX Paris"
+    },
+    {
+      "id": "asn-209097",
+      "type": "autonomous_system",
+      "asn": 209097,
+      "name": "France-IX Paris"
+    },
+    {
+      "id": "asn-24611",
+      "type": "autonomous_system",
+      "asn": 24611,
+      "name": "France-IX Paris"
+    },
+    {
+      "id": "asn-45899",
+      "type": "autonomous_system",
+      "asn": 45899,
+      "name": "France-IX Paris"
+    },
+    {
+      "id": "asn-41327",
+      "type": "autonomous_system",
+      "asn": 41327,
+      "name": "France-IX Paris"
+    },
+    {
+      "id": "asn-42369",
+      "type": "autonomous_system",
+      "asn": 42369,
+      "name": "France-IX Paris"
+    },
+    {
+      "id": "asn-204403",
+      "type": "autonomous_system",
+      "asn": 204403,
+      "name": "France-IX Paris"
+    },
+    {
+      "id": "asn-48237",
+      "type": "autonomous_system",
+      "asn": 48237,
+      "name": "France-IX Paris"
+    },
+    {
+      "id": "asn-35598",
+      "type": "autonomous_system",
+      "asn": 35598,
+      "name": "France-IX Paris"
+    },
+    {
+      "id": "asn-206059",
+      "type": "autonomous_system",
+      "asn": 206059,
+      "name": "France-IX Paris"
+    },
+    {
+      "id": "asn-208414",
+      "type": "autonomous_system",
+      "asn": 208414,
+      "name": "France-IX Paris"
+    },
+    {
+      "id": "asn-6752",
+      "type": "autonomous_system",
+      "asn": 6752,
+      "name": "France-IX Paris"
+    },
+    {
+      "id": "asn-34927",
+      "type": "autonomous_system",
+      "asn": 34927,
+      "name": "France-IX Paris"
+    },
+    {
+      "id": "asn-40934",
+      "type": "autonomous_system",
+      "asn": 40934,
+      "name": "France-IX Paris"
+    },
+    {
+      "id": "asn-214708",
+      "type": "autonomous_system",
+      "asn": 214708,
+      "name": "France-IX Paris"
+    },
+    {
+      "id": "asn-210165",
+      "type": "autonomous_system",
+      "asn": 210165,
+      "name": "France-IX Paris"
+    },
+    {
+      "id": "asn-213317",
+      "type": "autonomous_system",
+      "asn": 213317,
+      "name": "France-IX Paris"
+    },
+    {
+      "id": "asn-21056",
+      "type": "autonomous_system",
+      "asn": 21056,
+      "name": "France-IX Paris"
+    },
+    {
+      "id": "asn-31638",
+      "type": "autonomous_system",
+      "asn": 31638,
+      "name": "France-IX Paris"
+    },
+    {
+      "id": "asn-10099",
+      "type": "autonomous_system",
+      "asn": 10099,
+      "name": "France-IX Paris"
+    },
+    {
+      "id": "asn-199839",
+      "type": "autonomous_system",
+      "asn": 199839,
+      "name": "France-IX Paris"
+    },
+    {
+      "id": "asn-206720",
+      "type": "autonomous_system",
+      "asn": 206720,
+      "name": "France-IX Paris"
+    },
+    {
+      "id": "asn-208420",
+      "type": "autonomous_system",
+      "asn": 208420,
+      "name": "France-IX Paris"
+    },
+    {
+      "id": "asn-9299",
+      "type": "autonomous_system",
+      "asn": 9299,
+      "name": "France-IX Paris"
+    },
+    {
+      "id": "asn-204279",
+      "type": "autonomous_system",
+      "asn": 204279,
+      "name": "France-IX Paris"
+    },
+    {
+      "id": "asn-203683",
+      "type": "autonomous_system",
+      "asn": 203683,
+      "name": "France-IX Paris"
+    },
+    {
+      "id": "asn-209323",
+      "type": "autonomous_system",
+      "asn": 209323,
+      "name": "Geneanet"
+    },
+    {
+      "id": "asn-51269",
+      "type": "autonomous_system",
+      "asn": 51269,
+      "name": "Hexatom"
+    },
+    {
+      "id": "asn-34019",
+      "type": "autonomous_system",
+      "asn": 34019,
+      "name": "Hivane"
+    },
+    {
+      "id": "asn-49121",
+      "type": "autonomous_system",
+      "asn": 49121,
+      "name": "IN8INITY EU"
+    },
+    {
+      "id": "asn-21247",
+      "type": "autonomous_system",
+      "asn": 21247,
+      "name": "IP SYNERGIES"
+    },
+    {
+      "id": "asn-39931",
+      "type": "autonomous_system",
+      "asn": 39931,
+      "name": "IPTelecom"
+    },
+    {
+      "id": "asn-12779",
+      "type": "autonomous_system",
+      "asn": 12779,
+      "name": "IT.Gate"
+    },
+    {
+      "id": "asn-13030",
+      "type": "autonomous_system",
+      "asn": 13030,
+      "name": "Init7"
+    },
+    {
+      "id": "asn-8723",
+      "type": "autonomous_system",
+      "asn": 8723,
+      "name": "Integra"
+    },
+    {
+      "id": "asn-20900",
+      "type": "autonomous_system",
+      "asn": 20900,
+      "name": "InterMeDiaSud"
+    },
+    {
+      "id": "asn-210732",
+      "type": "autonomous_system",
+      "asn": 210732,
+      "name": "Kamatari Online"
+    },
+    {
+      "id": "asn-216302",
+      "type": "autonomous_system",
+      "asn": 216302,
+      "name": "Kaminot"
+    },
+    {
+      "id": "asn-49763",
+      "type": "autonomous_system",
+      "asn": 49763,
+      "name": "Leboncoin"
+    },
+    {
+      "id": "asn-197133",
+      "type": "autonomous_system",
+      "asn": 197133,
+      "name": "MEDIACTIVE NETWORK FR-EU"
+    },
+    {
+      "id": "asn-35393",
+      "type": "autonomous_system",
+      "asn": 35393,
+      "name": "Magic OnLine"
+    },
+    {
+      "id": "asn-203547",
+      "type": "autonomous_system",
+      "asn": 203547,
+      "name": "NEXT2i"
+    },
+    {
+      "id": "asn-199248",
+      "type": "autonomous_system",
+      "asn": 199248,
+      "name": "NUMLOG"
+    },
+    {
+      "id": "asn-44000",
+      "type": "autonomous_system",
+      "asn": 44000,
+      "name": "Net1C"
+    },
+    {
+      "id": "asn-20565",
+      "type": "autonomous_system",
+      "asn": 20565,
+      "name": "Netalis"
+    },
+    {
+      "id": "asn-35426",
+      "type": "autonomous_system",
+      "asn": 35426,
+      "name": "Nextmap"
+    },
+    {
+      "id": "asn-29608",
+      "type": "autonomous_system",
+      "asn": 29608,
+      "name": "OVEA"
+    },
+    {
+      "id": "asn-39104",
+      "type": "autonomous_system",
+      "asn": 39104,
+      "name": "OXEVA"
+    },
+    {
+      "id": "asn-15401",
+      "type": "autonomous_system",
+      "asn": 15401,
+      "name": "Orange Business - La Fabrique"
+    },
+    {
+      "id": "asn-39444",
+      "type": "autonomous_system",
+      "asn": 39444,
+      "name": "Owentis"
+    },
+    {
+      "id": "asn-212321",
+      "type": "autonomous_system",
+      "asn": 212321,
+      "name": "PC A LA CARTE"
+    },
+    {
+      "id": "asn-42",
+      "type": "autonomous_system",
+      "asn": 42,
+      "name": "PCH AS42"
+    },
+    {
+      "id": "asn-48732",
+      "type": "autonomous_system",
+      "asn": 48732,
+      "name": "PEERES-TELECOM"
+    },
+    {
+      "id": "asn-205845",
+      "type": "autonomous_system",
+      "asn": 205845,
+      "name": "PLANISWARE EUROPE"
+    },
+    {
+      "id": "asn-15422",
+      "type": "autonomous_system",
+      "asn": 15422,
+      "name": "PPR"
+    },
+    {
+      "id": "asn-200653",
+      "type": "autonomous_system",
+      "asn": 200653,
+      "name": "PROVECTIO"
+    },
+    {
+      "id": "asn-8487",
+      "type": "autonomous_system",
+      "asn": 8487,
+      "name": "Phibee Telecom"
+    },
+    {
+      "id": "asn-198507",
+      "type": "autonomous_system",
+      "asn": 198507,
+      "name": "Quantic Telecom"
+    },
+    {
+      "id": "asn-12850",
+      "type": "autonomous_system",
+      "asn": 12850,
+      "name": "Retelit S.p.A. (formerly Enter)"
+    },
+    {
+      "id": "asn-8801",
+      "type": "autonomous_system",
+      "asn": 8801,
+      "name": "Rocket Fibre (AS8801)"
+    },
+    {
+      "id": "asn-198034",
+      "type": "autonomous_system",
+      "asn": 198034,
+      "name": "SENSOTELECOM"
+    },
+    {
+      "id": "asn-24482",
+      "type": "autonomous_system",
+      "asn": 24482,
+      "name": "SG.GS"
+    },
+    {
+      "id": "asn-14340",
+      "type": "autonomous_system",
+      "asn": 14340,
+      "name": "Salesforce.com"
+    },
+    {
+      "id": "asn-206002",
+      "type": "autonomous_system",
+      "asn": 206002,
+      "name": "Scalair SAS"
+    },
+    {
+      "id": "asn-8839",
+      "type": "autonomous_system",
+      "asn": 8839,
+      "name": "SdV"
+    },
+    {
+      "id": "asn-198551",
+      "type": "autonomous_system",
+      "asn": 198551,
+      "name": "Societe Atlantique de Telephonie et Communication SARL"
+    },
+    {
+      "id": "asn-58511",
+      "type": "autonomous_system",
+      "asn": 58511,
+      "name": "Swoop"
+    },
+    {
+      "id": "asn-8554",
+      "type": "autonomous_system",
+      "asn": 8554,
+      "name": "TAS France"
+    },
+    {
+      "id": "asn-37054",
+      "type": "autonomous_system",
+      "asn": 37054,
+      "name": "TELMA"
+    },
+    {
+      "id": "asn-50903",
+      "type": "autonomous_system",
+      "asn": 50903,
+      "name": "TRINAPS"
+    },
+    {
+      "id": "asn-197922",
+      "type": "autonomous_system",
+      "asn": 197922,
+      "name": "Techcrea Solutions"
+    },
+    {
+      "id": "asn-4637",
+      "type": "autonomous_system",
+      "asn": 4637,
+      "name": "Telstra (International)"
+    },
+    {
+      "id": "asn-29104",
+      "type": "autonomous_system",
+      "asn": 29104,
+      "name": "Thales Services Numériques"
+    },
+    {
+      "id": "asn-19551",
+      "type": "autonomous_system",
+      "asn": 19551,
+      "name": "Thales/Imperva"
+    },
+    {
+      "id": "asn-24691",
+      "type": "autonomous_system",
+      "asn": 24691,
+      "name": "Togocom"
+    },
+    {
+      "id": "asn-12409",
+      "type": "autonomous_system",
+      "asn": 12409,
+      "name": "Trustteam"
+    },
+    {
+      "id": "asn-215234",
+      "type": "autonomous_system",
+      "asn": 215234,
+      "name": "UBIZWAN"
+    },
+    {
+      "id": "asn-1828",
+      "type": "autonomous_system",
+      "asn": 1828,
+      "name": "Unitas Global"
+    },
+    {
+      "id": "asn-205344",
+      "type": "autonomous_system",
+      "asn": 205344,
+      "name": "Unixo"
+    },
+    {
+      "id": "asn-35600",
+      "type": "autonomous_system",
+      "asn": 35600,
+      "name": "Vedege"
+    },
+    {
+      "id": "asn-60350",
+      "type": "autonomous_system",
+      "asn": 60350,
+      "name": "Veepee (former VENTE-PRIVEE.COM)"
+    },
+    {
+      "id": "asn-37721",
+      "type": "autonomous_system",
+      "asn": 37721,
+      "name": "Virtual Technologies and Solutions"
+    },
+    {
+      "id": "asn-25160",
+      "type": "autonomous_system",
+      "asn": 25160,
+      "name": "Vorboss Limited"
+    },
+    {
+      "id": "asn-51326",
+      "type": "autonomous_system",
+      "asn": 51326,
+      "name": "W3TEL"
+    },
+    {
+      "id": "asn-56911",
+      "type": "autonomous_system",
+      "asn": 56911,
+      "name": "WARIAN"
+    },
+    {
+      "id": "asn-43858",
+      "type": "autonomous_system",
+      "asn": 43858,
+      "name": "Webaxys"
+    },
+    {
+      "id": "asn-13237",
+      "type": "autonomous_system",
+      "asn": 13237,
+      "name": "euNetworks Group"
+    },
+    {
+      "id": "asn-200748",
+      "type": "autonomous_system",
+      "asn": 200748,
+      "name": "grandorlyseinebievre"
+    },
+    {
+      "id": "asn-62119",
+      "type": "autonomous_system",
+      "asn": 62119,
+      "name": "root.fr"
+    },
+    {
+      "id": "asn-39120",
+      "type": "autonomous_system",
+      "asn": 39120,
+      "name": "France-IX Paris"
+    },
+    {
+      "id": "asn-328107",
+      "type": "autonomous_system",
+      "asn": 328107,
+      "name": "GUILAB"
+    },
+    {
+      "id": "asn-206342",
+      "type": "autonomous_system",
+      "asn": 206342,
+      "name": "Air Liquide IT"
+    },
+    {
+      "id": "asn-6057",
+      "type": "autonomous_system",
+      "asn": 6057,
+      "name": "France-IX Paris"
+    },
+    {
+      "id": "asn-48213",
+      "type": "autonomous_system",
+      "asn": 48213,
+      "name": "ABICOM"
+    },
+    {
+      "id": "asn-49463",
+      "type": "autonomous_system",
+      "asn": 49463,
+      "name": "France-IX Paris"
+    },
+    {
+      "id": "asn-204207",
+      "type": "autonomous_system",
+      "asn": 204207,
+      "name": "France-IX Paris"
+    },
+    {
+      "id": "asn-15826",
+      "type": "autonomous_system",
+      "asn": 15826,
+      "name": "France-IX Paris"
+    },
+    {
+      "id": "asn-34781",
+      "type": "autonomous_system",
+      "asn": 34781,
+      "name": "France-IX Paris"
+    },
+    {
+      "id": "asn-3225",
+      "type": "autonomous_system",
+      "asn": 3225,
+      "name": "France-IX Paris"
+    },
+    {
+      "id": "asn-201228",
+      "type": "autonomous_system",
+      "asn": 201228,
+      "name": "France-IX Paris"
+    },
+    {
+      "id": "asn-37529",
+      "type": "autonomous_system",
+      "asn": 37529,
+      "name": "Gestor de Infraestructuras de Telecomunicaciones de Guinea Ecuatorial"
+    },
+    {
+      "id": "asn-61205",
+      "type": "autonomous_system",
+      "asn": 61205,
+      "name": "INFOMIL"
+    },
+    {
+      "id": "asn-42687",
+      "type": "autonomous_system",
+      "asn": 42687,
+      "name": "IzarLink"
+    },
+    {
+      "id": "asn-39180",
+      "type": "autonomous_system",
+      "asn": 39180,
+      "name": "LASOTEL"
+    },
+    {
+      "id": "asn-205555",
+      "type": "autonomous_system",
+      "asn": 205555,
+      "name": "VSC Technologies"
+    },
+    {
+      "id": "asn-39072",
+      "type": "autonomous_system",
+      "asn": 39072,
+      "name": "Axess OWS"
+    },
+    {
+      "id": "asn-16363",
+      "type": "autonomous_system",
+      "asn": 16363,
+      "name": "Axialys"
+    },
+    {
+      "id": "asn-201808",
+      "type": "autonomous_system",
+      "asn": 201808,
+      "name": "Blue Infra"
+    },
+    {
+      "id": "asn-8565",
+      "type": "autonomous_system",
+      "asn": 8565,
+      "name": "BlueGIX"
+    },
+    {
+      "id": "asn-9153",
+      "type": "autonomous_system",
+      "asn": 9153,
+      "name": "Burstfire Networks Ltd"
+    },
+    {
+      "id": "asn-58011",
+      "type": "autonomous_system",
+      "asn": 58011,
+      "name": "CHEOPS TECHNOLOGY FRANCE S.A."
+    },
+    {
+      "id": "asn-25428",
+      "type": "autonomous_system",
+      "asn": 25428,
+      "name": "Colruyt Group Services"
+    },
+    {
+      "id": "asn-44902",
+      "type": "autonomous_system",
+      "asn": 44902,
+      "name": "Covage Networks"
+    },
+    {
+      "id": "asn-327814",
+      "type": "autonomous_system",
+      "asn": 327814,
+      "name": "Ecoband"
+    },
+    {
+      "id": "asn-2484",
+      "type": "autonomous_system",
+      "asn": 2484,
+      "name": "FR-NIC-DNS-ANYCAST (AFNIC > NIC-FR > Anycast DNS)"
+    },
+    {
+      "id": "asn-2486",
+      "type": "autonomous_system",
+      "asn": 2486,
+      "name": "FR-NIC-DNS-UNICAST (AFNIC > NIC-FR > Unicast DNS)"
+    },
+    {
+      "id": "asn-15436",
+      "type": "autonomous_system",
+      "asn": 15436,
+      "name": "France-IX Paris"
+    },
+    {
+      "id": "asn-25593",
+      "type": "autonomous_system",
+      "asn": 25593,
+      "name": "France-IX Paris"
+    },
+    {
+      "id": "asn-21101",
+      "type": "autonomous_system",
+      "asn": 21101,
+      "name": "France-IX Paris"
+    },
+    {
+      "id": "asn-9583",
+      "type": "autonomous_system",
+      "asn": 9583,
+      "name": "France-IX Paris"
+    },
+    {
+      "id": "asn-3856",
+      "type": "autonomous_system",
+      "asn": 3856,
+      "name": "France-IX Paris"
+    },
+    {
+      "id": "asn-43436",
+      "type": "autonomous_system",
+      "asn": 43436,
+      "name": "France-IX Paris"
+    },
+    {
+      "id": "asn-197692",
+      "type": "autonomous_system",
+      "asn": 197692,
+      "name": "France-IX Paris"
+    },
+    {
+      "id": "asn-8262",
+      "type": "autonomous_system",
+      "asn": 8262,
+      "name": "France-IX Paris"
+    },
+    {
+      "id": "asn-29605",
+      "type": "autonomous_system",
+      "asn": 29605,
+      "name": "France-IX Paris"
+    },
+    {
+      "id": "asn-31424",
+      "type": "autonomous_system",
+      "asn": 31424,
+      "name": "France-IX Paris"
+    },
+    {
+      "id": "asn-15965",
+      "type": "autonomous_system",
+      "asn": 15965,
+      "name": "France-IX Paris"
+    },
+    {
+      "id": "asn-30919",
+      "type": "autonomous_system",
+      "asn": 30919,
+      "name": "France-IX Paris"
+    },
+    {
+      "id": "asn-12696",
+      "type": "autonomous_system",
+      "asn": 12696,
+      "name": "France-IX Paris"
+    },
+    {
+      "id": "asn-7500",
+      "type": "autonomous_system",
+      "asn": 7500,
+      "name": "France-IX Paris"
+    },
+    {
+      "id": "asn-12654",
+      "type": "autonomous_system",
+      "asn": 12654,
+      "name": "France-IX Paris"
+    },
+    {
+      "id": "asn-9304",
+      "type": "autonomous_system",
+      "asn": 9304,
+      "name": "France-IX Paris"
+    },
+    {
+      "id": "asn-132876",
+      "type": "autonomous_system",
+      "asn": 132876,
+      "name": "France-IX Paris"
+    },
+    {
+      "id": "asn-199125",
+      "type": "autonomous_system",
+      "asn": 199125,
+      "name": "France-IX Paris"
+    },
+    {
+      "id": "asn-47406",
+      "type": "autonomous_system",
+      "asn": 47406,
+      "name": "France-IX Paris"
+    },
+    {
+      "id": "asn-199064",
+      "type": "autonomous_system",
+      "asn": 199064,
+      "name": "France-IX Paris"
+    },
+    {
+      "id": "asn-39063",
+      "type": "autonomous_system",
+      "asn": 39063,
+      "name": "France-IX Paris"
+    },
+    {
+      "id": "asn-31178",
+      "type": "autonomous_system",
+      "asn": 31178,
+      "name": "France-IX Paris"
+    },
+    {
+      "id": "asn-44219",
+      "type": "autonomous_system",
+      "asn": 44219,
+      "name": "France-IX Paris"
+    },
+    {
+      "id": "asn-397601",
+      "type": "autonomous_system",
+      "asn": 397601,
+      "name": "France-IX Paris"
+    },
+    {
+      "id": "asn-21000",
+      "type": "autonomous_system",
+      "asn": 21000,
+      "name": "France-IX Paris"
+    },
+    {
+      "id": "asn-44842",
+      "type": "autonomous_system",
+      "asn": 44842,
+      "name": "France-IX Paris"
+    },
+    {
+      "id": "asn-34288",
+      "type": "autonomous_system",
+      "asn": 34288,
+      "name": "France-IX Paris"
+    },
+    {
+      "id": "asn-63741",
+      "type": "autonomous_system",
+      "asn": 63741,
+      "name": "France-IX Paris"
+    },
+    {
+      "id": "asn-199917",
+      "type": "autonomous_system",
+      "asn": 199917,
+      "name": "France-IX Paris"
+    },
+    {
+      "id": "asn-57797",
+      "type": "autonomous_system",
+      "asn": 57797,
+      "name": "France-IX Paris"
+    },
+    {
+      "id": "asn-50293",
+      "type": "autonomous_system",
+      "asn": 50293,
+      "name": "France-IX Paris"
+    },
+    {
+      "id": "asn-328411",
+      "type": "autonomous_system",
+      "asn": 328411,
+      "name": "Gulfsat Madagascar"
+    },
+    {
+      "id": "asn-212579",
+      "type": "autonomous_system",
+      "asn": 212579,
+      "name": "IPEXIA"
+    },
+    {
+      "id": "asn-33835",
+      "type": "autonomous_system",
+      "asn": 33835,
+      "name": "Infosat Telecom"
+    },
+    {
+      "id": "asn-44334",
+      "type": "autonomous_system",
+      "asn": 44334,
+      "name": "M6 Distribution Digital"
+    },
+    {
+      "id": "asn-41191",
+      "type": "autonomous_system",
+      "asn": 41191,
+      "name": "Mappy"
+    },
+    {
+      "id": "asn-47648",
+      "type": "autonomous_system",
+      "asn": 47648,
+      "name": "NOREST SERVICES"
+    },
+    {
+      "id": "asn-29246",
+      "type": "autonomous_system",
+      "asn": 29246,
+      "name": "Optilian"
+    },
+    {
+      "id": "asn-8784",
+      "type": "autonomous_system",
+      "asn": 8784,
+      "name": "Prosodie Cap Gemini"
+    },
+    {
+      "id": "asn-60456",
+      "type": "autonomous_system",
+      "asn": 60456,
+      "name": "REVTELECOM"
+    },
+    {
+      "id": "asn-50858",
+      "type": "autonomous_system",
+      "asn": 50858,
+      "name": "SOLUTIONS INFORMATIQUES SERVICES SAS"
+    },
+    {
+      "id": "asn-205801",
+      "type": "autonomous_system",
+      "asn": 205801,
+      "name": "Synalabs"
+    },
+    {
+      "id": "asn-60427",
+      "type": "autonomous_system",
+      "asn": 60427,
+      "name": "System-Net SAS"
+    },
+    {
+      "id": "asn-47127",
+      "type": "autonomous_system",
+      "asn": 47127,
+      "name": "TELEMAQUE"
+    },
+    {
+      "id": "asn-31449",
+      "type": "autonomous_system",
+      "asn": 31449,
+      "name": "France-IX Paris"
+    },
+    {
+      "id": "asn-52025",
+      "type": "autonomous_system",
+      "asn": 52025,
+      "name": "ParadoxNetworks Limited"
+    },
+    {
+      "id": "asn-215248",
+      "type": "autonomous_system",
+      "asn": 215248,
+      "name": "215248 - Bastiaan Mathijs Brink"
+    },
+    {
+      "id": "asn-50620",
+      "type": "autonomous_system",
+      "asn": 50620,
+      "name": "Blue Networks Technologies"
+    },
+    {
+      "id": "asn-59689",
+      "type": "autonomous_system",
+      "asn": 59689,
+      "name": "Code40"
+    },
+    {
+      "id": "asn-58308",
+      "type": "autonomous_system",
+      "asn": 58308,
+      "name": "Cusae"
+    },
+    {
+      "id": "asn-202140",
+      "type": "autonomous_system",
+      "asn": 202140,
+      "name": "DIRECT INFO SERVICE"
+    },
+    {
+      "id": "asn-209428",
+      "type": "autonomous_system",
+      "asn": 209428,
+      "name": "DSCW"
+    },
+    {
+      "id": "asn-4601",
+      "type": "autonomous_system",
+      "asn": 4601,
+      "name": "DaKnObNET"
+    },
+    {
+      "id": "asn-209823",
+      "type": "autonomous_system",
+      "asn": 209823,
+      "name": "Enki Multimedia"
+    },
+    {
+      "id": "asn-197696",
+      "type": "autonomous_system",
+      "asn": 197696,
+      "name": "Evolix"
+    },
+    {
+      "id": "asn-25152",
+      "type": "autonomous_system",
+      "asn": 25152,
+      "name": "France-IX Paris"
+    },
+    {
+      "id": "asn-197000",
+      "type": "autonomous_system",
+      "asn": 197000,
+      "name": "France-IX Paris"
+    },
+    {
+      "id": "asn-35360",
+      "type": "autonomous_system",
+      "asn": 35360,
+      "name": "France-IX Paris"
+    },
+    {
+      "id": "asn-41044",
+      "type": "autonomous_system",
+      "asn": 41044,
+      "name": "France-IX Paris"
+    },
+    {
+      "id": "asn-45009",
+      "type": "autonomous_system",
+      "asn": 45009,
+      "name": "France-IX Paris"
+    },
+    {
+      "id": "asn-42275",
+      "type": "autonomous_system",
+      "asn": 42275,
+      "name": "France-IX Paris"
+    },
+    {
+      "id": "asn-132337",
+      "type": "autonomous_system",
+      "asn": 132337,
+      "name": "France-IX Paris"
+    },
+    {
+      "id": "asn-31019",
+      "type": "autonomous_system",
+      "asn": 31019,
+      "name": "France-IX Paris"
+    },
+    {
+      "id": "asn-215250",
+      "type": "autonomous_system",
+      "asn": 215250,
+      "name": "France-IX Paris"
+    },
+    {
+      "id": "asn-212037",
+      "type": "autonomous_system",
+      "asn": 212037,
+      "name": "France-IX Paris"
+    },
+    {
+      "id": "asn-50414",
+      "type": "autonomous_system",
+      "asn": 50414,
+      "name": "France-IX Paris"
+    },
+    {
+      "id": "asn-60983",
+      "type": "autonomous_system",
+      "asn": 60983,
+      "name": "France-IX Paris"
+    },
+    {
+      "id": "asn-48310",
+      "type": "autonomous_system",
+      "asn": 48310,
+      "name": "IMS Dynamics"
+    },
+    {
+      "id": "asn-209532",
+      "type": "autonomous_system",
+      "asn": 209532,
+      "name": "INFORMATIQUE MAINTENANCE SERVICES SAS"
+    },
+    {
+      "id": "asn-8298",
+      "type": "autonomous_system",
+      "asn": 8298,
+      "name": "IPng Networks GmbH"
+    },
+    {
+      "id": "asn-9036",
+      "type": "autonomous_system",
+      "asn": 9036,
+      "name": "Neuronnexion"
+    },
+    {
+      "id": "asn-16101",
+      "type": "autonomous_system",
+      "asn": 16101,
+      "name": "ORDIPAT"
+    },
+    {
+      "id": "asn-199116",
+      "type": "autonomous_system",
+      "asn": 199116,
+      "name": "REZEL"
+    },
+    {
+      "id": "asn-212895",
+      "type": "autonomous_system",
+      "asn": 212895,
+      "name": "ROUTE64.ORG"
+    },
+    {
+      "id": "asn-206014",
+      "type": "autonomous_system",
+      "asn": 206014,
+      "name": "RdemSystems"
+    },
+    {
+      "id": "asn-201080",
+      "type": "autonomous_system",
+      "asn": 201080,
+      "name": "SCANI"
+    },
+    {
+      "id": "asn-197551",
+      "type": "autonomous_system",
+      "asn": 197551,
+      "name": "AMEOS"
+    },
+    {
+      "id": "asn-199396",
+      "type": "autonomous_system",
+      "asn": 199396,
+      "name": "Association SamesWireless"
+    },
+    {
+      "id": "asn-212232",
+      "type": "autonomous_system",
+      "asn": 212232,
+      "name": "France-IX Paris"
+    },
+    {
+      "id": "asn-44295",
+      "type": "autonomous_system",
+      "asn": 44295,
+      "name": "France-IX Paris"
+    },
+    {
+      "id": "asn-51405",
+      "type": "autonomous_system",
+      "asn": 51405,
+      "name": "France-IX Paris"
+    },
+    {
+      "id": "asn-196983",
+      "type": "autonomous_system",
+      "asn": 196983,
+      "name": "France-IX Paris"
+    },
+    {
+      "id": "asn-2602",
+      "type": "autonomous_system",
+      "asn": 2602,
+      "name": "France-IX Paris"
+    },
+    {
+      "id": "asn-198290",
+      "type": "autonomous_system",
+      "asn": 198290,
+      "name": "France-IX Paris"
+    },
+    {
+      "id": "asn-199121",
+      "type": "autonomous_system",
+      "asn": 199121,
+      "name": "France-IX Paris"
+    },
+    {
+      "id": "asn-48519",
+      "type": "autonomous_system",
+      "asn": 48519,
+      "name": "France-IX Paris"
+    },
+    {
+      "id": "asn-53264",
+      "type": "autonomous_system",
+      "asn": 53264,
+      "name": "France-IX Paris"
+    },
+    {
+      "id": "asn-2613",
+      "type": "autonomous_system",
+      "asn": 2613,
+      "name": "France-IX Paris"
+    },
+    {
+      "id": "asn-200129",
+      "type": "autonomous_system",
+      "asn": 200129,
+      "name": "France-IX Paris"
+    },
+    {
+      "id": "asn-13002",
+      "type": "autonomous_system",
+      "asn": 13002,
+      "name": "France-IX Paris"
+    },
+    {
+      "id": "asn-8283",
+      "type": "autonomous_system",
+      "asn": 8283,
+      "name": "France-IX Paris"
+    },
+    {
+      "id": "asn-210036",
+      "type": "autonomous_system",
+      "asn": 210036,
+      "name": "France-IX Paris"
+    },
+    {
+      "id": "asn-210890",
+      "type": "autonomous_system",
+      "asn": 210890,
+      "name": "France-IX Paris"
+    },
+    {
+      "id": "asn-57965",
+      "type": "autonomous_system",
+      "asn": 57965,
+      "name": "France-IX Paris"
+    },
+    {
+      "id": "asn-401690",
+      "type": "autonomous_system",
+      "asn": 401690,
+      "name": "France-IX Paris"
+    },
+    {
+      "id": "asn-210834",
+      "type": "autonomous_system",
+      "asn": 210834,
+      "name": "France-IX Paris"
+    },
+    {
+      "id": "asn-206782",
+      "type": "autonomous_system",
+      "asn": 206782,
+      "name": "GPLExpert"
+    },
+    {
+      "id": "asn-206610",
+      "type": "autonomous_system",
+      "asn": 206610,
+      "name": "Mixvoip AS206610"
+    },
+    {
+      "id": "asn-8310",
+      "type": "autonomous_system",
+      "asn": 8310,
+      "name": "PacWan"
+    },
+    {
+      "id": "asn-39271",
+      "type": "autonomous_system",
+      "asn": 39271,
+      "name": "France-IX Paris"
+    },
+    {
+      "id": "asn-60497",
+      "type": "autonomous_system",
+      "asn": 60497,
+      "name": "France-IX Paris"
+    },
+    {
+      "id": "asn-51185",
+      "type": "autonomous_system",
+      "asn": 51185,
+      "name": "France-IX Paris"
+    },
+    {
+      "id": "asn-34422",
+      "type": "autonomous_system",
+      "asn": 34422,
+      "name": "France-IX Paris"
+    },
+    {
+      "id": "asn-32787",
+      "type": "autonomous_system",
+      "asn": 32787,
+      "name": "France-IX Paris"
+    },
+    {
+      "id": "asn-25595",
+      "type": "autonomous_system",
+      "asn": 25595,
+      "name": "France-IX Paris"
+    },
+    {
+      "id": "asn-56630",
+      "type": "autonomous_system",
+      "asn": 56630,
+      "name": "France-IX Paris"
+    },
+    {
+      "id": "asn-20756",
+      "type": "autonomous_system",
+      "asn": 20756,
+      "name": "Nameshield"
+    },
+    {
+      "id": "asn-36236",
+      "type": "autonomous_system",
+      "asn": 36236,
+      "name": "NetActuate"
+    }
+  ],
+  "edges": [
+    {
+      "source": "ix-franceix-paris",
+      "target": "fac-53",
+      "type": "IX_PRESENT_AT_FACILITY"
+    },
+    {
+      "source": "ix-franceix-paris",
+      "target": "fac-72",
+      "type": "IX_PRESENT_AT_FACILITY"
+    },
+    {
+      "source": "ix-franceix-paris",
+      "target": "fac-75",
+      "type": "IX_PRESENT_AT_FACILITY"
+    },
+    {
+      "source": "ix-franceix-paris",
+      "target": "fac-636",
+      "type": "IX_PRESENT_AT_FACILITY"
+    },
+    {
+      "source": "ix-franceix-paris",
+      "target": "fac-655",
+      "type": "IX_PRESENT_AT_FACILITY"
+    },
+    {
+      "source": "ix-franceix-paris",
+      "target": "fac-714",
+      "type": "IX_PRESENT_AT_FACILITY"
+    },
+    {
+      "source": "ix-franceix-paris",
+      "target": "fac-717",
+      "type": "IX_PRESENT_AT_FACILITY"
+    },
+    {
+      "source": "ix-franceix-paris",
+      "target": "fac-842",
+      "type": "IX_PRESENT_AT_FACILITY"
+    },
+    {
+      "source": "ix-franceix-paris",
+      "target": "fac-1402",
+      "type": "IX_PRESENT_AT_FACILITY"
+    },
+    {
+      "source": "asn-13335",
+      "target": "ix-franceix-paris",
+      "type": "MEMBER_OF_IX"
+    },
+    {
+      "source": "asn-20940",
+      "target": "ix-franceix-paris",
+      "type": "MEMBER_OF_IX"
+    },
+    {
+      "source": "asn-12876",
+      "target": "ix-franceix-paris",
+      "type": "MEMBER_OF_IX"
+    },
+    {
+      "source": "asn-62044",
+      "target": "ix-franceix-paris",
+      "type": "MEMBER_OF_IX"
+    },
+    {
+      "source": "asn-62000",
+      "target": "ix-franceix-paris",
+      "type": "MEMBER_OF_IX"
+    },
+    {
+      "source": "asn-16509",
+      "target": "ix-franceix-paris",
+      "type": "MEMBER_OF_IX"
+    },
+    {
+      "source": "asn-5410",
+      "target": "ix-franceix-paris",
+      "type": "MEMBER_OF_IX"
+    },
+    {
+      "source": "asn-30781",
+      "target": "ix-franceix-paris",
+      "type": "MEMBER_OF_IX"
+    },
+    {
+      "source": "asn-5405",
+      "target": "ix-franceix-paris",
+      "type": "MEMBER_OF_IX"
+    },
+    {
+      "source": "asn-8075",
+      "target": "ix-franceix-paris",
+      "type": "MEMBER_OF_IX"
+    },
+    {
+      "source": "asn-16276",
+      "target": "ix-franceix-paris",
+      "type": "MEMBER_OF_IX"
+    },
+    {
+      "source": "asn-16347",
+      "target": "ix-franceix-paris",
+      "type": "MEMBER_OF_IX"
+    },
+    {
+      "source": "asn-55256",
+      "target": "ix-franceix-paris",
+      "type": "MEMBER_OF_IX"
+    },
+    {
+      "source": "asn-5400",
+      "target": "ix-franceix-paris",
+      "type": "MEMBER_OF_IX"
+    },
+    {
+      "source": "asn-714",
+      "target": "ix-franceix-paris",
+      "type": "MEMBER_OF_IX"
+    },
+    {
+      "source": "asn-34177",
+      "target": "ix-franceix-paris",
+      "type": "MEMBER_OF_IX"
+    },
+    {
+      "source": "asn-13150",
+      "target": "ix-franceix-paris",
+      "type": "MEMBER_OF_IX"
+    },
+    {
+      "source": "asn-8220",
+      "target": "ix-franceix-paris",
+      "type": "MEMBER_OF_IX"
+    },
+    {
+      "source": "asn-54113",
+      "target": "ix-franceix-paris",
+      "type": "MEMBER_OF_IX"
+    },
+    {
+      "source": "asn-15830",
+      "target": "ix-franceix-paris",
+      "type": "MEMBER_OF_IX"
+    },
+    {
+      "source": "asn-39386",
+      "target": "ix-franceix-paris",
+      "type": "MEMBER_OF_IX"
+    },
+    {
+      "source": "asn-12322",
+      "target": "ix-franceix-paris",
+      "type": "MEMBER_OF_IX"
+    },
+    {
+      "source": "asn-31564",
+      "target": "ix-franceix-paris",
+      "type": "MEMBER_OF_IX"
+    },
+    {
+      "source": "asn-6939",
+      "target": "ix-franceix-paris",
+      "type": "MEMBER_OF_IX"
+    },
+    {
+      "source": "asn-44407",
+      "target": "ix-franceix-paris",
+      "type": "MEMBER_OF_IX"
+    },
+    {
+      "source": "asn-32934",
+      "target": "ix-franceix-paris",
+      "type": "MEMBER_OF_IX"
+    },
+    {
+      "source": "asn-2906",
+      "target": "ix-franceix-paris",
+      "type": "MEMBER_OF_IX"
+    },
+    {
+      "source": "asn-50624",
+      "target": "ix-franceix-paris",
+      "type": "MEMBER_OF_IX"
+    },
+    {
+      "source": "asn-22697",
+      "target": "ix-franceix-paris",
+      "type": "MEMBER_OF_IX"
+    },
+    {
+      "source": "asn-15557",
+      "target": "ix-franceix-paris",
+      "type": "MEMBER_OF_IX"
+    },
+    {
+      "source": "asn-8399",
+      "target": "ix-franceix-paris",
+      "type": "MEMBER_OF_IX"
+    },
+    {
+      "source": "asn-45430",
+      "target": "ix-franceix-paris",
+      "type": "MEMBER_OF_IX"
+    },
+    {
+      "source": "asn-57734",
+      "target": "ix-franceix-paris",
+      "type": "MEMBER_OF_IX"
+    },
+    {
+      "source": "asn-39605",
+      "target": "ix-franceix-paris",
+      "type": "MEMBER_OF_IX"
+    },
+    {
+      "source": "asn-139341",
+      "target": "ix-franceix-paris",
+      "type": "MEMBER_OF_IX"
+    },
+    {
+      "source": "asn-60171",
+      "target": "ix-franceix-paris",
+      "type": "MEMBER_OF_IX"
+    },
+    {
+      "source": "asn-45102",
+      "target": "ix-franceix-paris",
+      "type": "MEMBER_OF_IX"
+    },
+    {
+      "source": "asn-25540",
+      "target": "ix-franceix-paris",
+      "type": "MEMBER_OF_IX"
+    },
+    {
+      "source": "asn-2635",
+      "target": "ix-franceix-paris",
+      "type": "MEMBER_OF_IX"
+    },
+    {
+      "source": "asn-30972",
+      "target": "ix-franceix-paris",
+      "type": "MEMBER_OF_IX"
+    },
+    {
+      "source": "asn-57976",
+      "target": "ix-franceix-paris",
+      "type": "MEMBER_OF_IX"
+    },
+    {
+      "source": "asn-34659",
+      "target": "ix-franceix-paris",
+      "type": "MEMBER_OF_IX"
+    },
+    {
+      "source": "asn-396986",
+      "target": "ix-franceix-paris",
+      "type": "MEMBER_OF_IX"
+    },
+    {
+      "source": "asn-23764",
+      "target": "ix-franceix-paris",
+      "type": "MEMBER_OF_IX"
+    },
+    {
+      "source": "asn-36692",
+      "target": "ix-franceix-paris",
+      "type": "MEMBER_OF_IX"
+    },
+    {
+      "source": "asn-14537",
+      "target": "ix-franceix-paris",
+      "type": "MEMBER_OF_IX"
+    },
+    {
+      "source": "asn-33891",
+      "target": "ix-franceix-paris",
+      "type": "MEMBER_OF_IX"
+    },
+    {
+      "source": "asn-37613",
+      "target": "ix-franceix-paris",
+      "type": "MEMBER_OF_IX"
+    },
+    {
+      "source": "asn-19679",
+      "target": "ix-franceix-paris",
+      "type": "MEMBER_OF_IX"
+    },
+    {
+      "source": "asn-50124",
+      "target": "ix-franceix-paris",
+      "type": "MEMBER_OF_IX"
+    },
+    {
+      "source": "asn-35625",
+      "target": "ix-franceix-paris",
+      "type": "MEMBER_OF_IX"
+    },
+    {
+      "source": "asn-35280",
+      "target": "ix-franceix-paris",
+      "type": "MEMBER_OF_IX"
+    },
+    {
+      "source": "asn-49434",
+      "target": "ix-franceix-paris",
+      "type": "MEMBER_OF_IX"
+    },
+    {
+      "source": "asn-198545",
+      "target": "ix-franceix-paris",
+      "type": "MEMBER_OF_IX"
+    },
+    {
+      "source": "asn-43930",
+      "target": "ix-franceix-paris",
+      "type": "MEMBER_OF_IX"
+    },
+    {
+      "source": "asn-8966",
+      "target": "ix-franceix-paris",
+      "type": "MEMBER_OF_IX"
+    },
+    {
+      "source": "asn-37100",
+      "target": "ix-franceix-paris",
+      "type": "MEMBER_OF_IX"
+    },
+    {
+      "source": "asn-21215",
+      "target": "ix-franceix-paris",
+      "type": "MEMBER_OF_IX"
+    },
+    {
+      "source": "asn-29169",
+      "target": "ix-franceix-paris",
+      "type": "MEMBER_OF_IX"
+    },
+    {
+      "source": "asn-199524",
+      "target": "ix-franceix-paris",
+      "type": "MEMBER_OF_IX"
+    },
+    {
+      "source": "asn-47608",
+      "target": "ix-franceix-paris",
+      "type": "MEMBER_OF_IX"
+    },
+    {
+      "source": "asn-39305",
+      "target": "ix-franceix-paris",
+      "type": "MEMBER_OF_IX"
+    },
+    {
+      "source": "asn-24940",
+      "target": "ix-franceix-paris",
+      "type": "MEMBER_OF_IX"
+    },
+    {
+      "source": "asn-34863",
+      "target": "ix-franceix-paris",
+      "type": "MEMBER_OF_IX"
+    },
+    {
+      "source": "asn-29283",
+      "target": "ix-franceix-paris",
+      "type": "MEMBER_OF_IX"
+    },
+    {
+      "source": "asn-25369",
+      "target": "ix-franceix-paris",
+      "type": "MEMBER_OF_IX"
+    },
+    {
+      "source": "asn-29075",
+      "target": "ix-franceix-paris",
+      "type": "MEMBER_OF_IX"
+    },
+    {
+      "source": "asn-8560",
+      "target": "ix-franceix-paris",
+      "type": "MEMBER_OF_IX"
+    },
+    {
+      "source": "asn-47957",
+      "target": "ix-franceix-paris",
+      "type": "MEMBER_OF_IX"
+    },
+    {
+      "source": "asn-215596",
+      "target": "ix-franceix-paris",
+      "type": "MEMBER_OF_IX"
+    },
+    {
+      "source": "asn-206120",
+      "target": "ix-franceix-paris",
+      "type": "MEMBER_OF_IX"
+    },
+    {
+      "source": "asn-24904",
+      "target": "ix-franceix-paris",
+      "type": "MEMBER_OF_IX"
+    },
+    {
+      "source": "asn-50628",
+      "target": "ix-franceix-paris",
+      "type": "MEMBER_OF_IX"
+    },
+    {
+      "source": "asn-29467",
+      "target": "ix-franceix-paris",
+      "type": "MEMBER_OF_IX"
+    },
+    {
+      "source": "asn-64289",
+      "target": "ix-franceix-paris",
+      "type": "MEMBER_OF_IX"
+    },
+    {
+      "source": "asn-57119",
+      "target": "ix-franceix-paris",
+      "type": "MEMBER_OF_IX"
+    },
+    {
+      "source": "asn-10122",
+      "target": "ix-franceix-paris",
+      "type": "MEMBER_OF_IX"
+    },
+    {
+      "source": "asn-199483",
+      "target": "ix-franceix-paris",
+      "type": "MEMBER_OF_IX"
+    },
+    {
+      "source": "asn-219062",
+      "target": "ix-franceix-paris",
+      "type": "MEMBER_OF_IX"
+    },
+    {
+      "source": "asn-51468",
+      "target": "ix-franceix-paris",
+      "type": "MEMBER_OF_IX"
+    },
+    {
+      "source": "asn-20562",
+      "target": "ix-franceix-paris",
+      "type": "MEMBER_OF_IX"
+    },
+    {
+      "source": "asn-48817",
+      "target": "ix-franceix-paris",
+      "type": "MEMBER_OF_IX"
+    },
+    {
+      "source": "asn-201868",
+      "target": "ix-franceix-paris",
+      "type": "MEMBER_OF_IX"
+    },
+    {
+      "source": "asn-3920",
+      "target": "ix-franceix-paris",
+      "type": "MEMBER_OF_IX"
+    },
+    {
+      "source": "asn-53589",
+      "target": "ix-franceix-paris",
+      "type": "MEMBER_OF_IX"
+    },
+    {
+      "source": "asn-9002",
+      "target": "ix-franceix-paris",
+      "type": "MEMBER_OF_IX"
+    },
+    {
+      "source": "asn-47600",
+      "target": "ix-franceix-paris",
+      "type": "MEMBER_OF_IX"
+    },
+    {
+      "source": "asn-6507",
+      "target": "ix-franceix-paris",
+      "type": "MEMBER_OF_IX"
+    },
+    {
+      "source": "asn-49690",
+      "target": "ix-franceix-paris",
+      "type": "MEMBER_OF_IX"
+    },
+    {
+      "source": "asn-201675",
+      "target": "ix-franceix-paris",
+      "type": "MEMBER_OF_IX"
+    },
+    {
+      "source": "asn-8309",
+      "target": "ix-franceix-paris",
+      "type": "MEMBER_OF_IX"
+    },
+    {
+      "source": "asn-33353",
+      "target": "ix-franceix-paris",
+      "type": "MEMBER_OF_IX"
+    },
+    {
+      "source": "asn-198335",
+      "target": "ix-franceix-paris",
+      "type": "MEMBER_OF_IX"
+    },
+    {
+      "source": "asn-57344",
+      "target": "ix-franceix-paris",
+      "type": "MEMBER_OF_IX"
+    },
+    {
+      "source": "asn-20473",
+      "target": "ix-franceix-paris",
+      "type": "MEMBER_OF_IX"
+    },
+    {
+      "source": "asn-32590",
+      "target": "ix-franceix-paris",
+      "type": "MEMBER_OF_IX"
+    },
+    {
+      "source": "asn-12727",
+      "target": "ix-franceix-paris",
+      "type": "MEMBER_OF_IX"
+    },
+    {
+      "source": "asn-42487",
+      "target": "ix-franceix-paris",
+      "type": "MEMBER_OF_IX"
+    },
+    {
+      "source": "asn-211448",
+      "target": "ix-franceix-paris",
+      "type": "MEMBER_OF_IX"
+    },
+    {
+      "source": "asn-52075",
+      "target": "ix-franceix-paris",
+      "type": "MEMBER_OF_IX"
+    },
+    {
+      "source": "asn-10310",
+      "target": "ix-franceix-paris",
+      "type": "MEMBER_OF_IX"
+    },
+    {
+      "source": "asn-6461",
+      "target": "ix-franceix-paris",
+      "type": "MEMBER_OF_IX"
+    },
+    {
+      "source": "asn-8218",
+      "target": "ix-franceix-paris",
+      "type": "MEMBER_OF_IX"
+    },
+    {
+      "source": "asn-60132",
+      "target": "ix-franceix-paris",
+      "type": "MEMBER_OF_IX"
+    },
+    {
+      "source": "asn-49544",
+      "target": "ix-franceix-paris",
+      "type": "MEMBER_OF_IX"
+    },
+    {
+      "source": "asn-51154",
+      "target": "ix-franceix-paris",
+      "type": "MEMBER_OF_IX"
+    },
+    {
+      "source": "asn-57809",
+      "target": "ix-franceix-paris",
+      "type": "MEMBER_OF_IX"
+    },
+    {
+      "source": "asn-212815",
+      "target": "ix-franceix-paris",
+      "type": "MEMBER_OF_IX"
+    },
+    {
+      "source": "asn-6866",
+      "target": "ix-franceix-paris",
+      "type": "MEMBER_OF_IX"
+    },
+    {
+      "source": "asn-203724",
+      "target": "ix-franceix-paris",
+      "type": "MEMBER_OF_IX"
+    },
+    {
+      "source": "asn-6774",
+      "target": "ix-franceix-paris",
+      "type": "MEMBER_OF_IX"
+    },
+    {
+      "source": "asn-59842",
+      "target": "ix-franceix-paris",
+      "type": "MEMBER_OF_IX"
+    },
+    {
+      "source": "asn-8368",
+      "target": "ix-franceix-paris",
+      "type": "MEMBER_OF_IX"
+    },
+    {
+      "source": "asn-39801",
+      "target": "ix-franceix-paris",
+      "type": "MEMBER_OF_IX"
+    },
+    {
+      "source": "asn-51706",
+      "target": "ix-franceix-paris",
+      "type": "MEMBER_OF_IX"
+    },
+    {
+      "source": "asn-203885",
+      "target": "ix-franceix-paris",
+      "type": "MEMBER_OF_IX"
+    },
+    {
+      "source": "asn-7552",
+      "target": "ix-franceix-paris",
+      "type": "MEMBER_OF_IX"
+    },
+    {
+      "source": "asn-219524",
+      "target": "ix-franceix-paris",
+      "type": "MEMBER_OF_IX"
+    },
+    {
+      "source": "asn-15169",
+      "target": "ix-franceix-paris",
+      "type": "MEMBER_OF_IX"
+    },
+    {
+      "source": "asn-47583",
+      "target": "ix-franceix-paris",
+      "type": "MEMBER_OF_IX"
+    },
+    {
+      "source": "asn-6661",
+      "target": "ix-franceix-paris",
+      "type": "MEMBER_OF_IX"
+    },
+    {
+      "source": "asn-21859",
+      "target": "ix-franceix-paris",
+      "type": "MEMBER_OF_IX"
+    },
+    {
+      "source": "asn-7713",
+      "target": "ix-franceix-paris",
+      "type": "MEMBER_OF_IX"
+    },
+    {
+      "source": "asn-702",
+      "target": "ix-franceix-paris",
+      "type": "MEMBER_OF_IX"
+    },
+    {
+      "source": "asn-8529",
+      "target": "ix-franceix-paris",
+      "type": "MEMBER_OF_IX"
+    },
+    {
+      "source": "asn-197205",
+      "target": "ix-franceix-paris",
+      "type": "MEMBER_OF_IX"
+    },
+    {
+      "source": "asn-39351",
+      "target": "ix-franceix-paris",
+      "type": "MEMBER_OF_IX"
+    },
+    {
+      "source": "asn-57468",
+      "target": "ix-franceix-paris",
+      "type": "MEMBER_OF_IX"
+    },
+    {
+      "source": "asn-36864",
+      "target": "ix-franceix-paris",
+      "type": "MEMBER_OF_IX"
+    },
+    {
+      "source": "asn-205684",
+      "target": "ix-franceix-paris",
+      "type": "MEMBER_OF_IX"
+    },
+    {
+      "source": "asn-24429",
+      "target": "ix-franceix-paris",
+      "type": "MEMBER_OF_IX"
+    },
+    {
+      "source": "asn-211113",
+      "target": "ix-franceix-paris",
+      "type": "MEMBER_OF_IX"
+    },
+    {
+      "source": "asn-42845",
+      "target": "ix-franceix-paris",
+      "type": "MEMBER_OF_IX"
+    },
+    {
+      "source": "asn-21351",
+      "target": "ix-franceix-paris",
+      "type": "MEMBER_OF_IX"
+    },
+    {
+      "source": "asn-58453",
+      "target": "ix-franceix-paris",
+      "type": "MEMBER_OF_IX"
+    },
+    {
+      "source": "asn-8426",
+      "target": "ix-franceix-paris",
+      "type": "MEMBER_OF_IX"
+    },
+    {
+      "source": "asn-33930",
+      "target": "ix-franceix-paris",
+      "type": "MEMBER_OF_IX"
+    },
+    {
+      "source": "asn-39781",
+      "target": "ix-franceix-paris",
+      "type": "MEMBER_OF_IX"
+    },
+    {
+      "source": "asn-1301",
+      "target": "ix-franceix-paris",
+      "type": "MEMBER_OF_IX"
+    },
+    {
+      "source": "asn-8304",
+      "target": "ix-franceix-paris",
+      "type": "MEMBER_OF_IX"
+    },
+    {
+      "source": "asn-29286",
+      "target": "ix-franceix-paris",
+      "type": "MEMBER_OF_IX"
+    },
+    {
+      "source": "asn-15695",
+      "target": "ix-franceix-paris",
+      "type": "MEMBER_OF_IX"
+    },
+    {
+      "source": "asn-13285",
+      "target": "ix-franceix-paris",
+      "type": "MEMBER_OF_IX"
+    },
+    {
+      "source": "asn-20485",
+      "target": "ix-franceix-paris",
+      "type": "MEMBER_OF_IX"
+    },
+    {
+      "source": "asn-12400",
+      "target": "ix-franceix-paris",
+      "type": "MEMBER_OF_IX"
+    },
+    {
+      "source": "asn-25215",
+      "target": "ix-franceix-paris",
+      "type": "MEMBER_OF_IX"
+    },
+    {
+      "source": "asn-2686",
+      "target": "ix-franceix-paris",
+      "type": "MEMBER_OF_IX"
+    },
+    {
+      "source": "asn-3299",
+      "target": "ix-franceix-paris",
+      "type": "MEMBER_OF_IX"
+    },
+    {
+      "source": "asn-203554",
+      "target": "ix-franceix-paris",
+      "type": "MEMBER_OF_IX"
+    },
+    {
+      "source": "asn-8346",
+      "target": "ix-franceix-paris",
+      "type": "MEMBER_OF_IX"
+    },
+    {
+      "source": "asn-39899",
+      "target": "ix-franceix-paris",
+      "type": "MEMBER_OF_IX"
+    },
+    {
+      "source": "asn-201647",
+      "target": "ix-franceix-paris",
+      "type": "MEMBER_OF_IX"
+    },
+    {
+      "source": "asn-35432",
+      "target": "ix-franceix-paris",
+      "type": "MEMBER_OF_IX"
+    },
+    {
+      "source": "asn-35676",
+      "target": "ix-franceix-paris",
+      "type": "MEMBER_OF_IX"
+    },
+    {
+      "source": "asn-136907",
+      "target": "ix-franceix-paris",
+      "type": "MEMBER_OF_IX"
+    },
+    {
+      "source": "asn-25091",
+      "target": "ix-franceix-paris",
+      "type": "MEMBER_OF_IX"
+    },
+    {
+      "source": "asn-21409",
+      "target": "ix-franceix-paris",
+      "type": "MEMBER_OF_IX"
+    },
+    {
+      "source": "asn-24776",
+      "target": "ix-franceix-paris",
+      "type": "MEMBER_OF_IX"
+    },
+    {
+      "source": "asn-16189",
+      "target": "ix-franceix-paris",
+      "type": "MEMBER_OF_IX"
+    },
+    {
+      "source": "asn-2027",
+      "target": "ix-franceix-paris",
+      "type": "MEMBER_OF_IX"
+    },
+    {
+      "source": "asn-6758",
+      "target": "ix-franceix-paris",
+      "type": "MEMBER_OF_IX"
+    },
+    {
+      "source": "asn-48305",
+      "target": "ix-franceix-paris",
+      "type": "MEMBER_OF_IX"
+    },
+    {
+      "source": "asn-37693",
+      "target": "ix-franceix-paris",
+      "type": "MEMBER_OF_IX"
+    },
+    {
+      "source": "asn-41114",
+      "target": "ix-franceix-paris",
+      "type": "MEMBER_OF_IX"
+    },
+    {
+      "source": "asn-216239",
+      "target": "ix-franceix-paris",
+      "type": "MEMBER_OF_IX"
+    },
+    {
+      "source": "asn-56665",
+      "target": "ix-franceix-paris",
+      "type": "MEMBER_OF_IX"
+    },
+    {
+      "source": "asn-2200",
+      "target": "ix-franceix-paris",
+      "type": "MEMBER_OF_IX"
+    },
+    {
+      "source": "asn-37002",
+      "target": "ix-franceix-paris",
+      "type": "MEMBER_OF_IX"
+    },
+    {
+      "source": "asn-35661",
+      "target": "ix-franceix-paris",
+      "type": "MEMBER_OF_IX"
+    },
+    {
+      "source": "asn-51826",
+      "target": "ix-franceix-paris",
+      "type": "MEMBER_OF_IX"
+    },
+    {
+      "source": "asn-54994",
+      "target": "ix-franceix-paris",
+      "type": "MEMBER_OF_IX"
+    },
+    {
+      "source": "asn-8400",
+      "target": "ix-franceix-paris",
+      "type": "MEMBER_OF_IX"
+    },
+    {
+      "source": "asn-197981",
+      "target": "ix-franceix-paris",
+      "type": "MEMBER_OF_IX"
+    },
+    {
+      "source": "asn-47866",
+      "target": "ix-franceix-paris",
+      "type": "MEMBER_OF_IX"
+    },
+    {
+      "source": "asn-16128",
+      "target": "ix-franceix-paris",
+      "type": "MEMBER_OF_IX"
+    },
+    {
+      "source": "asn-47833",
+      "target": "ix-franceix-paris",
+      "type": "MEMBER_OF_IX"
+    },
+    {
+      "source": "asn-56987",
+      "target": "ix-franceix-paris",
+      "type": "MEMBER_OF_IX"
+    },
+    {
+      "source": "asn-41652",
+      "target": "ix-franceix-paris",
+      "type": "MEMBER_OF_IX"
+    },
+    {
+      "source": "asn-35793",
+      "target": "ix-franceix-paris",
+      "type": "MEMBER_OF_IX"
+    },
+    {
+      "source": "asn-43142",
+      "target": "ix-franceix-paris",
+      "type": "MEMBER_OF_IX"
+    },
+    {
+      "source": "asn-213432",
+      "target": "ix-franceix-paris",
+      "type": "MEMBER_OF_IX"
+    },
+    {
+      "source": "asn-13273",
+      "target": "ix-franceix-paris",
+      "type": "MEMBER_OF_IX"
+    },
+    {
+      "source": "asn-42473",
+      "target": "ix-franceix-paris",
+      "type": "MEMBER_OF_IX"
+    },
+    {
+      "source": "asn-41653",
+      "target": "ix-franceix-paris",
+      "type": "MEMBER_OF_IX"
+    },
+    {
+      "source": "asn-211882",
+      "target": "ix-franceix-paris",
+      "type": "MEMBER_OF_IX"
+    },
+    {
+      "source": "asn-42929",
+      "target": "ix-franceix-paris",
+      "type": "MEMBER_OF_IX"
+    },
+    {
+      "source": "asn-20766",
+      "target": "ix-franceix-paris",
+      "type": "MEMBER_OF_IX"
+    },
+    {
+      "source": "asn-211733",
+      "target": "ix-franceix-paris",
+      "type": "MEMBER_OF_IX"
+    },
+    {
+      "source": "asn-31167",
+      "target": "ix-franceix-paris",
+      "type": "MEMBER_OF_IX"
+    },
+    {
+      "source": "asn-4455",
+      "target": "ix-franceix-paris",
+      "type": "MEMBER_OF_IX"
+    },
+    {
+      "source": "asn-55195",
+      "target": "ix-franceix-paris",
+      "type": "MEMBER_OF_IX"
+    },
+    {
+      "source": "asn-199660",
+      "target": "ix-franceix-paris",
+      "type": "MEMBER_OF_IX"
+    },
+    {
+      "source": "asn-44097",
+      "target": "ix-franceix-paris",
+      "type": "MEMBER_OF_IX"
+    },
+    {
+      "source": "asn-12826",
+      "target": "ix-franceix-paris",
+      "type": "MEMBER_OF_IX"
+    },
+    {
+      "source": "asn-49028",
+      "target": "ix-franceix-paris",
+      "type": "MEMBER_OF_IX"
+    },
+    {
+      "source": "asn-6738",
+      "target": "ix-franceix-paris",
+      "type": "MEMBER_OF_IX"
+    },
+    {
+      "source": "asn-16080",
+      "target": "ix-franceix-paris",
+      "type": "MEMBER_OF_IX"
+    },
+    {
+      "source": "asn-50446",
+      "target": "ix-franceix-paris",
+      "type": "MEMBER_OF_IX"
+    },
+    {
+      "source": "asn-44141",
+      "target": "ix-franceix-paris",
+      "type": "MEMBER_OF_IX"
+    },
+    {
+      "source": "asn-16552",
+      "target": "ix-franceix-paris",
+      "type": "MEMBER_OF_IX"
+    },
+    {
+      "source": "asn-49584",
+      "target": "ix-franceix-paris",
+      "type": "MEMBER_OF_IX"
+    },
+    {
+      "source": "asn-15412",
+      "target": "ix-franceix-paris",
+      "type": "MEMBER_OF_IX"
+    },
+    {
+      "source": "asn-6775",
+      "target": "ix-franceix-paris",
+      "type": "MEMBER_OF_IX"
+    },
+    {
+      "source": "asn-49920",
+      "target": "ix-franceix-paris",
+      "type": "MEMBER_OF_IX"
+    },
+    {
+      "source": "asn-29513",
+      "target": "ix-franceix-paris",
+      "type": "MEMBER_OF_IX"
+    },
+    {
+      "source": "asn-44444",
+      "target": "ix-franceix-paris",
+      "type": "MEMBER_OF_IX"
+    },
+    {
+      "source": "asn-28855",
+      "target": "ix-franceix-paris",
+      "type": "MEMBER_OF_IX"
+    },
+    {
+      "source": "asn-8632",
+      "target": "ix-franceix-paris",
+      "type": "MEMBER_OF_IX"
+    },
+    {
+      "source": "asn-15547",
+      "target": "ix-franceix-paris",
+      "type": "MEMBER_OF_IX"
+    },
+    {
+      "source": "asn-197422",
+      "target": "ix-franceix-paris",
+      "type": "MEMBER_OF_IX"
+    },
+    {
+      "source": "asn-39636",
+      "target": "ix-franceix-paris",
+      "type": "MEMBER_OF_IX"
+    },
+    {
+      "source": "asn-41090",
+      "target": "ix-franceix-paris",
+      "type": "MEMBER_OF_IX"
+    },
+    {
+      "source": "asn-50812",
+      "target": "ix-franceix-paris",
+      "type": "MEMBER_OF_IX"
+    },
+    {
+      "source": "asn-30990",
+      "target": "ix-franceix-paris",
+      "type": "MEMBER_OF_IX"
+    },
+    {
+      "source": "asn-8674",
+      "target": "ix-franceix-paris",
+      "type": "MEMBER_OF_IX"
+    },
+    {
+      "source": "asn-41405",
+      "target": "ix-franceix-paris",
+      "type": "MEMBER_OF_IX"
+    },
+    {
+      "source": "asn-198385",
+      "target": "ix-franceix-paris",
+      "type": "MEMBER_OF_IX"
+    },
+    {
+      "source": "asn-34572",
+      "target": "ix-franceix-paris",
+      "type": "MEMBER_OF_IX"
+    },
+    {
+      "source": "asn-57642",
+      "target": "ix-franceix-paris",
+      "type": "MEMBER_OF_IX"
+    },
+    {
+      "source": "asn-42411",
+      "target": "ix-franceix-paris",
+      "type": "MEMBER_OF_IX"
+    },
+    {
+      "source": "asn-20764",
+      "target": "ix-franceix-paris",
+      "type": "MEMBER_OF_IX"
+    },
+    {
+      "source": "asn-12684",
+      "target": "ix-franceix-paris",
+      "type": "MEMBER_OF_IX"
+    },
+    {
+      "source": "asn-202321",
+      "target": "ix-franceix-paris",
+      "type": "MEMBER_OF_IX"
+    },
+    {
+      "source": "asn-61955",
+      "target": "ix-franceix-paris",
+      "type": "MEMBER_OF_IX"
+    },
+    {
+      "source": "asn-26415",
+      "target": "ix-franceix-paris",
+      "type": "MEMBER_OF_IX"
+    },
+    {
+      "source": "asn-39533",
+      "target": "ix-franceix-paris",
+      "type": "MEMBER_OF_IX"
+    },
+    {
+      "source": "asn-20804",
+      "target": "ix-franceix-paris",
+      "type": "MEMBER_OF_IX"
+    },
+    {
+      "source": "asn-210232",
+      "target": "ix-franceix-paris",
+      "type": "MEMBER_OF_IX"
+    },
+    {
+      "source": "asn-48702",
+      "target": "ix-franceix-paris",
+      "type": "MEMBER_OF_IX"
+    },
+    {
+      "source": "asn-199758",
+      "target": "ix-franceix-paris",
+      "type": "MEMBER_OF_IX"
+    },
+    {
+      "source": "asn-205010",
+      "target": "ix-franceix-paris",
+      "type": "MEMBER_OF_IX"
+    },
+    {
+      "source": "asn-209097",
+      "target": "ix-franceix-paris",
+      "type": "MEMBER_OF_IX"
+    },
+    {
+      "source": "asn-24611",
+      "target": "ix-franceix-paris",
+      "type": "MEMBER_OF_IX"
+    },
+    {
+      "source": "asn-45899",
+      "target": "ix-franceix-paris",
+      "type": "MEMBER_OF_IX"
+    },
+    {
+      "source": "asn-41327",
+      "target": "ix-franceix-paris",
+      "type": "MEMBER_OF_IX"
+    },
+    {
+      "source": "asn-42369",
+      "target": "ix-franceix-paris",
+      "type": "MEMBER_OF_IX"
+    },
+    {
+      "source": "asn-204403",
+      "target": "ix-franceix-paris",
+      "type": "MEMBER_OF_IX"
+    },
+    {
+      "source": "asn-48237",
+      "target": "ix-franceix-paris",
+      "type": "MEMBER_OF_IX"
+    },
+    {
+      "source": "asn-35598",
+      "target": "ix-franceix-paris",
+      "type": "MEMBER_OF_IX"
+    },
+    {
+      "source": "asn-206059",
+      "target": "ix-franceix-paris",
+      "type": "MEMBER_OF_IX"
+    },
+    {
+      "source": "asn-208414",
+      "target": "ix-franceix-paris",
+      "type": "MEMBER_OF_IX"
+    },
+    {
+      "source": "asn-6752",
+      "target": "ix-franceix-paris",
+      "type": "MEMBER_OF_IX"
+    },
+    {
+      "source": "asn-34927",
+      "target": "ix-franceix-paris",
+      "type": "MEMBER_OF_IX"
+    },
+    {
+      "source": "asn-40934",
+      "target": "ix-franceix-paris",
+      "type": "MEMBER_OF_IX"
+    },
+    {
+      "source": "asn-214708",
+      "target": "ix-franceix-paris",
+      "type": "MEMBER_OF_IX"
+    },
+    {
+      "source": "asn-210165",
+      "target": "ix-franceix-paris",
+      "type": "MEMBER_OF_IX"
+    },
+    {
+      "source": "asn-213317",
+      "target": "ix-franceix-paris",
+      "type": "MEMBER_OF_IX"
+    },
+    {
+      "source": "asn-21056",
+      "target": "ix-franceix-paris",
+      "type": "MEMBER_OF_IX"
+    },
+    {
+      "source": "asn-31638",
+      "target": "ix-franceix-paris",
+      "type": "MEMBER_OF_IX"
+    },
+    {
+      "source": "asn-10099",
+      "target": "ix-franceix-paris",
+      "type": "MEMBER_OF_IX"
+    },
+    {
+      "source": "asn-199839",
+      "target": "ix-franceix-paris",
+      "type": "MEMBER_OF_IX"
+    },
+    {
+      "source": "asn-206720",
+      "target": "ix-franceix-paris",
+      "type": "MEMBER_OF_IX"
+    },
+    {
+      "source": "asn-208420",
+      "target": "ix-franceix-paris",
+      "type": "MEMBER_OF_IX"
+    },
+    {
+      "source": "asn-9299",
+      "target": "ix-franceix-paris",
+      "type": "MEMBER_OF_IX"
+    },
+    {
+      "source": "asn-204279",
+      "target": "ix-franceix-paris",
+      "type": "MEMBER_OF_IX"
+    },
+    {
+      "source": "asn-203683",
+      "target": "ix-franceix-paris",
+      "type": "MEMBER_OF_IX"
+    },
+    {
+      "source": "asn-209323",
+      "target": "ix-franceix-paris",
+      "type": "MEMBER_OF_IX"
+    },
+    {
+      "source": "asn-51269",
+      "target": "ix-franceix-paris",
+      "type": "MEMBER_OF_IX"
+    },
+    {
+      "source": "asn-34019",
+      "target": "ix-franceix-paris",
+      "type": "MEMBER_OF_IX"
+    },
+    {
+      "source": "asn-49121",
+      "target": "ix-franceix-paris",
+      "type": "MEMBER_OF_IX"
+    },
+    {
+      "source": "asn-21247",
+      "target": "ix-franceix-paris",
+      "type": "MEMBER_OF_IX"
+    },
+    {
+      "source": "asn-39931",
+      "target": "ix-franceix-paris",
+      "type": "MEMBER_OF_IX"
+    },
+    {
+      "source": "asn-12779",
+      "target": "ix-franceix-paris",
+      "type": "MEMBER_OF_IX"
+    },
+    {
+      "source": "asn-13030",
+      "target": "ix-franceix-paris",
+      "type": "MEMBER_OF_IX"
+    },
+    {
+      "source": "asn-8723",
+      "target": "ix-franceix-paris",
+      "type": "MEMBER_OF_IX"
+    },
+    {
+      "source": "asn-20900",
+      "target": "ix-franceix-paris",
+      "type": "MEMBER_OF_IX"
+    },
+    {
+      "source": "asn-210732",
+      "target": "ix-franceix-paris",
+      "type": "MEMBER_OF_IX"
+    },
+    {
+      "source": "asn-216302",
+      "target": "ix-franceix-paris",
+      "type": "MEMBER_OF_IX"
+    },
+    {
+      "source": "asn-49763",
+      "target": "ix-franceix-paris",
+      "type": "MEMBER_OF_IX"
+    },
+    {
+      "source": "asn-197133",
+      "target": "ix-franceix-paris",
+      "type": "MEMBER_OF_IX"
+    },
+    {
+      "source": "asn-35393",
+      "target": "ix-franceix-paris",
+      "type": "MEMBER_OF_IX"
+    },
+    {
+      "source": "asn-203547",
+      "target": "ix-franceix-paris",
+      "type": "MEMBER_OF_IX"
+    },
+    {
+      "source": "asn-199248",
+      "target": "ix-franceix-paris",
+      "type": "MEMBER_OF_IX"
+    },
+    {
+      "source": "asn-44000",
+      "target": "ix-franceix-paris",
+      "type": "MEMBER_OF_IX"
+    },
+    {
+      "source": "asn-20565",
+      "target": "ix-franceix-paris",
+      "type": "MEMBER_OF_IX"
+    },
+    {
+      "source": "asn-35426",
+      "target": "ix-franceix-paris",
+      "type": "MEMBER_OF_IX"
+    },
+    {
+      "source": "asn-29608",
+      "target": "ix-franceix-paris",
+      "type": "MEMBER_OF_IX"
+    },
+    {
+      "source": "asn-39104",
+      "target": "ix-franceix-paris",
+      "type": "MEMBER_OF_IX"
+    },
+    {
+      "source": "asn-15401",
+      "target": "ix-franceix-paris",
+      "type": "MEMBER_OF_IX"
+    },
+    {
+      "source": "asn-39444",
+      "target": "ix-franceix-paris",
+      "type": "MEMBER_OF_IX"
+    },
+    {
+      "source": "asn-212321",
+      "target": "ix-franceix-paris",
+      "type": "MEMBER_OF_IX"
+    },
+    {
+      "source": "asn-42",
+      "target": "ix-franceix-paris",
+      "type": "MEMBER_OF_IX"
+    },
+    {
+      "source": "asn-48732",
+      "target": "ix-franceix-paris",
+      "type": "MEMBER_OF_IX"
+    },
+    {
+      "source": "asn-205845",
+      "target": "ix-franceix-paris",
+      "type": "MEMBER_OF_IX"
+    },
+    {
+      "source": "asn-15422",
+      "target": "ix-franceix-paris",
+      "type": "MEMBER_OF_IX"
+    },
+    {
+      "source": "asn-200653",
+      "target": "ix-franceix-paris",
+      "type": "MEMBER_OF_IX"
+    },
+    {
+      "source": "asn-8487",
+      "target": "ix-franceix-paris",
+      "type": "MEMBER_OF_IX"
+    },
+    {
+      "source": "asn-198507",
+      "target": "ix-franceix-paris",
+      "type": "MEMBER_OF_IX"
+    },
+    {
+      "source": "asn-12850",
+      "target": "ix-franceix-paris",
+      "type": "MEMBER_OF_IX"
+    },
+    {
+      "source": "asn-8801",
+      "target": "ix-franceix-paris",
+      "type": "MEMBER_OF_IX"
+    },
+    {
+      "source": "asn-198034",
+      "target": "ix-franceix-paris",
+      "type": "MEMBER_OF_IX"
+    },
+    {
+      "source": "asn-24482",
+      "target": "ix-franceix-paris",
+      "type": "MEMBER_OF_IX"
+    },
+    {
+      "source": "asn-14340",
+      "target": "ix-franceix-paris",
+      "type": "MEMBER_OF_IX"
+    },
+    {
+      "source": "asn-206002",
+      "target": "ix-franceix-paris",
+      "type": "MEMBER_OF_IX"
+    },
+    {
+      "source": "asn-8839",
+      "target": "ix-franceix-paris",
+      "type": "MEMBER_OF_IX"
+    },
+    {
+      "source": "asn-198551",
+      "target": "ix-franceix-paris",
+      "type": "MEMBER_OF_IX"
+    },
+    {
+      "source": "asn-58511",
+      "target": "ix-franceix-paris",
+      "type": "MEMBER_OF_IX"
+    },
+    {
+      "source": "asn-8554",
+      "target": "ix-franceix-paris",
+      "type": "MEMBER_OF_IX"
+    },
+    {
+      "source": "asn-37054",
+      "target": "ix-franceix-paris",
+      "type": "MEMBER_OF_IX"
+    },
+    {
+      "source": "asn-50903",
+      "target": "ix-franceix-paris",
+      "type": "MEMBER_OF_IX"
+    },
+    {
+      "source": "asn-197922",
+      "target": "ix-franceix-paris",
+      "type": "MEMBER_OF_IX"
+    },
+    {
+      "source": "asn-4637",
+      "target": "ix-franceix-paris",
+      "type": "MEMBER_OF_IX"
+    },
+    {
+      "source": "asn-29104",
+      "target": "ix-franceix-paris",
+      "type": "MEMBER_OF_IX"
+    },
+    {
+      "source": "asn-19551",
+      "target": "ix-franceix-paris",
+      "type": "MEMBER_OF_IX"
+    },
+    {
+      "source": "asn-24691",
+      "target": "ix-franceix-paris",
+      "type": "MEMBER_OF_IX"
+    },
+    {
+      "source": "asn-12409",
+      "target": "ix-franceix-paris",
+      "type": "MEMBER_OF_IX"
+    },
+    {
+      "source": "asn-215234",
+      "target": "ix-franceix-paris",
+      "type": "MEMBER_OF_IX"
+    },
+    {
+      "source": "asn-1828",
+      "target": "ix-franceix-paris",
+      "type": "MEMBER_OF_IX"
+    },
+    {
+      "source": "asn-205344",
+      "target": "ix-franceix-paris",
+      "type": "MEMBER_OF_IX"
+    },
+    {
+      "source": "asn-35600",
+      "target": "ix-franceix-paris",
+      "type": "MEMBER_OF_IX"
+    },
+    {
+      "source": "asn-60350",
+      "target": "ix-franceix-paris",
+      "type": "MEMBER_OF_IX"
+    },
+    {
+      "source": "asn-37721",
+      "target": "ix-franceix-paris",
+      "type": "MEMBER_OF_IX"
+    },
+    {
+      "source": "asn-25160",
+      "target": "ix-franceix-paris",
+      "type": "MEMBER_OF_IX"
+    },
+    {
+      "source": "asn-51326",
+      "target": "ix-franceix-paris",
+      "type": "MEMBER_OF_IX"
+    },
+    {
+      "source": "asn-56911",
+      "target": "ix-franceix-paris",
+      "type": "MEMBER_OF_IX"
+    },
+    {
+      "source": "asn-43858",
+      "target": "ix-franceix-paris",
+      "type": "MEMBER_OF_IX"
+    },
+    {
+      "source": "asn-13237",
+      "target": "ix-franceix-paris",
+      "type": "MEMBER_OF_IX"
+    },
+    {
+      "source": "asn-200748",
+      "target": "ix-franceix-paris",
+      "type": "MEMBER_OF_IX"
+    },
+    {
+      "source": "asn-62119",
+      "target": "ix-franceix-paris",
+      "type": "MEMBER_OF_IX"
+    },
+    {
+      "source": "asn-39120",
+      "target": "ix-franceix-paris",
+      "type": "MEMBER_OF_IX"
+    },
+    {
+      "source": "asn-328107",
+      "target": "ix-franceix-paris",
+      "type": "MEMBER_OF_IX"
+    },
+    {
+      "source": "asn-206342",
+      "target": "ix-franceix-paris",
+      "type": "MEMBER_OF_IX"
+    },
+    {
+      "source": "asn-6057",
+      "target": "ix-franceix-paris",
+      "type": "MEMBER_OF_IX"
+    },
+    {
+      "source": "asn-48213",
+      "target": "ix-franceix-paris",
+      "type": "MEMBER_OF_IX"
+    },
+    {
+      "source": "asn-49463",
+      "target": "ix-franceix-paris",
+      "type": "MEMBER_OF_IX"
+    },
+    {
+      "source": "asn-204207",
+      "target": "ix-franceix-paris",
+      "type": "MEMBER_OF_IX"
+    },
+    {
+      "source": "asn-15826",
+      "target": "ix-franceix-paris",
+      "type": "MEMBER_OF_IX"
+    },
+    {
+      "source": "asn-34781",
+      "target": "ix-franceix-paris",
+      "type": "MEMBER_OF_IX"
+    },
+    {
+      "source": "asn-3225",
+      "target": "ix-franceix-paris",
+      "type": "MEMBER_OF_IX"
+    },
+    {
+      "source": "asn-201228",
+      "target": "ix-franceix-paris",
+      "type": "MEMBER_OF_IX"
+    },
+    {
+      "source": "asn-37529",
+      "target": "ix-franceix-paris",
+      "type": "MEMBER_OF_IX"
+    },
+    {
+      "source": "asn-61205",
+      "target": "ix-franceix-paris",
+      "type": "MEMBER_OF_IX"
+    },
+    {
+      "source": "asn-42687",
+      "target": "ix-franceix-paris",
+      "type": "MEMBER_OF_IX"
+    },
+    {
+      "source": "asn-39180",
+      "target": "ix-franceix-paris",
+      "type": "MEMBER_OF_IX"
+    },
+    {
+      "source": "asn-205555",
+      "target": "ix-franceix-paris",
+      "type": "MEMBER_OF_IX"
+    },
+    {
+      "source": "asn-39072",
+      "target": "ix-franceix-paris",
+      "type": "MEMBER_OF_IX"
+    },
+    {
+      "source": "asn-16363",
+      "target": "ix-franceix-paris",
+      "type": "MEMBER_OF_IX"
+    },
+    {
+      "source": "asn-201808",
+      "target": "ix-franceix-paris",
+      "type": "MEMBER_OF_IX"
+    },
+    {
+      "source": "asn-8565",
+      "target": "ix-franceix-paris",
+      "type": "MEMBER_OF_IX"
+    },
+    {
+      "source": "asn-9153",
+      "target": "ix-franceix-paris",
+      "type": "MEMBER_OF_IX"
+    },
+    {
+      "source": "asn-58011",
+      "target": "ix-franceix-paris",
+      "type": "MEMBER_OF_IX"
+    },
+    {
+      "source": "asn-25428",
+      "target": "ix-franceix-paris",
+      "type": "MEMBER_OF_IX"
+    },
+    {
+      "source": "asn-44902",
+      "target": "ix-franceix-paris",
+      "type": "MEMBER_OF_IX"
+    },
+    {
+      "source": "asn-327814",
+      "target": "ix-franceix-paris",
+      "type": "MEMBER_OF_IX"
+    },
+    {
+      "source": "asn-2484",
+      "target": "ix-franceix-paris",
+      "type": "MEMBER_OF_IX"
+    },
+    {
+      "source": "asn-2486",
+      "target": "ix-franceix-paris",
+      "type": "MEMBER_OF_IX"
+    },
+    {
+      "source": "asn-15436",
+      "target": "ix-franceix-paris",
+      "type": "MEMBER_OF_IX"
+    },
+    {
+      "source": "asn-25593",
+      "target": "ix-franceix-paris",
+      "type": "MEMBER_OF_IX"
+    },
+    {
+      "source": "asn-21101",
+      "target": "ix-franceix-paris",
+      "type": "MEMBER_OF_IX"
+    },
+    {
+      "source": "asn-9583",
+      "target": "ix-franceix-paris",
+      "type": "MEMBER_OF_IX"
+    },
+    {
+      "source": "asn-3856",
+      "target": "ix-franceix-paris",
+      "type": "MEMBER_OF_IX"
+    },
+    {
+      "source": "asn-43436",
+      "target": "ix-franceix-paris",
+      "type": "MEMBER_OF_IX"
+    },
+    {
+      "source": "asn-197692",
+      "target": "ix-franceix-paris",
+      "type": "MEMBER_OF_IX"
+    },
+    {
+      "source": "asn-8262",
+      "target": "ix-franceix-paris",
+      "type": "MEMBER_OF_IX"
+    },
+    {
+      "source": "asn-29605",
+      "target": "ix-franceix-paris",
+      "type": "MEMBER_OF_IX"
+    },
+    {
+      "source": "asn-31424",
+      "target": "ix-franceix-paris",
+      "type": "MEMBER_OF_IX"
+    },
+    {
+      "source": "asn-15965",
+      "target": "ix-franceix-paris",
+      "type": "MEMBER_OF_IX"
+    },
+    {
+      "source": "asn-30919",
+      "target": "ix-franceix-paris",
+      "type": "MEMBER_OF_IX"
+    },
+    {
+      "source": "asn-12696",
+      "target": "ix-franceix-paris",
+      "type": "MEMBER_OF_IX"
+    },
+    {
+      "source": "asn-7500",
+      "target": "ix-franceix-paris",
+      "type": "MEMBER_OF_IX"
+    },
+    {
+      "source": "asn-12654",
+      "target": "ix-franceix-paris",
+      "type": "MEMBER_OF_IX"
+    },
+    {
+      "source": "asn-9304",
+      "target": "ix-franceix-paris",
+      "type": "MEMBER_OF_IX"
+    },
+    {
+      "source": "asn-132876",
+      "target": "ix-franceix-paris",
+      "type": "MEMBER_OF_IX"
+    },
+    {
+      "source": "asn-199125",
+      "target": "ix-franceix-paris",
+      "type": "MEMBER_OF_IX"
+    },
+    {
+      "source": "asn-47406",
+      "target": "ix-franceix-paris",
+      "type": "MEMBER_OF_IX"
+    },
+    {
+      "source": "asn-199064",
+      "target": "ix-franceix-paris",
+      "type": "MEMBER_OF_IX"
+    },
+    {
+      "source": "asn-39063",
+      "target": "ix-franceix-paris",
+      "type": "MEMBER_OF_IX"
+    },
+    {
+      "source": "asn-31178",
+      "target": "ix-franceix-paris",
+      "type": "MEMBER_OF_IX"
+    },
+    {
+      "source": "asn-44219",
+      "target": "ix-franceix-paris",
+      "type": "MEMBER_OF_IX"
+    },
+    {
+      "source": "asn-397601",
+      "target": "ix-franceix-paris",
+      "type": "MEMBER_OF_IX"
+    },
+    {
+      "source": "asn-21000",
+      "target": "ix-franceix-paris",
+      "type": "MEMBER_OF_IX"
+    },
+    {
+      "source": "asn-44842",
+      "target": "ix-franceix-paris",
+      "type": "MEMBER_OF_IX"
+    },
+    {
+      "source": "asn-34288",
+      "target": "ix-franceix-paris",
+      "type": "MEMBER_OF_IX"
+    },
+    {
+      "source": "asn-63741",
+      "target": "ix-franceix-paris",
+      "type": "MEMBER_OF_IX"
+    },
+    {
+      "source": "asn-199917",
+      "target": "ix-franceix-paris",
+      "type": "MEMBER_OF_IX"
+    },
+    {
+      "source": "asn-57797",
+      "target": "ix-franceix-paris",
+      "type": "MEMBER_OF_IX"
+    },
+    {
+      "source": "asn-50293",
+      "target": "ix-franceix-paris",
+      "type": "MEMBER_OF_IX"
+    },
+    {
+      "source": "asn-328411",
+      "target": "ix-franceix-paris",
+      "type": "MEMBER_OF_IX"
+    },
+    {
+      "source": "asn-212579",
+      "target": "ix-franceix-paris",
+      "type": "MEMBER_OF_IX"
+    },
+    {
+      "source": "asn-33835",
+      "target": "ix-franceix-paris",
+      "type": "MEMBER_OF_IX"
+    },
+    {
+      "source": "asn-44334",
+      "target": "ix-franceix-paris",
+      "type": "MEMBER_OF_IX"
+    },
+    {
+      "source": "asn-41191",
+      "target": "ix-franceix-paris",
+      "type": "MEMBER_OF_IX"
+    },
+    {
+      "source": "asn-47648",
+      "target": "ix-franceix-paris",
+      "type": "MEMBER_OF_IX"
+    },
+    {
+      "source": "asn-29246",
+      "target": "ix-franceix-paris",
+      "type": "MEMBER_OF_IX"
+    },
+    {
+      "source": "asn-8784",
+      "target": "ix-franceix-paris",
+      "type": "MEMBER_OF_IX"
+    },
+    {
+      "source": "asn-60456",
+      "target": "ix-franceix-paris",
+      "type": "MEMBER_OF_IX"
+    },
+    {
+      "source": "asn-50858",
+      "target": "ix-franceix-paris",
+      "type": "MEMBER_OF_IX"
+    },
+    {
+      "source": "asn-205801",
+      "target": "ix-franceix-paris",
+      "type": "MEMBER_OF_IX"
+    },
+    {
+      "source": "asn-60427",
+      "target": "ix-franceix-paris",
+      "type": "MEMBER_OF_IX"
+    },
+    {
+      "source": "asn-47127",
+      "target": "ix-franceix-paris",
+      "type": "MEMBER_OF_IX"
+    },
+    {
+      "source": "asn-31449",
+      "target": "ix-franceix-paris",
+      "type": "MEMBER_OF_IX"
+    },
+    {
+      "source": "asn-52025",
+      "target": "ix-franceix-paris",
+      "type": "MEMBER_OF_IX"
+    },
+    {
+      "source": "asn-215248",
+      "target": "ix-franceix-paris",
+      "type": "MEMBER_OF_IX"
+    },
+    {
+      "source": "asn-50620",
+      "target": "ix-franceix-paris",
+      "type": "MEMBER_OF_IX"
+    },
+    {
+      "source": "asn-59689",
+      "target": "ix-franceix-paris",
+      "type": "MEMBER_OF_IX"
+    },
+    {
+      "source": "asn-58308",
+      "target": "ix-franceix-paris",
+      "type": "MEMBER_OF_IX"
+    },
+    {
+      "source": "asn-202140",
+      "target": "ix-franceix-paris",
+      "type": "MEMBER_OF_IX"
+    },
+    {
+      "source": "asn-209428",
+      "target": "ix-franceix-paris",
+      "type": "MEMBER_OF_IX"
+    },
+    {
+      "source": "asn-4601",
+      "target": "ix-franceix-paris",
+      "type": "MEMBER_OF_IX"
+    },
+    {
+      "source": "asn-209823",
+      "target": "ix-franceix-paris",
+      "type": "MEMBER_OF_IX"
+    },
+    {
+      "source": "asn-197696",
+      "target": "ix-franceix-paris",
+      "type": "MEMBER_OF_IX"
+    },
+    {
+      "source": "asn-25152",
+      "target": "ix-franceix-paris",
+      "type": "MEMBER_OF_IX"
+    },
+    {
+      "source": "asn-197000",
+      "target": "ix-franceix-paris",
+      "type": "MEMBER_OF_IX"
+    },
+    {
+      "source": "asn-35360",
+      "target": "ix-franceix-paris",
+      "type": "MEMBER_OF_IX"
+    },
+    {
+      "source": "asn-41044",
+      "target": "ix-franceix-paris",
+      "type": "MEMBER_OF_IX"
+    },
+    {
+      "source": "asn-45009",
+      "target": "ix-franceix-paris",
+      "type": "MEMBER_OF_IX"
+    },
+    {
+      "source": "asn-42275",
+      "target": "ix-franceix-paris",
+      "type": "MEMBER_OF_IX"
+    },
+    {
+      "source": "asn-132337",
+      "target": "ix-franceix-paris",
+      "type": "MEMBER_OF_IX"
+    },
+    {
+      "source": "asn-31019",
+      "target": "ix-franceix-paris",
+      "type": "MEMBER_OF_IX"
+    },
+    {
+      "source": "asn-215250",
+      "target": "ix-franceix-paris",
+      "type": "MEMBER_OF_IX"
+    },
+    {
+      "source": "asn-212037",
+      "target": "ix-franceix-paris",
+      "type": "MEMBER_OF_IX"
+    },
+    {
+      "source": "asn-50414",
+      "target": "ix-franceix-paris",
+      "type": "MEMBER_OF_IX"
+    },
+    {
+      "source": "asn-60983",
+      "target": "ix-franceix-paris",
+      "type": "MEMBER_OF_IX"
+    },
+    {
+      "source": "asn-48310",
+      "target": "ix-franceix-paris",
+      "type": "MEMBER_OF_IX"
+    },
+    {
+      "source": "asn-209532",
+      "target": "ix-franceix-paris",
+      "type": "MEMBER_OF_IX"
+    },
+    {
+      "source": "asn-8298",
+      "target": "ix-franceix-paris",
+      "type": "MEMBER_OF_IX"
+    },
+    {
+      "source": "asn-9036",
+      "target": "ix-franceix-paris",
+      "type": "MEMBER_OF_IX"
+    },
+    {
+      "source": "asn-16101",
+      "target": "ix-franceix-paris",
+      "type": "MEMBER_OF_IX"
+    },
+    {
+      "source": "asn-199116",
+      "target": "ix-franceix-paris",
+      "type": "MEMBER_OF_IX"
+    },
+    {
+      "source": "asn-212895",
+      "target": "ix-franceix-paris",
+      "type": "MEMBER_OF_IX"
+    },
+    {
+      "source": "asn-206014",
+      "target": "ix-franceix-paris",
+      "type": "MEMBER_OF_IX"
+    },
+    {
+      "source": "asn-201080",
+      "target": "ix-franceix-paris",
+      "type": "MEMBER_OF_IX"
+    },
+    {
+      "source": "asn-197551",
+      "target": "ix-franceix-paris",
+      "type": "MEMBER_OF_IX"
+    },
+    {
+      "source": "asn-199396",
+      "target": "ix-franceix-paris",
+      "type": "MEMBER_OF_IX"
+    },
+    {
+      "source": "asn-212232",
+      "target": "ix-franceix-paris",
+      "type": "MEMBER_OF_IX"
+    },
+    {
+      "source": "asn-44295",
+      "target": "ix-franceix-paris",
+      "type": "MEMBER_OF_IX"
+    },
+    {
+      "source": "asn-51405",
+      "target": "ix-franceix-paris",
+      "type": "MEMBER_OF_IX"
+    },
+    {
+      "source": "asn-196983",
+      "target": "ix-franceix-paris",
+      "type": "MEMBER_OF_IX"
+    },
+    {
+      "source": "asn-2602",
+      "target": "ix-franceix-paris",
+      "type": "MEMBER_OF_IX"
+    },
+    {
+      "source": "asn-198290",
+      "target": "ix-franceix-paris",
+      "type": "MEMBER_OF_IX"
+    },
+    {
+      "source": "asn-199121",
+      "target": "ix-franceix-paris",
+      "type": "MEMBER_OF_IX"
+    },
+    {
+      "source": "asn-48519",
+      "target": "ix-franceix-paris",
+      "type": "MEMBER_OF_IX"
+    },
+    {
+      "source": "asn-53264",
+      "target": "ix-franceix-paris",
+      "type": "MEMBER_OF_IX"
+    },
+    {
+      "source": "asn-2613",
+      "target": "ix-franceix-paris",
+      "type": "MEMBER_OF_IX"
+    },
+    {
+      "source": "asn-200129",
+      "target": "ix-franceix-paris",
+      "type": "MEMBER_OF_IX"
+    },
+    {
+      "source": "asn-13002",
+      "target": "ix-franceix-paris",
+      "type": "MEMBER_OF_IX"
+    },
+    {
+      "source": "asn-8283",
+      "target": "ix-franceix-paris",
+      "type": "MEMBER_OF_IX"
+    },
+    {
+      "source": "asn-210036",
+      "target": "ix-franceix-paris",
+      "type": "MEMBER_OF_IX"
+    },
+    {
+      "source": "asn-210890",
+      "target": "ix-franceix-paris",
+      "type": "MEMBER_OF_IX"
+    },
+    {
+      "source": "asn-57965",
+      "target": "ix-franceix-paris",
+      "type": "MEMBER_OF_IX"
+    },
+    {
+      "source": "asn-401690",
+      "target": "ix-franceix-paris",
+      "type": "MEMBER_OF_IX"
+    },
+    {
+      "source": "asn-210834",
+      "target": "ix-franceix-paris",
+      "type": "MEMBER_OF_IX"
+    },
+    {
+      "source": "asn-206782",
+      "target": "ix-franceix-paris",
+      "type": "MEMBER_OF_IX"
+    },
+    {
+      "source": "asn-206610",
+      "target": "ix-franceix-paris",
+      "type": "MEMBER_OF_IX"
+    },
+    {
+      "source": "asn-8310",
+      "target": "ix-franceix-paris",
+      "type": "MEMBER_OF_IX"
+    },
+    {
+      "source": "asn-39271",
+      "target": "ix-franceix-paris",
+      "type": "MEMBER_OF_IX"
+    },
+    {
+      "source": "asn-60497",
+      "target": "ix-franceix-paris",
+      "type": "MEMBER_OF_IX"
+    },
+    {
+      "source": "asn-51185",
+      "target": "ix-franceix-paris",
+      "type": "MEMBER_OF_IX"
+    },
+    {
+      "source": "asn-34422",
+      "target": "ix-franceix-paris",
+      "type": "MEMBER_OF_IX"
+    },
+    {
+      "source": "asn-32787",
+      "target": "ix-franceix-paris",
+      "type": "MEMBER_OF_IX"
+    },
+    {
+      "source": "asn-25595",
+      "target": "ix-franceix-paris",
+      "type": "MEMBER_OF_IX"
+    },
+    {
+      "source": "asn-56630",
+      "target": "ix-franceix-paris",
+      "type": "MEMBER_OF_IX"
+    },
+    {
+      "source": "asn-20756",
+      "target": "ix-franceix-paris",
+      "type": "MEMBER_OF_IX"
+    },
+    {
+      "source": "asn-36236",
+      "target": "ix-franceix-paris",
+      "type": "MEMBER_OF_IX"
+    },
+    {
+      "source": "asn-20940",
+      "target": "fac-53",
+      "type": "COLOCATED_PRESENCE"
+    },
+    {
+      "source": "asn-5410",
+      "target": "fac-53",
+      "type": "COLOCATED_PRESENCE"
+    },
+    {
+      "source": "asn-8220",
+      "target": "fac-53",
+      "type": "COLOCATED_PRESENCE"
+    },
+    {
+      "source": "asn-15412",
+      "target": "fac-53",
+      "type": "COLOCATED_PRESENCE"
+    },
+    {
+      "source": "asn-8426",
+      "target": "fac-53",
+      "type": "COLOCATED_PRESENCE"
+    },
+    {
+      "source": "asn-5400",
+      "target": "fac-53",
+      "type": "COLOCATED_PRESENCE"
+    },
+    {
+      "source": "asn-12322",
+      "target": "fac-53",
+      "type": "COLOCATED_PRESENCE"
+    },
+    {
+      "source": "asn-9002",
+      "target": "fac-53",
+      "type": "COLOCATED_PRESENCE"
+    },
+    {
+      "source": "asn-6774",
+      "target": "fac-53",
+      "type": "COLOCATED_PRESENCE"
+    },
+    {
+      "source": "asn-13030",
+      "target": "fac-53",
+      "type": "COLOCATED_PRESENCE"
+    },
+    {
+      "source": "asn-8565",
+      "target": "fac-53",
+      "type": "COLOCATED_PRESENCE"
+    },
+    {
+      "source": "asn-29608",
+      "target": "fac-53",
+      "type": "COLOCATED_PRESENCE"
+    },
+    {
+      "source": "asn-30972",
+      "target": "fac-53",
+      "type": "COLOCATED_PRESENCE"
+    },
+    {
+      "source": "asn-6939",
+      "target": "fac-53",
+      "type": "COLOCATED_PRESENCE"
+    },
+    {
+      "source": "asn-8839",
+      "target": "fac-53",
+      "type": "COLOCATED_PRESENCE"
+    },
+    {
+      "source": "asn-8554",
+      "target": "fac-53",
+      "type": "COLOCATED_PRESENCE"
+    },
+    {
+      "source": "asn-24904",
+      "target": "fac-53",
+      "type": "COLOCATED_PRESENCE"
+    },
+    {
+      "source": "asn-15169",
+      "target": "fac-53",
+      "type": "COLOCATED_PRESENCE"
+    },
+    {
+      "source": "asn-15557",
+      "target": "fac-53",
+      "type": "COLOCATED_PRESENCE"
+    },
+    {
+      "source": "asn-21409",
+      "target": "fac-53",
+      "type": "COLOCATED_PRESENCE"
+    },
+    {
+      "source": "asn-2906",
+      "target": "fac-53",
+      "type": "COLOCATED_PRESENCE"
+    },
+    {
+      "source": "asn-34019",
+      "target": "fac-53",
+      "type": "COLOCATED_PRESENCE"
+    },
+    {
+      "source": "asn-6461",
+      "target": "fac-53",
+      "type": "COLOCATED_PRESENCE"
+    },
+    {
+      "source": "asn-8075",
+      "target": "fac-53",
+      "type": "COLOCATED_PRESENCE"
+    },
+    {
+      "source": "asn-12850",
+      "target": "fac-53",
+      "type": "COLOCATED_PRESENCE"
+    },
+    {
+      "source": "asn-30781",
+      "target": "fac-53",
+      "type": "COLOCATED_PRESENCE"
+    },
+    {
+      "source": "asn-9036",
+      "target": "fac-53",
+      "type": "COLOCATED_PRESENCE"
+    },
+    {
+      "source": "asn-20766",
+      "target": "fac-53",
+      "type": "COLOCATED_PRESENCE"
+    },
+    {
+      "source": "asn-20562",
+      "target": "fac-53",
+      "type": "COLOCATED_PRESENCE"
+    },
+    {
+      "source": "asn-32934",
+      "target": "fac-53",
+      "type": "COLOCATED_PRESENCE"
+    },
+    {
+      "source": "asn-12779",
+      "target": "fac-53",
+      "type": "COLOCATED_PRESENCE"
+    },
+    {
+      "source": "asn-14340",
+      "target": "fac-53",
+      "type": "COLOCATED_PRESENCE"
+    },
+    {
+      "source": "asn-8487",
+      "target": "fac-53",
+      "type": "COLOCATED_PRESENCE"
+    },
+    {
+      "source": "asn-8399",
+      "target": "fac-53",
+      "type": "COLOCATED_PRESENCE"
+    },
+    {
+      "source": "asn-16276",
+      "target": "fac-53",
+      "type": "COLOCATED_PRESENCE"
+    },
+    {
+      "source": "asn-16509",
+      "target": "fac-53",
+      "type": "COLOCATED_PRESENCE"
+    },
+    {
+      "source": "asn-25091",
+      "target": "fac-53",
+      "type": "COLOCATED_PRESENCE"
+    },
+    {
+      "source": "asn-8218",
+      "target": "fac-53",
+      "type": "COLOCATED_PRESENCE"
+    },
+    {
+      "source": "asn-35393",
+      "target": "fac-53",
+      "type": "COLOCATED_PRESENCE"
+    },
+    {
+      "source": "asn-8784",
+      "target": "fac-53",
+      "type": "COLOCATED_PRESENCE"
+    },
+    {
+      "source": "asn-33891",
+      "target": "fac-53",
+      "type": "COLOCATED_PRESENCE"
+    },
+    {
+      "source": "asn-12826",
+      "target": "fac-53",
+      "type": "COLOCATED_PRESENCE"
+    },
+    {
+      "source": "asn-44141",
+      "target": "fac-53",
+      "type": "COLOCATED_PRESENCE"
+    },
+    {
+      "source": "asn-44444",
+      "target": "fac-53",
+      "type": "COLOCATED_PRESENCE"
+    },
+    {
+      "source": "asn-24940",
+      "target": "fac-53",
+      "type": "COLOCATED_PRESENCE"
+    },
+    {
+      "source": "asn-6661",
+      "target": "fac-53",
+      "type": "COLOCATED_PRESENCE"
+    },
+    {
+      "source": "asn-34177",
+      "target": "fac-53",
+      "type": "COLOCATED_PRESENCE"
+    },
+    {
+      "source": "asn-45430",
+      "target": "fac-53",
+      "type": "COLOCATED_PRESENCE"
+    },
+    {
+      "source": "asn-15695",
+      "target": "fac-53",
+      "type": "COLOCATED_PRESENCE"
+    },
+    {
+      "source": "asn-35625",
+      "target": "fac-53",
+      "type": "COLOCATED_PRESENCE"
+    },
+    {
+      "source": "asn-39605",
+      "target": "fac-53",
+      "type": "COLOCATED_PRESENCE"
+    },
+    {
+      "source": "asn-8309",
+      "target": "fac-53",
+      "type": "COLOCATED_PRESENCE"
+    },
+    {
+      "source": "asn-34659",
+      "target": "fac-53",
+      "type": "COLOCATED_PRESENCE"
+    },
+    {
+      "source": "asn-49544",
+      "target": "fac-53",
+      "type": "COLOCATED_PRESENCE"
+    },
+    {
+      "source": "asn-41653",
+      "target": "fac-53",
+      "type": "COLOCATED_PRESENCE"
+    },
+    {
+      "source": "asn-39180",
+      "target": "fac-53",
+      "type": "COLOCATED_PRESENCE"
+    },
+    {
+      "source": "asn-6775",
+      "target": "fac-53",
+      "type": "COLOCATED_PRESENCE"
+    },
+    {
+      "source": "asn-29075",
+      "target": "fac-53",
+      "type": "COLOCATED_PRESENCE"
+    },
+    {
+      "source": "asn-16080",
+      "target": "fac-53",
+      "type": "COLOCATED_PRESENCE"
+    },
+    {
+      "source": "asn-16347",
+      "target": "fac-53",
+      "type": "COLOCATED_PRESENCE"
+    },
+    {
+      "source": "asn-2200",
+      "target": "fac-53",
+      "type": "COLOCATED_PRESENCE"
+    },
+    {
+      "source": "asn-8368",
+      "target": "fac-53",
+      "type": "COLOCATED_PRESENCE"
+    },
+    {
+      "source": "asn-50620",
+      "target": "fac-53",
+      "type": "COLOCATED_PRESENCE"
+    },
+    {
+      "source": "asn-31167",
+      "target": "fac-53",
+      "type": "COLOCATED_PRESENCE"
+    },
+    {
+      "source": "asn-42473",
+      "target": "fac-53",
+      "type": "COLOCATED_PRESENCE"
+    },
+    {
+      "source": "asn-33353",
+      "target": "fac-53",
+      "type": "COLOCATED_PRESENCE"
+    },
+    {
+      "source": "asn-33835",
+      "target": "fac-53",
+      "type": "COLOCATED_PRESENCE"
+    },
+    {
+      "source": "asn-44902",
+      "target": "fac-53",
+      "type": "COLOCATED_PRESENCE"
+    },
+    {
+      "source": "asn-20900",
+      "target": "fac-53",
+      "type": "COLOCATED_PRESENCE"
+    },
+    {
+      "source": "asn-33930",
+      "target": "fac-53",
+      "type": "COLOCATED_PRESENCE"
+    },
+    {
+      "source": "asn-50858",
+      "target": "fac-53",
+      "type": "COLOCATED_PRESENCE"
+    },
+    {
+      "source": "asn-42929",
+      "target": "fac-53",
+      "type": "COLOCATED_PRESENCE"
+    },
+    {
+      "source": "asn-29513",
+      "target": "fac-53",
+      "type": "COLOCATED_PRESENCE"
+    },
+    {
+      "source": "asn-714",
+      "target": "fac-53",
+      "type": "COLOCATED_PRESENCE"
+    },
+    {
+      "source": "asn-8304",
+      "target": "fac-53",
+      "type": "COLOCATED_PRESENCE"
+    },
+    {
+      "source": "asn-24482",
+      "target": "fac-53",
+      "type": "COLOCATED_PRESENCE"
+    },
+    {
+      "source": "asn-14537",
+      "target": "fac-53",
+      "type": "COLOCATED_PRESENCE"
+    },
+    {
+      "source": "asn-44334",
+      "target": "fac-53",
+      "type": "COLOCATED_PRESENCE"
+    },
+    {
+      "source": "asn-16128",
+      "target": "fac-53",
+      "type": "COLOCATED_PRESENCE"
+    },
+    {
+      "source": "asn-6738",
+      "target": "fac-53",
+      "type": "COLOCATED_PRESENCE"
+    },
+    {
+      "source": "asn-42",
+      "target": "fac-53",
+      "type": "COLOCATED_PRESENCE"
+    },
+    {
+      "source": "asn-51269",
+      "target": "fac-53",
+      "type": "COLOCATED_PRESENCE"
+    },
+    {
+      "source": "asn-34863",
+      "target": "fac-53",
+      "type": "COLOCATED_PRESENCE"
+    },
+    {
+      "source": "asn-52075",
+      "target": "fac-53",
+      "type": "COLOCATED_PRESENCE"
+    },
+    {
+      "source": "asn-31564",
+      "target": "fac-53",
+      "type": "COLOCATED_PRESENCE"
+    },
+    {
+      "source": "asn-57119",
+      "target": "fac-53",
+      "type": "COLOCATED_PRESENCE"
+    },
+    {
+      "source": "asn-13335",
+      "target": "fac-53",
+      "type": "COLOCATED_PRESENCE"
+    },
+    {
+      "source": "asn-29286",
+      "target": "fac-53",
+      "type": "COLOCATED_PRESENCE"
+    },
+    {
+      "source": "asn-58453",
+      "target": "fac-53",
+      "type": "COLOCATED_PRESENCE"
+    },
+    {
+      "source": "asn-197981",
+      "target": "fac-53",
+      "type": "COLOCATED_PRESENCE"
+    },
+    {
+      "source": "asn-197133",
+      "target": "fac-53",
+      "type": "COLOCATED_PRESENCE"
+    },
+    {
+      "source": "asn-56665",
+      "target": "fac-53",
+      "type": "COLOCATED_PRESENCE"
+    },
+    {
+      "source": "asn-6758",
+      "target": "fac-53",
+      "type": "COLOCATED_PRESENCE"
+    },
+    {
+      "source": "asn-25160",
+      "target": "fac-53",
+      "type": "COLOCATED_PRESENCE"
+    },
+    {
+      "source": "asn-198335",
+      "target": "fac-53",
+      "type": "COLOCATED_PRESENCE"
+    },
+    {
+      "source": "asn-198507",
+      "target": "fac-53",
+      "type": "COLOCATED_PRESENCE"
+    },
+    {
+      "source": "asn-57344",
+      "target": "fac-53",
+      "type": "COLOCATED_PRESENCE"
+    },
+    {
+      "source": "asn-29467",
+      "target": "fac-53",
+      "type": "COLOCATED_PRESENCE"
+    },
+    {
+      "source": "asn-37054",
+      "target": "fac-53",
+      "type": "COLOCATED_PRESENCE"
+    },
+    {
+      "source": "asn-43858",
+      "target": "fac-53",
+      "type": "COLOCATED_PRESENCE"
+    },
+    {
+      "source": "asn-198545",
+      "target": "fac-53",
+      "type": "COLOCATED_PRESENCE"
+    },
+    {
+      "source": "asn-15401",
+      "target": "fac-53",
+      "type": "COLOCATED_PRESENCE"
+    },
+    {
+      "source": "asn-199660",
+      "target": "fac-53",
+      "type": "COLOCATED_PRESENCE"
+    },
+    {
+      "source": "asn-54113",
+      "target": "fac-53",
+      "type": "COLOCATED_PRESENCE"
+    },
+    {
+      "source": "asn-43142",
+      "target": "fac-53",
+      "type": "COLOCATED_PRESENCE"
+    },
+    {
+      "source": "asn-57809",
+      "target": "fac-53",
+      "type": "COLOCATED_PRESENCE"
+    },
+    {
+      "source": "asn-12876",
+      "target": "fac-53",
+      "type": "COLOCATED_PRESENCE"
+    },
+    {
+      "source": "asn-39931",
+      "target": "fac-53",
+      "type": "COLOCATED_PRESENCE"
+    },
+    {
+      "source": "asn-35600",
+      "target": "fac-53",
+      "type": "COLOCATED_PRESENCE"
+    },
+    {
+      "source": "asn-197551",
+      "target": "fac-53",
+      "type": "COLOCATED_PRESENCE"
+    },
+    {
+      "source": "asn-60171",
+      "target": "fac-53",
+      "type": "COLOCATED_PRESENCE"
+    },
+    {
+      "source": "asn-37002",
+      "target": "fac-53",
+      "type": "COLOCATED_PRESENCE"
+    },
+    {
+      "source": "asn-50903",
+      "target": "fac-53",
+      "type": "COLOCATED_PRESENCE"
+    },
+    {
+      "source": "asn-199396",
+      "target": "fac-53",
+      "type": "COLOCATED_PRESENCE"
+    },
+    {
+      "source": "asn-39444",
+      "target": "fac-53",
+      "type": "COLOCATED_PRESENCE"
+    },
+    {
+      "source": "asn-197922",
+      "target": "fac-53",
+      "type": "COLOCATED_PRESENCE"
+    },
+    {
+      "source": "asn-62000",
+      "target": "fac-53",
+      "type": "COLOCATED_PRESENCE"
+    },
+    {
+      "source": "asn-59842",
+      "target": "fac-53",
+      "type": "COLOCATED_PRESENCE"
+    },
+    {
+      "source": "asn-21351",
+      "target": "fac-53",
+      "type": "COLOCATED_PRESENCE"
+    },
+    {
+      "source": "asn-47608",
+      "target": "fac-53",
+      "type": "COLOCATED_PRESENCE"
+    },
+    {
+      "source": "asn-56911",
+      "target": "fac-53",
+      "type": "COLOCATED_PRESENCE"
+    },
+    {
+      "source": "asn-42845",
+      "target": "fac-53",
+      "type": "COLOCATED_PRESENCE"
+    },
+    {
+      "source": "asn-8310",
+      "target": "fac-53",
+      "type": "COLOCATED_PRESENCE"
+    },
+    {
+      "source": "asn-20565",
+      "target": "fac-53",
+      "type": "COLOCATED_PRESENCE"
+    },
+    {
+      "source": "asn-44000",
+      "target": "fac-53",
+      "type": "COLOCATED_PRESENCE"
+    },
+    {
+      "source": "asn-35676",
+      "target": "fac-53",
+      "type": "COLOCATED_PRESENCE"
+    },
+    {
+      "source": "asn-201080",
+      "target": "fac-53",
+      "type": "COLOCATED_PRESENCE"
+    },
+    {
+      "source": "asn-47866",
+      "target": "fac-53",
+      "type": "COLOCATED_PRESENCE"
+    },
+    {
+      "source": "asn-203547",
+      "target": "fac-53",
+      "type": "COLOCATED_PRESENCE"
+    },
+    {
+      "source": "asn-35280",
+      "target": "fac-53",
+      "type": "COLOCATED_PRESENCE"
+    },
+    {
+      "source": "asn-37613",
+      "target": "fac-53",
+      "type": "COLOCATED_PRESENCE"
+    },
+    {
+      "source": "asn-328107",
+      "target": "fac-53",
+      "type": "COLOCATED_PRESENCE"
+    },
+    {
+      "source": "asn-50624",
+      "target": "fac-53",
+      "type": "COLOCATED_PRESENCE"
+    },
+    {
+      "source": "asn-199483",
+      "target": "fac-53",
+      "type": "COLOCATED_PRESENCE"
+    },
+    {
+      "source": "asn-201808",
+      "target": "fac-53",
+      "type": "COLOCATED_PRESENCE"
+    },
+    {
+      "source": "asn-202140",
+      "target": "fac-53",
+      "type": "COLOCATED_PRESENCE"
+    },
+    {
+      "source": "asn-198551",
+      "target": "fac-53",
+      "type": "COLOCATED_PRESENCE"
+    },
+    {
+      "source": "asn-327814",
+      "target": "fac-53",
+      "type": "COLOCATED_PRESENCE"
+    },
+    {
+      "source": "asn-201675",
+      "target": "fac-53",
+      "type": "COLOCATED_PRESENCE"
+    },
+    {
+      "source": "asn-29283",
+      "target": "fac-53",
+      "type": "COLOCATED_PRESENCE"
+    },
+    {
+      "source": "asn-43930",
+      "target": "fac-53",
+      "type": "COLOCATED_PRESENCE"
+    },
+    {
+      "source": "asn-37529",
+      "target": "fac-53",
+      "type": "COLOCATED_PRESENCE"
+    },
+    {
+      "source": "asn-2486",
+      "target": "fac-53",
+      "type": "COLOCATED_PRESENCE"
+    },
+    {
+      "source": "asn-51326",
+      "target": "fac-53",
+      "type": "COLOCATED_PRESENCE"
+    },
+    {
+      "source": "asn-50446",
+      "target": "fac-53",
+      "type": "COLOCATED_PRESENCE"
+    },
+    {
+      "source": "asn-39801",
+      "target": "fac-53",
+      "type": "COLOCATED_PRESENCE"
+    },
+    {
+      "source": "asn-205344",
+      "target": "fac-53",
+      "type": "COLOCATED_PRESENCE"
+    },
+    {
+      "source": "asn-39781",
+      "target": "fac-53",
+      "type": "COLOCATED_PRESENCE"
+    },
+    {
+      "source": "asn-49028",
+      "target": "fac-53",
+      "type": "COLOCATED_PRESENCE"
+    },
+    {
+      "source": "asn-50628",
+      "target": "fac-53",
+      "type": "COLOCATED_PRESENCE"
+    },
+    {
+      "source": "asn-47648",
+      "target": "fac-53",
+      "type": "COLOCATED_PRESENCE"
+    },
+    {
+      "source": "asn-41652",
+      "target": "fac-53",
+      "type": "COLOCATED_PRESENCE"
+    },
+    {
+      "source": "asn-206120",
+      "target": "fac-53",
+      "type": "COLOCATED_PRESENCE"
+    },
+    {
+      "source": "asn-37721",
+      "target": "fac-53",
+      "type": "COLOCATED_PRESENCE"
+    },
+    {
+      "source": "asn-61205",
+      "target": "fac-53",
+      "type": "COLOCATED_PRESENCE"
+    },
+    {
+      "source": "asn-24691",
+      "target": "fac-53",
+      "type": "COLOCATED_PRESENCE"
+    },
+    {
+      "source": "asn-49434",
+      "target": "fac-53",
+      "type": "COLOCATED_PRESENCE"
+    },
+    {
+      "source": "asn-25540",
+      "target": "fac-53",
+      "type": "COLOCATED_PRESENCE"
+    },
+    {
+      "source": "asn-41114",
+      "target": "fac-53",
+      "type": "COLOCATED_PRESENCE"
+    },
+    {
+      "source": "asn-58011",
+      "target": "fac-53",
+      "type": "COLOCATED_PRESENCE"
+    },
+    {
+      "source": "asn-198034",
+      "target": "fac-53",
+      "type": "COLOCATED_PRESENCE"
+    },
+    {
+      "source": "asn-396986",
+      "target": "fac-53",
+      "type": "COLOCATED_PRESENCE"
+    },
+    {
+      "source": "asn-209323",
+      "target": "fac-53",
+      "type": "COLOCATED_PRESENCE"
+    },
+    {
+      "source": "asn-36864",
+      "target": "fac-53",
+      "type": "COLOCATED_PRESENCE"
+    },
+    {
+      "source": "asn-39305",
+      "target": "fac-53",
+      "type": "COLOCATED_PRESENCE"
+    },
+    {
+      "source": "asn-47127",
+      "target": "fac-53",
+      "type": "COLOCATED_PRESENCE"
+    },
+    {
+      "source": "asn-57468",
+      "target": "fac-53",
+      "type": "COLOCATED_PRESENCE"
+    },
+    {
+      "source": "asn-44097",
+      "target": "fac-53",
+      "type": "COLOCATED_PRESENCE"
+    },
+    {
+      "source": "asn-212815",
+      "target": "fac-53",
+      "type": "COLOCATED_PRESENCE"
+    },
+    {
+      "source": "asn-51154",
+      "target": "fac-53",
+      "type": "COLOCATED_PRESENCE"
+    },
+    {
+      "source": "asn-60456",
+      "target": "fac-53",
+      "type": "COLOCATED_PRESENCE"
+    },
+    {
+      "source": "asn-4455",
+      "target": "fac-53",
+      "type": "COLOCATED_PRESENCE"
+    },
+    {
+      "source": "asn-16189",
+      "target": "fac-53",
+      "type": "COLOCATED_PRESENCE"
+    },
+    {
+      "source": "asn-328411",
+      "target": "fac-53",
+      "type": "COLOCATED_PRESENCE"
+    },
+    {
+      "source": "asn-139341",
+      "target": "fac-53",
+      "type": "COLOCATED_PRESENCE"
+    },
+    {
+      "source": "asn-210732",
+      "target": "fac-53",
+      "type": "COLOCATED_PRESENCE"
+    },
+    {
+      "source": "asn-48817",
+      "target": "fac-53",
+      "type": "COLOCATED_PRESENCE"
+    },
+    {
+      "source": "asn-8298",
+      "target": "fac-53",
+      "type": "COLOCATED_PRESENCE"
+    },
+    {
+      "source": "asn-5405",
+      "target": "fac-53",
+      "type": "COLOCATED_PRESENCE"
+    },
+    {
+      "source": "asn-42487",
+      "target": "fac-53",
+      "type": "COLOCATED_PRESENCE"
+    },
+    {
+      "source": "asn-12727",
+      "target": "fac-53",
+      "type": "COLOCATED_PRESENCE"
+    },
+    {
+      "source": "asn-48732",
+      "target": "fac-53",
+      "type": "COLOCATED_PRESENCE"
+    },
+    {
+      "source": "asn-42687",
+      "target": "fac-53",
+      "type": "COLOCATED_PRESENCE"
+    },
+    {
+      "source": "asn-2027",
+      "target": "fac-53",
+      "type": "COLOCATED_PRESENCE"
+    },
+    {
+      "source": "asn-48213",
+      "target": "fac-53",
+      "type": "COLOCATED_PRESENCE"
+    },
+    {
+      "source": "asn-205684",
+      "target": "fac-53",
+      "type": "COLOCATED_PRESENCE"
+    },
+    {
+      "source": "asn-44407",
+      "target": "fac-53",
+      "type": "COLOCATED_PRESENCE"
+    },
+    {
+      "source": "asn-60132",
+      "target": "fac-53",
+      "type": "COLOCATED_PRESENCE"
+    },
+    {
+      "source": "asn-211882",
+      "target": "fac-53",
+      "type": "COLOCATED_PRESENCE"
+    },
+    {
+      "source": "asn-56987",
+      "target": "fac-53",
+      "type": "COLOCATED_PRESENCE"
+    },
+    {
+      "source": "asn-209823",
+      "target": "fac-53",
+      "type": "COLOCATED_PRESENCE"
+    },
+    {
+      "source": "asn-52025",
+      "target": "fac-53",
+      "type": "COLOCATED_PRESENCE"
+    },
+    {
+      "source": "asn-41191",
+      "target": "fac-53",
+      "type": "COLOCATED_PRESENCE"
+    },
+    {
+      "source": "asn-209428",
+      "target": "fac-53",
+      "type": "COLOCATED_PRESENCE"
+    },
+    {
+      "source": "asn-64289",
+      "target": "fac-53",
+      "type": "COLOCATED_PRESENCE"
+    },
+    {
+      "source": "asn-216302",
+      "target": "fac-53",
+      "type": "COLOCATED_PRESENCE"
+    },
+    {
+      "source": "asn-47600",
+      "target": "fac-53",
+      "type": "COLOCATED_PRESENCE"
+    },
+    {
+      "source": "asn-215596",
+      "target": "fac-53",
+      "type": "COLOCATED_PRESENCE"
+    },
+    {
+      "source": "asn-215234",
+      "target": "fac-53",
+      "type": "COLOCATED_PRESENCE"
+    },
+    {
+      "source": "asn-211113",
+      "target": "fac-53",
+      "type": "COLOCATED_PRESENCE"
+    },
+    {
+      "source": "asn-211733",
+      "target": "fac-53",
+      "type": "COLOCATED_PRESENCE"
+    },
+    {
+      "source": "asn-4601",
+      "target": "fac-53",
+      "type": "COLOCATED_PRESENCE"
+    },
+    {
+      "source": "asn-12409",
+      "target": "fac-53",
+      "type": "COLOCATED_PRESENCE"
+    },
+    {
+      "source": "asn-201868",
+      "target": "fac-53",
+      "type": "COLOCATED_PRESENCE"
+    },
+    {
+      "source": "asn-8801",
+      "target": "fac-53",
+      "type": "COLOCATED_PRESENCE"
+    },
+    {
+      "source": "asn-209532",
+      "target": "fac-53",
+      "type": "COLOCATED_PRESENCE"
+    },
+    {
+      "source": "asn-20756",
+      "target": "fac-53",
+      "type": "COLOCATED_PRESENCE"
+    },
+    {
+      "source": "asn-8426",
+      "target": "fac-72",
+      "type": "COLOCATED_PRESENCE"
+    },
+    {
+      "source": "asn-9153",
+      "target": "fac-72",
+      "type": "COLOCATED_PRESENCE"
+    },
+    {
+      "source": "asn-8565",
+      "target": "fac-72",
+      "type": "COLOCATED_PRESENCE"
+    },
+    {
+      "source": "asn-24776",
+      "target": "fac-72",
+      "type": "COLOCATED_PRESENCE"
+    },
+    {
+      "source": "asn-8560",
+      "target": "fac-72",
+      "type": "COLOCATED_PRESENCE"
+    },
+    {
+      "source": "asn-6939",
+      "target": "fac-72",
+      "type": "COLOCATED_PRESENCE"
+    },
+    {
+      "source": "asn-21409",
+      "target": "fac-72",
+      "type": "COLOCATED_PRESENCE"
+    },
+    {
+      "source": "asn-34019",
+      "target": "fac-72",
+      "type": "COLOCATED_PRESENCE"
+    },
+    {
+      "source": "asn-6461",
+      "target": "fac-72",
+      "type": "COLOCATED_PRESENCE"
+    },
+    {
+      "source": "asn-30781",
+      "target": "fac-72",
+      "type": "COLOCATED_PRESENCE"
+    },
+    {
+      "source": "asn-39104",
+      "target": "fac-72",
+      "type": "COLOCATED_PRESENCE"
+    },
+    {
+      "source": "asn-8399",
+      "target": "fac-72",
+      "type": "COLOCATED_PRESENCE"
+    },
+    {
+      "source": "asn-8218",
+      "target": "fac-72",
+      "type": "COLOCATED_PRESENCE"
+    },
+    {
+      "source": "asn-33891",
+      "target": "fac-72",
+      "type": "COLOCATED_PRESENCE"
+    },
+    {
+      "source": "asn-34177",
+      "target": "fac-72",
+      "type": "COLOCATED_PRESENCE"
+    },
+    {
+      "source": "asn-8309",
+      "target": "fac-72",
+      "type": "COLOCATED_PRESENCE"
+    },
+    {
+      "source": "asn-29075",
+      "target": "fac-72",
+      "type": "COLOCATED_PRESENCE"
+    },
+    {
+      "source": "asn-16080",
+      "target": "fac-72",
+      "type": "COLOCATED_PRESENCE"
+    },
+    {
+      "source": "asn-8304",
+      "target": "fac-72",
+      "type": "COLOCATED_PRESENCE"
+    },
+    {
+      "source": "asn-16128",
+      "target": "fac-72",
+      "type": "COLOCATED_PRESENCE"
+    },
+    {
+      "source": "asn-51269",
+      "target": "fac-72",
+      "type": "COLOCATED_PRESENCE"
+    },
+    {
+      "source": "asn-197981",
+      "target": "fac-72",
+      "type": "COLOCATED_PRESENCE"
+    },
+    {
+      "source": "asn-55195",
+      "target": "fac-72",
+      "type": "COLOCATED_PRESENCE"
+    },
+    {
+      "source": "asn-60427",
+      "target": "fac-72",
+      "type": "COLOCATED_PRESENCE"
+    },
+    {
+      "source": "asn-62000",
+      "target": "fac-72",
+      "type": "COLOCATED_PRESENCE"
+    },
+    {
+      "source": "asn-54994",
+      "target": "fac-72",
+      "type": "COLOCATED_PRESENCE"
+    },
+    {
+      "source": "asn-35280",
+      "target": "fac-72",
+      "type": "COLOCATED_PRESENCE"
+    },
+    {
+      "source": "asn-206342",
+      "target": "fac-72",
+      "type": "COLOCATED_PRESENCE"
+    },
+    {
+      "source": "asn-205555",
+      "target": "fac-72",
+      "type": "COLOCATED_PRESENCE"
+    },
+    {
+      "source": "asn-39781",
+      "target": "fac-72",
+      "type": "COLOCATED_PRESENCE"
+    },
+    {
+      "source": "asn-206120",
+      "target": "fac-72",
+      "type": "COLOCATED_PRESENCE"
+    },
+    {
+      "source": "asn-49920",
+      "target": "fac-72",
+      "type": "COLOCATED_PRESENCE"
+    },
+    {
+      "source": "asn-16189",
+      "target": "fac-72",
+      "type": "COLOCATED_PRESENCE"
+    },
+    {
+      "source": "asn-197205",
+      "target": "fac-72",
+      "type": "COLOCATED_PRESENCE"
+    },
+    {
+      "source": "asn-56987",
+      "target": "fac-72",
+      "type": "COLOCATED_PRESENCE"
+    },
+    {
+      "source": "asn-50124",
+      "target": "fac-72",
+      "type": "COLOCATED_PRESENCE"
+    },
+    {
+      "source": "asn-51826",
+      "target": "fac-72",
+      "type": "COLOCATED_PRESENCE"
+    },
+    {
+      "source": "asn-216239",
+      "target": "fac-72",
+      "type": "COLOCATED_PRESENCE"
+    },
+    {
+      "source": "asn-215596",
+      "target": "fac-72",
+      "type": "COLOCATED_PRESENCE"
+    },
+    {
+      "source": "asn-5410",
+      "target": "fac-75",
+      "type": "COLOCATED_PRESENCE"
+    },
+    {
+      "source": "asn-8220",
+      "target": "fac-75",
+      "type": "COLOCATED_PRESENCE"
+    },
+    {
+      "source": "asn-5400",
+      "target": "fac-75",
+      "type": "COLOCATED_PRESENCE"
+    },
+    {
+      "source": "asn-12322",
+      "target": "fac-75",
+      "type": "COLOCATED_PRESENCE"
+    },
+    {
+      "source": "asn-9002",
+      "target": "fac-75",
+      "type": "COLOCATED_PRESENCE"
+    },
+    {
+      "source": "asn-6939",
+      "target": "fac-75",
+      "type": "COLOCATED_PRESENCE"
+    },
+    {
+      "source": "asn-15169",
+      "target": "fac-75",
+      "type": "COLOCATED_PRESENCE"
+    },
+    {
+      "source": "asn-30781",
+      "target": "fac-75",
+      "type": "COLOCATED_PRESENCE"
+    },
+    {
+      "source": "asn-20473",
+      "target": "fac-75",
+      "type": "COLOCATED_PRESENCE"
+    },
+    {
+      "source": "asn-14340",
+      "target": "fac-75",
+      "type": "COLOCATED_PRESENCE"
+    },
+    {
+      "source": "asn-8218",
+      "target": "fac-75",
+      "type": "COLOCATED_PRESENCE"
+    },
+    {
+      "source": "asn-6661",
+      "target": "fac-75",
+      "type": "COLOCATED_PRESENCE"
+    },
+    {
+      "source": "asn-34177",
+      "target": "fac-75",
+      "type": "COLOCATED_PRESENCE"
+    },
+    {
+      "source": "asn-8309",
+      "target": "fac-75",
+      "type": "COLOCATED_PRESENCE"
+    },
+    {
+      "source": "asn-29075",
+      "target": "fac-75",
+      "type": "COLOCATED_PRESENCE"
+    },
+    {
+      "source": "asn-51468",
+      "target": "fac-75",
+      "type": "COLOCATED_PRESENCE"
+    },
+    {
+      "source": "asn-16128",
+      "target": "fac-75",
+      "type": "COLOCATED_PRESENCE"
+    },
+    {
+      "source": "asn-51269",
+      "target": "fac-75",
+      "type": "COLOCATED_PRESENCE"
+    },
+    {
+      "source": "asn-32590",
+      "target": "fac-75",
+      "type": "COLOCATED_PRESENCE"
+    },
+    {
+      "source": "asn-198545",
+      "target": "fac-75",
+      "type": "COLOCATED_PRESENCE"
+    },
+    {
+      "source": "asn-60427",
+      "target": "fac-75",
+      "type": "COLOCATED_PRESENCE"
+    },
+    {
+      "source": "asn-48310",
+      "target": "fac-75",
+      "type": "COLOCATED_PRESENCE"
+    },
+    {
+      "source": "asn-21351",
+      "target": "fac-75",
+      "type": "COLOCATED_PRESENCE"
+    },
+    {
+      "source": "asn-62044",
+      "target": "fac-75",
+      "type": "COLOCATED_PRESENCE"
+    },
+    {
+      "source": "asn-203547",
+      "target": "fac-75",
+      "type": "COLOCATED_PRESENCE"
+    },
+    {
+      "source": "asn-39801",
+      "target": "fac-75",
+      "type": "COLOCATED_PRESENCE"
+    },
+    {
+      "source": "asn-209323",
+      "target": "fac-75",
+      "type": "COLOCATED_PRESENCE"
+    },
+    {
+      "source": "asn-4455",
+      "target": "fac-75",
+      "type": "COLOCATED_PRESENCE"
+    },
+    {
+      "source": "asn-44407",
+      "target": "fac-75",
+      "type": "COLOCATED_PRESENCE"
+    },
+    {
+      "source": "asn-34019",
+      "target": "fac-655",
+      "type": "COLOCATED_PRESENCE"
+    },
+    {
+      "source": "asn-30781",
+      "target": "fac-655",
+      "type": "COLOCATED_PRESENCE"
+    },
+    {
+      "source": "asn-8218",
+      "target": "fac-655",
+      "type": "COLOCATED_PRESENCE"
+    },
+    {
+      "source": "asn-39605",
+      "target": "fac-655",
+      "type": "COLOCATED_PRESENCE"
+    },
+    {
+      "source": "asn-8309",
+      "target": "fac-655",
+      "type": "COLOCATED_PRESENCE"
+    },
+    {
+      "source": "asn-29075",
+      "target": "fac-655",
+      "type": "COLOCATED_PRESENCE"
+    },
+    {
+      "source": "asn-16080",
+      "target": "fac-655",
+      "type": "COLOCATED_PRESENCE"
+    },
+    {
+      "source": "asn-52075",
+      "target": "fac-655",
+      "type": "COLOCATED_PRESENCE"
+    },
+    {
+      "source": "asn-197981",
+      "target": "fac-655",
+      "type": "COLOCATED_PRESENCE"
+    },
+    {
+      "source": "asn-197133",
+      "target": "fac-655",
+      "type": "COLOCATED_PRESENCE"
+    },
+    {
+      "source": "asn-58308",
+      "target": "fac-655",
+      "type": "COLOCATED_PRESENCE"
+    },
+    {
+      "source": "asn-59689",
+      "target": "fac-655",
+      "type": "COLOCATED_PRESENCE"
+    },
+    {
+      "source": "asn-35600",
+      "target": "fac-655",
+      "type": "COLOCATED_PRESENCE"
+    },
+    {
+      "source": "asn-62000",
+      "target": "fac-655",
+      "type": "COLOCATED_PRESENCE"
+    },
+    {
+      "source": "asn-59842",
+      "target": "fac-655",
+      "type": "COLOCATED_PRESENCE"
+    },
+    {
+      "source": "asn-47866",
+      "target": "fac-655",
+      "type": "COLOCATED_PRESENCE"
+    },
+    {
+      "source": "asn-205801",
+      "target": "fac-655",
+      "type": "COLOCATED_PRESENCE"
+    },
+    {
+      "source": "asn-13273",
+      "target": "fac-655",
+      "type": "COLOCATED_PRESENCE"
+    },
+    {
+      "source": "asn-49763",
+      "target": "fac-655",
+      "type": "COLOCATED_PRESENCE"
+    },
+    {
+      "source": "asn-21247",
+      "target": "fac-655",
+      "type": "COLOCATED_PRESENCE"
+    },
+    {
+      "source": "asn-50628",
+      "target": "fac-655",
+      "type": "COLOCATED_PRESENCE"
+    },
+    {
+      "source": "asn-35661",
+      "target": "fac-655",
+      "type": "COLOCATED_PRESENCE"
+    },
+    {
+      "source": "asn-44097",
+      "target": "fac-655",
+      "type": "COLOCATED_PRESENCE"
+    },
+    {
+      "source": "asn-212321",
+      "target": "fac-655",
+      "type": "COLOCATED_PRESENCE"
+    },
+    {
+      "source": "asn-48817",
+      "target": "fac-655",
+      "type": "COLOCATED_PRESENCE"
+    },
+    {
+      "source": "asn-62119",
+      "target": "fac-655",
+      "type": "COLOCATED_PRESENCE"
+    },
+    {
+      "source": "asn-2027",
+      "target": "fac-655",
+      "type": "COLOCATED_PRESENCE"
+    },
+    {
+      "source": "asn-16101",
+      "target": "fac-655",
+      "type": "COLOCATED_PRESENCE"
+    },
+    {
+      "source": "asn-213432",
+      "target": "fac-655",
+      "type": "COLOCATED_PRESENCE"
+    },
+    {
+      "source": "asn-20940",
+      "target": "fac-714",
+      "type": "COLOCATED_PRESENCE"
+    },
+    {
+      "source": "asn-8220",
+      "target": "fac-714",
+      "type": "COLOCATED_PRESENCE"
+    },
+    {
+      "source": "asn-8426",
+      "target": "fac-714",
+      "type": "COLOCATED_PRESENCE"
+    },
+    {
+      "source": "asn-5400",
+      "target": "fac-714",
+      "type": "COLOCATED_PRESENCE"
+    },
+    {
+      "source": "asn-12322",
+      "target": "fac-714",
+      "type": "COLOCATED_PRESENCE"
+    },
+    {
+      "source": "asn-30972",
+      "target": "fac-714",
+      "type": "COLOCATED_PRESENCE"
+    },
+    {
+      "source": "asn-8560",
+      "target": "fac-714",
+      "type": "COLOCATED_PRESENCE"
+    },
+    {
+      "source": "asn-8075",
+      "target": "fac-714",
+      "type": "COLOCATED_PRESENCE"
+    },
+    {
+      "source": "asn-30781",
+      "target": "fac-714",
+      "type": "COLOCATED_PRESENCE"
+    },
+    {
+      "source": "asn-39104",
+      "target": "fac-714",
+      "type": "COLOCATED_PRESENCE"
+    },
+    {
+      "source": "asn-8487",
+      "target": "fac-714",
+      "type": "COLOCATED_PRESENCE"
+    },
+    {
+      "source": "asn-8218",
+      "target": "fac-714",
+      "type": "COLOCATED_PRESENCE"
+    },
+    {
+      "source": "asn-34177",
+      "target": "fac-714",
+      "type": "COLOCATED_PRESENCE"
+    },
+    {
+      "source": "asn-8723",
+      "target": "fac-714",
+      "type": "COLOCATED_PRESENCE"
+    },
+    {
+      "source": "asn-35625",
+      "target": "fac-714",
+      "type": "COLOCATED_PRESENCE"
+    },
+    {
+      "source": "asn-8309",
+      "target": "fac-714",
+      "type": "COLOCATED_PRESENCE"
+    },
+    {
+      "source": "asn-29075",
+      "target": "fac-714",
+      "type": "COLOCATED_PRESENCE"
+    },
+    {
+      "source": "asn-25369",
+      "target": "fac-714",
+      "type": "COLOCATED_PRESENCE"
+    },
+    {
+      "source": "asn-16347",
+      "target": "fac-714",
+      "type": "COLOCATED_PRESENCE"
+    },
+    {
+      "source": "asn-50858",
+      "target": "fac-714",
+      "type": "COLOCATED_PRESENCE"
+    },
+    {
+      "source": "asn-714",
+      "target": "fac-714",
+      "type": "COLOCATED_PRESENCE"
+    },
+    {
+      "source": "asn-8304",
+      "target": "fac-714",
+      "type": "COLOCATED_PRESENCE"
+    },
+    {
+      "source": "asn-44334",
+      "target": "fac-714",
+      "type": "COLOCATED_PRESENCE"
+    },
+    {
+      "source": "asn-57119",
+      "target": "fac-714",
+      "type": "COLOCATED_PRESENCE"
+    },
+    {
+      "source": "asn-197981",
+      "target": "fac-714",
+      "type": "COLOCATED_PRESENCE"
+    },
+    {
+      "source": "asn-6758",
+      "target": "fac-714",
+      "type": "COLOCATED_PRESENCE"
+    },
+    {
+      "source": "asn-198335",
+      "target": "fac-714",
+      "type": "COLOCATED_PRESENCE"
+    },
+    {
+      "source": "asn-45102",
+      "target": "fac-714",
+      "type": "COLOCATED_PRESENCE"
+    },
+    {
+      "source": "asn-37693",
+      "target": "fac-714",
+      "type": "COLOCATED_PRESENCE"
+    },
+    {
+      "source": "asn-21351",
+      "target": "fac-714",
+      "type": "COLOCATED_PRESENCE"
+    },
+    {
+      "source": "asn-20565",
+      "target": "fac-714",
+      "type": "COLOCATED_PRESENCE"
+    },
+    {
+      "source": "asn-55256",
+      "target": "fac-714",
+      "type": "COLOCATED_PRESENCE"
+    },
+    {
+      "source": "asn-199483",
+      "target": "fac-714",
+      "type": "COLOCATED_PRESENCE"
+    },
+    {
+      "source": "asn-202140",
+      "target": "fac-714",
+      "type": "COLOCATED_PRESENCE"
+    },
+    {
+      "source": "asn-22697",
+      "target": "fac-714",
+      "type": "COLOCATED_PRESENCE"
+    },
+    {
+      "source": "asn-39801",
+      "target": "fac-714",
+      "type": "COLOCATED_PRESENCE"
+    },
+    {
+      "source": "asn-206120",
+      "target": "fac-714",
+      "type": "COLOCATED_PRESENCE"
+    },
+    {
+      "source": "asn-23764",
+      "target": "fac-714",
+      "type": "COLOCATED_PRESENCE"
+    },
+    {
+      "source": "asn-49920",
+      "target": "fac-714",
+      "type": "COLOCATED_PRESENCE"
+    },
+    {
+      "source": "asn-47127",
+      "target": "fac-714",
+      "type": "COLOCATED_PRESENCE"
+    },
+    {
+      "source": "asn-197205",
+      "target": "fac-714",
+      "type": "COLOCATED_PRESENCE"
+    },
+    {
+      "source": "asn-216302",
+      "target": "fac-714",
+      "type": "COLOCATED_PRESENCE"
+    },
+    {
+      "source": "asn-12322",
+      "target": "fac-717",
+      "type": "COLOCATED_PRESENCE"
+    },
+    {
+      "source": "asn-15557",
+      "target": "fac-717",
+      "type": "COLOCATED_PRESENCE"
+    },
+    {
+      "source": "asn-34019",
+      "target": "fac-717",
+      "type": "COLOCATED_PRESENCE"
+    },
+    {
+      "source": "asn-6461",
+      "target": "fac-717",
+      "type": "COLOCATED_PRESENCE"
+    },
+    {
+      "source": "asn-30781",
+      "target": "fac-717",
+      "type": "COLOCATED_PRESENCE"
+    },
+    {
+      "source": "asn-20766",
+      "target": "fac-717",
+      "type": "COLOCATED_PRESENCE"
+    },
+    {
+      "source": "asn-32934",
+      "target": "fac-717",
+      "type": "COLOCATED_PRESENCE"
+    },
+    {
+      "source": "asn-16276",
+      "target": "fac-717",
+      "type": "COLOCATED_PRESENCE"
+    },
+    {
+      "source": "asn-29169",
+      "target": "fac-717",
+      "type": "COLOCATED_PRESENCE"
+    },
+    {
+      "source": "asn-16509",
+      "target": "fac-717",
+      "type": "COLOCATED_PRESENCE"
+    },
+    {
+      "source": "asn-29246",
+      "target": "fac-717",
+      "type": "COLOCATED_PRESENCE"
+    },
+    {
+      "source": "asn-34177",
+      "target": "fac-717",
+      "type": "COLOCATED_PRESENCE"
+    },
+    {
+      "source": "asn-35625",
+      "target": "fac-717",
+      "type": "COLOCATED_PRESENCE"
+    },
+    {
+      "source": "asn-8309",
+      "target": "fac-717",
+      "type": "COLOCATED_PRESENCE"
+    },
+    {
+      "source": "asn-34659",
+      "target": "fac-717",
+      "type": "COLOCATED_PRESENCE"
+    },
+    {
+      "source": "asn-39180",
+      "target": "fac-717",
+      "type": "COLOCATED_PRESENCE"
+    },
+    {
+      "source": "asn-29075",
+      "target": "fac-717",
+      "type": "COLOCATED_PRESENCE"
+    },
+    {
+      "source": "asn-8368",
+      "target": "fac-717",
+      "type": "COLOCATED_PRESENCE"
+    },
+    {
+      "source": "asn-33353",
+      "target": "fac-717",
+      "type": "COLOCATED_PRESENCE"
+    },
+    {
+      "source": "asn-47957",
+      "target": "fac-717",
+      "type": "COLOCATED_PRESENCE"
+    },
+    {
+      "source": "asn-50858",
+      "target": "fac-717",
+      "type": "COLOCATED_PRESENCE"
+    },
+    {
+      "source": "asn-8304",
+      "target": "fac-717",
+      "type": "COLOCATED_PRESENCE"
+    },
+    {
+      "source": "asn-31564",
+      "target": "fac-717",
+      "type": "COLOCATED_PRESENCE"
+    },
+    {
+      "source": "asn-58453",
+      "target": "fac-717",
+      "type": "COLOCATED_PRESENCE"
+    },
+    {
+      "source": "asn-197981",
+      "target": "fac-717",
+      "type": "COLOCATED_PRESENCE"
+    },
+    {
+      "source": "asn-56665",
+      "target": "fac-717",
+      "type": "COLOCATED_PRESENCE"
+    },
+    {
+      "source": "asn-29467",
+      "target": "fac-717",
+      "type": "COLOCATED_PRESENCE"
+    },
+    {
+      "source": "asn-43858",
+      "target": "fac-717",
+      "type": "COLOCATED_PRESENCE"
+    },
+    {
+      "source": "asn-16552",
+      "target": "fac-717",
+      "type": "COLOCATED_PRESENCE"
+    },
+    {
+      "source": "asn-35600",
+      "target": "fac-717",
+      "type": "COLOCATED_PRESENCE"
+    },
+    {
+      "source": "asn-45102",
+      "target": "fac-717",
+      "type": "COLOCATED_PRESENCE"
+    },
+    {
+      "source": "asn-19551",
+      "target": "fac-717",
+      "type": "COLOCATED_PRESENCE"
+    },
+    {
+      "source": "asn-62000",
+      "target": "fac-717",
+      "type": "COLOCATED_PRESENCE"
+    },
+    {
+      "source": "asn-39072",
+      "target": "fac-717",
+      "type": "COLOCATED_PRESENCE"
+    },
+    {
+      "source": "asn-35280",
+      "target": "fac-717",
+      "type": "COLOCATED_PRESENCE"
+    },
+    {
+      "source": "asn-50624",
+      "target": "fac-717",
+      "type": "COLOCATED_PRESENCE"
+    },
+    {
+      "source": "asn-202140",
+      "target": "fac-717",
+      "type": "COLOCATED_PRESENCE"
+    },
+    {
+      "source": "asn-29283",
+      "target": "fac-717",
+      "type": "COLOCATED_PRESENCE"
+    },
+    {
+      "source": "asn-13273",
+      "target": "fac-717",
+      "type": "COLOCATED_PRESENCE"
+    },
+    {
+      "source": "asn-205555",
+      "target": "fac-717",
+      "type": "COLOCATED_PRESENCE"
+    },
+    {
+      "source": "asn-49028",
+      "target": "fac-717",
+      "type": "COLOCATED_PRESENCE"
+    },
+    {
+      "source": "asn-50628",
+      "target": "fac-717",
+      "type": "COLOCATED_PRESENCE"
+    },
+    {
+      "source": "asn-206120",
+      "target": "fac-717",
+      "type": "COLOCATED_PRESENCE"
+    },
+    {
+      "source": "asn-136907",
+      "target": "fac-717",
+      "type": "COLOCATED_PRESENCE"
+    },
+    {
+      "source": "asn-206610",
+      "target": "fac-717",
+      "type": "COLOCATED_PRESENCE"
+    },
+    {
+      "source": "asn-35426",
+      "target": "fac-717",
+      "type": "COLOCATED_PRESENCE"
+    },
+    {
+      "source": "asn-35793",
+      "target": "fac-717",
+      "type": "COLOCATED_PRESENCE"
+    },
+    {
+      "source": "asn-44097",
+      "target": "fac-717",
+      "type": "COLOCATED_PRESENCE"
+    },
+    {
+      "source": "asn-4455",
+      "target": "fac-717",
+      "type": "COLOCATED_PRESENCE"
+    },
+    {
+      "source": "asn-42687",
+      "target": "fac-717",
+      "type": "COLOCATED_PRESENCE"
+    },
+    {
+      "source": "asn-50124",
+      "target": "fac-717",
+      "type": "COLOCATED_PRESENCE"
+    },
+    {
+      "source": "asn-205845",
+      "target": "fac-717",
+      "type": "COLOCATED_PRESENCE"
+    },
+    {
+      "source": "asn-47600",
+      "target": "fac-717",
+      "type": "COLOCATED_PRESENCE"
+    },
+    {
+      "source": "asn-3920",
+      "target": "fac-717",
+      "type": "COLOCATED_PRESENCE"
+    },
+    {
+      "source": "asn-206002",
+      "target": "fac-717",
+      "type": "COLOCATED_PRESENCE"
+    },
+    {
+      "source": "asn-215596",
+      "target": "fac-717",
+      "type": "COLOCATED_PRESENCE"
+    },
+    {
+      "source": "asn-206014",
+      "target": "fac-717",
+      "type": "COLOCATED_PRESENCE"
+    },
+    {
+      "source": "asn-20756",
+      "target": "fac-717",
+      "type": "COLOCATED_PRESENCE"
+    },
+    {
+      "source": "asn-219062",
+      "target": "fac-717",
+      "type": "COLOCATED_PRESENCE"
+    },
+    {
+      "source": "asn-10310",
+      "target": "fac-842",
+      "type": "COLOCATED_PRESENCE"
+    },
+    {
+      "source": "asn-8220",
+      "target": "fac-842",
+      "type": "COLOCATED_PRESENCE"
+    },
+    {
+      "source": "asn-8426",
+      "target": "fac-842",
+      "type": "COLOCATED_PRESENCE"
+    },
+    {
+      "source": "asn-24776",
+      "target": "fac-842",
+      "type": "COLOCATED_PRESENCE"
+    },
+    {
+      "source": "asn-30781",
+      "target": "fac-842",
+      "type": "COLOCATED_PRESENCE"
+    },
+    {
+      "source": "asn-8399",
+      "target": "fac-842",
+      "type": "COLOCATED_PRESENCE"
+    },
+    {
+      "source": "asn-16509",
+      "target": "fac-842",
+      "type": "COLOCATED_PRESENCE"
+    },
+    {
+      "source": "asn-8218",
+      "target": "fac-842",
+      "type": "COLOCATED_PRESENCE"
+    },
+    {
+      "source": "asn-12826",
+      "target": "fac-842",
+      "type": "COLOCATED_PRESENCE"
+    },
+    {
+      "source": "asn-8309",
+      "target": "fac-842",
+      "type": "COLOCATED_PRESENCE"
+    },
+    {
+      "source": "asn-39180",
+      "target": "fac-842",
+      "type": "COLOCATED_PRESENCE"
+    },
+    {
+      "source": "asn-29075",
+      "target": "fac-842",
+      "type": "COLOCATED_PRESENCE"
+    },
+    {
+      "source": "asn-33930",
+      "target": "fac-842",
+      "type": "COLOCATED_PRESENCE"
+    },
+    {
+      "source": "asn-19679",
+      "target": "fac-842",
+      "type": "COLOCATED_PRESENCE"
+    },
+    {
+      "source": "asn-34863",
+      "target": "fac-842",
+      "type": "COLOCATED_PRESENCE"
+    },
+    {
+      "source": "asn-52075",
+      "target": "fac-842",
+      "type": "COLOCATED_PRESENCE"
+    },
+    {
+      "source": "asn-60427",
+      "target": "fac-842",
+      "type": "COLOCATED_PRESENCE"
+    },
+    {
+      "source": "asn-62000",
+      "target": "fac-842",
+      "type": "COLOCATED_PRESENCE"
+    },
+    {
+      "source": "asn-35280",
+      "target": "fac-842",
+      "type": "COLOCATED_PRESENCE"
+    },
+    {
+      "source": "asn-206342",
+      "target": "fac-842",
+      "type": "COLOCATED_PRESENCE"
+    },
+    {
+      "source": "asn-205344",
+      "target": "fac-842",
+      "type": "COLOCATED_PRESENCE"
+    },
+    {
+      "source": "asn-39781",
+      "target": "fac-842",
+      "type": "COLOCATED_PRESENCE"
+    },
+    {
+      "source": "asn-206120",
+      "target": "fac-842",
+      "type": "COLOCATED_PRESENCE"
+    },
+    {
+      "source": "asn-1301",
+      "target": "fac-842",
+      "type": "COLOCATED_PRESENCE"
+    },
+    {
+      "source": "asn-35426",
+      "target": "fac-842",
+      "type": "COLOCATED_PRESENCE"
+    },
+    {
+      "source": "asn-49121",
+      "target": "fac-842",
+      "type": "COLOCATED_PRESENCE"
+    },
+    {
+      "source": "asn-49584",
+      "target": "fac-842",
+      "type": "COLOCATED_PRESENCE"
+    },
+    {
+      "source": "asn-56987",
+      "target": "fac-842",
+      "type": "COLOCATED_PRESENCE"
+    },
+    {
+      "source": "asn-50124",
+      "target": "fac-842",
+      "type": "COLOCATED_PRESENCE"
+    },
+    {
+      "source": "asn-3920",
+      "target": "fac-842",
+      "type": "COLOCATED_PRESENCE"
+    },
+    {
+      "source": "asn-216239",
+      "target": "fac-842",
+      "type": "COLOCATED_PRESENCE"
+    },
+    {
+      "source": "asn-215596",
+      "target": "fac-842",
+      "type": "COLOCATED_PRESENCE"
+    },
+    {
+      "source": "asn-12322",
+      "target": "fac-1402",
+      "type": "COLOCATED_PRESENCE"
+    },
+    {
+      "source": "asn-34019",
+      "target": "fac-1402",
+      "type": "COLOCATED_PRESENCE"
+    },
+    {
+      "source": "asn-8218",
+      "target": "fac-1402",
+      "type": "COLOCATED_PRESENCE"
+    },
+    {
+      "source": "asn-39605",
+      "target": "fac-1402",
+      "type": "COLOCATED_PRESENCE"
+    },
+    {
+      "source": "asn-8309",
+      "target": "fac-1402",
+      "type": "COLOCATED_PRESENCE"
+    },
+    {
+      "source": "asn-29075",
+      "target": "fac-1402",
+      "type": "COLOCATED_PRESENCE"
+    },
+    {
+      "source": "asn-58308",
+      "target": "fac-1402",
+      "type": "COLOCATED_PRESENCE"
+    },
+    {
+      "source": "asn-59689",
+      "target": "fac-1402",
+      "type": "COLOCATED_PRESENCE"
+    },
+    {
+      "source": "asn-12876",
+      "target": "fac-1402",
+      "type": "COLOCATED_PRESENCE"
+    },
+    {
+      "source": "asn-35600",
+      "target": "fac-1402",
+      "type": "COLOCATED_PRESENCE"
+    },
+    {
+      "source": "asn-62000",
+      "target": "fac-1402",
+      "type": "COLOCATED_PRESENCE"
+    },
+    {
+      "source": "asn-60350",
+      "target": "fac-1402",
+      "type": "COLOCATED_PRESENCE"
+    },
+    {
+      "source": "asn-202140",
+      "target": "fac-1402",
+      "type": "COLOCATED_PRESENCE"
+    },
+    {
+      "source": "asn-50628",
+      "target": "fac-1402",
+      "type": "COLOCATED_PRESENCE"
+    },
+    {
+      "source": "asn-206782",
+      "target": "fac-1402",
+      "type": "COLOCATED_PRESENCE"
+    },
+    {
+      "source": "asn-200748",
+      "target": "fac-1402",
+      "type": "COLOCATED_PRESENCE"
+    },
+    {
+      "source": "asn-44097",
+      "target": "fac-1402",
+      "type": "COLOCATED_PRESENCE"
+    },
+    {
+      "source": "asn-8426",
+      "target": "fac-636",
+      "type": "COLOCATED_PRESENCE"
+    },
+    {
+      "source": "asn-34019",
+      "target": "fac-636",
+      "type": "COLOCATED_PRESENCE"
+    },
+    {
+      "source": "asn-30781",
+      "target": "fac-636",
+      "type": "COLOCATED_PRESENCE"
+    },
+    {
+      "source": "asn-8218",
+      "target": "fac-636",
+      "type": "COLOCATED_PRESENCE"
+    },
+    {
+      "source": "asn-34177",
+      "target": "fac-636",
+      "type": "COLOCATED_PRESENCE"
+    },
+    {
+      "source": "asn-8309",
+      "target": "fac-636",
+      "type": "COLOCATED_PRESENCE"
+    },
+    {
+      "source": "asn-29075",
+      "target": "fac-636",
+      "type": "COLOCATED_PRESENCE"
+    },
+    {
+      "source": "asn-2484",
+      "target": "fac-636",
+      "type": "COLOCATED_PRESENCE"
+    },
+    {
+      "source": "asn-16347",
+      "target": "fac-636",
+      "type": "COLOCATED_PRESENCE"
+    },
+    {
+      "source": "asn-47957",
+      "target": "fac-636",
+      "type": "COLOCATED_PRESENCE"
+    },
+    {
+      "source": "asn-33930",
+      "target": "fac-636",
+      "type": "COLOCATED_PRESENCE"
+    },
+    {
+      "source": "asn-8304",
+      "target": "fac-636",
+      "type": "COLOCATED_PRESENCE"
+    },
+    {
+      "source": "asn-14537",
+      "target": "fac-636",
+      "type": "COLOCATED_PRESENCE"
+    },
+    {
+      "source": "asn-198335",
+      "target": "fac-636",
+      "type": "COLOCATED_PRESENCE"
+    },
+    {
+      "source": "asn-199660",
+      "target": "fac-636",
+      "type": "COLOCATED_PRESENCE"
+    },
+    {
+      "source": "asn-35600",
+      "target": "fac-636",
+      "type": "COLOCATED_PRESENCE"
+    },
+    {
+      "source": "asn-62000",
+      "target": "fac-636",
+      "type": "COLOCATED_PRESENCE"
+    },
+    {
+      "source": "asn-59842",
+      "target": "fac-636",
+      "type": "COLOCATED_PRESENCE"
+    },
+    {
+      "source": "asn-20565",
+      "target": "fac-636",
+      "type": "COLOCATED_PRESENCE"
+    },
+    {
+      "source": "asn-62044",
+      "target": "fac-636",
+      "type": "COLOCATED_PRESENCE"
+    },
+    {
+      "source": "asn-29104",
+      "target": "fac-636",
+      "type": "COLOCATED_PRESENCE"
+    },
+    {
+      "source": "asn-50624",
+      "target": "fac-636",
+      "type": "COLOCATED_PRESENCE"
+    },
+    {
+      "source": "asn-199483",
+      "target": "fac-636",
+      "type": "COLOCATED_PRESENCE"
+    },
+    {
+      "source": "asn-10122",
+      "target": "fac-636",
+      "type": "COLOCATED_PRESENCE"
+    },
+    {
+      "source": "asn-51326",
+      "target": "fac-636",
+      "type": "COLOCATED_PRESENCE"
+    },
+    {
+      "source": "asn-48305",
+      "target": "fac-636",
+      "type": "COLOCATED_PRESENCE"
+    },
+    {
+      "source": "asn-25540",
+      "target": "fac-636",
+      "type": "COLOCATED_PRESENCE"
+    },
+    {
+      "source": "asn-36864",
+      "target": "fac-636",
+      "type": "COLOCATED_PRESENCE"
+    },
+    {
+      "source": "asn-44097",
+      "target": "fac-636",
+      "type": "COLOCATED_PRESENCE"
+    },
+    {
+      "source": "asn-212579",
+      "target": "fac-636",
+      "type": "COLOCATED_PRESENCE"
+    },
+    {
+      "source": "asn-5405",
+      "target": "fac-636",
+      "type": "COLOCATED_PRESENCE"
+    },
+    {
+      "source": "asn-60132",
+      "target": "fac-636",
+      "type": "COLOCATED_PRESENCE"
+    },
+    {
+      "source": "asn-199116",
+      "target": "fac-636",
+      "type": "COLOCATED_PRESENCE"
+    },
+    {
+      "source": "asn-215596",
+      "target": "fac-636",
+      "type": "COLOCATED_PRESENCE"
+    },
+    {
+      "source": "asn-200653",
+      "target": "fac-636",
+      "type": "COLOCATED_PRESENCE"
+    }
+  ]
+}

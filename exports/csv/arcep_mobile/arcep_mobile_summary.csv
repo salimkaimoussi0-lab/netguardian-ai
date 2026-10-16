@@ -1,0 +1,14 @@
+﻿metric,value
+operator_site_records,9838
+aggregated_physical_sites,9838
+2g_sites,4326
+3g_sites,6485
+4g_sites,9830
+5g_sites,7810
+5g_3500mhz_sites,7007
+matched_with_anfr,3126
+multi_operator_sites,0
+operator_records_Bouygues Telecom,2669
+operator_records_SFR,2475
+operator_records_Free Mobile,2411
+operator_records_Orange,2283
