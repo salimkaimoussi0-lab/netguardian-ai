@@ -1,0 +1,15 @@
+﻿category,name,value
+global,nodes,40167
+global,edges,184854
+node_type,autonomous_system,27070
+node_type,facility,76
+node_type,internet_exchange,1
+node_type,mobile_operator_site,9838
+node_type,mobile_support,2560
+node_type,ripe_probe,306
+node_type,wifi_site,316
+relation,DECLARED_ON,3127
+relation,MEMBER_OF,454
+relation,OBSERVED_BGP_ADJACENCY,180950
+relation,ORIGIN_AS,314
+relation,PRESENT_AT,9
