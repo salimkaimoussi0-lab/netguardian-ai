@@ -5,3 +5,8 @@ __pycache__/
 *.pyc
 *.pyo
 *.backup-*
+.venv-cyber/
+frontend/map/.env.local
+telemetry/zeek/current/
+telemetry/zeek/archive/
+*.before-*
