@@ -10,3 +10,6 @@ frontend/map/.env.local
 telemetry/zeek/current/
 telemetry/zeek/archive/
 *.before-*
+
+.env.local
+frontend/map/.vercel/
