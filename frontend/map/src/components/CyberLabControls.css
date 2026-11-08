@@ -1,0 +1,325 @@
+.cyber-control-panel {
+  position: fixed;
+
+  right: 24px;
+  top: 92px;
+
+  width: 390px;
+
+  z-index: 9999;
+
+  color: #f4f8ff;
+
+  background:
+    rgba(8, 17, 32, 0.96);
+
+  border:
+    1px solid
+    rgba(89, 164, 255, 0.27);
+
+  border-radius: 16px;
+
+  box-shadow:
+    0 18px 55px
+    rgba(0, 0, 0, 0.34);
+
+  backdrop-filter:
+    blur(18px);
+
+  overflow: hidden;
+}
+
+
+.cyber-control-header {
+  display: flex;
+
+  align-items: center;
+  justify-content: space-between;
+
+  padding: 14px 16px;
+
+  border-bottom:
+    1px solid
+    rgba(255, 255, 255, 0.08);
+}
+
+
+.cyber-control-eyebrow {
+  margin-bottom: 3px;
+
+  color: #62b6ff;
+
+  font-size: 10px;
+  font-weight: 800;
+
+  letter-spacing: 0.18em;
+}
+
+
+.lab-state {
+  padding: 5px 9px;
+
+  border-radius: 999px;
+
+  font-size: 10px;
+  font-weight: 800;
+}
+
+
+.lab-state.online {
+  color: #5ef092;
+
+  background:
+    rgba(45, 210, 112, 0.12);
+}
+
+
+.lab-state.offline {
+  color: #ff7777;
+
+  background:
+    rgba(255, 70, 70, 0.12);
+}
+
+
+.lab-topology {
+  display: flex;
+
+  align-items: center;
+  justify-content: center;
+
+  gap: 10px;
+
+  padding: 15px 12px 9px;
+}
+
+
+.lab-host,
+.lab-switch {
+  display: flex;
+
+  flex-direction: column;
+
+  align-items: center;
+
+  min-width: 74px;
+
+  padding: 8px;
+
+  border:
+    1px solid
+    rgba(255, 255, 255, 0.08);
+
+  border-radius: 10px;
+
+  background:
+    rgba(255, 255, 255, 0.04);
+}
+
+
+.lab-host span,
+.lab-switch span {
+  font-size: 10px;
+
+  color: #a5b2c5;
+}
+
+
+.lab-host small {
+  margin-top: 2px;
+
+  font-size: 9px;
+
+  color: #77879e;
+}
+
+
+.lab-arrow {
+  color: #4c82bf;
+}
+
+
+.lab-test-host {
+  padding:
+    0 16px 12px;
+
+  text-align: center;
+
+  color: #93a5bd;
+
+  font-size: 10px;
+}
+
+
+.scenario-list {
+  padding:
+    5px 12px 12px;
+}
+
+
+.scenario-button {
+  width: 100%;
+
+  display: flex;
+
+  align-items: center;
+  justify-content: space-between;
+
+  gap: 12px;
+
+  margin-bottom: 7px;
+
+  padding:
+    10px 11px;
+
+  border:
+    1px solid
+    rgba(255, 255, 255, 0.07);
+
+  border-radius: 10px;
+
+  background:
+    rgba(255, 255, 255, 0.035);
+
+  color: #eff5ff;
+
+  text-align: left;
+
+  cursor: pointer;
+}
+
+
+.scenario-button:hover:not(:disabled) {
+  border-color:
+    rgba(98, 182, 255, 0.48);
+
+  background:
+    rgba(98, 182, 255, 0.08);
+}
+
+
+.scenario-button:disabled {
+  opacity: 0.48;
+
+  cursor: not-allowed;
+}
+
+
+.scenario-button div {
+  display: flex;
+
+  flex-direction: column;
+
+  gap: 2px;
+}
+
+
+.scenario-button strong {
+  font-size: 11px;
+}
+
+
+.scenario-button small {
+  font-size: 9px;
+
+  color: #8394ac;
+}
+
+
+.scenario-button > span {
+  white-space: nowrap;
+
+  color: #62b6ff;
+
+  font-size: 9px;
+  font-weight: 800;
+}
+
+
+.lab-running,
+.lab-last-run,
+.lab-error {
+  margin:
+    0 12px 12px;
+
+  padding:
+    8px 10px;
+
+  border-radius: 9px;
+
+  font-size: 10px;
+}
+
+
+.lab-running {
+  color: #70c5ff;
+
+  background:
+    rgba(40, 140, 220, 0.11);
+}
+
+
+.lab-last-run {
+  color: #8edba9;
+
+  background:
+    rgba(50, 180, 100, 0.09);
+}
+
+
+.lab-error {
+  color: #ff9292;
+
+  background:
+    rgba(220, 55, 55, 0.11);
+}
+
+.cyber-control-header-actions {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+
+.cyber-collapse-button {
+  width: 30px;
+  height: 30px;
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  padding: 0;
+
+  border:
+    1px solid
+    rgba(255, 255, 255, 0.10);
+
+  border-radius: 9px;
+
+  background:
+    rgba(255, 255, 255, 0.06);
+
+  color: #c9d8eb;
+
+  font-size: 18px;
+  font-weight: 500;
+
+  line-height: 1;
+
+  cursor: pointer;
+
+  transition:
+    background 0.15s ease,
+    border-color 0.15s ease,
+    color 0.15s ease;
+}
+
+.cyber-collapse-button:hover {
+  background:
+    rgba(98, 182, 255, 0.12);
+
+  border-color:
+    rgba(98, 182, 255, 0.40);
+
+  color: #62b6ff;
+}
